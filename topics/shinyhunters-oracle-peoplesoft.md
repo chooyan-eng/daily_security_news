@@ -12,4 +12,5 @@
 
 ## タイムライン
 
+- [2026-06-16 ShinyHunters、Canvas LMS（Instructure）を二度侵害：2億7500万件の学生・教職員データを要求](../articles/2026-06-16-shinyhunters-canvas-lms-breach.md)
 - [2026-06-16 ShinyHuntersがOracle PeopleSoftのゼロデイ（CVE-2026-35273）を悪用し大学等100社以上に侵入](../articles/2026-06-16-shinyhunters-oracle-peoplesoft-cve-2026-35273.md)

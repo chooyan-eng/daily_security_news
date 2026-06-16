@@ -4,14 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-06-16 | 1件 |
+| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-06-16 | 1件 |
+| [WordPress Awesome Motive CDNサプライチェーン攻撃（2026年6月）](./wordpress-awesome-motive-cdn-attack-2026.md) | 2026-06-16 | 1件 |
+| [Android CVE-2025-48595 特権昇格ゼロデイ（2026年6月）](./android-cve-2025-48595-zero-day.md) | 2026-06-16 | 1件 |
+| [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
+| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-06-16 | 2件 |
 | [Langflow RCE脆弱性（CVE-2026-5027）](./langflow-rce-cve-2026-5027.md) | 2026-06-16 | 1件 |
 | [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-16 | 1件 |
 | [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-16 | 1件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OnlyFans 3億4000万件データクレーム（2026年）](./onlyfans-340m-claim.md) | 2026-06-16 | 1件 |
-| [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 1件 |
+| [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
 
