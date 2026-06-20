@@ -11,6 +11,14 @@
 | [HTTP/2 Bomb CVE-2026-49975](./http2-bomb-cve-2026-49975.md) | 2026-06-19 | 1件 |
 | [NGINX 複数脆弱性（2026年6月）](./nginx-vulnerabilities-june-2026.md) | 2026-06-19 | 1件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-19 | 2件 |
+| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-18 | 2件 |
+| [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-18 | 1件 |
+| [Klue OAuth 侵害・Icarus による Salesforce データ窃取（2026年6月）](./klue-oauth-icarus-salesforce-2026.md) | 2026-06-18 | 1件 |
+| [F5 NGINX クリティカル脆弱性（CVE-2026-42530/42055）（2026年6月）](./f5-nginx-critical-2026.md) | 2026-06-18 | 1件 |
+| [Meta Instagram AI Supportチャットボット悪用による2万アカウント乗っ取り（2026年6月）](./meta-instagram-ai-support-hack-2026.md) | 2026-06-18 | 1件 |
+| [北朝鮮 APT37（ScarCruft）NarwhalRAT スピアフィッシングキャンペーン（2026年6月）](./scarcruft-apt37-narwhalrat-2026.md) | 2026-06-18 | 1件 |
+| [Hugging Face Transformers RCE 脆弱性（CVE-2026-4372）](./hugging-face-transformers-rce-2026.md) | 2026-06-18 | 1件 |
+| [Oracle Critical Security Patch Update 2026年6月](./oracle-cspu-june-2026.md) | 2026-06-18 | 1件 |
 | [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-17 | 1件 |
 | [Joomla JCE CVE-2026-48907 最大深刻度脆弱性（2026年6月）](./joomla-jce-cve-2026-48907.md) | 2026-06-17 | 1件 |
 | [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-17 | 1件 |
