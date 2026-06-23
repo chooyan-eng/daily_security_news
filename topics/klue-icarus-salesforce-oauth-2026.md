@@ -14,4 +14,5 @@
 
 ## タイムライン
 
+- [2026-06-23 Klue OAuth侵害 続報：Icarus の被害組織リストが拡大、複数のサイバーセキュリティ企業が被害確認](../articles/2026-06-23-klue-icarus-victim-list-grows.md)
 - [2026-06-19 Klue OAuth侵害を起点とする「Icarus」キャンペーン - Salesforce CRMデータが多数企業から窃取](../articles/2026-06-19-klue-icarus-salesforce-oauth-breach.md)

@@ -4,14 +4,20 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-19 | 1件 |
+| [ShapedPlugin WordPress サプライチェーン攻撃（CVE-2026-10735）](./shapedplugin-wordpress-supply-chain-2026.md) | 2026-06-23 | 1件 |
+| [Tata Electronics データ侵害（World Leaks ランサムウェア、2026年6月）](./tata-electronics-breach-world-leaks-2026.md) | 2026-06-23 | 1件 |
+| [Squidbleed（CVE-2026-47729）Squid プロキシ 認証情報漏洩](./squidbleed-cve-2026-47729.md) | 2026-06-23 | 1件 |
+| [libssh2 CVE-2026-55200 重大 RCE 脆弱性](./libssh2-cve-2026-55200-rce.md) | 2026-06-23 | 1件 |
+| [Dify AI プラットフォーム 脆弱性（CVE-2026-41947 他）](./dify-ai-vulnerabilities-2026.md) | 2026-06-23 | 1件 |
+| [AryStinger ボットネット（D-Link ルーター大規模感染、2026年6月）](./arystinger-router-botnet-2026.md) | 2026-06-23 | 1件 |
+| [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-23 | 2件 |
+| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-23 | 4件 |
+| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
 | [Splunk Enterprise CVE-2026-20253 未認証RCE](./splunk-cve-2026-20253-rce.md) | 2026-06-19 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-19 | 1件 |
 | [Apple Beats Studio Buds Bluetooth盗聴脆弱性（CVE-2025-20701）](./apple-beats-bluetooth-cve-2025-20701.md) | 2026-06-19 | 1件 |
 | [HTTP/2 Bomb CVE-2026-49975](./http2-bomb-cve-2026-49975.md) | 2026-06-19 | 1件 |
 | [NGINX 複数脆弱性（2026年6月）](./nginx-vulnerabilities-june-2026.md) | 2026-06-19 | 1件 |
-| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-19 | 2件 |
-| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-18 | 2件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-18 | 1件 |
 | [Klue OAuth 侵害・Icarus による Salesforce データ窃取（2026年6月）](./klue-oauth-icarus-salesforce-2026.md) | 2026-06-18 | 1件 |
 | [F5 NGINX クリティカル脆弱性（CVE-2026-42530/42055）（2026年6月）](./f5-nginx-critical-2026.md) | 2026-06-18 | 1件 |
@@ -19,7 +25,6 @@
 | [北朝鮮 APT37（ScarCruft）NarwhalRAT スピアフィッシングキャンペーン（2026年6月）](./scarcruft-apt37-narwhalrat-2026.md) | 2026-06-18 | 1件 |
 | [Hugging Face Transformers RCE 脆弱性（CVE-2026-4372）](./hugging-face-transformers-rce-2026.md) | 2026-06-18 | 1件 |
 | [Oracle Critical Security Patch Update 2026年6月](./oracle-cspu-june-2026.md) | 2026-06-18 | 1件 |
-| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-17 | 1件 |
 | [Joomla JCE CVE-2026-48907 最大深刻度脆弱性（2026年6月）](./joomla-jce-cve-2026-48907.md) | 2026-06-17 | 1件 |
 | [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-17 | 1件 |
 | [LiteSpeed cPanel プラグイン root 権限昇格脆弱性（2026年6月）](./litespeed-cpanel-plugin-2026.md) | 2026-06-17 | 1件 |
