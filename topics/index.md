@@ -4,15 +4,20 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-06-24 | 1件 |
+| [Cordyceps CI/CDワークフロー脆弱性パターン（2026年）](./cordyceps-cicd-vulnerability-2026.md) | 2026-06-24 | 1件 |
+| [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-06-24 | 1件 |
+| [Microsoft Exchange CVE-2026-42897 OWA XSS ゼロデイ（2026年6月）](./microsoft-exchange-cve-2026-42897.md) | 2026-06-24 | 1件 |
+| [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-06-24 | 1件 |
+| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-06-24 | 1件 |
+| [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-24 | 2件 |
+| [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-24 | 2件 |
 | [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-19 | 1件 |
 | [Splunk Enterprise CVE-2026-20253 未認証RCE](./splunk-cve-2026-20253-rce.md) | 2026-06-19 | 1件 |
-| [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-19 | 1件 |
 | [Apple Beats Studio Buds Bluetooth盗聴脆弱性（CVE-2025-20701）](./apple-beats-bluetooth-cve-2025-20701.md) | 2026-06-19 | 1件 |
 | [HTTP/2 Bomb CVE-2026-49975](./http2-bomb-cve-2026-49975.md) | 2026-06-19 | 1件 |
 | [NGINX 複数脆弱性（2026年6月）](./nginx-vulnerabilities-june-2026.md) | 2026-06-19 | 1件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-19 | 2件 |
-| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-18 | 2件 |
-| [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-18 | 1件 |
 | [Klue OAuth 侵害・Icarus による Salesforce データ窃取（2026年6月）](./klue-oauth-icarus-salesforce-2026.md) | 2026-06-18 | 1件 |
 | [F5 NGINX クリティカル脆弱性（CVE-2026-42530/42055）（2026年6月）](./f5-nginx-critical-2026.md) | 2026-06-18 | 1件 |
 | [Meta Instagram AI Supportチャットボット悪用による2万アカウント乗っ取り（2026年6月）](./meta-instagram-ai-support-hack-2026.md) | 2026-06-18 | 1件 |
