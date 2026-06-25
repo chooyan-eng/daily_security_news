@@ -4,9 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-20 | 4件 |
+| [Gravity SMTP WordPress CVE-2026-4020 大規模悪用（2026年6月）](./gravity-smtp-wordpress-cve-2026-4020.md) | 2026-06-21 | 1件 |
+| [Prinz Eugen ランサムウェア（2026年6月〜）](./prinz-eugen-ransomware-2026.md) | 2026-06-21 | 1件 |
+| [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-06-21 | 1件 |
+| [usbliter8 — Apple A12/A13 パッチ不可能 BootROM エクスプロイト（2026年）](./usbliter8-apple-bootrom-2026.md) | 2026-06-21 | 2件 |
+| [Ivanti Sentry 重大脆弱性（CVE-2026-10520 / CVE-2026-10523）](./ivanti-sentry-cve-2026-10520.md) | 2026-06-21 | 1件 |
+| [SAP NetWeaver クリティカル脆弱性（2026年6月）](./sap-netweaver-saml-critical-june-2026.md) | 2026-06-21 | 1件 |
+| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-21 | 5件 |
+| [Mastra npm サプライチェーン攻撃（2026年6月）](./mastra-npm-supply-chain-2026.md) | 2026-06-21 | 2件 |
 | [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-20 | 3件 |
-| [Apple A12/A13 SecureROM usbliter8 修正不可能なBootROMエクスプロイト（2026年6月）](./apple-a12-a13-securerom-usbliter8-2026.md) | 2026-06-20 | 1件 |
 | [CryptoBandits Windows クリプト・クリッパーキャンペーン（2026年）](./cryptobandits-windows-crypto-clipper-2026.md) | 2026-06-20 | 1件 |
 | [Google Vertex AI SDK バケット乗っ取り脆弱性（2026年）](./google-vertex-ai-sdk-pickle-2026.md) | 2026-06-20 | 1件 |
 | [Microsoft AutoJack AI エージェント RCE エクスプロイトチェーン（2026年）](./microsoft-autojack-ai-agent-rce-2026.md) | 2026-06-20 | 1件 |
@@ -20,7 +26,6 @@
 | [HTTP/2 Bomb CVE-2026-49975](./http2-bomb-cve-2026-49975.md) | 2026-06-19 | 1件 |
 | [NGINX 複数脆弱性（2026年6月）](./nginx-vulnerabilities-june-2026.md) | 2026-06-19 | 1件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-18 | 1件 |
-| [Klue OAuth 侵害・Icarus による Salesforce データ窃取（2026年6月）](./klue-oauth-icarus-salesforce-2026.md) | 2026-06-18 | 1件 |
 | [F5 NGINX クリティカル脆弱性（CVE-2026-42530/42055）（2026年6月）](./f5-nginx-critical-2026.md) | 2026-06-18 | 1件 |
 | [Meta Instagram AI Supportチャットボット悪用による2万アカウント乗っ取り（2026年6月）](./meta-instagram-ai-support-hack-2026.md) | 2026-06-18 | 1件 |
 | [北朝鮮 APT37（ScarCruft）NarwhalRAT スピアフィッシングキャンペーン（2026年6月）](./scarcruft-apt37-narwhalrat-2026.md) | 2026-06-18 | 1件 |
@@ -31,7 +36,6 @@
 | [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-17 | 1件 |
 | [LiteSpeed cPanel プラグイン root 権限昇格脆弱性（2026年6月）](./litespeed-cpanel-plugin-2026.md) | 2026-06-17 | 1件 |
 | [UNC6508 中国系APT 北米医療研究機関サイバースパイ（2026年6月）](./unc6508-china-medical-espionage.md) | 2026-06-17 | 1件 |
-| [Mastra npm サプライチェーン攻撃（2026年6月）](./mastra-npm-supply-chain-2026.md) | 2026-06-17 | 1件 |
 | [JetBrains Marketplace 悪意あるプラグインによる AI API キー窃取（2026年）](./jetbrains-plugin-ai-key-theft-2026.md) | 2026-06-17 | 1件 |
 | [Novo Nordisk FulcrumSec データ窃取・恐喝事件（2026年6月）](./novo-nordisk-fulcrumsec-2026.md) | 2026-06-17 | 1件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-06-17 | 2件 |
