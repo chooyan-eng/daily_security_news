@@ -4,12 +4,20 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ShapedPlugin WordPress サプライチェーン攻撃（CVE-2026-10735）](./shapedplugin-wordpress-supply-chain-2026.md) | 2026-06-23 | 1件 |
+| [Tata Electronics データ侵害（World Leaks ランサムウェア、2026年6月）](./tata-electronics-breach-world-leaks-2026.md) | 2026-06-23 | 1件 |
+| [Squidbleed（CVE-2026-47729）Squid プロキシ 認証情報漏洩](./squidbleed-cve-2026-47729.md) | 2026-06-23 | 1件 |
+| [libssh2 CVE-2026-55200 重大 RCE 脆弱性](./libssh2-cve-2026-55200-rce.md) | 2026-06-23 | 1件 |
+| [Dify AI プラットフォーム 脆弱性（CVE-2026-41947 他）](./dify-ai-vulnerabilities-2026.md) | 2026-06-23 | 1件 |
+| [AryStinger ボットネット（D-Link ルーター大規模感染、2026年6月）](./arystinger-router-botnet-2026.md) | 2026-06-23 | 1件 |
+| [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-23 | 2件 |
+| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-23 | 7件 |
+| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-06-22 | 1件 |
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-06-22 | 1件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-06-22 | 1件 |
 | [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
-| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-22 | 6件 |
 | [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
 | [Android CVE-2025-48595 特権昇格ゼロデイ（2026年6月）](./android-cve-2025-48595-zero-day.md) | 2026-06-22 | 2件 |
 | [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-22 | 3件 |
@@ -27,7 +35,6 @@
 | [SolarWinds Serv-U CVE-2026-28318 DoS 脆弱性（2026年）](./solarwinds-serv-u-cve-2026-28318.md) | 2026-06-20 | 1件 |
 | [Atomic Arch AUR サプライチェーン攻撃（2026年6月）](./atomic-arch-aur-supply-chain-2026.md) | 2026-06-20 | 1件 |
 | [Ubiquiti UniFi OS 最大深刻度脆弱性の悪用（2026年6月）](./ubiquiti-unifi-os-vulnerabilities-2026.md) | 2026-06-20 | 1件 |
-| [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-19 | 1件 |
 | [Splunk Enterprise CVE-2026-20253 未認証RCE](./splunk-cve-2026-20253-rce.md) | 2026-06-19 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-19 | 1件 |
 | [Apple Beats Studio Buds Bluetooth盗聴脆弱性（CVE-2025-20701）](./apple-beats-bluetooth-cve-2025-20701.md) | 2026-06-19 | 1件 |
@@ -39,7 +46,6 @@
 | [北朝鮮 APT37（ScarCruft）NarwhalRAT スピアフィッシングキャンペーン（2026年6月）](./scarcruft-apt37-narwhalrat-2026.md) | 2026-06-18 | 1件 |
 | [Hugging Face Transformers RCE 脆弱性（CVE-2026-4372）](./hugging-face-transformers-rce-2026.md) | 2026-06-18 | 1件 |
 | [Oracle Critical Security Patch Update 2026年6月](./oracle-cspu-june-2026.md) | 2026-06-18 | 1件 |
-| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-17 | 1件 |
 | [Joomla JCE CVE-2026-48907 最大深刻度脆弱性（2026年6月）](./joomla-jce-cve-2026-48907.md) | 2026-06-17 | 1件 |
 | [LiteSpeed cPanel プラグイン root 権限昇格脆弱性（2026年6月）](./litespeed-cpanel-plugin-2026.md) | 2026-06-17 | 1件 |
 | [UNC6508 中国系APT 北米医療研究機関サイバースパイ（2026年6月）](./unc6508-china-medical-espionage.md) | 2026-06-17 | 1件 |
