@@ -12,5 +12,6 @@
 
 ## タイムライン
 
+- [2026-06-20 Microsoft Exchange Server CVE-2026-42897 - OWA XSS ゼロデイが攻撃に積極悪用](../articles/2026-06-20-microsoft-exchange-cve-2026-42897-zero-day.md)
 - [2026-06-17 Windows Kernel CVE-2026-45657（CVSS 9.8）ワーム可能なRCEとして追加分析：未認証リモートからSYSTEM権限](../articles/2026-06-17-windows-kernel-cve-2026-45657-wormable-rce.md)
 - [2026-06-16 Microsoft Patch Tuesday 2026年6月：過去最多206件の脆弱性を修正、3つのゼロデイ含む](../articles/2026-06-16-microsoft-patch-tuesday-june-2026.md)
