@@ -17,3 +17,4 @@ Paradigm Shift が2026年6月18日に公開した Apple A12/A13/S4/S5 SoC 搭載
 ## タイムライン
 
 - [2026-06-21 usbliter8 — Apple A12/A13 チップのパッチ不可能な BootROM エクスプロイト公開](../articles/2026-06-21-usbliter8-apple-a12-a13-bootrom.md)
+- [2026-06-20 Apple A12/A13 SecureROM に「usbliter8」修正不可能なBootROMエクスプロイト公開](../articles/2026-06-20-apple-a12-a13-securerom-usbliter8.md)
