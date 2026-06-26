@@ -15,4 +15,5 @@
 
 ## タイムライン
 
+- [2026-06-26 Shai-Hulud ワーム：6月の新波で 100件超の npm・PyPI パッケージが再度侵害](../articles/2026-06-26-shai-hulud-teampcp-npm-pypi-june-2026.md)
 - [2026-06-22 TeamPCPによるサプライチェーン攻撃：Trivy・Bitwarden CLI・Checkmarxを2ヶ月間侵害](../articles/2026-06-22-teampcp-trivy-bitwarden-checkmarx.md)
