@@ -4,7 +4,12 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
+| [DirtyClone Linux Kernel LPE (CVE-2026-43503)](./dirtyclone-linux-kernel-cve-2026-43503.md) | 2026-06-26 | 1件 |
+| [PTC Windchill/FlexPLM CVE-2026-12569 RCE 積極的悪用（2026年6月）](./ptc-windchill-cve-2026-12569.md) | 2026-06-26 | 1件 |
+| [SIMスワッピング犯罪組織摘発（ポーランド・FBI、2026年6月）](./poland-sim-swap-arrest-2026.md) | 2026-06-26 | 1件 |
+| [ClickFix キャンペーン拡大（BabaDeda/Lorem Ipsum/Potemkin、2026年6月）](./clickfix-babadeda-lorem-ipsum-2026.md) | 2026-06-26 | 1件 |
+| [FIFA ワールドカップ 2026 便乗フィッシング・詐欺キャンペーン](./fifa-worldcup-2026-phishing.md) | 2026-06-26 | 1件 |
+| [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-26 | 2件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
 | [Texas Parks & Wildlife Department 第三者ベンダー侵害（2026年6月）](./texas-parks-wildlife-breach-2026.md) | 2026-06-25 | 1件 |
@@ -25,12 +30,12 @@
 | [libssh2 CVE-2026-55200 重大 RCE 脆弱性](./libssh2-cve-2026-55200-rce.md) | 2026-06-23 | 1件 |
 | [Dify AI プラットフォーム 脆弱性（CVE-2026-41947 他）](./dify-ai-vulnerabilities-2026.md) | 2026-06-23 | 1件 |
 | [AryStinger ボットネット（D-Link ルーター大規模感染、2026年6月）](./arystinger-router-botnet-2026.md) | 2026-06-23 | 1件 |
-| [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-23 | 2件 |
+| [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-26 | 3件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-23 | 7件 |
 | [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-06-22 | 1件 |
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
-| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-06-22 | 1件 |
+| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-06-26 | 2件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-06-22 | 1件 |
 | [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
 | [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
