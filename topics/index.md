@@ -4,9 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [SimpleHelp RMM CVE-2026-48558 認証バイパス脆弱性（2026年）](./simplehelp-rmm-cve-2026-48558.md) | 2026-07-02 | 1件 |
+| [Citrix NetScaler CitrixBleed系メモリ漏洩脆弱性 CVE-2026-8451（2026年）](./citrix-netscaler-cve-2026-8451-citrixbleed.md) | 2026-07-02 | 1件 |
+| [npm v12 サプライチェーン対策強化（2026年）](./npm-v12-supply-chain-hardening-2026.md) | 2026-07-02 | 1件 |
+| [Nidec Blackfieldランサムウェア侵害（2026年）](./nidec-blackfield-ransomware-2026.md) | 2026-07-02 | 1件 |
+| [サッポロホールディングス海外子会社不正アクセス（2026年）](./sapporo-holdings-overseas-breach-2026.md) | 2026-07-02 | 1件 |
+| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-02 | 2件 |
+| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-02 | 3件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
-| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
 | [Texas Parks & Wildlife Department 第三者ベンダー侵害（2026年6月）](./texas-parks-wildlife-breach-2026.md) | 2026-06-25 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-25 | 1件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
@@ -64,7 +70,6 @@
 | [UNC6508 中国系APT 北米医療研究機関サイバースパイ（2026年6月）](./unc6508-china-medical-espionage.md) | 2026-06-17 | 1件 |
 | [JetBrains Marketplace 悪意あるプラグインによる AI API キー窃取（2026年）](./jetbrains-plugin-ai-key-theft-2026.md) | 2026-06-17 | 1件 |
 | [Novo Nordisk FulcrumSec データ窃取・恐喝事件（2026年6月）](./novo-nordisk-fulcrumsec-2026.md) | 2026-06-17 | 1件 |
-| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-06-17 | 2件 |
 | [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-06-16 | 1件 |
 | [WordPress Awesome Motive CDNサプライチェーン攻撃（2026年6月）](./wordpress-awesome-motive-cdn-attack-2026.md) | 2026-06-16 | 1件 |
 | [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
