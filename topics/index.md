@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [AirDrop・Quick Share 近接ファイル共有プロトコル脆弱性（2026年）](./airdrop-quickshare-vulnerabilities-2026.md) | 2026-07-06 | 1件 |
+| [Gitea Docker版 認証バイパス脆弱性 CVE-2026-20896（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-06 | 1件 |
+| [Microsoft SharePoint Server CVE-2026-45659 デシリアライゼーションRCE（2026年）](./sharepoint-cve-2026-45659-deserialization-rce.md) | 2026-07-06 | 1件 |
+| [Oracle E-Business Suite CVE-2026-46817 未認証RCE（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-06 | 1件 |
+| [JadePuffer – AIエージェント駆動型ランサムウェア（2026年）](./jadepuffer-ai-agentic-ransomware-2026.md) | 2026-07-06 | 1件 |
+| [Adobe ColdFusion・Campaign Classic 最大深刻度脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-cve-2026.md) | 2026-07-06 | 1件 |
+| [SimpleHelp RMM 認証バイパス脆弱性 CVE-2026-48558（2026年）](./simplehelp-rmm-cve-2026-48558.md) | 2026-07-06 | 1件 |
+| [Operation DragonReturn – 中国系脅威アクターによるインド税務インフラ標的キャンペーン（2026年）](./operation-dragonreturn-china-india-2026.md) | 2026-07-06 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
