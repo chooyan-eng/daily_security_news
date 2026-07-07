@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Adobe ColdFusion CVE-2026-48282 パストラバーサルRCE（2026年7月）](./adobe-coldfusion-cve-2026-48282.md) | 2026-07-07 | 1件 |
+| [Citrix NetScaler CVE-2026-8451 SAMLメモリ漏洩「CitrixBleed」再来（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-07 | 1件 |
+| [SimpleHelp CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558.md) | 2026-07-07 | 1件 |
+| [SharePoint Server CVE-2026-45659 デシリアライゼーションRCE（2026年7月）](./sharepoint-cve-2026-45659.md) | 2026-07-07 | 1件 |
+| [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-07 | 1件 |
+| [AdaptHealth ソーシャルエンジニアリング侵害（2026年6月）](./adapthealth-breach-2026.md) | 2026-07-07 | 1件 |
+| [AI生成ブラウザ内完結型ランサムウェア（Chromium File System Access API悪用、2026年）](./ai-browser-ransomware-chromium-2026.md) | 2026-07-07 | 1件 |
+| [Azure CLI パスワードスプレーキャンペーン「LSHIY」（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-07 | 1件 |
+| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-07-07 | 8件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -26,7 +35,6 @@
 | [Dify AI プラットフォーム 脆弱性（CVE-2026-41947 他）](./dify-ai-vulnerabilities-2026.md) | 2026-06-23 | 1件 |
 | [AryStinger ボットネット（D-Link ルーター大規模感染、2026年6月）](./arystinger-router-botnet-2026.md) | 2026-06-23 | 1件 |
 | [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-23 | 2件 |
-| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-23 | 7件 |
 | [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-06-22 | 1件 |
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
