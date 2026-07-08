@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Accenture データ侵害・ソースコード窃取主張（2026年7月）](./accenture-breach-2026.md) | 2026-07-08 | 1件 |
+| [Adobe ColdFusion CVE-2026-48282 パストラバーサル積極的悪用（2026年7月）](./adobe-coldfusion-cve-2026-48282.md) | 2026-07-08 | 1件 |
+| [GitHub Agentic Workflows「GitLost」プロンプトインジェクション脆弱性（2026年7月）](./github-gitlost-prompt-injection-2026.md) | 2026-07-08 | 1件 |
+| [Citrix NetScaler CitrixBleed Echo（CVE-2026-8451）メモリ漏洩脆弱性（2026年）](./citrix-netscaler-cve-2026-8451-citrixbleed-echo.md) | 2026-07-08 | 1件 |
+| [Gitea Docker CVE-2026-20896 認証バイパス脆弱性（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-08 | 1件 |
+| [AI生成ブラウザ内蔵型ランサムウェア「InfernoGrabber」（Chromium File System Access API悪用）](./ai-browser-ransomware-chromium-api-2026.md) | 2026-07-08 | 1件 |
+| [JadePuffer AIエージェント主導型ランサムウェア（2026年）](./jadepuffer-ai-agentic-ransomware-2026.md) | 2026-07-08 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
