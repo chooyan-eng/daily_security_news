@@ -16,4 +16,5 @@ OAuth 2.0 デバイス認証フロー（Device Authorization Grant）を悪用�
 
 ## タイムライン
 
+- [2026-07-13 新PhaaS「Forg365」、デバイスコードフィッシングとAiTMでMicrosoft 365アカウントを標的に](../articles/2026-07-13-forg365-phaas-device-code-aitm.md)
 - [2026-06-21 デバイスコードフィッシング（AiTM）が2026年6月に37倍急増 — MFA を無効化するクリミナルコモディティ化](../articles/2026-06-21-device-code-phishing-aitm-37x-spike.md)
