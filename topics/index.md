@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Microsoft Patch Tuesday 2026年7月](./microsoft-patch-tuesday-july-2026.md) | 2026-07-14 | 1件 |
+| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-14 | 1件 |
+| [UEFIシムによるSecure Bootバイパス（CVE-2026-8863/CVE-2026-10797）](./uefi-secure-boot-bypass-shims-2026.md) | 2026-07-14 | 1件 |
+| [D1R グループによるSynopsys・Bosch侵害主張（2026年7月）](./d1r-synopsys-bosch-claim-2026.md) | 2026-07-14 | 1件 |
+| [ファブリカホールディングス メディア4u 不正アクセス（2026年7月）](./fabrica-holdings-media4u-breach-2026.md) | 2026-07-14 | 1件 |
+| [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-07-14 | 3件 |
+| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-07-14 | 2件 |
+| [ブラウザ拡張型暗号資産ウォレットのプライバシー漏洩問題（2026年）](./ku-leuven-crypto-wallet-privacy-2026.md) | 2026-07-14 | 1件 |
+| [Lidl オンラインショップ第三者ベンダー侵害（2026年7月）](./lidl-third-party-breach-2026.md) | 2026-07-13 | 1件 |
+| [ニチレイ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-13 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -17,7 +27,6 @@
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-06-24 | 1件 |
 | [Microsoft Exchange CVE-2026-42897 OWA XSS ゼロデイ（2026年6月）](./microsoft-exchange-cve-2026-42897.md) | 2026-06-24 | 1件 |
 | [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-06-24 | 1件 |
-| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-06-24 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-24 | 2件 |
 | [ShapedPlugin WordPress サプライチェーン攻撃（CVE-2026-10735）](./shapedplugin-wordpress-supply-chain-2026.md) | 2026-06-23 | 1件 |
 | [Tata Electronics データ侵害（World Leaks ランサムウェア、2026年6月）](./tata-electronics-breach-world-leaks-2026.md) | 2026-06-23 | 1件 |
@@ -72,7 +81,6 @@
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OnlyFans 3億4000万件データクレーム（2026年）](./onlyfans-340m-claim.md) | 2026-06-16 | 1件 |
-| [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
 
