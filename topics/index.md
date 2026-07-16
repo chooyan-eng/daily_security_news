@@ -4,9 +4,17 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Claude for Chrome ClaudeBleed脆弱性（2026年）](./claude-for-chrome-claudebleed-2026.md) | 2026-07-16 | 1件 |
+| [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-07-16 | 3件 |
+| [SonicWall SMA1000 ゼロデイ脆弱性連鎖悪用（2026年7月）](./sonicwall-sma1000-zero-day-2026.md) | 2026-07-16 | 1件 |
+| [Microsoft Patch Tuesday 2026年7月](./microsoft-patch-tuesday-july-2026.md) | 2026-07-16 | 1件 |
+| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-16 | 2件 |
+| [D1R ランサムウェアグループ・Synopsys/Bosch恐喝主張（2026年7月）](./d1r-ransomware-synopsys-bosch-2026.md) | 2026-07-16 | 1件 |
+| [Firefox・Chrome 複数重大脆弱性（2026年7月）](./firefox-chrome-critical-vulnerabilities-2026.md) | 2026-07-16 | 1件 |
+| [The Gentlemen（Storm-2697）ランサムウェアグループ・国内医薬品卸への攻撃（2026年）](./the-gentlemen-storm-2697-ransomware-2026.md) | 2026-07-16 | 1件 |
+| [Media Land / ML.Cloud バレットプルーフホスティング起訴（2026年7月）](./media-land-bulletproof-hosting-indictment-2026.md) | 2026-07-16 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
-| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
 | [Texas Parks & Wildlife Department 第三者ベンダー侵害（2026年6月）](./texas-parks-wildlife-breach-2026.md) | 2026-06-25 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-25 | 1件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
@@ -65,6 +73,11 @@
 | [JetBrains Marketplace 悪意あるプラグインによる AI API キー窃取（2026年）](./jetbrains-plugin-ai-key-theft-2026.md) | 2026-06-17 | 1件 |
 | [Novo Nordisk FulcrumSec データ窃取・恐喝事件（2026年6月）](./novo-nordisk-fulcrumsec-2026.md) | 2026-06-17 | 1件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-06-17 | 2件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-06-16 | 1件 |
 | [WordPress Awesome Motive CDNサプライチェーン攻撃（2026年6月）](./wordpress-awesome-motive-cdn-attack-2026.md) | 2026-06-16 | 1件 |
 | [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
@@ -72,11 +85,5 @@
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OnlyFans 3億4000万件データクレーム（2026年）](./onlyfans-340m-claim.md) | 2026-06-16 | 1件 |
-| [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
