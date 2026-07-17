@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Microsoft SharePoint／AD FS ゼロデイ悪用（CVE-2026-56164・CVE-2026-56155、2026年7月）](./microsoft-sharepoint-adfs-cve-2026-56164.md) | 2026-07-17 | 1件 |
+| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409・CVE-2026-15410）](./sonicwall-sma-cve-2026-15409.md) | 2026-07-17 | 1件 |
+| [Zimbra Classic Web Client 保存型XSS脆弱性（2026年7月）](./zimbra-classic-web-client-xss-2026.md) | 2026-07-17 | 1件 |
+| [Zoom Windowsクライアント CVE-2026-53412 アカウント乗っ取り脆弱性](./zoom-windows-cve-2026-53412.md) | 2026-07-17 | 1件 |
+| [Claude for Chrome拡張機能 ShadowPrompt脆弱性（2026年）](./claude-chrome-extension-shadowprompt-2026.md) | 2026-07-17 | 1件 |
+| [Ernst & Young（EY）ITサポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-17 | 1件 |
+| [コカ・コーラ Fairlife ランサムウェア攻撃（2026年7月）](./coca-cola-fairlife-ransomware-2026.md) | 2026-07-17 | 1件 |
+| [@asyncapi npmサプライチェーン攻撃（2026年7月）](./asyncapi-npm-supply-chain-2026.md) | 2026-07-17 | 1件 |
+| [miniOrange WordPress OAuth SSOプラグイン認証バイパス（CVE-2026-57807）](./miniorange-wordpress-oauth-sso-2026.md) | 2026-07-17 | 1件 |
+| [Mirax Androidバンキングトロイ（MaaS、2026年）](./mirax-android-banking-trojan-2026.md) | 2026-07-17 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -59,6 +69,11 @@
 | [北朝鮮 APT37（ScarCruft）NarwhalRAT スピアフィッシングキャンペーン（2026年6月）](./scarcruft-apt37-narwhalrat-2026.md) | 2026-06-18 | 1件 |
 | [Hugging Face Transformers RCE 脆弱性（CVE-2026-4372）](./hugging-face-transformers-rce-2026.md) | 2026-06-18 | 1件 |
 | [Oracle Critical Security Patch Update 2026年6月](./oracle-cspu-june-2026.md) | 2026-06-18 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Joomla JCE CVE-2026-48907 最大深刻度脆弱性（2026年6月）](./joomla-jce-cve-2026-48907.md) | 2026-06-17 | 1件 |
 | [LiteSpeed cPanel プラグイン root 権限昇格脆弱性（2026年6月）](./litespeed-cpanel-plugin-2026.md) | 2026-06-17 | 1件 |
 | [UNC6508 中国系APT 北米医療研究機関サイバースパイ（2026年6月）](./unc6508-china-medical-espionage.md) | 2026-06-17 | 1件 |
@@ -75,8 +90,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
