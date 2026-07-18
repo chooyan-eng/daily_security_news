@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [wp2shell WordPress コア 未認証RCE（CVE-2026-63030）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-18 | 1件 |
+| [ViteVenom npm サプライチェーン攻撃（2026年7月）](./vitevenom-npm-supply-chain-2026.md) | 2026-07-18 | 1件 |
+| [SharePoint CVE-2026-58644 未認証デシリアライゼーションRCE（2026年7月）](./sharepoint-cve-2026-58644-2026.md) | 2026-07-18 | 1件 |
+| [OpenSSL HollowByte DoS 脆弱性（2026年7月）](./openssl-hollowbyte-dos-2026.md) | 2026-07-18 | 1件 |
+| [Ernst & Young サポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-18 | 1件 |
+| [ニチレイグループ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-18 | 1件 |
+| [Windows LegacyHive 特権昇格ゼロデイ（2026年7月）](./windows-legacyhive-zero-day-2026.md) | 2026-07-18 | 1件 |
+| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-07-18 | 3件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -27,7 +35,6 @@
 | [AryStinger ボットネット（D-Link ルーター大規模感染、2026年6月）](./arystinger-router-botnet-2026.md) | 2026-06-23 | 1件 |
 | [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-23 | 2件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-23 | 7件 |
-| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-06-22 | 1件 |
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-06-22 | 1件 |
@@ -53,6 +60,11 @@
 | [Apple Beats Studio Buds Bluetooth盗聴脆弱性（CVE-2025-20701）](./apple-beats-bluetooth-cve-2025-20701.md) | 2026-06-19 | 1件 |
 | [HTTP/2 Bomb CVE-2026-49975](./http2-bomb-cve-2026-49975.md) | 2026-06-19 | 1件 |
 | [NGINX 複数脆弱性（2026年6月）](./nginx-vulnerabilities-june-2026.md) | 2026-06-19 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Klue OAuth 侵害・Icarus による Salesforce データ窃取（2026年6月）](./klue-oauth-icarus-salesforce-2026.md) | 2026-06-18 | 1件 |
 | [F5 NGINX クリティカル脆弱性（CVE-2026-42530/42055）（2026年6月）](./f5-nginx-critical-2026.md) | 2026-06-18 | 1件 |
 | [Meta Instagram AI Supportチャットボット悪用による2万アカウント乗っ取り（2026年6月）](./meta-instagram-ai-support-hack-2026.md) | 2026-06-18 | 1件 |
@@ -75,8 +87,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
