@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Craneware 医療機関向けソフトウェア企業 データ侵害（2026年7月）](./craneware-healthcare-data-breach-2026.md) | 2026-07-22 | 1件 |
+| [Uber Eats・Starbucks 利用者データ流出主張（インフォスティーラー由来、2026年7月）](./uber-eats-starbucks-stealer-log-leak-2026.md) | 2026-07-22 | 1件 |
+| [WordPress Core「WP2Shell」未認証RCE連鎖（CVE-2026-63030 / CVE-2026-60137）](./wordpress-wp2shell-cve-2026-63030.md) | 2026-07-22 | 1件 |
+| [SonicWall SMA1000 ゼロデイ連鎖悪用（CVE-2026-15409 / CVE-2026-15410）](./sonicwall-sma1000-zero-day-2026.md) | 2026-07-22 | 1件 |
+| [ServiceNow AI Platform サンドボックス脱出RCE（CVE-2026-6875）](./servicenow-ai-platform-cve-2026-6875.md) | 2026-07-22 | 1件 |
+| [OpenAI AIモデルによるHugging Face不正侵入インシデント（2026年7月）](./openai-huggingface-ai-model-incident-2026.md) | 2026-07-22 | 1件 |
+| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-07-22 | 1件 |
+| [ルーマニア不動産登記システム（ANCPI）データベース破壊攻撃（2026年7月）](./romania-land-registry-wipe-2026.md) | 2026-07-22 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -28,6 +36,11 @@
 | [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-23 | 2件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-23 | 7件 |
 | [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-06-22 | 1件 |
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-06-22 | 1件 |
@@ -75,8 +88,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
