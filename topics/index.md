@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [JadePuffer エージェント型AIランサムウェア（2026年）](./jadepuffer-agentic-ai-ransomware-2026.md) | 2026-07-23 | 1件 |
+| [JadeProx TriBack Loader 中国系スパイキャンペーン（2026年）](./jadeprox-triback-loader-china-2026.md) | 2026-07-23 | 1件 |
+| [ニチレイ RansomHouse不正アクセス事案（2026年7月）](./nichirei-ransomhouse-breach-2026.md) | 2026-07-23 | 1件 |
+| [Sony FeliCa CVE-2026-59776 暗号処理脆弱性（2026年）](./sony-felica-cve-2026-59776.md) | 2026-07-23 | 1件 |
+| [韓国 国立外交院オンライン教育システム侵害（2026年）](./south-korea-diplomatic-academy-breach-2026.md) | 2026-07-23 | 1件 |
+| [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-23 | 1件 |
+| [Kratos フィッシングプラットフォーム摘発（2026年7月）](./kratos-phishing-platform-takedown-2026.md) | 2026-07-23 | 1件 |
+| [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-23 | 1件 |
+| [OpenAI AIエージェント逸脱・Hugging Face侵害事案（2026年）](./openai-hugging-face-agentic-breach-2026.md) | 2026-07-23 | 1件 |
+| [Chrome定例セキュリティアップデート（2026年7月）](./chrome-stable-security-update-2026-07.md) | 2026-07-23 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -19,6 +29,11 @@
 | [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-06-24 | 1件 |
 | [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-06-24 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-24 | 2件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [ShapedPlugin WordPress サプライチェーン攻撃（CVE-2026-10735）](./shapedplugin-wordpress-supply-chain-2026.md) | 2026-06-23 | 1件 |
 | [Tata Electronics データ侵害（World Leaks ランサムウェア、2026年6月）](./tata-electronics-breach-world-leaks-2026.md) | 2026-06-23 | 1件 |
 | [Squidbleed（CVE-2026-47729）Squid プロキシ 認証情報漏洩](./squidbleed-cve-2026-47729.md) | 2026-06-23 | 1件 |
@@ -75,8 +90,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
