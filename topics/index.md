@@ -4,6 +4,20 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [wp2shell — WordPress コア脆弱性チェーン RCE（2026年7月）](./wp2shell-wordpress-rce-2026.md) | 2026-07-25 | 1件 |
+| [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-25 | 1件 |
+| [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-25 | 1件 |
+| [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 2件 |
+| [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
+| [Certighost — AD CS ドメインコントローラーなりすまし脆弱性（CVE-2026-54121）](./certighost-cve-2026-54121-adcs.md) | 2026-07-25 | 1件 |
+| [LAUNDRY BEAR — Zimbra ゼロクリックXSSゼロデイ悪用作戦（CVE-2025-66376）](./laundrybear-zimbra-zeroday-2026.md) | 2026-07-25 | 1件 |
+| [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 1件 |
+| [Chick-fil-A クレデンシャルスタッフィング侵害（2026年）](./chick-fil-a-credential-stuffing-2026.md) | 2026-07-25 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -37,7 +51,6 @@
 | [Android CVE-2025-48595 特権昇格ゼロデイ（2026年6月）](./android-cve-2025-48595-zero-day.md) | 2026-06-22 | 2件 |
 | [Gravity SMTP WordPress CVE-2026-4020 大規模悪用（2026年6月）](./gravity-smtp-wordpress-cve-2026-4020.md) | 2026-06-21 | 1件 |
 | [Prinz Eugen ランサムウェア（2026年6月〜）](./prinz-eugen-ransomware-2026.md) | 2026-06-21 | 1件 |
-| [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-06-21 | 1件 |
 | [usbliter8 — Apple A12/A13 パッチ不可能 BootROM エクスプロイト（2026年）](./usbliter8-apple-bootrom-2026.md) | 2026-06-21 | 2件 |
 | [Ivanti Sentry 重大脆弱性（CVE-2026-10520 / CVE-2026-10523）](./ivanti-sentry-cve-2026-10520.md) | 2026-06-21 | 1件 |
 | [SAP NetWeaver クリティカル脆弱性（2026年6月）](./sap-netweaver-saml-critical-june-2026.md) | 2026-06-21 | 1件 |
@@ -75,8 +88,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|

@@ -16,4 +16,5 @@ OAuth 2.0 デバイス認証フロー（Device Authorization Grant）を悪用�
 
 ## タイムライン
 
+- [2026-07-25 ホテルWi-FiのDNSハイジャックでMicrosoft 365アカウントを乗っ取るキャンペーンが拡大](../articles/2026-07-25-hotel-wifi-dns-device-code-m365.md)
 - [2026-06-21 デバイスコードフィッシング（AiTM）が2026年6月に37倍急増 — MFA を無効化するクリミナルコモディティ化](../articles/2026-06-21-device-code-phishing-aitm-37x-spike.md)
