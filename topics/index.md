@@ -4,6 +4,19 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 1件 |
+| [Arista VeloCloud Orchestrator CVE-2026-16812 コマンドインジェクション積極的悪用（2026年7月）](./arista-velocloud-cve-2026-16812.md) | 2026-07-28 | 1件 |
+| [OpenWrt CVE-2026-53921 DHCPv6スタックオーバーフロー（2026年7月）](./openwrt-cve-2026-53921-dhcpv6-rce.md) | 2026-07-28 | 1件 |
+| [MCBS 医療請求代行企業データ侵害（2026年）](./mcbs-medical-billing-breach-2026.md) | 2026-07-28 | 1件 |
+| [サーバーBMC/IPMI 認証情報漏えい問題（CVE-2013-4786）](./bmc-ipmi-password-hash-leak-2026.md) | 2026-07-28 | 1件 |
+| [n8n サンドボックスエスケープによるOSコマンド実行（2026年7月）](./n8n-sandbox-escape-rce-2026.md) | 2026-07-27 | 1件 |
+| [Stadler Rail サプライヤー経由データ侵害・Everest ランサムウェア（2026年7月）](./stadler-rail-supplier-breach-2026.md) | 2026-07-27 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
+| [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -42,7 +55,6 @@
 | [Ivanti Sentry 重大脆弱性（CVE-2026-10520 / CVE-2026-10523）](./ivanti-sentry-cve-2026-10520.md) | 2026-06-21 | 1件 |
 | [SAP NetWeaver クリティカル脆弱性（2026年6月）](./sap-netweaver-saml-critical-june-2026.md) | 2026-06-21 | 1件 |
 | [Mastra npm サプライチェーン攻撃（2026年6月）](./mastra-npm-supply-chain-2026.md) | 2026-06-21 | 2件 |
-| [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-20 | 3件 |
 | [CryptoBandits Windows クリプト・クリッパーキャンペーン（2026年）](./cryptobandits-windows-crypto-clipper-2026.md) | 2026-06-20 | 1件 |
 | [Google Vertex AI SDK バケット乗っ取り脆弱性（2026年）](./google-vertex-ai-sdk-pickle-2026.md) | 2026-06-20 | 1件 |
 | [Microsoft AutoJack AI エージェント RCE エクスプロイトチェーン（2026年）](./microsoft-autojack-ai-agent-rce-2026.md) | 2026-06-20 | 1件 |
@@ -67,7 +79,6 @@
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-06-17 | 2件 |
 | [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-06-16 | 1件 |
 | [WordPress Awesome Motive CDNサプライチェーン攻撃（2026年6月）](./wordpress-awesome-motive-cdn-attack-2026.md) | 2026-06-16 | 1件 |
-| [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
 | [Langflow RCE脆弱性（CVE-2026-5027）](./langflow-rce-cve-2026-5027.md) | 2026-06-16 | 1件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
@@ -75,8 +86,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
