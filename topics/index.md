@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [OpenAI「暴走」AIエージェントによるHugging Face等の侵害（2026年）](./openai-rogue-agent-hugging-face-2026.md) | 2026-07-29 | 1件 |
+| [Check Point SmartConsole 認証バイパス脆弱性（CVE-2026-16232）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-29 | 1件 |
+| [JetBrains TeamCity 未認証RCE脆弱性（CVE-2026-63077）](./teamcity-cve-2026-63077.md) | 2026-07-28 | 1件 |
+| [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-28 | 1件 |
+| [IPMI CVE-2013-4786 によるBMC認証ハッシュ露出（2026年7月調査）](./bmc-ipmi-cve-2013-4786-2026.md) | 2026-07-28 | 1件 |
+| [ナカバヤシ「REVEX」製品サイト不正アクセス（2026年7月）](./nakabayashi-revex-breach-2026.md) | 2026-07-28 | 1件 |
+| [北海道協同組合通信社 委託先クラウド不正アクセス（2026年7月）](./hokkaido-kyodo-tsushinsha-breach-2026.md) | 2026-07-28 | 1件 |
+| [Arista VeloCloud Orchestrator コマンドインジェクション（CVE-2026-16812）](./arista-velocloud-cve-2026-16812.md) | 2026-07-28 | 1件 |
+| [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-07-28 | 2件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -32,7 +41,6 @@
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-06-22 | 1件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-06-22 | 1件 |
-| [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
 | [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
 | [Android CVE-2025-48595 特権昇格ゼロデイ（2026年6月）](./android-cve-2025-48595-zero-day.md) | 2026-06-22 | 2件 |
 | [Gravity SMTP WordPress CVE-2026-4020 大規模悪用（2026年6月）](./gravity-smtp-wordpress-cve-2026-4020.md) | 2026-06-21 | 1件 |
