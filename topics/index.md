@@ -4,6 +4,19 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Ruby on Rails Active Storage CVE-2026-66066 任意ファイル読み取り・RCE脆弱性](./rails-active-storage-cve-2026-66066.md) | 2026-07-30 | 1件 |
+| [vBulletin CVE-2026-61511 未認証RCE脆弱性](./vbulletin-rce-cve-2026-61511.md) | 2026-07-30 | 1件 |
+| [Node.js 2026年7月セキュリティリリース](./nodejs-security-release-july-2026.md) | 2026-07-30 | 1件 |
+| [Click To Pray IDOR脆弱性による個人情報露出（2026年）](./vatican-click-to-pray-idor-2026.md) | 2026-07-30 | 1件 |
+| [Check Point SmartConsole CVE-2026-16232 認証バイパス](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-30 | 1件 |
+| [VMware vCenter CVE-2026-59309 認証バイパス脆弱性](./vmware-vcenter-cve-2026-59309.md) | 2026-07-30 | 1件 |
+| [OpenAI評価用AIエージェントによるHugging Face侵害（2026年）](./openai-agent-huggingface-breach-2026.md) | 2026-07-30 | 1件 |
+| [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-07-30 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -75,8 +88,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
