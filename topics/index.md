@@ -4,6 +4,20 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Cisco Secure FMC CVE-2026-20316 静的認証情報ゼロデイ（2026年）](./cisco-fmc-cve-2026-20316-zero-day.md) | 2026-08-01 | 1件 |
+| [CosmosEscape — Azure Cosmos DB 脆弱性チェーン（2026年）](./cosmosescape-azure-cosmosdb-2026.md) | 2026-08-01 | 1件 |
+| [Ruby on Rails KindaRails2Shell CVE-2026-66066（2026年）](./rails-kindarails2shell-cve-2026-66066.md) | 2026-08-01 | 1件 |
+| [Adobe Campaign Classic 重大脆弱性群（2026年）](./adobe-campaign-classic-critical-vulns-2026.md) | 2026-08-01 | 1件 |
+| [OpenAI ExploitGym・JFrog Artifactoryゼロデイ・Hugging Face到達事案（2026年）](./openai-jfrog-artifactory-huggingface-2026.md) | 2026-08-01 | 1件 |
+| [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-08-01 | 1件 |
+| [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
+| [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
+| [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -75,8 +89,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
