@@ -4,6 +4,21 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Ruby on Rails Active Storage CVE-2026-66066 RCE（2026年）](./rails-active-storage-cve-2026-66066-rce.md) | 2026-08-02 | 1件 |
+| [Adform 広告スクリプト サプライチェーン攻撃・暗号資産ウォレットすり替え（2026年）](./adform-crypto-wallet-swap-supply-chain-2026.md) | 2026-08-01 | 1件 |
+| [Anthropic Claude AIエージェントによる実インフラ侵害インシデント（2026年）](./anthropic-claude-ai-agent-real-world-hacks-2026.md) | 2026-07-31 | 1件 |
+| [OpenAI エージェント Hugging Face 侵害・Artifactory ゼロデイ（2026年）](./openai-agent-hugging-face-breach-2026.md) | 2026-07-31 | 1件 |
+| [Gitea Docker 認証バイパス脆弱性 CVE-2026-20896（2026年）](./gitea-cve-2026-20896-auth-bypass-2026.md) | 2026-07-31 | 1件 |
+| [タカラトミー デュエル・マスターズ サポートアプリ 認証脆弱性（2026年）](./takara-tomy-duelmasters-app-vulnerability-2026.md) | 2026-07-31 | 1件 |
+| [CosmosEscape：Azure Cosmos DB プラットフォーム全体キー露出脆弱性（2026年）](./cosmosescape-azure-cosmos-db-2026.md) | 2026-07-30 | 1件 |
+| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-07-29 | 1件 |
+| [WordPress「Advanced Responsive Video Embedder」バックドア混入 CVE-2026-18072（2026年）](./wordpress-video-embedder-backdoor-cve-2026-18072.md) | 2026-07-28 | 1件 |
+| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年）](./jetbrains-teamcity-cve-2026-63077-rce.md) | 2026-07-27 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -75,8 +90,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
