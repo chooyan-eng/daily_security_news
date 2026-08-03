@@ -4,6 +4,19 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [N-able N-central 認証バイパス脆弱性（CVE-2026-18556/CVE-2026-18577）](./n-able-n-central-cve-2026-18577.md) | 2026-08-03 | 1件 |
+| [Ruby on Rails Active Storage CVE-2026-66066「KindaRails2Shell」](./rails-active-storage-cve-2026-66066.md) | 2026-08-03 | 1件 |
+| [Eストアー「ショップサーブ」不正アクセス事件（2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-03 | 1件 |
+| [Adform 広告スクリプト サプライチェーン攻撃（2026年）](./adform-adtech-supply-chain-2026.md) | 2026-08-03 | 1件 |
+| [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-data-breach-2026.md) | 2026-08-03 | 1件 |
+| [VMware vCenter Server 重大脆弱性（CVE-2026-59309/59310）](./vmware-vcenter-cve-2026-59309.md) | 2026-08-03 | 1件 |
+| [DeepSeekベース自律型AIサイバー攻撃（2026年）](./deepseek-autonomous-cyberattack-2026.md) | 2026-08-03 | 1件 |
+| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年）](./jetbrains-teamcity-cve-2026-63077.md) | 2026-08-03 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -75,8 +88,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
