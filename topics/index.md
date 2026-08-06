@@ -4,6 +4,21 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [N-able N-central 認証バイパス脆弱性 悪用キャンペーン（2026年8月）](./n-able-n-central-cve-2026-18577-auth-bypass.md) | 2026-08-06 | 1件 |
+| [AI自律型ハッキングキャンペーン「Hermes Agent」（2026年8月）](./ai-agent-hacking-campaign-langflow-tomcat-2026.md) | 2026-08-06 | 1件 |
+| [Pass-ta-key攻撃 Google同期パスキー ハイジャック（2026年8月）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-06 | 1件 |
+| [TP-Link Omada ZTP 脆弱性群（2026年8月）](./tp-link-omada-ztp-vulnerabilities-2026.md) | 2026-08-06 | 1件 |
+| [Sakura Mobile 不正アクセス事案（2026年）](./sakura-mobile-unauthorized-access-2026.md) | 2026-08-06 | 1件 |
+| [npm keyv/cacheable サプライチェーン攻撃「Mini Shai-Hulud」（2026年8月）](./npm-keyv-cacheable-mini-shai-hulud-2026.md) | 2026-08-06 | 1件 |
+| [Samsung Members/Account エクスプロイトチェーン（Bixby悪用）](./samsung-members-account-bixby-exploit-chain-2026.md) | 2026-08-06 | 1件 |
+| [DentaQuest データ漏洩事件（ShinyHunters、2026年）](./dentaquest-data-breach-2026.md) | 2026-08-06 | 1件 |
+| [リヒテンシュタイン実質的所有者登録簿 不正アクセス事案（2026年）](./liechtenstein-beneficial-owner-register-breach-2026.md) | 2026-08-06 | 1件 |
+| [ジョンズ・ホプキンス大学 myJH偽装フィッシングキャンペーン（2026年8月）](./johns-hopkins-myjh-phishing-2026.md) | 2026-08-06 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -75,8 +90,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
