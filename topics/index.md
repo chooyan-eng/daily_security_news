@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [CSS属性セレクタ悪用によるWebメール攻撃チェーン（2026年）](./css-attacks-webmail-2026.md) | 2026-08-09 | 1件 |
+| [Atlassian Rovo プロンプトインジェクション・データ持ち出し脆弱性（2026年）](./atlassian-rovo-prompt-injection-2026.md) | 2026-08-09 | 1件 |
+| [WordPress XSS2Shell CVE-2026-64638（2026年8月）](./wordpress-xss2shell-cve-2026-64638.md) | 2026-08-09 | 1件 |
+| [Metabase 未認証SQLインジェクション ゼロデイ（2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-09 | 1件 |
+| [keyv/cacheable npmサプライチェーン攻撃「CHAINDROP」（2026年8月）](./keyv-cacheable-npm-chaindrop-2026.md) | 2026-08-09 | 1件 |
+| [Bonita BPM / Apache OFBiz 未認証RCE「BadBonita」（2026年8月）](./bonita-ofbiz-badbonita-cve-2026-31986.md) | 2026-08-09 | 1件 |
+| [Cisco Integrated Management Controller CVE-2026-20200（2026年8月）](./cisco-imc-cve-2026-20200.md) | 2026-08-09 | 1件 |
+| [EPARKリラク&エステ PeakManager 不正アクセス（2026年8月）](./epark-peakmanager-breach-2026.md) | 2026-08-09 | 1件 |
+| [ショップサーブ（Eストアー）不正アクセス（2026年8月）](./shopserve-estore-breach-2026.md) | 2026-08-09 | 1件 |
+| [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-08-09 | 5件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -11,7 +21,6 @@
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-25 | 1件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
 | [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-25 | 4件 |
-| [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-25 | 4件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-06-24 | 1件 |
 | [Cordyceps CI/CDワークフロー脆弱性パターン（2026年）](./cordyceps-cicd-vulnerability-2026.md) | 2026-06-24 | 1件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-06-24 | 1件 |
