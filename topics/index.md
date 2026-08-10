@@ -4,6 +4,21 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [CEVA Logistics サプライチェーン侵害の連鎖（2026年8月）](./ceva-logistics-supply-chain-breach-2026.md) | 2026-08-10 | 1件 |
+| [LexisNexis サービス停止インシデント（2026年8月）](./lexisnexis-service-shutdown-2026.md) | 2026-08-10 | 1件 |
+| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-10 | 1件 |
+| [Progress Kemp LoadMaster CVE-2026-8037 積極的悪用（2026年8月）](./progress-kemp-loadmaster-cve-2026-8037.md) | 2026-08-10 | 1件 |
+| [CSS Webメール攻撃「CSS: The Bomb Inside Your Inbox」（2026年）](./css-webmail-attacks-2026.md) | 2026-08-10 | 1件 |
+| [Ryde 電動スクーターアプリ データ侵害（2026年8月）](./ryde-scooter-data-breach-2026.md) | 2026-08-10 | 1件 |
+| [N-able N-central 認証バイパス脆弱性 CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-10 | 1件 |
+| [ChainDrop npmサプライチェーンワーム攻撃（2026年8月）](./chaindrop-npm-supply-chain-2026.md) | 2026-08-10 | 1件 |
+| [Google Password Manager パスキー乗っ取り「Pass-ta-key」攻撃（2026年）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-10 | 1件 |
+| [FIS Global Clopランサムウェア侵害（2026年8月）](./fis-global-clop-ransomware-2026.md) | 2026-08-10 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -42,7 +57,6 @@
 | [Ivanti Sentry 重大脆弱性（CVE-2026-10520 / CVE-2026-10523）](./ivanti-sentry-cve-2026-10520.md) | 2026-06-21 | 1件 |
 | [SAP NetWeaver クリティカル脆弱性（2026年6月）](./sap-netweaver-saml-critical-june-2026.md) | 2026-06-21 | 1件 |
 | [Mastra npm サプライチェーン攻撃（2026年6月）](./mastra-npm-supply-chain-2026.md) | 2026-06-21 | 2件 |
-| [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-20 | 3件 |
 | [CryptoBandits Windows クリプト・クリッパーキャンペーン（2026年）](./cryptobandits-windows-crypto-clipper-2026.md) | 2026-06-20 | 1件 |
 | [Google Vertex AI SDK バケット乗っ取り脆弱性（2026年）](./google-vertex-ai-sdk-pickle-2026.md) | 2026-06-20 | 1件 |
 | [Microsoft AutoJack AI エージェント RCE エクスプロイトチェーン（2026年）](./microsoft-autojack-ai-agent-rce-2026.md) | 2026-06-20 | 1件 |
@@ -75,8 +89,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
