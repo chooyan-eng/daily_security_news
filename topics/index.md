@@ -4,6 +4,21 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-13 | 2件 |
+| [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-08-13 | 1件 |
+| [Adobe Commerce / Magento CVE-2026-71362 アカウント乗っ取り脆弱性の積極的悪用（2026年8月）](./adobe-commerce-cve-2026-71362.md) | 2026-08-13 | 1件 |
+| [VMware vCenter CVE-2026-59310 積極的悪用：47カ国でリバースSSH永続化（2026年8月）](./vmware-vcenter-cve-2026-59310.md) | 2026-08-13 | 1件 |
+| [中国系脅威アクターによる「準自律型」AIエージェント攻撃：台湾政府機関を標的（2026年7-8月）](./china-ai-agent-taiwan-attack-2026.md) | 2026-08-13 | 1件 |
+| [Microsoft Patch Tuesday 2026年8月](./microsoft-patch-tuesday-august-2026.md) | 2026-08-13 | 1件 |
+| [Cisco Secure Firewall ASA/FTD CVE-2026-20349 積極的悪用（2026年8月）](./cisco-asa-ftd-cve-2026-20349.md) | 2026-08-13 | 1件 |
+| [SpyNote×WindRelay：Android NFCリレー詐欺による銀行アプリ不正利用（2026年8月）](./android-spynote-windrelay-nfc-2026.md) | 2026-08-13 | 1件 |
+| [Clopランサムウェアグループ、Philipsを新たな被害者として掲載（2026年8月）](./clop-ransomware-philips-2026.md) | 2026-08-13 | 1件 |
+| [北朝鮮リモートIT労働者による組織潜入問題（2026年）](./north-korea-it-worker-infiltration-2026.md) | 2026-08-13 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -30,7 +45,6 @@
 | [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-06-22 | 1件 |
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
-| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-06-22 | 1件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-06-22 | 1件 |
 | [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
 | [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
@@ -75,8 +89,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
