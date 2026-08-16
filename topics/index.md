@@ -4,6 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ShinyHunters ランサムウェア恐喝キャンペーン（2026年8月）](./shinyhunters-ransomware-extortion-2026.md) | 2026-08-16 | 2件 |
+| [SAP Commerce Cloud CVE-2026-58231 重大脆弱性（2026年8月）](./sap-commerce-cloud-cve-2026-58231.md) | 2026-08-16 | 1件 |
+| [ヨネックス公式オンラインショップ 不正ログイン（2026年8月）](./yonex-ec-credential-stuffing-2026.md) | 2026-08-16 | 1件 |
+| [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-16 | 1件 |
+| [BdThemes WordPressプラグイン サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-16 | 1件 |
+| [Androidバンキングマルウェアによるリアルタイム不正利用（2026年）](./android-banking-malware-realtime-fraud-2026.md) | 2026-08-16 | 1件 |
+| [セゾンカードを騙るフィッシングメールキャンペーン（2026年）](./saison-card-3dsecure-phishing-2026.md) | 2026-08-16 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -75,8 +87,3 @@
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [Chat & Ask AI モバイルアプリデータ漏洩](./chat-ask-ai-breach.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
