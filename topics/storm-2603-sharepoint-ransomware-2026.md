@@ -17,4 +17,5 @@
 
 ## タイムライン
 
+- [2026-08-17 AI支援研究でSharePointの未認証RCEに繋がる新たな脆弱性チェーンが判明（CVE-2026-55040/CVE-2026-63520、Storm-2603とは別チェーン）](../articles/2026-08-17-sharepoint-ai-assisted-exploit-chain.md)
 - [2026-06-25 Storm-2603 が未修正 SharePoint サーバーを悪用：ランサムウェアとカスタムバックドア「Project AK47」を展開](../articles/2026-06-25-storm-2603-sharepoint-backdoor-ransomware.md)

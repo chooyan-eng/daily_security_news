@@ -4,9 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [GeoServer 未認証SQLインジェクション ゼロデイ（2026年8月）](./geoserver-sqli-zero-day-2026.md) | 2026-08-17 | 1件 |
+| [Metabase CVE-2026-72898 SQLインジェクション脆弱性（2026年8月）](./metabase-cve-2026-72898-sqli.md) | 2026-08-17 | 1件 |
+| [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
+| [Apple 傭兵スパイウェア標的通知プログラム（2026年）](./apple-mercenary-spyware-warning-2026.md) | 2026-08-17 | 1件 |
+| [WindRelay Android NFCリレー詐欺マルウェア（2026年）](./windrelay-android-nfc-malware-2026.md) | 2026-08-17 | 1件 |
+| [悪意あるChrome拡張機能によるAIチャット窃取キャンペーン（2026年）](./chrome-extension-ai-sidebar-data-theft-2026.md) | 2026-08-17 | 1件 |
+| [RIZAP「APORITOオンラインストア」不正アクセス事案（2026年8月）](./rizap-aporito-ec-breach-2026.md) | 2026-08-17 | 1件 |
+| [Azure Logic Apps CVE-2026-56161 情報漏洩脆弱性（2026年8月）](./azure-logic-apps-cve-2026-56161.md) | 2026-08-17 | 1件 |
+| [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
+| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 2件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
-| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
 | [Texas Parks & Wildlife Department 第三者ベンダー侵害（2026年6月）](./texas-parks-wildlife-breach-2026.md) | 2026-06-25 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-25 | 1件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
