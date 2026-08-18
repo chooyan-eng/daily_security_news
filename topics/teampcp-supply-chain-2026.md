@@ -12,7 +12,10 @@
 - 窃取対象: GitHub/npmトークン・SSH鍵・.envファイル・クラウドシークレット・CI/CDシークレット
 - 二次被害: OpenAI・Vercel等の大手企業への侵害
 - Checkmarx: LAPSUS$ポータルに96GBの非公開データが公開（2026年4月28日）
+- LiteLLM侵害パッケージ: v1.82.7 / v1.82.8（PyPI、2026年3月頃公開）
+- LiteLLM経由の被害範囲（2026年8月判明）: 侵害リポジトリ2,038件、影響組織2,500社超、CI/CDパイプライン43.4万件超
 
 ## タイムライン
 
+- [2026-08-18 TeamPCPサプライチェーン攻撃の全容判明 ― LiteLLM経由で2,500社超・43.4万件のCI/CDパイプラインに影響](../articles/2026-08-18-litellm-supply-chain-teampcp-followup.md)
 - [2026-06-22 TeamPCPによるサプライチェーン攻撃：Trivy・Bitwarden CLI・Checkmarxを2ヶ月間侵害](../articles/2026-06-22-teampcp-trivy-bitwarden-checkmarx.md)

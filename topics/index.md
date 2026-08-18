@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [GitLab GraphQL コードインジェクション脆弱性（CVE-2026-19478）](./gitlab-graphql-cve-2026-19478.md) | 2026-08-18 | 1件 |
+| [Ray フレームワーク CVE-2025-62593 悪用（2026年）](./ray-cve-2025-62593-browser-rce.md) | 2026-08-18 | 1件 |
+| [SafePal 注文追跡システム データ侵害（2026年）](./safepal-data-breach-2026.md) | 2026-08-18 | 1件 |
+| [フランス税務当局 DGFiP データ侵害（2026年）](./france-dgfip-tax-breach-2026.md) | 2026-08-18 | 1件 |
+| [Octagon Android バンキング／クリプトボット（2026年）](./octagon-android-banking-trojan-2026.md) | 2026-08-18 | 1件 |
+| [Intraverse Firebase 設定不備による情報漏洩（2026年）](./intraverse-firebase-exposure-2026.md) | 2026-08-18 | 1件 |
+| [TheHatman による Azure/Entra ID 認証情報侵害キャンペーン（2026年）](./azure-entra-credential-theft-thehatman-2026.md) | 2026-08-18 | 1件 |
+| [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-18 | 1件 |
+| [C2Looper GitHub悪用バックドア（2026年）](./c2looper-github-c2-backdoor-2026.md) | 2026-08-18 | 1件 |
+| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-08-18 | 2件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
@@ -30,7 +40,6 @@
 | [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-06-22 | 1件 |
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
-| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）](./teampcp-supply-chain-2026.md) | 2026-06-22 | 1件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-06-22 | 1件 |
 | [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
 | [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
