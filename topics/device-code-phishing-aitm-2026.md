@@ -17,6 +17,7 @@ OAuth 2.0 デバイス認証フロー（Device Authorization Grant）を悪用�
 
 ## タイムライン
 
+- [2026-07-25 ホテルWi-FiのDNSハイジャックでMicrosoft 365アカウントを乗っ取るキャンペーンが拡大](../articles/2026-07-25-hotel-wifi-dns-device-code-m365.md)
 - [2026-07-13 新PhaaS「Forg365」、デバイスコードフィッシングとAiTMでMicrosoft 365アカウントを標的に](../articles/2026-07-13-forg365-phaas-device-code-aitm.md)
 - [2026-07-09 「EvilTokens」：ブラウザ内復号で正体を隠す新型「ゴーストフィッシング」がMicrosoft 365を標的に](../articles/2026-07-09-eviltokens-ghost-phishing-device-code.md)
 - [2026-06-29 デバイスコードフィッシング 完全なコモディティ化 — 18キット・37倍スパイク・全主要AiTMベンダーが採用](../articles/2026-06-29-device-code-phishing-criminal-commodity.md)
