@@ -4,17 +4,22 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Citrix NetScaler ADC/Gateway 複数脆弱性（CVE-2026-8451 他、2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-02 | 2件 |
+| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-01 | 2件 |
+| [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-07-01 | 2件 |
+| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-01 | 3件 |
+| [サッポロホールディングス海外子会社不正アクセス（2026年）](./sapporo-holdings-overseas-breach-2026.md) | 2026-07-01 | 1件 |
 | [Phantom Squatting：AI幻覚ドメイン悪用の新種脅威（2026年）](./phantom-squatting-ai-domains-2026.md) | 2026-07-01 | 1件 |
 | [Oracle E-Business Suite CVE-2026-46817 恐喝キャンペーン（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-01 | 2件 |
+| [npm v12 サプライチェーン対策強化（2026年）](./npm-v12-supply-chain-hardening-2026.md) | 2026-07-01 | 1件 |
+| [Nidec Blackfieldランサムウェア侵害（2026年）](./nidec-blackfield-ransomware-2026.md) | 2026-07-01 | 1件 |
 | [樋口商会 ランサムウェア攻撃（Stormous、2026年6月）](./higuchi-shokai-stormous-ransomware-2026.md) | 2026-07-01 | 1件 |
 | [DHS HSIN 情報共有基盤への侵入（2026年）](./dhs-hsin-breach-2026.md) | 2026-07-01 | 1件 |
 | [Cursor AIコードエディタ サンドボックス脱出脆弱性「DuneSlide」（2026年）](./cursor-ai-duneslide-2026.md) | 2026-07-01 | 1件 |
-| [Citrix NetScaler ADC/Gateway 複数脆弱性（CVE-2026-8451 他、2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-01 | 1件 |
 | [ブラウザ完結型ランサムウェア（File System Access API悪用、2026年）](./browser-native-ransomware-fsapi-2026.md) | 2026-07-01 | 1件 |
 | [Azure CLI パスワードスプレー攻撃「LSHIY」キャンペーン（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-01 | 1件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-07-01 | 2件 |
 | [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-01 | 1件 |
-| [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-06-30 | 1件 |
 | [Silent Swap 暗号資産クリッパー拡張機能キャンペーン（2026年）](./silent-swap-crypto-clipper-2026.md) | 2026-06-30 | 1件 |
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |
@@ -44,7 +49,6 @@
 | [FIFA ワールドカップ 2026 便乗フィッシング・詐欺キャンペーン](./fifa-worldcup-2026-phishing.md) | 2026-06-26 | 1件 |
 | [ClickFix キャンペーン拡大（BabaDeda/Lorem Ipsum/Potemkin、2026年6月）](./clickfix-babadeda-lorem-ipsum-2026.md) | 2026-06-26 | 1件 |
 | [Amazon Q Developer CVE-2026-12957 MCP 自動実行脆弱性（2026年）](./amazon-q-developer-cve-2026-12957.md) | 2026-06-26 | 1件 |
-| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-25 | 4件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
@@ -95,7 +99,6 @@
 | [Joomla JCE CVE-2026-48907 最大深刻度脆弱性（2026年6月）](./joomla-jce-cve-2026-48907.md) | 2026-06-17 | 1件 |
 | [JetBrains Marketplace 悪意あるプラグインによる AI API キー窃取（2026年）](./jetbrains-plugin-ai-key-theft-2026.md) | 2026-06-17 | 1件 |
 | [WordPress Awesome Motive CDNサプライチェーン攻撃（2026年6月）](./wordpress-awesome-motive-cdn-attack-2026.md) | 2026-06-16 | 1件 |
-| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-06-16 | 2件 |
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-06-16 | 2件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
