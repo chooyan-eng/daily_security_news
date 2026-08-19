@@ -6,7 +6,7 @@
 |----------|----------|--------|
 | [Windows AFD.sys ゼロデイ CVE-2026-68820・Lazarus悪用（2026年8月）](./windows-afd-sys-cve-2026-68820-lazarus.md) | 2026-08-12 | 1件 |
 | [Microsoft SharePoint CVE-2026-63520 RCE 脆弱性チェーン（2026年8月）](./sharepoint-cve-2026-63520-rce.md) | 2026-08-12 | 1件 |
-| [Samsung プリインストールアプリ 176件の脆弱性（Oversecured、2026年）](./samsung-176-vulnerabilities-oversecured-2026.md) | 2026-08-12 | 1件 |
+| [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-12 | 2件 |
 | [N-able N-central CVE-2026-18577 認証バイパス継続悪用（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-12 | 8件 |
 | [Metabase CVE-2026-72898 SQLインジェクション（2026年8月）](./metabase-cve-2026-72898-sqli.md) | 2026-08-12 | 1件 |
 | [「New Audio MSG」偽装Google風フィッシングキャンペーン（2026年8月）](./google-themed-phishing-new-audio-msg-2026.md) | 2026-08-12 | 1件 |
@@ -15,7 +15,6 @@
 | [BdThemes WordPress プラグイン サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-12 | 2件 |
 | [Adobe 2026年8月定例セキュリティ更新（ColdFusion・Campaign Classic）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-12 | 10件 |
 | [Zoom 「Zoomsday」アノテーション機能RCE脆弱性（2026年8月）](./zoom-zoomsday-cve-2026-53413.md) | 2026-08-11 | 1件 |
-| [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-11 | 1件 |
 | [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-11 | 9件 |
 | [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-11 | 4件 |
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-11 | 3件 |

@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-12
 - **出典**: [Oversecured Blog](https://oversecured.com/blog/176-vulnerabilities-in-samsung-preinstalled-apps), [SC Media](https://www.scworld.com/brief/samsung-mobile-apps-had-176-vulnerabilities-researchers-find)
-- **トピック**: [Samsung プリインストールアプリ 176件の脆弱性（Oversecured、2026年）](../topics/samsung-176-vulnerabilities-oversecured-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](../topics/samsung-oversecured-176-vulnerabilities-2026.md)
+- **分類**: 続報
 ## 概要
 
 セキュリティ企業 Oversecured は、2022年から2025年にかけての3年間にわたる調査で、Samsungのプリインストール（システム）アプリに176件の脆弱性を発見し、責任ある開示のもとSamsungに報告していたことを8月10日に公表した。Samsungは全ての報告済み脆弱性を修正し、Oversecuredの研究チームに20万ドル超のバグバウンティ報酬を支払った。史上最大規模のモバイルセキュリティ開示とされる。
