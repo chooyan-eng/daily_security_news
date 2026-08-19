@@ -4,9 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Phantom Squatting：AI幻覚ドメイン悪用の新種脅威（2026年）](./phantom-squatting-ai-domains-2026.md) | 2026-07-01 | 1件 |
+| [Oracle E-Business Suite CVE-2026-46817 恐喝キャンペーン（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-01 | 2件 |
+| [樋口商会 ランサムウェア攻撃（Stormous、2026年6月）](./higuchi-shokai-stormous-ransomware-2026.md) | 2026-07-01 | 1件 |
+| [DHS HSIN 情報共有基盤への侵入（2026年）](./dhs-hsin-breach-2026.md) | 2026-07-01 | 1件 |
+| [Cursor AIコードエディタ サンドボックス脱出脆弱性「DuneSlide」（2026年）](./cursor-ai-duneslide-2026.md) | 2026-07-01 | 1件 |
+| [Citrix NetScaler ADC/Gateway 複数脆弱性（CVE-2026-8451 他、2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-01 | 1件 |
+| [ブラウザ完結型ランサムウェア（File System Access API悪用、2026年）](./browser-native-ransomware-fsapi-2026.md) | 2026-07-01 | 1件 |
+| [Azure CLI パスワードスプレー攻撃「LSHIY」キャンペーン（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-01 | 1件 |
+| [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-07-01 | 2件 |
+| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-01 | 1件 |
 | [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-06-30 | 1件 |
 | [Silent Swap 暗号資産クリッパー拡張機能キャンペーン（2026年）](./silent-swap-crypto-clipper-2026.md) | 2026-06-30 | 1件 |
-| [Oracle E-Business Suite Payments CVE-2026-46817（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-06-30 | 1件 |
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |
 | [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-06-30 | 1件 |
@@ -58,7 +67,6 @@
 | [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
 | [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
 | [Android CVE-2025-48595 特権昇格ゼロデイ（2026年6月）](./android-cve-2025-48595-zero-day.md) | 2026-06-22 | 2件 |
-| [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-06-22 | 1件 |
 | [usbliter8 — Apple A12/A13 パッチ不可能 BootROM エクスプロイト（2026年）](./usbliter8-apple-bootrom-2026.md) | 2026-06-21 | 2件 |
 | [SAP NetWeaver クリティカル脆弱性（2026年6月）](./sap-netweaver-saml-critical-june-2026.md) | 2026-06-21 | 1件 |
 | [Prinz Eugen ランサムウェア（2026年6月〜）](./prinz-eugen-ransomware-2026.md) | 2026-06-21 | 1件 |
