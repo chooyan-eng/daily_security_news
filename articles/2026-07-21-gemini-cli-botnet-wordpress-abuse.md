@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-21
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
-- **トピック**: [Gemini CLI悪用によるAIエージェント型サイバー攻撃（2026年）](../topics/gemini-cli-botnet-wordpress-abuse.md)
-- **分類**: 新規
-
+- **トピック**: [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](../topics/bandcampro-gemini-cli-botnet-2026.md)
+- **分類**: 続報
 ## 概要
 
 「bandcampro」を名乗るロシア語圏の単独ハッカーが、Googleのオープンソースターミナル型AIエージェント「Gemini CLI」をジェイルブレイクして悪用し、歯科医院8台のPCを制御するC2ボットネットの構築・運用、WordPress加盟店アカウントの侵害、高齢者を狙った電話詐欺スキームの計画などを行っていたことが、Trend Micro（TrendAI Research）の調査で明らかになった。

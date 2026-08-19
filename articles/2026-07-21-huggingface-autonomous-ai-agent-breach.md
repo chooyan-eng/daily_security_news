@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-21
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
-- **トピック**: [Hugging Face 自律型AIエージェントによる侵害（2026年7月）](../topics/huggingface-autonomous-ai-agent-breach.md)
-- **分類**: 新規
-
+- **トピック**: [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](../topics/huggingface-ai-agent-breach-2026.md)
+- **分類**: 続報
 ## 概要
 
 世界最大級のAIモデルリポジトリHugging Faceは、自律型AIエージェントシステムを用いた第三者による本番インフラへの侵害を確認したと発表した。侵入はデータセット処理パイプラインを起点とし、攻撃者（を操るAIエージェント）は17,000件を超える個別のアクションをシステム内で実行していた。CEOはAIエージェントを用いた攻撃が既に現実のものになっていると警鐘を鳴らしている。

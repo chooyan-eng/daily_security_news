@@ -11,14 +11,12 @@
 | [Paidwork データ漏洩事件（2026年）](./paidwork-data-breach-2026.md) | 2026-07-21 | 1件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
 | [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-07-21 | 2件 |
-| [Hugging Face 自律型AIエージェントによる侵害（2026年7月）](./huggingface-autonomous-ai-agent-breach.md) | 2026-07-21 | 1件 |
-| [Gemini CLI悪用によるAIエージェント型サイバー攻撃（2026年）](./gemini-cli-botnet-wordpress-abuse.md) | 2026-07-21 | 1件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-21 | 2件 |
+| [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-21 | 2件 |
 | [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-07-21 | 1件 |
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-20 | 4件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-20 | 1件 |
 | [Craneware ヘルスケア請求ソフトウェアデータ侵害（2026年7月）](./craneware-data-breach-2026.md) | 2026-07-20 | 1件 |
-| [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-20 | 1件 |
 | [ViteVenom npm サプライチェーン攻撃（2026年7月）](./vitevenom-npm-supply-chain-2026.md) | 2026-07-19 | 2件 |
 | [UAC-0145（Sandworm系）ClickFix・Android偽アプリキャンペーン（2026年）](./uac0145-sandworm-clickfix-2026.md) | 2026-07-19 | 1件 |
 | [Spirals ランサムウェア（2026年）](./spirals-ransomware-2026.md) | 2026-07-19 | 1件 |
