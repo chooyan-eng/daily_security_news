@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-27
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
-- **トピック**: [GitLab Oj パーサー経由のリモートコード実行（CVE未採番）](../topics/gitlab-oj-parser-rce-2026.md)
-- **分類**: 新規
-
+- **トピック**: [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](../topics/gitlab-oj-heap-leak-rce-2026.md)
+- **分類**: 続報
 ## 概要
 
 研究者「depthfirst」が、GitLabが6週間前（6月10日）にCVE番号なしで静かに修正していた脆弱性の実証コード（PoC）を7月24日に公開した。RubyのOjパーサーの欠陥を突き、Jupyter Notebookファイルを利用してヒープメモリのポインタをリークさせ、最終的にgitユーザー権限でリモートコード実行を可能にする。パッチ未適用のセルフホスト型GitLabサーバーが標的となる。

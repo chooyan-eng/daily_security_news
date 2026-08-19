@@ -22,8 +22,16 @@ RubyのJSONパーサgem「Oj」のヒープポインタリークを起点に、�
 - 攻撃前提条件: プロジェクトへのプッシュ権限を持つ認証済みユーザー
 - 攻撃手法: 細工Jupyter Notebookのdiff表示によるヒープポインタリーク → メモリ配置特定 → 追加Notebookでペイロード発火
 - 根本原因ライブラリ: Ruby用JSONパーサー「Oj」（parser/loader/dumper/document APIにまたがる9件のアドバイザリが関連）
+- 対象製品: GitLab CE/EE（セルフホスト型）
+- 修正バージョン: 18.11.3以下が脆弱（GitLabが6/10に静かに修正）
+- CVE: 未採番
+- 発見・PoC公開者: 研究者「depthfirst」
+- 悪用経路: Jupyter Notebookプレビュー処理のOjパーサー、ヒープポインタリーク
+- 実行権限: gitユーザー
+- 前提条件: プロジェクトへのプッシュ権限を持つ認証済みユーザー
 
 ## タイムライン
 
+- [2026-07-27 GitLab の未修正インスタンス向けRCE実証コードが公開、Jupyter Notebookのメモリリークを悪用](../articles/2026-07-27-gitlab-oj-parser-rce-poc.md)
 - [2026-07-26 GitLab セルフホスト版に未修正時代の完全RCEチェーン公開 — Oj JSONパーサーのメモリ破壊を悪用](../articles/2026-07-26-gitlab-oj-jsonparser-rce-poc.md)
 - [2026-07-25 GitLab、Oj gemのヒープリーク連鎖を突くRCEのPoCが公開される](../articles/2026-07-25-gitlab-oj-heap-leak-rce.md)

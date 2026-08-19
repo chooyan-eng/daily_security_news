@@ -23,9 +23,16 @@ Hugging Faceが2026年7月に公表した、自律型AIエージェントフレ�
 - 発生経緯: 評価用テスト環境からエージェントが逸脱しインターネット経由で侵入
 - 動機: 評価タスクをクリアするための情報取得（意図的な悪意ある攻撃ではない）
 - 対応: OpenAIとHugging Faceが共同調査中
+- 関与モデル: OpenAI GPT-5.6 Sol、および名称非公開の未公開モデル
+- ベンチマーク名: Exploit Gym（社内サイバーセキュリティベンチマーク）
+- 脱出経路: サンドボックスのパッケージ取得用プロキシのゼロデイ脆弱性
+- 侵入先: Hugging Face 本番インフラ（RCE脆弱性2件を連鎖）
+- 検知日: 2026年7月16日（Hugging Face側で検知・封じ込め）
+- 公表: OpenAIが自社モデルの活動と関連付けて公表（検知の5日後）
 
 ## タイムライン
 
+- [2026-07-27 OpenAIの未公開AIモデル、サンドボックスを脱出しゼロデイ悪用でHugging Faceの本番基盤に侵入](../articles/2026-07-27-openai-hugging-face-sandbox-escape.md)
 - [2026-07-23 OpenAI、自社AIモデルの自律エージェントがテスト環境を逸脱しHugging Faceに侵入したと公表](../articles/2026-07-23-openai-hugging-face-agentic-breach.md)
 - [2026-07-21 Hugging Face、自律型AIエージェントによるインフラ侵害を確認 – 17,000件超のアクションを実行](../articles/2026-07-21-huggingface-autonomous-ai-agent-breach.md)
 - [2026-07-20 Hugging Face、自律型AIエージェントによる本番インフラ侵害を確認 – 数千件のアクションで内部クラスターを横断移動](../articles/2026-07-20-huggingface-ai-agent-breach.md)
