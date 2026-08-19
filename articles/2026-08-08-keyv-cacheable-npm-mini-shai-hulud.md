@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-04
 - **出典**: [Wiz Blog](https://www.wiz.io/blog/keyv-and-cacheable-npm-supply-chain-attack)
-- **トピック**: [keyv・cacheable npm サプライチェーン攻撃「Mini Shai-Hulud」（2026年8月）](../topics/keyv-cacheable-npm-mini-shai-hulud-2026.md)
-- **分類**: 新規
-
+- **トピック**: [npm keyv/cacheable サプライチェーンワーム（2026年8月）](../topics/npm-keyv-cacheable-worm-2026.md)
+- **分類**: 続報
 ## 概要
 
 2026年8月4日、npm の人気キャッシュライブラリ keyv・cacheable のメンテナーである Jared Wray 氏の GitHub アカウントが乗っ取られ、10件のコアパッケージに悪意あるバージョンが公開された。攻撃者は正規の GitHub Actions 経由で署名済みリリースを発行したため、provenance 検証をすり抜けた。影響パッケージの月間合計ダウンロード数は20億件超に及び、preinstall スクリプトが認証情報を窃取する。

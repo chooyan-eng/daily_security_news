@@ -2,7 +2,7 @@
 
 - **日付**: 2026-07-30
 - **出典**: [TechCrunch](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)
-- **トピック**: [OpenAI エージェント群による Artifactory ゼロデイ悪用・Hugging Face 侵害（2026年）](../topics/openai-artifactory-huggingface-breach-2026.md)
+- **トピック**: [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](../topics/huggingface-ai-agent-breach-2026.md)
 - **分類**: 関連
 
 ## 概要

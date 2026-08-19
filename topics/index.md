@@ -10,21 +10,19 @@
 | [Qilinランサムウェアグループ（2026年）](./qilin-freedom-claims-ransomware-2026.md) | 2026-08-07 | 1件 |
 | [NatJack – NAT実装の設計的脆弱性による攻撃クラス（2026年）](./natjack-nat-attack-class-2026.md) | 2026-08-07 | 1件 |
 | [N-able N-central 認証バイパス脆弱性 CVE-2026-18577 の悪用（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-07 | 6件 |
-| [Linux カーネル SCTPhantom CVE-2026-64564（2026年8月）](./linux-sctphantom-cve-2026-64564.md) | 2026-08-07 | 1件 |
+| [Linux カーネル SCTPhantom CVE-2026-64564（2026年8月）](./linux-sctphantom-cve-2026-64564.md) | 2026-08-07 | 2件 |
 | [講談社 社用メール不正アクセス（2026年7月〜8月）](./kodansha-phishing-email-breach-2026.md) | 2026-08-07 | 1件 |
 | [Apache Traffic Server CVE-2026-63078 HTTPデシンク脆弱性（2026年8月）](./apache-traffic-server-cve-2026-63078-http-terminator.md) | 2026-08-07 | 1件 |
 | [TP-Link Omada ZTP 脆弱性群（2026年8月）](./tp-link-omada-ztp-vulnerabilities-2026.md) | 2026-08-06 | 1件 |
-| [SCTPhantom Linux カーネル脆弱性（CVE-2026-64564）](./sctphantom-linux-kernel-cve-2026-64564.md) | 2026-08-06 | 1件 |
 | [Samsung Members/Account エクスプロイトチェーン（Bixby悪用）](./samsung-members-account-bixby-exploit-chain-2026.md) | 2026-08-06 | 1件 |
 | [Sakura Mobile 不正アクセス事案（2026年）](./sakura-mobile-unauthorized-access-2026.md) | 2026-08-06 | 1件 |
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 4件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 6件 |
 | [リヒテンシュタイン実質的所有者登録簿 不正アクセス事案（2026年）](./liechtenstein-beneficial-owner-register-breach-2026.md) | 2026-08-06 | 1件 |
 | [ジョンズ・ホプキンス大学 myJH偽装フィッシングキャンペーン（2026年8月）](./johns-hopkins-myjh-phishing-2026.md) | 2026-08-06 | 1件 |
 | [Pass-ta-key攻撃 Google同期パスキー ハイジャック（2026年8月）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-06 | 1件 |
 | [DentaQuest データ漏洩事件（ShinyHunters、2026年）](./dentaquest-data-breach-2026.md) | 2026-08-06 | 1件 |
 | [AI自律型ハッキングキャンペーン「Hermes Agent」（2026年8月）](./ai-agent-hacking-campaign-langflow-tomcat-2026.md) | 2026-08-06 | 1件 |
 | [共同通信社 業務メール環境への不正アクセス（2026年8月）](./kyodo-news-unauthorized-access-2026.md) | 2026-08-05 | 1件 |
-| [keyv・cacheable npm サプライチェーン攻撃「Mini Shai-Hulud」（2026年8月）](./keyv-cacheable-npm-mini-shai-hulud-2026.md) | 2026-08-05 | 2件 |
 | [SplitVPN（旧NotVPN）データ侵害（2026年）](./splitvpn-notvpn-breach-2026.md) | 2026-08-04 | 1件 |
 | [Rails Active Storage CVE-2026-66066（KindaRails2Shell、2026年）](./rails-active-storage-cve-2026-66066.md) | 2026-08-04 | 6件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-04 | 1件 |
@@ -47,7 +45,7 @@
 | [Adform 広告スクリプト サプライチェーン攻撃（2026年）](./adform-adtech-supply-chain-2026.md) | 2026-08-03 | 1件 |
 | [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 2件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-01 | 9件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-01 | 10件 |
 | [CosmosEscape：Azure Cosmos DB プラットフォーム全体キー露出脆弱性（2026年）](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 3件 |
 | [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
 | [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
@@ -64,7 +62,6 @@
 | [MCBS 医療系サードパーティベンダー侵害（2026年7月）](./mcbs-healthcare-vendor-breach-2026.md) | 2026-07-29 | 1件 |
 | [Chrome 151 セキュリティアップデート（2026年7月）](./chrome-151-security-update-2026.md) | 2026-07-29 | 1件 |
 | [OpenWrt CVE-2026-53921 DHCPv6スタックオーバーフロー（2026年7月）](./openwrt-cve-2026-53921-dhcpv6-rce.md) | 2026-07-28 | 1件 |
-| [OpenAI エージェント群による Artifactory ゼロデイ悪用・Hugging Face 侵害（2026年）](./openai-artifactory-huggingface-breach-2026.md) | 2026-07-28 | 1件 |
 | [ナカバヤシ「REVEX」製品サイト不正アクセス（2026年7月）](./nakabayashi-revex-breach-2026.md) | 2026-07-28 | 1件 |
 | [MCBS 医療請求代行企業データ侵害（2026年）](./mcbs-medical-billing-breach-2026.md) | 2026-07-28 | 1件 |
 | [北海道協同組合通信社 委託先クラウド不正アクセス（2026年7月）](./hokkaido-kyodo-tsushinsha-breach-2026.md) | 2026-07-28 | 1件 |

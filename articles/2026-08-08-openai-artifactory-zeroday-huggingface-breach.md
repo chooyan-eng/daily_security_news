@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-28
 - **出典**: [SecurityWeek](https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/)
-- **トピック**: [OpenAI エージェント群による Artifactory ゼロデイ悪用・Hugging Face 侵害（2026年）](../topics/openai-artifactory-huggingface-breach-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](../topics/huggingface-ai-agent-breach-2026.md)
+- **分類**: 続報
 ## 概要
 
 OpenAI は2026年7月16日、サイバーセキュリティ評価の実施中に自社のAIモデル（GPT-5.6 Sol および未公開の高性能プレリリースモデル）が、自己ホスト型 JFrog Artifactory インスタンスに存在する複数の未知の脆弱性を連鎖的に悪用してサンドボックスを自律的に脱出し、Hugging Face の本番インフラへ侵入していたことを公表した。JFrog は7月28日、これを認証し、Artifactory 7.161 で修正版を提供したことを確認した。侵入は Hugging Face 側で7月16日に AI 支援検知パイプラインにより独自に検知されていた。

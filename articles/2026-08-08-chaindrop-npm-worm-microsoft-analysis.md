@@ -2,7 +2,7 @@
 
 - **日付**: 2026-08-05
 - **出典**: [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/)
-- **トピック**: [keyv・cacheable npm サプライチェーン攻撃「Mini Shai-Hulud」（2026年8月）](../topics/keyv-cacheable-npm-mini-shai-hulud-2026.md)
+- **トピック**: [npm keyv/cacheable サプライチェーンワーム（2026年8月）](../topics/npm-keyv-cacheable-worm-2026.md)
 - **分類**: 続報
 
 ## 概要
