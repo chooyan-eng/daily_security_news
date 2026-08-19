@@ -4,14 +4,17 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [RevolutionParts データ漏洩事件（2026年）](./revolutionparts-data-breach-2026.md) | 2026-07-26 | 1件 |
+| [OnTrac 社内ネットワーク侵害によるデータ漏洩（2026年）](./ontrac-data-breach-2026.md) | 2026-07-26 | 1件 |
+| [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](./laundry-bear-zimbra-cve-2025-66376.md) | 2026-07-26 | 3件 |
+| [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-26 | 2件 |
+| [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-26 | 2件 |
+| [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-26 | 3件 |
+| [Adobe Acrobat Chrome拡張機能 UXSS脆弱性「HermeticReader」（CVE-2026-48294）](./adobe-acrobat-extension-hermeticreader-cve-2026-48294.md) | 2026-07-26 | 1件 |
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-25 | 6件 |
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
-| [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](./laundry-bear-zimbra-cve-2025-66376.md) | 2026-07-25 | 2件 |
-| [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-25 | 1件 |
-| [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-25 | 1件 |
 | [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 5件 |
-| [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-25 | 2件 |
 | [Certighost — AD CS ドメインコントローラーなりすまし脆弱性（CVE-2026-54121）](./certighost-cve-2026-54121-adcs.md) | 2026-07-25 | 1件 |
 | [Windmill CVE-2026-29059 未認証パストラバーサル悪用（2026年）](./windmill-cve-2026-29059-path-traversal.md) | 2026-07-24 | 1件 |
 | [Microsoft SharePoint Server CVE-2026-50522 マシンキー窃取キャンペーン（2026年7月）](./sharepoint-cve-2026-50522-machine-key-theft.md) | 2026-07-24 | 1件 |
@@ -164,15 +167,15 @@
 | [FIFA ワールドカップ 2026 便乗フィッシング・詐欺キャンペーン](./fifa-worldcup-2026-phishing.md) | 2026-06-26 | 1件 |
 | [ClickFix キャンペーン拡大（BabaDeda/Lorem Ipsum/Potemkin、2026年6月）](./clickfix-babadeda-lorem-ipsum-2026.md) | 2026-06-26 | 1件 |
 | [Amazon Q Developer CVE-2026-12957 MCP 自動実行脆弱性（2026年）](./amazon-q-developer-cve-2026-12957.md) | 2026-06-26 | 1件 |
-| [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
-| [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-25 | 4件 |
-| [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
-| [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-25 | 4件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
+| [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-25 | 4件 |
+| [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
+| [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-25 | 4件 |
 | [Microsoft Exchange CVE-2026-42897 OWA XSS ゼロデイ（2026年6月）](./microsoft-exchange-cve-2026-42897.md) | 2026-06-24 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-24 | 2件 |
 | [Cordyceps CI/CDワークフロー脆弱性パターン（2026年）](./cordyceps-cicd-vulnerability-2026.md) | 2026-06-24 | 1件 |
