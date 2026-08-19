@@ -9,11 +9,10 @@
 | [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-11 | 1件 |
 | [Odido（オランダ通信大手）不正アクセス事件（2026年）](./odido-breach-2026.md) | 2026-07-11 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-07-11 | 4件 |
-| [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-2026.md) | 2026-07-11 | 1件 |
+| [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-vulnerability-2026.md) | 2026-07-11 | 2件 |
 | [Gitea Docker CVE-2026-20896 認証バイパス脆弱性（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-11 | 3件 |
 | [Bad Epoll Linuxカーネル脆弱性 CVE-2026-46242（2026年）](./bad-epoll-cve-2026-46242-android.md) | 2026-07-11 | 1件 |
 | [Accenture 侵害・ソースコード流出事件（2026年7月）](./accenture-breach-2026.md) | 2026-07-11 | 2件 |
-| [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-vulnerability-2026.md) | 2026-07-10 | 1件 |
 | [無料Android VPNアプリのセキュリティ調査 — MVPNalyzer（2026年）](./free-vpn-android-apps-security-study-2026.md) | 2026-07-10 | 1件 |
 | [ModSecurity WAF フィルタ回避脆弱性（2026年7月）](./modsecurity-waf-bypass-2026.md) | 2026-07-09 | 1件 |
 | [GodDamnランサムウェア・PoisonXドライバ（2026年）](./goddamn-ransomware-poisonx-2026.md) | 2026-07-09 | 1件 |
