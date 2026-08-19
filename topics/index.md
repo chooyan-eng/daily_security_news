@@ -4,16 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [WindRelay Android NFCリレー詐欺マルウェア（2026年）](./windrelay-android-nfc-malware-2026.md) | 2026-08-17 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 6件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
-| [RIZAP「APORITOオンラインストア」不正アクセス事案（2026年8月）](./rizap-aporito-ec-breach-2026.md) | 2026-08-17 | 1件 |
+| [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-17 | 2件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
 | [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-17 | 6件 |
 | [GeoServer 未認証SQLインジェクション ゼロデイ（2026年8月）](./geoserver-sqli-zero-day-2026.md) | 2026-08-17 | 1件 |
 | [悪意あるChrome拡張機能によるAIチャット窃取キャンペーン（2026年）](./chrome-extension-ai-sidebar-data-theft-2026.md) | 2026-08-17 | 1件 |
 | [Azure Logic Apps CVE-2026-56161 情報漏洩脆弱性（2026年8月）](./azure-logic-apps-cve-2026-56161.md) | 2026-08-17 | 1件 |
 | [Apple 傭兵スパイウェア標的通知プログラム（2026年）](./apple-mercenary-spyware-warning-2026.md) | 2026-08-17 | 1件 |
+| [SpyNote×WindRelay：Android NFCリレー詐欺による銀行アプリ不正利用（2026年8月）](./android-spynote-windrelay-nfc-2026.md) | 2026-08-17 | 2件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-15 | 4件 |
 | [Presentations.AI ランサムウェア被害（Unsafeグループ、2026年）](./presentations-ai-unsafe-ransomware-2026.md) | 2026-08-15 | 1件 |
 | [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-15 | 10件 |
@@ -33,7 +33,6 @@
 | [Clopランサムウェアグループ、Philipsを新たな被害者として掲載（2026年8月）](./clop-ransomware-philips-2026.md) | 2026-08-13 | 1件 |
 | [Cisco Secure Firewall ASA/FTD CVE-2026-20349 積極的悪用（2026年8月）](./cisco-asa-ftd-cve-2026-20349.md) | 2026-08-13 | 1件 |
 | [中国系脅威アクターによる「準自律型」AIエージェント攻撃：台湾政府機関を標的（2026年7-8月）](./china-ai-agent-taiwan-attack-2026.md) | 2026-08-13 | 1件 |
-| [SpyNote×WindRelay：Android NFCリレー詐欺による銀行アプリ不正利用（2026年8月）](./android-spynote-windrelay-nfc-2026.md) | 2026-08-13 | 1件 |
 | [Androidバンキングマルウェアによるリアルタイム不正利用（2026年）](./android-banking-malware-realtime-fraud-2026.md) | 2026-08-13 | 1件 |
 | [Adobe Commerce / Magento CVE-2026-71362 アカウント乗っ取り脆弱性の積極的悪用（2026年8月）](./adobe-commerce-cve-2026-71362.md) | 2026-08-13 | 1件 |
 | [ヨネックス公式オンラインショップ 不正ログイン（2026年8月）](./yonex-ec-credential-stuffing-2026.md) | 2026-08-12 | 1件 |
@@ -52,7 +51,6 @@
 | [CEVA Logistics サプライチェーン侵害の連鎖（2026年8月）](./ceva-logistics-supply-chain-breach-2026.md) | 2026-08-11 | 2件 |
 | [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-11 | 1件 |
 | [Ryde 電動スクーターアプリ データ侵害（2026年8月）](./ryde-scooter-data-breach-2026.md) | 2026-08-10 | 1件 |
-| [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-10 | 1件 |
 | [LexisNexis サービス停止インシデント（2026年8月）](./lexisnexis-service-shutdown-2026.md) | 2026-08-10 | 1件 |
 | [Google Password Manager パスキー乗っ取り「Pass-ta-key」攻撃（2026年）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-10 | 2件 |
 | [FIS Global Clopランサムウェア侵害（2026年8月）](./fis-global-clop-ransomware-2026.md) | 2026-08-10 | 1件 |
