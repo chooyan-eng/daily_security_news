@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-26
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
-- **トピック**: [GitLab Oj JSONパーサー認証済みRCEチェーン（2026年）](../topics/gitlab-oj-jsonparser-rce-poc-2026.md)
-- **分類**: 新規
-
+- **トピック**: [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](../topics/gitlab-oj-heap-leak-rce-2026.md)
+- **分類**: 続報
 ## 概要
 
 セキュリティ研究チーム depthfirst が、GitLab が6月10日に修正済みの脆弱性を悪用する動作可能なエクスプロイトコードを7月24日に公開した。自己ホスト型 GitLab 18.11.3 以下の未パッチ環境で、プロジェクトへのプッシュ権限を持つ認証済みユーザーが git ユーザー権限でコマンドを実行できる。CVE番号は未割り当て。
