@@ -4,25 +4,30 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Ryde 電動スクーターアプリ データ侵害（2026年8月）](./ryde-scooter-data-breach-2026.md) | 2026-08-10 | 1件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-10 | 8件 |
+| [N-able N-central 認証バイパス脆弱性 CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-10 | 7件 |
+| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-10 | 2件 |
+| [LexisNexis サービス停止インシデント（2026年8月）](./lexisnexis-service-shutdown-2026.md) | 2026-08-10 | 1件 |
+| [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-10 | 2件 |
+| [Google Password Manager パスキー乗っ取り「Pass-ta-key」攻撃（2026年）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-10 | 2件 |
+| [FIS Global Clopランサムウェア侵害（2026年8月）](./fis-global-clop-ransomware-2026.md) | 2026-08-10 | 1件 |
+| [CSS属性セレクタ悪用によるWebメール攻撃チェーン（2026年）](./css-attacks-webmail-2026.md) | 2026-08-10 | 2件 |
+| [CEVA Logistics サプライチェーン侵害の連鎖（2026年8月）](./ceva-logistics-supply-chain-breach-2026.md) | 2026-08-10 | 1件 |
 | [Atlassian Rovo プロンプトインジェクション・データ持ち出し脆弱性（2026年）](./atlassian-rovo-prompt-injection-2026.md) | 2026-08-09 | 1件 |
-| [Metabase 未認証SQLインジェクション ゼロデイ（2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-08 | 1件 |
-| [CSS属性セレクタ悪用によるWebメール攻撃チェーン（2026年）](./css-attacks-webmail-2026.md) | 2026-08-08 | 1件 |
 | [WordPress CVE-2026-64638 未認証XSS（2026年8月）](./wordpress-cve-2026-64638-pre-auth-xss.md) | 2026-08-07 | 2件 |
 | [TrueBooker WordPress プラグイン認可バイパス（2026年8月）](./truebooker-wordpress-plugin-2026.md) | 2026-08-07 | 1件 |
 | [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-07 | 2件 |
 | [Qilinランサムウェアグループ（2026年）](./qilin-freedom-claims-ransomware-2026.md) | 2026-08-07 | 1件 |
 | [NatJack – NAT実装の設計的脆弱性による攻撃クラス（2026年）](./natjack-nat-attack-class-2026.md) | 2026-08-07 | 1件 |
-| [N-able N-central 認証バイパス脆弱性 CVE-2026-18577 の悪用（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-07 | 6件 |
 | [Linux カーネル SCTPhantom CVE-2026-64564（2026年8月）](./linux-sctphantom-cve-2026-64564.md) | 2026-08-07 | 2件 |
 | [講談社 社用メール不正アクセス（2026年7月〜8月）](./kodansha-phishing-email-breach-2026.md) | 2026-08-07 | 1件 |
 | [Apache Traffic Server CVE-2026-63078 HTTPデシンク脆弱性（2026年8月）](./apache-traffic-server-cve-2026-63078-http-terminator.md) | 2026-08-07 | 1件 |
 | [TP-Link Omada ZTP 脆弱性群（2026年8月）](./tp-link-omada-ztp-vulnerabilities-2026.md) | 2026-08-06 | 1件 |
 | [Samsung Members/Account エクスプロイトチェーン（Bixby悪用）](./samsung-members-account-bixby-exploit-chain-2026.md) | 2026-08-06 | 1件 |
 | [Sakura Mobile 不正アクセス事案（2026年）](./sakura-mobile-unauthorized-access-2026.md) | 2026-08-06 | 1件 |
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 7件 |
 | [リヒテンシュタイン実質的所有者登録簿 不正アクセス事案（2026年）](./liechtenstein-beneficial-owner-register-breach-2026.md) | 2026-08-06 | 1件 |
 | [ジョンズ・ホプキンス大学 myJH偽装フィッシングキャンペーン（2026年8月）](./johns-hopkins-myjh-phishing-2026.md) | 2026-08-06 | 1件 |
-| [Pass-ta-key攻撃 Google同期パスキー ハイジャック（2026年8月）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-06 | 1件 |
 | [DentaQuest データ漏洩事件（ShinyHunters、2026年）](./dentaquest-data-breach-2026.md) | 2026-08-06 | 1件 |
 | [AI自律型ハッキングキャンペーン「Hermes Agent」（2026年8月）](./ai-agent-hacking-campaign-langflow-tomcat-2026.md) | 2026-08-06 | 1件 |
 | [共同通信社 業務メール環境への不正アクセス（2026年8月）](./kyodo-news-unauthorized-access-2026.md) | 2026-08-05 | 1件 |
@@ -172,12 +177,12 @@
 | [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-vulnerability-2026.md) | 2026-07-11 | 2件 |
 | [Bad Epoll Linuxカーネル脆弱性 CVE-2026-46242（2026年）](./bad-epoll-cve-2026-46242-android.md) | 2026-07-11 | 1件 |
 | [Accenture 侵害・ソースコード流出事件（2026年7月）](./accenture-breach-2026.md) | 2026-07-11 | 2件 |
-| [無料Android VPNアプリのセキュリティ調査 — MVPNalyzer（2026年）](./free-vpn-android-apps-security-study-2026.md) | 2026-07-10 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [無料Android VPNアプリのセキュリティ調査 — MVPNalyzer（2026年）](./free-vpn-android-apps-security-study-2026.md) | 2026-07-10 | 1件 |
 | [ModSecurity WAF フィルタ回避脆弱性（2026年7月）](./modsecurity-waf-bypass-2026.md) | 2026-07-09 | 1件 |
 | [GodDamnランサムウェア・PoisonXドライバ（2026年）](./goddamn-ransomware-poisonx-2026.md) | 2026-07-09 | 1件 |
 | [GitHub署名付きコミットのハッシュ可鍛性（2026年7月）](./github-commit-signature-malleability-2026.md) | 2026-07-09 | 1件 |
@@ -201,7 +206,6 @@
 | [Microsoft Defender BlueHammer 特権昇格脆弱性（CVE-2026-33825）](./microsoft-defender-bluehammer-cve-2026-33825.md) | 2026-07-05 | 1件 |
 | [メール配信システム「める配くん」不正アクセス（2026年6月）](./meruhaikun-email-delivery-breach-2026.md) | 2026-07-05 | 1件 |
 | [Kubota North America 従業員データ侵害（2026年）](./kubota-north-america-breach-2026.md) | 2026-07-05 | 1件 |
-| [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-07-05 | 1件 |
 | [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-07-05 | 5件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-07-05 | 5件 |
 | [WatchGuard Firebox CVE-2026-13368 VPN認証脆弱性（2026年）](./watchguard-firebox-cve-2026-13368.md) | 2026-07-04 | 1件 |

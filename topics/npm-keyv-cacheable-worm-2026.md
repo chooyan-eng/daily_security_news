@@ -36,9 +36,16 @@
 - 影響パッケージ: keyv, cacheable, flat-cache, file-entry-cache, cacheable-request, cache-manager 等（1,300バージョン超）
 - 影響規模: 月間合計約20億ダウンロード
 - 手口: preinstallフック → Bunランタイムダウンロード → 728KB難読化情報窃取プログラム実行
+- マルウェア名: ChainDrop（自己増殖型npmワーム）
+- 感染起点: 「keyv」パッケージ（2026年8月4日公開の悪意あるバージョン）
+- 拡散手法: preinstallフックでnpm/GitHub/AWS等の認証トークンを窃取 → 連鎖的にパッケージを汚染
+- 関連パッケージ: keyv, file-entry-cache, cache-manager, jaredwray/cacheable, jaredwray/ecto 等
+- 被害規模: 1,300以上のパッケージ、月間ダウンロード合計20億件超、2,000以上のアーティファクトを追跡（Socket, Microsoft）
+- 特徴: インストール実行せずともautostartフック経由で発動する可能性、インシデント対応時に発動する持続化機構
 
 ## タイムライン
 
+- [2026-08-10 自己増殖型npmワーム「ChainDrop」が1,300以上のパッケージに感染、月間20億ダウンロード規模に拡大](../articles/2026-08-10-chaindrop-npm-supply-chain.md)
 - [2026-08-06 npmの人気キャッシュパッケージ keyv・cacheable がサプライチェーン攻撃で侵害、メンテナーアカウント乗っ取りから拡散](../articles/2026-08-06-npm-keyv-cacheable-mini-shai-hulud-2026.md)
 - [2026-08-05 Microsoft、自己拡散型 npm ワーム「ChainDrop」を分析 – 400超パッケージに感染拡大](../articles/2026-08-08-chaindrop-npm-worm-microsoft-analysis.md)
 - [2026-08-05 Open VSXで「Evil Twin」型の悪性拡張機能77件を検出・削除、ChainDropキャンペーンの一部と判明](../articles/2026-08-05-openvsx-evil-twin-extensions.md)
