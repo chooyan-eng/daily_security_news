@@ -28,9 +28,14 @@
 - 影響製品: Adobe ColdFusion 2025.9、2023.20 以前
 - CISA KEV 追加日: 2026年7月7日
 - 連邦機関修正期限: 2026年7月10日（BOD 26-04）
+- CVE: CVE-2026-48282（Adobe ColdFusion、パストラバーサル、CVSS 10.0）
+- 開示日: 2026年7月7日／実悪用確認: 開示から数時間後
+- CISA KEV追加: 2026年7月8日頃、同時にCVE-2026-56290（Joomlackページビルダー）、CVE-2026-55255（Langflow）も追加
+- 影響: 現在のユーザー権限でのリモートコード実行
 
 ## タイムライン
 
+- [2026-07-09 Adobe ColdFusionの最大深刻度パストラバーサル脆弱性（CVE-2026-48282）、CISA KEVに追加・積極的悪用を確認](../articles/2026-07-09-adobe-coldfusion-cve-2026-48282-kev.md)
 - [2026-07-08 CISA、積極的に悪用されているAdobe ColdFusionの最大深刻度パストラバーサル脆弱性(CVE-2026-48282)を巡り連邦機関に金曜日までの修正を指示](../articles/2026-07-08-adobe-coldfusion-cve-2026-48282-kev.md)
 - [2026-07-07 Adobe ColdFusion 最大深刻度パストラバーサル脆弱性（CVE-2026-48282）が野放し状態で悪用中](../articles/2026-07-07-adobe-coldfusion-cve-2026-48282.md)
 - [2026-07-06 Adobe、ColdFusionとCampaign Classicに最大深刻度CVSS 10.0の脆弱性7件を含む緊急パッチ](../articles/2026-07-06-adobe-coldfusion-campaign-classic-cvss10.md)
