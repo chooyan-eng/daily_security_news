@@ -4,18 +4,23 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 1件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-29 | 5件 |
+| [Check Point SmartConsole 認証バイパス脆弱性（CVE-2026-16232）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-29 | 2件 |
+| [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-28 | 1件 |
+| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 2件 |
 | [OpenWrt CVE-2026-53921 DHCPv6スタックオーバーフロー（2026年7月）](./openwrt-cve-2026-53921-dhcpv6-rce.md) | 2026-07-28 | 1件 |
+| [ナカバヤシ「REVEX」製品サイト不正アクセス（2026年7月）](./nakabayashi-revex-breach-2026.md) | 2026-07-28 | 1件 |
 | [MCBS 医療請求代行企業データ侵害（2026年）](./mcbs-medical-billing-breach-2026.md) | 2026-07-28 | 1件 |
-| [サーバーBMC/IPMI 認証情報漏えい問題（CVE-2013-4786）](./bmc-ipmi-password-hash-leak-2026.md) | 2026-07-28 | 1件 |
-| [Arista VeloCloud Orchestrator CVE-2026-16812 コマンドインジェクション積極的悪用（2026年7月）](./arista-velocloud-cve-2026-16812.md) | 2026-07-28 | 1件 |
+| [北海道協同組合通信社 委託先クラウド不正アクセス（2026年7月）](./hokkaido-kyodo-tsushinsha-breach-2026.md) | 2026-07-28 | 1件 |
+| [サーバーBMC/IPMI 認証情報漏えい問題（CVE-2013-4786）](./bmc-ipmi-password-hash-leak-2026.md) | 2026-07-28 | 2件 |
+| [Arista VeloCloud Orchestrator コマンドインジェクション（CVE-2026-16812）](./arista-velocloud-cve-2026-16812.md) | 2026-07-28 | 1件 |
+| [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-07-28 | 2件 |
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-27 | 7件 |
 | [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-27 | 2件 |
 | [Paidwork（マイクロタスクアプリ）データ侵害（2026年）](./paidwork-mobile-app-data-breach-2026.md) | 2026-07-27 | 1件 |
 | [Origin Energy（豪エネルギー大手）顧客データ侵害（2026年7月）](./origin-energy-data-breach-2026.md) | 2026-07-27 | 2件 |
 | [Node.js 2026年7月定例セキュリティリリース](./nodejs-security-releases-2026.md) | 2026-07-27 | 1件 |
 | [n8n サンドボックスエスケープによるOSコマンド実行（2026年7月）](./n8n-sandbox-escape-rce-2026.md) | 2026-07-27 | 1件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-27 | 4件 |
 | [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-27 | 3件 |
 | [Ernst & Young サポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-27 | 3件 |
 | [Craneware ヘルスケア請求ソフトウェア データ侵害（2026年7月）](./craneware-healthcare-data-breach-2026.md) | 2026-07-27 | 2件 |
@@ -36,7 +41,6 @@
 | [関市 Webアンケートフォーム個人情報閲覧可能事案（2026年7月）](./seki-city-survey-form-leak-2026.md) | 2026-07-24 | 1件 |
 | [佐川急便「スマートクラブ」個人情報漏えい（2026年7月）](./sagawa-smartclub-leak-2026.md) | 2026-07-24 | 1件 |
 | [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-24 | 3件 |
-| [Check Point SmartConsole 認証バイパス CVE-2026-16232（2026年7月）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-24 | 1件 |
 | [AWS Kiro エージェント型IDE 設定書き換えRCE（2026年）](./aws-kiro-mcp-config-rce-2026.md) | 2026-07-24 | 1件 |
 | [韓国 国立外交院オンライン教育システム侵害（2026年）](./south-korea-diplomatic-academy-breach-2026.md) | 2026-07-23 | 1件 |
 | [Sony FeliCa CVE-2026-59776 暗号処理脆弱性（2026年）](./sony-felica-cve-2026-59776.md) | 2026-07-23 | 1件 |
@@ -162,13 +166,13 @@
 | [PTC Windchill CVE-2026-12569 RCE](./ptc-windchill-cve-2026-12569.md) | 2026-06-29 | 4件 |
 | [Linuxカーネルpage cache LPE脆弱性シリーズ（CVE-2026-46331 / CVE-2026-43503）](./linux-page-cache-lpe-2026.md) | 2026-06-29 | 6件 |
 | [iRhythm データ侵害（2026年6月）](./irhythm-data-breach-2026.md) | 2026-06-29 | 1件 |
-| [Veeam Backup & Replication CVE-2026-44963 RCE 脆弱性（2026年）](./veeam-cve-2026-44963-rce.md) | 2026-06-28 | 1件 |
-| [Polymarket サードパーティ侵害・フロントエンドスクリプト注入（2026年6月）](./polymarket-supply-chain-attack-2026.md) | 2026-06-28 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Veeam Backup & Replication CVE-2026-44963 RCE 脆弱性（2026年）](./veeam-cve-2026-44963-rce.md) | 2026-06-28 | 1件 |
+| [Polymarket サードパーティ侵害・フロントエンドスクリプト注入（2026年6月）](./polymarket-supply-chain-attack-2026.md) | 2026-06-28 | 1件 |
 | [Polymarket フロントエンド侵害（2026年6月）](./polymarket-frontend-breach-2026.md) | 2026-06-27 | 1件 |
 | [OpenAI「Poisoned Tenant」フィッシングキャンペーン（2026年）](./openai-poisoned-tenant-2026.md) | 2026-06-27 | 2件 |
 | [macOS.Gaslight：北朝鮮関連マルウェアによるAIマルウェア解析回避（2026年6月）](./macos-gaslight-north-korea-2026.md) | 2026-06-27 | 1件 |
@@ -197,7 +201,6 @@
 | [Texas Parks & Wildlife Department 第三者ベンダー侵害（2026年6月）](./texas-parks-wildlife-breach-2026.md) | 2026-06-22 | 1件 |
 | [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
 | [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
-| [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
 | [Android CVE-2025-48595 特権昇格ゼロデイ（2026年6月）](./android-cve-2025-48595-zero-day.md) | 2026-06-22 | 2件 |
 | [usbliter8 — Apple A12/A13 パッチ不可能 BootROM エクスプロイト（2026年）](./usbliter8-apple-bootrom-2026.md) | 2026-06-21 | 2件 |
 | [SAP NetWeaver クリティカル脆弱性（2026年6月）](./sap-netweaver-saml-critical-june-2026.md) | 2026-06-21 | 1件 |
