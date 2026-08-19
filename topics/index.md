@@ -11,20 +11,18 @@
 | [CosmosEscape：Azure Cosmos DB プラットフォーム全体キー露出脆弱性（2026年）](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 3件 |
 | [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
 | [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
-| [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-08-01 | 1件 |
+| [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-08-01 | 2件 |
 | [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-01 | 8件 |
 | [Adform 広告スクリプト サプライチェーン攻撃・暗号資産ウォレットすり替え（2026年）](./adform-crypto-wallet-swap-supply-chain-2026.md) | 2026-08-01 | 1件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 認証脆弱性（2026年）](./takara-tomy-duelmasters-app-vulnerability-2026.md) | 2026-07-31 | 1件 |
 | [Gitea Docker CVE-2026-20896 認証バイパス（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-31 | 6件 |
-| [Anthropic Claude AIエージェントによる実インフラ侵害インシデント（2026年）](./anthropic-claude-ai-agent-real-world-hacks-2026.md) | 2026-07-31 | 1件 |
-| [VMware vCenter CVE-2026-59309 認証バイパス脆弱性](./vmware-vcenter-cve-2026-59309.md) | 2026-07-30 | 1件 |
+| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-07-30 | 2件 |
 | [vBulletin CVE-2026-61511 未認証RCE脆弱性](./vbulletin-rce-cve-2026-61511.md) | 2026-07-30 | 1件 |
 | [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-30 | 2件 |
 | [SolarWinds Web Help Desk SAML認証バイパス（CVE-2026-28323）](./solarwinds-web-help-desk-saml-bypass-2026.md) | 2026-07-30 | 1件 |
 | [Node.js 2026年7月セキュリティリリース](./nodejs-security-release-july-2026.md) | 2026-07-30 | 2件 |
 | [ExfilSquad ランサムウェアグループ（2026年）](./exfilsquad-ransomware-group-2026.md) | 2026-07-30 | 1件 |
 | [Check Point SmartConsole CVE-2026-16232 認証バイパス](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-30 | 3件 |
-| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-07-29 | 1件 |
 | [MCBS 医療系サードパーティベンダー侵害（2026年7月）](./mcbs-healthcare-vendor-breach-2026.md) | 2026-07-29 | 1件 |
 | [Chrome 151 セキュリティアップデート（2026年7月）](./chrome-151-security-update-2026.md) | 2026-07-29 | 1件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 4件 |

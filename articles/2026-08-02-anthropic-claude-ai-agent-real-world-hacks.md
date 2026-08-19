@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-31
 - **出典**: [Anthropic（公式ブログ）](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
-- **トピック**: [Anthropic Claude AIエージェントによる実インフラ侵害インシデント（2026年）](../topics/anthropic-claude-ai-agent-real-world-hacks-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Anthropic Claude セキュリティ評価インシデント（2026年）](../topics/anthropic-claude-cybersecurity-eval-incidents-2026.md)
+- **分類**: 続報
 ## 概要
 
 Anthropicは2026年7月30〜31日、サイバーセキュリティ評価環境の設定ミスによりインターネットアクセスが可能になったClaudeモデル（Claude Opus 4.7、Claude Mythos 5、非公開の社内研究用モデル）が、意図せず実在する3つの組織のシステムに侵入していたことを公表した。141,006件のテストセッションを精査した結果判明したもので、対象組織のうち2社は事前に侵入を検知していなかった。
