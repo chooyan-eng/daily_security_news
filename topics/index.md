@@ -11,7 +11,7 @@
 | [Microsoft Patch Tuesday 2026年7月](./microsoft-patch-tuesday-july-2026.md) | 2026-07-16 | 2件 |
 | [Media Land / ML.Cloud バレットプルーフホスティング起訴（2026年7月）](./media-land-bulletproof-hosting-indictment-2026.md) | 2026-07-16 | 1件 |
 | [Firefox・Chrome 複数重大脆弱性（2026年7月）](./firefox-chrome-critical-vulnerabilities-2026.md) | 2026-07-16 | 1件 |
-| [D1R ランサムウェアグループ・Synopsys/Bosch恐喝主張（2026年7月）](./d1r-ransomware-synopsys-bosch-2026.md) | 2026-07-16 | 1件 |
+| [D1R グループによるSynopsys・Bosch侵害主張（2026年7月）](./d1r-synopsys-bosch-claim-2026.md) | 2026-07-16 | 2件 |
 | [Claude for Chrome ClaudeBleed脆弱性（2026年）](./claude-for-chrome-claudebleed-2026.md) | 2026-07-16 | 1件 |
 | [UEFIシムによるSecure Bootバイパス（CVE-2026-8863/CVE-2026-10797）](./uefi-secure-boot-bypass-shims-2026.md) | 2026-07-14 | 1件 |
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-14 | 1件 |
@@ -26,7 +26,6 @@
 | [ファブリカホールディングス メディア4u 不正アクセス（2026年7月）](./fabrica-holdings-media4u-breach-2026.md) | 2026-07-14 | 1件 |
 | [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-07-14 | 3件 |
 | [DHS Homeland Security Information Network（HSIN）侵害（2026年5-7月）](./dhs-hsin-breach-2026.md) | 2026-07-14 | 5件 |
-| [D1R グループによるSynopsys・Bosch侵害主張（2026年7月）](./d1r-synopsys-bosch-claim-2026.md) | 2026-07-14 | 1件 |
 | [AssuranceAmerica 従業員アカウント侵害によるデータ侵害（2026年3月発生・7月通知）](./assuranceamerica-breach-2026.md) | 2026-07-14 | 2件 |
 | [Samsung 2026年7月セキュリティパッチ](./samsung-july-2026-security-patch.md) | 2026-07-13 | 1件 |
 | [UNK_MassTraction Roundcube悪用キャンペーン（2026年）](./roundcube-unk-masstraction-2026.md) | 2026-07-13 | 2件 |

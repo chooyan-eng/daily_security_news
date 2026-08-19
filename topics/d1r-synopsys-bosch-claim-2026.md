@@ -9,7 +9,12 @@
 - 主張日: 2026年7月14日
 - 主張内容: Synopsys経由で4万件の顧客DBにアクセス、Bosch知的財産へも波及
 - Synopsysの結論: 侵害の証拠なし、脅威アクターからの接触もなし
+- 脅威アクター: D1R（新興グループ、リークサイト掲載被害者は3件のみ）
+- 主張対象企業: Synopsys（EDA大手）、Bosch（ドイツの大手エンジニアリング企業）
+- 手口の主張: Synopsys登録フォームのロジック不備によるデータベース窃取
+- 企業側の反応: Synopsysは侵害の証拠なしとして否定
 
 ## タイムライン
 
+- [2026-07-16 新興ランサムウェアグループD1R、Synopsys侵害を主張しBoschを恐喝（Synopsysは否定）](../articles/2026-07-16-d1r-ransomware-synopsys-bosch.md)
 - [2026-07-14 新興ランサムウェアグループD1R、Synopsys・Bosch侵害を主張するも証拠は疑わしい](../articles/2026-07-15-d1r-synopsys-bosch-claim.md)
