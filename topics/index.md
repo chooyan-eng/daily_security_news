@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-13 | 4件 |
+| [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-08-13 | 1件 |
+| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-13 | 3件 |
+| [北朝鮮リモートIT労働者による組織潜入問題（2026年）](./north-korea-it-worker-infiltration-2026.md) | 2026-08-13 | 1件 |
+| [Microsoft Patch Tuesday 2026年8月](./microsoft-patch-tuesday-august-2026.md) | 2026-08-13 | 1件 |
+| [Clopランサムウェアグループ、Philipsを新たな被害者として掲載（2026年8月）](./clop-ransomware-philips-2026.md) | 2026-08-13 | 1件 |
+| [Cisco Secure Firewall ASA/FTD CVE-2026-20349 積極的悪用（2026年8月）](./cisco-asa-ftd-cve-2026-20349.md) | 2026-08-13 | 1件 |
+| [中国系脅威アクターによる「準自律型」AIエージェント攻撃：台湾政府機関を標的（2026年7-8月）](./china-ai-agent-taiwan-attack-2026.md) | 2026-08-13 | 1件 |
+| [SpyNote×WindRelay：Android NFCリレー詐欺による銀行アプリ不正利用（2026年8月）](./android-spynote-windrelay-nfc-2026.md) | 2026-08-13 | 1件 |
+| [Adobe Commerce / Magento CVE-2026-71362 アカウント乗っ取り脆弱性の積極的悪用（2026年8月）](./adobe-commerce-cve-2026-71362.md) | 2026-08-13 | 1件 |
 | [Windows AFD.sys ゼロデイ CVE-2026-68820・Lazarus悪用（2026年8月）](./windows-afd-sys-cve-2026-68820-lazarus.md) | 2026-08-12 | 1件 |
 | [Microsoft SharePoint CVE-2026-63520 RCE 脆弱性チェーン（2026年8月）](./sharepoint-cve-2026-63520-rce.md) | 2026-08-12 | 1件 |
 | [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-12 | 2件 |
@@ -56,7 +66,6 @@
 | [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-08-04 | 6件 |
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-breach-2026.md) | 2026-08-04 | 1件 |
 | [Adform サプライチェーン攻撃・暗号資産アドレス改ざん（2026年）](./adform-supply-chain-crypto-stealer-2026.md) | 2026-08-04 | 1件 |
-| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-03 | 3件 |
 | [英国警察法務データベース（PNLD）侵害（2026年8月）](./uk-pnld-breach-2026.md) | 2026-08-03 | 1件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-08-03 | 5件 |
 | [EPARKリラク&エステ PeakManager 不正アクセス（2026年8月）](./epark-peakmanager-breach-2026.md) | 2026-08-03 | 2件 |
@@ -170,6 +179,11 @@
 | [ファブリカホールディングス メディア4u 不正アクセス（2026年7月）](./fabrica-holdings-media4u-breach-2026.md) | 2026-07-14 | 1件 |
 | [DHS Homeland Security Information Network（HSIN）侵害（2026年5-7月）](./dhs-hsin-breach-2026.md) | 2026-07-14 | 5件 |
 | [AssuranceAmerica 従業員アカウント侵害によるデータ侵害（2026年3月発生・7月通知）](./assuranceamerica-breach-2026.md) | 2026-07-14 | 2件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Samsung 2026年7月セキュリティパッチ](./samsung-july-2026-security-patch.md) | 2026-07-13 | 1件 |
 | [UNK_MassTraction Roundcube悪用キャンペーン（2026年）](./roundcube-unk-masstraction-2026.md) | 2026-07-13 | 2件 |
 | [ModHeader 悪性ブラウザ拡張機能（2026年）](./modheader-malicious-extension-2026.md) | 2026-07-13 | 1件 |
@@ -177,11 +191,6 @@
 | [Lidl オンラインショップ第三者ベンダー侵害（2026年7月）](./lidl-third-party-breach-2026.md) | 2026-07-13 | 1件 |
 | [Citrix NetScaler CVE-2026-8451 等 6件の脆弱性（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-13 | 7件 |
 | [AssuranceAmerica データ侵害（2026年）](./assuranceamerica-data-breach-2026.md) | 2026-07-13 | 2件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
 | [WP-SHELLSTORM WordPress ウェブシェルブローカー活動（2026年）](./wp-shellstorm-webshell-brokerage-2026.md) | 2026-07-12 | 1件 |
 | [パキスタン法執行機関への中国・インド系サイバースパイ活動（2026年）](./pakistan-law-enforcement-cyber-espionage-2026.md) | 2026-07-12 | 1件 |
 | [npmサプライチェーン攻撃・暗号資産ウォレット窃取（2026年7月）](./npm-supply-chain-crypto-wallet-2026.md) | 2026-07-12 | 1件 |
@@ -247,7 +256,6 @@
 | [macOS.Gaslight：北朝鮮関連マルウェアによるAIマルウェア解析回避（2026年6月）](./macos-gaslight-north-korea-2026.md) | 2026-06-27 | 1件 |
 | [2026年6月26日侵害クラスター（MagMutual・Atlas Elektronik等）](./june26-2026-breach-cluster.md) | 2026-06-27 | 1件 |
 | [DCloud Uni-App 悪用によるグローバル詐欺インフラ（2026年）](./dcloud-uniapp-scam-infrastructure-2026.md) | 2026-06-27 | 1件 |
-| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-06-26 | 2件 |
 | [SIMスワッピング犯罪組織摘発（ポーランド・FBI、2026年6月）](./poland-sim-swap-arrest-2026.md) | 2026-06-26 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-26 | 2件 |
 | [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-26 | 3件 |
