@@ -2,7 +2,7 @@
 
 - **日付**: 2026-08-11
 - **出典**: [n8n Blog](https://blog.n8n.io/metabase-security-incident-update/)
-- **トピック**: [Metabase 認証不要SQLi ゼロデイ（CVSS 10.0）実悪用（2026年8月）](../topics/metabase-sqli-zero-day-2026.md)
+- **トピック**: [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](../topics/metabase-sqli-zeroday-2026.md)
 - **分類**: 続報
 
 ## 概要

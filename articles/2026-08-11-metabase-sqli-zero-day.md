@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-11
 - **出典**: [The Hacker News](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
-- **トピック**: [Metabase 認証不要SQLi ゼロデイ（CVSS 10.0）実悪用（2026年8月）](../topics/metabase-sqli-zero-day-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](../topics/metabase-sqli-zeroday-2026.md)
+- **分類**: 続報
 ## 概要
 
 BIツール Metabase（v1.58以降）に存在する未認証SQLインジェクションのゼロデイ脆弱性（CVSSスコア10.0、CVE番号未採番）が実際の攻撃で悪用されていることが判明した。未認証の攻撃者が `/api/session/reset_password` エンドポイント経由で任意のSQLを注入し、管理者権限を奪取できる。

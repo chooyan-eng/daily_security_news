@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-11
 - **出典**: [TechCrunch](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
-- **トピック**: [CEVA Logistics 欧州事業侵害・大規模データ流出（2026年8月）](../topics/ceva-logistics-breach-2026.md)
-- **分類**: 新規
-
+- **トピック**: [CEVA Logistics サプライチェーン侵害の連鎖（2026年8月）](../topics/ceva-logistics-supply-chain-breach-2026.md)
+- **分類**: 続報
 ## 概要
 
 物流大手CEVA Logisticsが2026年7月29日〜8月1日にサイバー攻撃を受け、Steam Deck等のValve製ハードウェアの欧州向け配送データを含む顧客情報が流出した。Valveは8月7日に侵害を把握し、影響を受けた顧客へ通知した。銀行・小売業者など他の取引先にも影響が波及している。
