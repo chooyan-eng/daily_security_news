@@ -4,16 +4,19 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 1件 |
+| [Ruby on Rails Active Storage CVE-2026-66066 任意ファイル読み取り・RCE脆弱性](./rails-active-storage-cve-2026-66066.md) | 2026-08-02 | 4件 |
+| [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 2件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
-| [Ruby on Rails Active Storage CVE-2026-66066 任意ファイル読み取り・RCE脆弱性](./rails-active-storage-cve-2026-66066.md) | 2026-08-01 | 3件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-01 | 8件 |
-| [CosmosEscape：Azure Cosmos DB プラットフォーム全体の乗っ取り脆弱性](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 2件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-01 | 9件 |
+| [CosmosEscape：Azure Cosmos DB プラットフォーム全体キー露出脆弱性（2026年）](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 3件 |
 | [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
 | [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
-| [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-08-01 | 1件 |
+| [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-08-01 | 2件 |
 | [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-01 | 8件 |
-| [VMware vCenter CVE-2026-59309 認証バイパス脆弱性](./vmware-vcenter-cve-2026-59309.md) | 2026-07-30 | 1件 |
+| [Adform 広告スクリプト サプライチェーン攻撃・暗号資産ウォレットすり替え（2026年）](./adform-crypto-wallet-swap-supply-chain-2026.md) | 2026-08-01 | 1件 |
+| [タカラトミー デュエル・マスターズ サポートアプリ 認証脆弱性（2026年）](./takara-tomy-duelmasters-app-vulnerability-2026.md) | 2026-07-31 | 1件 |
+| [Gitea Docker CVE-2026-20896 認証バイパス（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-31 | 6件 |
+| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-07-30 | 2件 |
 | [vBulletin CVE-2026-61511 未認証RCE脆弱性](./vbulletin-rce-cve-2026-61511.md) | 2026-07-30 | 1件 |
 | [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-30 | 2件 |
 | [SolarWinds Web Help Desk SAML認証バイパス（CVE-2026-28323）](./solarwinds-web-help-desk-saml-bypass-2026.md) | 2026-07-30 | 1件 |
@@ -22,7 +25,7 @@
 | [Check Point SmartConsole CVE-2026-16232 認証バイパス](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-30 | 3件 |
 | [MCBS 医療系サードパーティベンダー侵害（2026年7月）](./mcbs-healthcare-vendor-breach-2026.md) | 2026-07-29 | 1件 |
 | [Chrome 151 セキュリティアップデート（2026年7月）](./chrome-151-security-update-2026.md) | 2026-07-29 | 1件 |
-| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 3件 |
+| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 4件 |
 | [OpenWrt CVE-2026-53921 DHCPv6スタックオーバーフロー（2026年7月）](./openwrt-cve-2026-53921-dhcpv6-rce.md) | 2026-07-28 | 1件 |
 | [ナカバヤシ「REVEX」製品サイト不正アクセス（2026年7月）](./nakabayashi-revex-breach-2026.md) | 2026-07-28 | 1件 |
 | [MCBS 医療請求代行企業データ侵害（2026年）](./mcbs-medical-billing-breach-2026.md) | 2026-07-28 | 1件 |
@@ -118,7 +121,6 @@
 | [ModHeader 悪性ブラウザ拡張機能（2026年）](./modheader-malicious-extension-2026.md) | 2026-07-13 | 1件 |
 | [MemGhost AIエージェント記憶汚染攻撃（2026年）](./memghost-ai-agent-memory-poisoning-2026.md) | 2026-07-13 | 1件 |
 | [Lidl オンラインショップ第三者ベンダー侵害（2026年7月）](./lidl-third-party-breach-2026.md) | 2026-07-13 | 1件 |
-| [Gitea Docker CVE-2026-20896 認証バイパス（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-13 | 5件 |
 | [Citrix NetScaler CVE-2026-8451 等 6件の脆弱性（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-13 | 7件 |
 | [AssuranceAmerica データ侵害（2026年）](./assuranceamerica-data-breach-2026.md) | 2026-07-13 | 2件 |
 | [WP-SHELLSTORM WordPress ウェブシェルブローカー活動（2026年）](./wp-shellstorm-webshell-brokerage-2026.md) | 2026-07-12 | 1件 |
