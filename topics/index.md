@@ -5,7 +5,7 @@
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-20 | 3件 |
-| [SonicWall SMA 1000 VPNゼロデイチェーン・UTA0533（2026年）](./sonicwall-sma-zero-day-uta0533-2026.md) | 2026-07-20 | 1件 |
+| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-20 | 4件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-20 | 1件 |
 | [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-20 | 1件 |
@@ -27,7 +27,6 @@
 | [Ernst & Young サポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-18 | 2件 |
 | [Zoom Windowsクライアント CVE-2026-53412 アカウント乗っ取り脆弱性](./zoom-windows-cve-2026-53412.md) | 2026-07-17 | 1件 |
 | [Zimbra Classic Web Client 保存型XSS脆弱性（2026年7月）](./zimbra-classic-web-client-xss-2026.md) | 2026-07-17 | 2件 |
-| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-17 | 3件 |
 | [Mirax Androidバンキングトロイ（MaaS、2026年）](./mirax-android-banking-trojan-2026.md) | 2026-07-17 | 1件 |
 | [miniOrange WordPress OAuth SSO プラグイン 認証バイパス（CVE-2026-57807）](./miniorange-wordpress-oauth-sso-cve-2026-57807.md) | 2026-07-17 | 2件 |
 | [Microsoft SharePoint／AD FS ゼロデイ悪用（CVE-2026-56164・CVE-2026-56155、2026年7月）](./microsoft-sharepoint-adfs-cve-2026-56164.md) | 2026-07-17 | 1件 |

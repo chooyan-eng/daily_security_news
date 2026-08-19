@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-20
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
-- **トピック**: [SonicWall SMA 1000 VPNゼロデイチェーン・UTA0533（2026年）](../topics/sonicwall-sma-zero-day-uta0533-2026.md)
-- **分類**: 新規
-
+- **トピック**: [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](../topics/sonicwall-sma1000-cve-2026-15409.md)
+- **分類**: 続報
 ## 概要
 
 セキュリティ企業Volexityは、SonicWall Secure Mobile Access（SMA）1000シリーズVPNアプライアンスに存在する2件の脆弱性CVE-2026-15409（CVSS 10.0）とCVE-2026-15410（CVSS 7.2）が、正式な公開・パッチ提供以前の2026年6月22日頃からゼロデイとして悪用されていたと報告した。攻撃者（Volexityが「UTA0533」と追跡する未文書化の脅威アクター）はこれらを連鎖させroot権限を奪取し、カスタムマルウェアをアプライアンスに展開していた。
