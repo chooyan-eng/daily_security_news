@@ -15,10 +15,13 @@ SOCRadar が「FortiBleed」と命名した Fortinet FortiGate Firewall を標�
 - CISA アラート発令日: 2026年6月19日
 - ランサムウェアとの関連: INC Ransom・Lynx（2026年7月、SOCRadarが交渉パネルログイン痕跡と被害者リスト重複を確認）
 - 侵害デバイス上のバックドアアカウント: "adminin"
+- 最新侵害台数: 86,644台（インターネット公開FortiGateの約50%）
+- 主要手法: デフォルト認証情報、パスワードリスト攻撃、トラフィック傍受
 
 ## タイムライン
 
 - [2026-07-05 FortiBleed認証情報流出キャンペーン、INC・Lynxランサムウェアグループと直接関連と判明](../articles/2026-07-05-fortibleed-inc-lynx-ransomware-link.md)
+- [2026-06-27 FortiBleed続報：侵害規模が430,000台のFortiGateデバイス・1.1億件の認証情報に拡大か](../articles/2026-06-27-fortibleed-430k-fortigate-110m-credentials.md)
 - [2026-06-23 FortiBleed 続報：攻撃者が3万件の「有効なFortinet ログイン」データベースを構築](../articles/2026-06-23-fortibleed-30k-working-logins.md)
 - [2026-06-22 FortiBleed続報：CISAがFortinetユーザーに緊急対策を要請、侵害デバイス数86,644台に](../articles/2026-06-22-fortibleed-cisa-86k-warning.md)
 - [2026-06-21 FortiBleed続報 — 侵害デバイス86,644台に拡大、CISA が緊急警告・デフォルトアカウント悪用が主因](../articles/2026-06-21-fortibleed-86k-cisa-warning.md)
