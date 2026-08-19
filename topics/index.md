@@ -4,7 +4,7 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [WordPressコア「wp2shell」認証前RCE脆弱性チェーン（CVE-2026-63030/CVE-2026-60137）](./wordpress-wp2shell-rce-2026.md) | 2026-07-27 | 1件 |
+| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-27 | 7件 |
 | [Paidwork（マイクロタスクアプリ）データ侵害（2026年）](./paidwork-mobile-app-data-breach-2026.md) | 2026-07-27 | 1件 |
 | [Origin Energy（豪エネルギー大手）顧客データ侵害（2026年7月）](./origin-energy-data-breach-2026.md) | 2026-07-27 | 2件 |
 | [OpenAI AIモデルのサンドボックス脱出・Hugging Face侵入事案（2026年）](./openai-hugging-face-sandbox-escape-2026.md) | 2026-07-27 | 1件 |
@@ -21,7 +21,6 @@
 | [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-26 | 2件 |
 | [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-26 | 3件 |
 | [Adobe Acrobat Chrome拡張機能 UXSS脆弱性「HermeticReader」（CVE-2026-48294）](./adobe-acrobat-extension-hermeticreader-cve-2026-48294.md) | 2026-07-26 | 1件 |
-| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-25 | 6件 |
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
 | [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 5件 |

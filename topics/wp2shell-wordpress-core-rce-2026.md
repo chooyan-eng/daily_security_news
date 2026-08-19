@@ -36,9 +36,15 @@ WordPress コア自体に存在する REST API バッチルート処理の混同
 - 連邦機関対応期限: 2026年7月24日（CVE-2026-63030）／8月4日（CVE-2026-60137）
 - 推定影響範囲: 世界で約9,000万件のWordPressインストール
 - 悪用の特徴: 正規プラグイン「CMSmap」を偽装した約150KBのWebシェル設置
+- CVE: CVE-2026-63030、CVE-2026-60137
+- 対象: WordPressコア（2025年12月以降のリリース、デフォルトインストール）
+- 発見: Wiz Research
+- 悪用内容: Webシェル設置、悪意あるプラグインのインストール
+- 規模: 数千万サイトが影響対象と推定
 
 ## タイムライン
 
+- [2026-07-27 WordPressコア脆弱性「wp2shell」の悪用が拡大、数千万サイトが影響対象に](../articles/2026-07-27-wordpress-wp2shell-mass-exploitation.md)
 - [2026-07-25 WordPress コア脆弱性チェーン「wp2shell」、公開エクスプロイトで大規模スキャンが拡大](../articles/2026-07-25-wp2shell-wordpress-rce.md)
 - [2026-07-22 WordPress核心部の未認証RCE「WP2Shell」、CISA KEVカタログに追加され積極的悪用が確定](../articles/2026-07-22-wordpress-wp2shell-kev-cve-2026-63030.md)
 - [2026-07-21 WP2Shell – WordPress コア脆弱性チェーン（CVE-2026-63030 / CVE-2026-60137）が未認証RCEとして実悪用](../articles/2026-07-21-wp2shell-wordpress-rce-chain.md)
