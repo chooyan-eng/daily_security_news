@@ -4,8 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-19 | 2件 |
+| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-20 | 3件 |
+| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-20 | 4件 |
+| [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
+| [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-20 | 1件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-20 | 1件 |
+| [Craneware ヘルスケア請求ソフトウェアデータ侵害（2026年7月）](./craneware-data-breach-2026.md) | 2026-07-20 | 1件 |
+| [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-20 | 1件 |
 | [ViteVenom npm サプライチェーン攻撃（2026年7月）](./vitevenom-npm-supply-chain-2026.md) | 2026-07-19 | 2件 |
+| [UAC-0145（Sandworm系）ClickFix・Android偽アプリキャンペーン（2026年）](./uac0145-sandworm-clickfix-2026.md) | 2026-07-19 | 1件 |
 | [Spirals ランサムウェア（2026年）](./spirals-ransomware-2026.md) | 2026-07-19 | 1件 |
 | [SharePoint CVE-2026-58644 未認証デシリアライゼーションRCE（2026年7月）](./sharepoint-cve-2026-58644-2026.md) | 2026-07-19 | 2件 |
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-07-19 | 5件 |
@@ -20,7 +27,6 @@
 | [Ernst & Young サポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-18 | 2件 |
 | [Zoom Windowsクライアント CVE-2026-53412 アカウント乗っ取り脆弱性](./zoom-windows-cve-2026-53412.md) | 2026-07-17 | 1件 |
 | [Zimbra Classic Web Client 保存型XSS脆弱性（2026年7月）](./zimbra-classic-web-client-xss-2026.md) | 2026-07-17 | 2件 |
-| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-17 | 3件 |
 | [Mirax Androidバンキングトロイ（MaaS、2026年）](./mirax-android-banking-trojan-2026.md) | 2026-07-17 | 1件 |
 | [miniOrange WordPress OAuth SSO プラグイン 認証バイパス（CVE-2026-57807）](./miniorange-wordpress-oauth-sso-cve-2026-57807.md) | 2026-07-17 | 2件 |
 | [Microsoft SharePoint／AD FS ゼロデイ悪用（CVE-2026-56164・CVE-2026-56155、2026年7月）](./microsoft-sharepoint-adfs-cve-2026-56164.md) | 2026-07-17 | 1件 |
@@ -159,15 +165,15 @@
 | [Google Vertex AI SDK バケット乗っ取り脆弱性「Pickle in the Middle」（2026年）](./google-vertex-ai-sdk-pickle-2026.md) | 2026-06-20 | 1件 |
 | [CryptoBandits Windows クリプト・クリッパーキャンペーン（2026年）](./cryptobandits-windows-crypto-clipper-2026.md) | 2026-06-20 | 1件 |
 | [Atomic Arch AUR サプライチェーン攻撃（2026年6月）](./atomic-arch-aur-supply-chain-2026.md) | 2026-06-20 | 1件 |
-| [Splunk Enterprise CVE-2026-20253 未認証RCE](./splunk-cve-2026-20253-rce.md) | 2026-06-19 | 1件 |
-| [NGINX 複数脆弱性（2026年6月）](./nginx-vulnerabilities-june-2026.md) | 2026-06-19 | 1件 |
-| [HTTP/2 Bomb CVE-2026-49975](./http2-bomb-cve-2026-49975.md) | 2026-06-19 | 1件 |
-| [Apple Beats Studio Buds Bluetooth盗聴脆弱性（CVE-2025-20701）](./apple-beats-bluetooth-cve-2025-20701.md) | 2026-06-19 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Splunk Enterprise CVE-2026-20253 未認証RCE](./splunk-cve-2026-20253-rce.md) | 2026-06-19 | 1件 |
+| [NGINX 複数脆弱性（2026年6月）](./nginx-vulnerabilities-june-2026.md) | 2026-06-19 | 1件 |
+| [HTTP/2 Bomb CVE-2026-49975](./http2-bomb-cve-2026-49975.md) | 2026-06-19 | 1件 |
+| [Apple Beats Studio Buds Bluetooth盗聴脆弱性（CVE-2025-20701）](./apple-beats-bluetooth-cve-2025-20701.md) | 2026-06-19 | 1件 |
 | [北朝鮮 APT37（ScarCruft）NarwhalRAT スピアフィッシングキャンペーン（2026年6月）](./scarcruft-apt37-narwhalrat-2026.md) | 2026-06-18 | 1件 |
 | [Oracle Critical Security Patch Update 2026年6月](./oracle-cspu-june-2026.md) | 2026-06-18 | 1件 |
 | [Meta Instagram AI Supportチャットボット悪用による2万アカウント乗っ取り（2026年6月）](./meta-instagram-ai-support-hack-2026.md) | 2026-06-18 | 1件 |
