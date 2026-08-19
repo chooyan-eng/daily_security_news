@@ -2,7 +2,7 @@
 
 - **日付**: 2026-07-03
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)（Sysdig調査）
-- **トピック**: [自律型AIエージェントによるランサムウェア攻撃（2026年）](../topics/ai-agent-autonomous-ransomware-2026.md)
+- **トピック**: [JADEPUFFER 自律型AIエージェント・ランサムウェア（2026年）](../topics/jadepuffer-agentic-ransomware-2026.md)
 - **分類**: 新規
 
 ## 概要

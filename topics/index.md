@@ -9,7 +9,7 @@
 | [メール配信システム「める配くん」不正アクセス（2026年6月）](./meruhaikun-email-delivery-breach-2026.md) | 2026-07-05 | 1件 |
 | [Kubota North America 従業員データ侵害（2026年）](./kubota-north-america-breach-2026.md) | 2026-07-05 | 1件 |
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-07-05 | 1件 |
-| [JADEPUFFER 自律型AIエージェント・ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-05 | 1件 |
+| [JADEPUFFER 自律型AIエージェント・ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-05 | 2件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-07-05 | 9件 |
 | [DHS 情報共有プラットフォーム「HSIN」侵害（2026年）](./dhs-hsin-breach-2026.md) | 2026-07-05 | 4件 |
 | [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-07-05 | 5件 |
@@ -26,7 +26,6 @@
 | [保護者連絡アプリ「ミマモルメ」個人情報誤配信事案（2026年）](./osaka-mimamorume-data-misdelivery-2026.md) | 2026-07-03 | 1件 |
 | [Medtronic データ侵害事件（ShinyHunters、2026年）](./medtronic-shinyhunters-breach-2026.md) | 2026-07-03 | 1件 |
 | [Apache Tomcat 複数脆弱性（2026年6月）](./apache-tomcat-vulnerabilities-june-2026.md) | 2026-07-03 | 1件 |
-| [自律型AIエージェントによるランサムウェア攻撃（2026年）](./ai-agent-autonomous-ransomware-2026.md) | 2026-07-03 | 1件 |
 | [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-07-01 | 2件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-01 | 3件 |
 | [サッポロホールディングス海外子会社不正アクセス（2026年）](./sapporo-holdings-overseas-breach-2026.md) | 2026-07-01 | 1件 |
