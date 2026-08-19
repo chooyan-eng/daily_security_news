@@ -4,14 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [wp2shell — WordPress コア脆弱性チェーン RCE（2026年7月）](./wp2shell-wordpress-rce-2026.md) | 2026-07-25 | 1件 |
+| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-25 | 6件 |
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
 | [LAUNDRY BEAR — Zimbra ゼロクリックXSSゼロデイ悪用作戦（CVE-2025-66376）](./laundrybear-zimbra-zeroday-2026.md) | 2026-07-25 | 1件 |
 | [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-25 | 1件 |
 | [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-25 | 1件 |
 | [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 5件 |
-| [Chick-fil-A クレデンシャルスタッフィング侵害（2026年）](./chick-fil-a-credential-stuffing-2026.md) | 2026-07-25 | 1件 |
+| [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-25 | 2件 |
 | [Certighost — AD CS ドメインコントローラーなりすまし脆弱性（CVE-2026-54121）](./certighost-cve-2026-54121-adcs.md) | 2026-07-25 | 1件 |
 | [Windmill CVE-2026-29059 未認証パストラバーサル悪用（2026年）](./windmill-cve-2026-29059-path-traversal.md) | 2026-07-24 | 1件 |
 | [Microsoft SharePoint Server CVE-2026-50522 マシンキー窃取キャンペーン（2026年7月）](./sharepoint-cve-2026-50522-machine-key-theft.md) | 2026-07-24 | 1件 |
@@ -32,8 +32,6 @@
 | [JadeProx TriBack Loader 中国系スパイキャンペーン（2026年）](./jadeprox-triback-loader-china-2026.md) | 2026-07-23 | 1件 |
 | [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-23 | 3件 |
 | [Chrome定例セキュリティアップデート（2026年7月）](./chrome-stable-security-update-2026-07.md) | 2026-07-23 | 1件 |
-| [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-23 | 1件 |
-| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-22 | 5件 |
 | [Uber Eats・Starbucks 利用者データ流出主張（インフォスティーラー由来、2026年7月）](./uber-eats-starbucks-stealer-log-leak-2026.md) | 2026-07-22 | 1件 |
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-22 | 5件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-22 | 3件 |

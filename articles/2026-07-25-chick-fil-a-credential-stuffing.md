@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-25
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
-- **トピック**: [Chick-fil-A クレデンシャルスタッフィング侵害（2026年）](../topics/chick-fil-a-credential-stuffing-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](../topics/chick-fil-a-credential-stuffing-breach-2026.md)
+- **分類**: 続報
 ## 概要
 
 Chick-fil-Aは、公式サイトとモバイルアプリ「Chick-fil-A One」を狙ったクレデンシャルスタッフィング攻撃により、13,000件超の顧客アカウントが侵害されたと公表した。他社サービスから流出した認証情報を使い回すログイン試行が原因で、同社自身のパスワードDBは侵害されていない。

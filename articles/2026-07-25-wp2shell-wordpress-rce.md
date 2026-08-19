@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-25
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
-- **トピック**: [wp2shell — WordPress コア脆弱性チェーン RCE（2026年7月）](../topics/wp2shell-wordpress-rce-2026.md)
-- **分類**: 新規
-
+- **トピック**: [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](../topics/wp2shell-wordpress-core-rce-2026.md)
+- **分類**: 続報
 ## 概要
 
 WordPressコアに存在する2つの脆弱性（CVE-2026-63030、CVE-2026-60137）を組み合わせた攻撃チェーン「wp2shell」により、未認証の攻撃者がサイトを完全に乗っ取り可能。CISAがKEVカタログに追加し連邦機関に7月24日までの対応を義務付けたが、公開エクスプロイトを使った大規模スキャンと悪用が拡大している。
