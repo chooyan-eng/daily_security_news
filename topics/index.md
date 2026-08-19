@@ -4,14 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [WordPress wp2shell REST API 脆弱性チェーン（2026年7月）](./wordpress-wp2shell-rce-2026.md) | 2026-07-20 | 1件 |
+| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-20 | 3件 |
 | [SonicWall SMA 1000 VPNゼロデイチェーン・UTA0533（2026年）](./sonicwall-sma-zero-day-uta0533-2026.md) | 2026-07-20 | 1件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-20 | 1件 |
 | [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-20 | 1件 |
 | [Craneware ヘルスケア請求ソフトウェアデータ侵害（2026年7月）](./craneware-data-breach-2026.md) | 2026-07-20 | 1件 |
 | [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-20 | 1件 |
-| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-19 | 2件 |
 | [ViteVenom npm サプライチェーン攻撃（2026年7月）](./vitevenom-npm-supply-chain-2026.md) | 2026-07-19 | 2件 |
 | [UAC-0145（Sandworm系）ClickFix・Android偽アプリキャンペーン（2026年）](./uac0145-sandworm-clickfix-2026.md) | 2026-07-19 | 1件 |
 | [Spirals ランサムウェア（2026年）](./spirals-ransomware-2026.md) | 2026-07-19 | 1件 |

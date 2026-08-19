@@ -15,8 +15,15 @@ WordPress コア自体に存在する REST API バッチルート処理の混同
 - 影響バージョン: 6.9.0〜6.9.4、7.0.0〜7.0.1
 - 修正バージョン: 7.0.2、6.9.5、6.8.6
 - 攻撃経路: `/wp-json/batch/v1`（REST APIバッチエンドポイント）
+- 通称: wp2shell
+- CVE: CVE-2026-63030（REST APIバッチルート混乱、WordPress 6.9で導入）、CVE-2026-60137（WP_Query author__not_in SQLインジェクション）
+- 影響バージョン: WordPress 6.9.0〜7.0.1（チェーン悪用）、6.8.0〜6.8.5（CVE-2026-60137単体）
+- 脆弱エンドポイント: `/wp-json/batch/v1`
+- パッチ公開日: 2026-07-17
+- 対応: WordPress.orgによる強制自動更新
 
 ## タイムライン
 
+- [2026-07-20 wp2shell（CVE-2026-63030 + CVE-2026-60137）– WordPress コア REST API 脆弱性チェーンで未認証RCEが野放しで悪用](../articles/2026-07-20-wordpress-wp2shell-rce-chain.md)
 - [2026-07-19 「wp2shell」WordPress コア脆弱性、未認証攻撃者によるリモートコード実行が可能に](../articles/2026-07-19-wp2shell-wordpress-core-rce.md)
 - [2026-07-18 wp2shell：WordPress コア REST API の未認証 RCE 脆弱性（CVE-2026-63030）](../articles/2026-07-18-wp2shell-wordpress-core-rce.md)

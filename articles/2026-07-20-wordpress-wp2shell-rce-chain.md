@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-20
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
-- **トピック**: [WordPress wp2shell REST API 脆弱性チェーン（2026年7月）](../topics/wordpress-wp2shell-rce-2026.md)
-- **分類**: 新規
-
+- **トピック**: [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](../topics/wp2shell-wordpress-core-rce-2026.md)
+- **分類**: 続報
 ## 概要
 
 WordPressコアに存在する2つの脆弱性CVE-2026-63030（REST APIバッチルート処理の混乱）とCVE-2026-60137（WP_Queryのauthor__not_inパラメータにおけるSQLインジェクション）を連鎖させることで、未認証の攻撃者がWordPress 6.9〜7.0.1のサイトで匿名アクセスから管理者権限奪取・リモートコード実行（RCE）まで到達できる「wp2shell」と呼ばれる攻撃チェーンが確認された。7月17日にパッチが公開され、WordPress.orgは対象サイトへの強制自動更新を有効化している。
