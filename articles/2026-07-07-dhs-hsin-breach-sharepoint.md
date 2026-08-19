@@ -2,7 +2,7 @@
 
 - **日付**: 2026-07-07
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/), [UpGuard](https://www.upguard.com/news/department-of-homeland-security-data-breach-2026-07-01), [Nextgov/FCW](https://www.nextgov.com/cybersecurity/2026/06/hackers-breached-dhs-information-sharing-network-people-familiar-say/414534/)
-- **トピック**: [SharePoint Server CVE-2026-45659 デシリアライゼーションRCE（2026年7月）](../topics/sharepoint-cve-2026-45659.md)
+- **トピック**: [Microsoft SharePoint Server CVE-2026-45659 リモートコード実行脆弱性](../topics/sharepoint-cve-2026-45659-rce.md)
 - **分類**: 関連
 
 ## 概要
