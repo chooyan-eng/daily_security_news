@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-19
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
-- **トピック**: [ViteVenom：Vite npm サプライチェーン攻撃（2026年）](../topics/vitevenom-npm-vite-supply-chain-2026.md)
-- **分類**: 新規
-
+- **トピック**: [ViteVenom npm サプライチェーン攻撃（2026年7月）](../topics/vitevenom-npm-supply-chain-2026.md)
+- **分類**: 続報
 ## 概要
 
 フロントエンドビルドツール Vite のエコシステムを標的とした、7件の悪意ある npm パッケージ群「ViteVenom」（Checkmarx 命名）が発見された。既存の攻撃キャンペーン「ChainVeil」の拡張とみられ、Tron・Aptos・Binance Smart Chain にまたがる「4層」のブロックチェーンベース C2 インフラを用いてリモートアクセス型トロイの木馬（RAT）を配布する。パッケージは `@vitejs/*` 名前空間を模したスコープ付きパッケージ名で正規性を装っている。
