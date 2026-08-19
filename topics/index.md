@@ -11,7 +11,7 @@
 | [JADEPUFFER 自律型AIエージェント・ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-06 | 3件 |
 | [Gitea Docker版 認証バイパス脆弱性 CVE-2026-20896（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-06 | 1件 |
 | [AirDrop・Quick Share 近接ファイル共有プロトコル脆弱性（2026年）](./airdrop-quickshare-vulnerabilities-2026.md) | 2026-07-06 | 3件 |
-| [Adobe ColdFusion・Campaign Classic 最大深刻度脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-cve-2026.md) | 2026-07-06 | 1件 |
+| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-06 | 2件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-05 | 3件 |
 | [Microsoft Defender BlueHammer 特権昇格脆弱性（CVE-2026-33825）](./microsoft-defender-bluehammer-cve-2026-33825.md) | 2026-07-05 | 1件 |
 | [メール配信システム「める配くん」不正アクセス（2026年6月）](./meruhaikun-email-delivery-breach-2026.md) | 2026-07-05 | 1件 |
@@ -39,7 +39,6 @@
 | [樋口商会 ランサムウェア攻撃（Stormous、2026年6月）](./higuchi-shokai-stormous-ransomware-2026.md) | 2026-07-01 | 1件 |
 | [Cursor AIコードエディタ サンドボックス脱出脆弱性「DuneSlide」（2026年）](./cursor-ai-duneslide-2026.md) | 2026-07-01 | 1件 |
 | [ブラウザ完結型ランサムウェア（File System Access API悪用、2026年）](./browser-native-ransomware-fsapi-2026.md) | 2026-07-01 | 1件 |
-| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-01 | 1件 |
 | [Silent Swap 暗号資産クリッパー拡張機能キャンペーン（2026年）](./silent-swap-crypto-clipper-2026.md) | 2026-06-30 | 1件 |
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |

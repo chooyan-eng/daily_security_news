@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-06
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html)
-- **トピック**: [Adobe ColdFusion・Campaign Classic 最大深刻度脆弱性（2026年7月）](../topics/adobe-coldfusion-campaign-classic-cve-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](../topics/adobe-coldfusion-campaign-classic-2026.md)
+- **分類**: 続報
 ## 概要
 
 Adobeは2026年7月1日、ウェブアプリケーションサーバーColdFusion（2023／2025）とオンプレミス版Campaign Classic v7に対し、合計9件の脆弱性を修正する緊急パッチを公開した。うち7件がCVSS最大値10.0を記録し、いずれも任意コード実行につながる。Adobeは公開時点で悪用報告はないとしていたが、うち1件は公開後わずか数時間で実悪用が確認された。
