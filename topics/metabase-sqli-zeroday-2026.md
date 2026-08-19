@@ -26,9 +26,16 @@
 - 影響バージョン: 自己ホスト型 Metabase 0.58〜0.63.4
 - 公開日: 2026-08-06、CISA KEV追加日: 2026-08-11
 - 既知の被害: 開示時点で確認された侵害企業 5社以上
+- CVE: CVE-2026-72898
+- 種別: 未認証SQLインジェクション（CWE-89）→ 管理者権限奪取
+- CVSS: 10.0
+- 対象バージョン: 自己ホスト型 Metabase 0.58〜0.63.4（Enterprise 1.x系列含む）
+- 悪用起点: パスワードリセットエンドポイント
+- CISA KEV登録日: 2026年8月11日
 
 ## タイムライン
 
+- [2026-08-17 Metabase CVE-2026-72898：未認証SQLインジェクションで管理者権限奪取、CISA KEVに追加](../articles/2026-08-17-metabase-cve-2026-72898-sqli-kev.md)
 - [2026-08-12 Metabase SQL インジェクション（CVE-2026-72898、CVSS 10.0）で少なくとも5社が侵害 – 接続先データベースの認証情報が根こそぎ流出](../articles/2026-08-12-metabase-cve-2026-72898-sqli.md)
 - [2026-08-11 n8n・Framework 等がMetabaseゼロデイ経由で顧客情報漏洩を確認](../articles/2026-08-11-n8n-framework-metabase-breach.md)
 - [2026-08-11 Metabase 認証不要SQLインジェクション・ゼロデイ（CVSS 10.0）が実悪用、管理者権限奪取が可能に](../articles/2026-08-11-metabase-sqli-zero-day.md)
