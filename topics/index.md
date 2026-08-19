@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-18 | 5件 |
+| [SafePal 注文追跡システム データ侵害（2026年）](./safepal-data-breach-2026.md) | 2026-08-18 | 1件 |
+| [Ray フレームワーク CVE-2025-62593 悪用（2026年）](./ray-cve-2025-62593-browser-rce.md) | 2026-08-18 | 1件 |
+| [Octagon Android バンキング／クリプトボット（2026年）](./octagon-android-banking-trojan-2026.md) | 2026-08-18 | 1件 |
+| [Intraverse Firebase 設定不備による情報漏洩（2026年）](./intraverse-firebase-exposure-2026.md) | 2026-08-18 | 1件 |
+| [GitLab GraphQL コードインジェクション脆弱性（CVE-2026-19478）](./gitlab-graphql-cve-2026-19478.md) | 2026-08-18 | 1件 |
+| [フランス税務当局 DGFiP データ侵害（2026年）](./france-dgfip-tax-breach-2026.md) | 2026-08-18 | 1件 |
+| [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-18 | 1件 |
+| [C2Looper GitHub悪用バックドア（2026年）](./c2looper-github-c2-backdoor-2026.md) | 2026-08-18 | 1件 |
+| [TheHatman による Azure/Entra ID 認証情報侵害キャンペーン（2026年）](./azure-entra-credential-theft-thehatman-2026.md) | 2026-08-18 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 6件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
 | [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-17 | 2件 |
@@ -14,7 +24,6 @@
 | [Azure Logic Apps CVE-2026-56161 情報漏洩脆弱性（2026年8月）](./azure-logic-apps-cve-2026-56161.md) | 2026-08-17 | 1件 |
 | [Apple 傭兵スパイウェア標的通知プログラム（2026年）](./apple-mercenary-spyware-warning-2026.md) | 2026-08-17 | 1件 |
 | [SpyNote×WindRelay：Android NFCリレー詐欺による銀行アプリ不正利用（2026年8月）](./android-spynote-windrelay-nfc-2026.md) | 2026-08-17 | 2件 |
-| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-15 | 4件 |
 | [Presentations.AI ランサムウェア被害（Unsafeグループ、2026年）](./presentations-ai-unsafe-ransomware-2026.md) | 2026-08-15 | 1件 |
 | [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-15 | 10件 |
 | [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-08-15 | 3件 |
@@ -170,14 +179,14 @@
 | [メディア4u SMS配信基盤 不正アクセス（2026年）](./media4u-sms-breach-2026.md) | 2026-07-19 | 1件 |
 | [Ernst & Young（EY）第三者 IT サポート基盤侵害（2026年）](./ey-data-breach-2026.md) | 2026-07-19 | 1件 |
 | [Ecopetrol サイバー攻撃・クラウドストレージ侵害（2026年7月）](./ecopetrol-cyberattack-2026.md) | 2026-07-19 | 1件 |
-| [Windows LegacyHive 特権昇格ゼロデイ（2026年7月）](./windows-legacyhive-zero-day-2026.md) | 2026-07-18 | 1件 |
-| [ニチレイグループ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-18 | 3件 |
-| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-07-18 | 3件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Windows LegacyHive 特権昇格ゼロデイ（2026年7月）](./windows-legacyhive-zero-day-2026.md) | 2026-07-18 | 1件 |
+| [ニチレイグループ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-18 | 3件 |
+| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-07-18 | 3件 |
 | [Zoom Windowsクライアント CVE-2026-53412 アカウント乗っ取り脆弱性](./zoom-windows-cve-2026-53412.md) | 2026-07-17 | 1件 |
 | [Zimbra Classic Web Client 保存型XSS脆弱性（2026年7月）](./zimbra-classic-web-client-xss-2026.md) | 2026-07-17 | 2件 |
 | [Mirax Androidバンキングトロイ（MaaS、2026年）](./mirax-android-banking-trojan-2026.md) | 2026-07-17 | 1件 |
