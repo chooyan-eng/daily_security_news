@@ -12,7 +12,7 @@
 | [GhostApproval：AIコーディングアシスタントのシンボリックリンク信頼境界欠陥（2026年7月）](./ghostapproval-ai-coding-symlink-2026.md) | 2026-07-09 | 1件 |
 | [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-09 | 3件 |
 | [AssuranceAmerica データ侵害（2026年）](./assuranceamerica-data-breach-2026.md) | 2026-07-09 | 1件 |
-| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-09 | 5件 |
+| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-09 | 6件 |
 | [Accenture データ侵害・ソースコード流出（2026年7月）](./accenture-data-breach-2026.md) | 2026-07-09 | 1件 |
 | [Accenture データ侵害 — 脅威アクター「888」（2026年7月）](./accenture-breach-888-2026.md) | 2026-07-09 | 1件 |
 | [XRING — XQUIC HTTP/3 QPACK脆弱性（2026年）](./xring-http3-xquic-vulnerability-2026.md) | 2026-07-08 | 1件 |
@@ -30,7 +30,6 @@
 | [Microsoft SharePoint Server CVE-2026-45659 リモートコード実行脆弱性](./sharepoint-cve-2026-45659-rce.md) | 2026-07-07 | 4件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-07-07 | 10件 |
 | [Azure CLI パスワードスプレーキャンペーン「LSHIY」（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-07 | 4件 |
-| [Adobe ColdFusion CVE-2026-48282 パストラバーサルRCE（2026年7月）](./adobe-coldfusion-cve-2026-48282.md) | 2026-07-07 | 1件 |
 | [AdaptHealth ソーシャルエンジニアリング侵害（2026年6月）](./adapthealth-breach-2026.md) | 2026-07-07 | 1件 |
 | [Oracle E-Business Suite CVE-2026-46817 未認証RCE（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-06 | 3件 |
 | [Operation DragonReturn – 中国系脅威アクターによるインド税務インフラ標的キャンペーン（2026年）](./operation-dragonreturn-china-india-2026.md) | 2026-07-06 | 1件 |
