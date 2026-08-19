@@ -4,10 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [SplitVPN（旧NotVPN）データ侵害（2026年）](./splitvpn-notvpn-breach-2026.md) | 2026-08-04 | 1件 |
+| [Rails Active Storage CVE-2026-66066（KindaRails2Shell、2026年）](./rails-active-storage-cve-2026-66066.md) | 2026-08-04 | 6件 |
+| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-04 | 1件 |
+| [PNLD（英国警察法務データベース）データ侵害（2026年）](./pnld-uk-police-database-breach-2026.md) | 2026-08-04 | 1件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-04 | 1件 |
+| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-04 | 2件 |
+| [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-08-04 | 3件 |
+| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-08-04 | 4件 |
+| [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-breach-2026.md) | 2026-08-04 | 1件 |
+| [Adform サプライチェーン攻撃・暗号資産アドレス改ざん（2026年）](./adform-supply-chain-crypto-stealer-2026.md) | 2026-08-04 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-03 | 3件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-08-03 | 5件 |
-| [Ruby on Rails Active Storage CVE-2026-66066「KindaRails2Shell」](./rails-active-storage-cve-2026-66066.md) | 2026-08-03 | 5件 |
-| [N-able N-central 認証バイパス脆弱性（CVE-2026-18556/CVE-2026-18577）](./n-able-n-central-cve-2026-18577.md) | 2026-08-03 | 1件 |
 | [Eストアー「ショップサーブ」不正アクセス事件（2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-03 | 1件 |
 | [DeepSeekベース自律型AIサイバー攻撃（2026年）](./deepseek-autonomous-cyberattack-2026.md) | 2026-08-03 | 1件 |
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-data-breach-2026.md) | 2026-08-03 | 1件 |
@@ -118,7 +126,6 @@
 | [jscrambler npm サプライチェーン攻撃 - Rust製インフォスティーラー混入（2026年7月）](./jscrambler-npm-supply-chain-2026.md) | 2026-07-14 | 1件 |
 | [Joomla iCagenda / Balbooa Forms 拡張機能 ゼロデイ RCE（2026年6-7月）](./joomla-icagenda-balbooa-zero-day-2026.md) | 2026-07-14 | 1件 |
 | [ファブリカホールディングス メディア4u 不正アクセス（2026年7月）](./fabrica-holdings-media4u-breach-2026.md) | 2026-07-14 | 1件 |
-| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-07-14 | 3件 |
 | [DHS Homeland Security Information Network（HSIN）侵害（2026年5-7月）](./dhs-hsin-breach-2026.md) | 2026-07-14 | 5件 |
 | [AssuranceAmerica 従業員アカウント侵害によるデータ侵害（2026年3月発生・7月通知）](./assuranceamerica-breach-2026.md) | 2026-07-14 | 2件 |
 | [Samsung 2026年7月セキュリティパッチ](./samsung-july-2026-security-patch.md) | 2026-07-13 | 1件 |
@@ -164,13 +171,13 @@
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-07-05 | 1件 |
 | [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-07-05 | 5件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-07-05 | 5件 |
-| [WatchGuard Firebox CVE-2026-13368 VPN認証脆弱性（2026年）](./watchguard-firebox-cve-2026-13368.md) | 2026-07-04 | 1件 |
-| [NetNut レジデンシャルプロキシ悪用ボットネット摘発（2026年）](./netnut-residential-proxy-takedown-2026.md) | 2026-07-04 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [WatchGuard Firebox CVE-2026-13368 VPN認証脆弱性（2026年）](./watchguard-firebox-cve-2026-13368.md) | 2026-07-04 | 1件 |
+| [NetNut レジデンシャルプロキシ悪用ボットネット摘発（2026年）](./netnut-residential-proxy-takedown-2026.md) | 2026-07-04 | 1件 |
 | [ToddyCat APT「Umbrij」マルウェア・OAuthトークン窃取キャンペーン（2026年）](./toddycat-umbrij-oauth-malware-2026.md) | 2026-07-03 | 1件 |
 | [セイコーソリューションズ SkyBridge/SkySpider 脆弱性（2026年）](./seiko-skybridge-vulnerabilities-2026.md) | 2026-07-03 | 1件 |
 | [保護者連絡アプリ「ミマモルメ」個人情報誤配信事案（2026年）](./osaka-mimamorume-data-misdelivery-2026.md) | 2026-07-03 | 1件 |
@@ -211,7 +218,6 @@
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
 | [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-25 | 4件 |
 | [Microsoft Exchange CVE-2026-42897 OWA XSS ゼロデイ（2026年6月）](./microsoft-exchange-cve-2026-42897.md) | 2026-06-24 | 1件 |
-| [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-24 | 2件 |
 | [Cordyceps CI/CDワークフロー脆弱性パターン（2026年）](./cordyceps-cicd-vulnerability-2026.md) | 2026-06-24 | 1件 |
 | [Tata Electronics データ侵害（World Leaks ランサムウェア、2026年6月）](./tata-electronics-breach-world-leaks-2026.md) | 2026-06-23 | 1件 |
 | [Squidbleed（CVE-2026-47729）Squid プロキシ 認証情報漏洩](./squidbleed-cve-2026-47729.md) | 2026-06-23 | 1件 |
