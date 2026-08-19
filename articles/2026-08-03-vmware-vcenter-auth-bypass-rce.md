@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-03
 - **出典**: [Rapid7 Blog](https://www.rapid7.com/blog/post/etr-critical-vmware-vcenter-vulnerabilities-allow-authentication-bypass-and-remote-code-execution-cve-2026-59309-cve-2026-59310/)
-- **トピック**: [VMware vCenter Server 重大脆弱性（CVE-2026-59309/59310）](../topics/vmware-vcenter-cve-2026-59309.md)
-- **分類**: 新規
-
+- **トピック**: [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](../topics/vmware-vcenter-esx-critical-vulnerabilities-2026.md)
+- **分類**: 続報
 ## 概要
 
 Broadcomは7月29日、VMware vCenter Serverに存在する2件の重大な脆弱性（CVE-2026-59309、CVE-2026-59310、いずれもCVSS 9.8）を修正するセキュリティアドバイザリ「VMSA-2026-0006」を公開した。いずれも未認証のネットワーク攻撃者が悪用可能で、認証バイパスと任意コード実行につながる。仮想化基盤の管理コンソールという性質上、悪用された場合の影響は極めて大きい。

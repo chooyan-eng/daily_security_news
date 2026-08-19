@@ -16,8 +16,13 @@ BroadcomがVMware Security Advisory VMSA-2026-0006にて修正した、vCenter S
 - 勧告: VMSA-2026-0006（2026-07-29公開）
 - 修正版: VMware vCenter Server 8.0 U3k、Cloud Foundation/vSphere Foundation 9.1.0.0300、9.0.2.0100
 - 回避策: なし
+- CVE: CVE-2026-59309（認証バイパス、vmdir）、CVE-2026-59310（ディレクトリトラバーサル、Syslog Server、RCE可能性）
+- CVSS: いずれも9.8（Critical）
+- アドバイザリ: VMSA-2026-0006（2026年7月29日公開）
+- 修正バージョン: vCenter Server 8.0 U3k、VCF/vSphere Foundation 9.1.0.0300、9.0.2.0100
 
 ## タイムライン
 
+- [2026-08-03 VMware vCenter Serverに認証バイパス・RCEの重大脆弱性2件（CVE-2026-59309/CVE-2026-59310、CVSS 9.8）](../articles/2026-08-03-vmware-vcenter-auth-bypass-rce.md)
 - [2026-07-30 VMware vCenterに認証バイパス等の重大脆弱性3件（CVE-2026-59309/59310ほか）、ブロードコムが修正](../articles/2026-07-30-vmware-vcenter-cve-2026-59309.md)
 - [2026-07-29 Broadcom、VMware vCenter/ESXの重大脆弱性3件を含む計5件を修正（認証バイパス・VMエスケープ）](../articles/2026-08-02-vmware-vcenter-esx-critical-vulnerabilities.md)

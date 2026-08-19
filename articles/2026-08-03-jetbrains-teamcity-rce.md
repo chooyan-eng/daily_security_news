@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-03
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
-- **トピック**: [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年）](../topics/jetbrains-teamcity-cve-2026-63077.md)
-- **分類**: 新規
-
+- **トピック**: [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](../topics/teamcity-cve-2026-63077-rce.md)
+- **分類**: 続報
 ## 概要
 
 JetBrainsは7月27日、CI/CDツール「TeamCity On-Premises」の全バージョンに影響する未認証リモートコード実行の重大脆弱性（CVE-2026-63077、CVSS 9.8）を修正するセキュリティアドバイザリを公開した。エージェントポーリングプロトコルを悪用することで、認証情報なしにTeamCityサーバー権限で任意のOSコマンドを実行できる。CI/CDパイプラインの完全性を脅かす深刻な脆弱性として、8月に入っても注意喚起が続いている。

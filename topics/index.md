@@ -4,10 +4,10 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [VMware vCenter Server 重大脆弱性（CVE-2026-59309/59310）](./vmware-vcenter-cve-2026-59309.md) | 2026-08-03 | 1件 |
+| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-03 | 3件 |
+| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-08-03 | 5件 |
 | [Ruby on Rails Active Storage CVE-2026-66066「KindaRails2Shell」](./rails-active-storage-cve-2026-66066.md) | 2026-08-03 | 5件 |
 | [N-able N-central 認証バイパス脆弱性（CVE-2026-18556/CVE-2026-18577）](./n-able-n-central-cve-2026-18577.md) | 2026-08-03 | 1件 |
-| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年）](./jetbrains-teamcity-cve-2026-63077.md) | 2026-08-03 | 1件 |
 | [Eストアー「ショップサーブ」不正アクセス事件（2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-03 | 1件 |
 | [DeepSeekベース自律型AIサイバー攻撃（2026年）](./deepseek-autonomous-cyberattack-2026.md) | 2026-08-03 | 1件 |
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-data-breach-2026.md) | 2026-08-03 | 1件 |
@@ -23,7 +23,6 @@
 | [Adform 広告スクリプト サプライチェーン攻撃・暗号資産ウォレットすり替え（2026年）](./adform-crypto-wallet-swap-supply-chain-2026.md) | 2026-08-01 | 1件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 認証脆弱性（2026年）](./takara-tomy-duelmasters-app-vulnerability-2026.md) | 2026-07-31 | 1件 |
 | [Gitea Docker CVE-2026-20896 認証バイパス（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-31 | 6件 |
-| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-07-30 | 2件 |
 | [vBulletin CVE-2026-61511 未認証RCE脆弱性](./vbulletin-rce-cve-2026-61511.md) | 2026-07-30 | 1件 |
 | [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-30 | 2件 |
 | [SolarWinds Web Help Desk SAML認証バイパス（CVE-2026-28323）](./solarwinds-web-help-desk-saml-bypass-2026.md) | 2026-07-30 | 1件 |
@@ -32,7 +31,6 @@
 | [Check Point SmartConsole CVE-2026-16232 認証バイパス](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-30 | 3件 |
 | [MCBS 医療系サードパーティベンダー侵害（2026年7月）](./mcbs-healthcare-vendor-breach-2026.md) | 2026-07-29 | 1件 |
 | [Chrome 151 セキュリティアップデート（2026年7月）](./chrome-151-security-update-2026.md) | 2026-07-29 | 1件 |
-| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 4件 |
 | [OpenWrt CVE-2026-53921 DHCPv6スタックオーバーフロー（2026年7月）](./openwrt-cve-2026-53921-dhcpv6-rce.md) | 2026-07-28 | 1件 |
 | [ナカバヤシ「REVEX」製品サイト不正アクセス（2026年7月）](./nakabayashi-revex-breach-2026.md) | 2026-07-28 | 1件 |
 | [MCBS 医療請求代行企業データ侵害（2026年）](./mcbs-medical-billing-breach-2026.md) | 2026-07-28 | 1件 |
