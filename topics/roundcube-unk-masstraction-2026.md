@@ -11,7 +11,15 @@ Proofpointが追跡する中国系とみられる脅威クラスター「UNK_Mas
 - 標的: 米国・カナダの大学（物理学・工学系部門、天体物理学・素粒子物理学・安全保障関連研究）
 - 観測開始: 2026年5月
 - 帰属: 中国系（suspected China-aligned）
+- 脅威アクター: UNK_MassTraction（Proofpointによる命名）
+- 帰属: 中国系の可能性（中国語アーティファクトを一部フィッシングメールで確認）
+- 標的: 米国・カナダの大学（国家安全保障関連部門、天体物理学・素粒子物理学研究者）
+- 悪用CVE: CVE-2024-42009（CVSS 9.3）、CVE-2025-49113
+- 対象ソフトウェア: Roundcube Webmail
+- 手口: ブラウザ内JavaScript実行 → 認証情報窃取 → Webシェル設置 or VShell展開
+- 活動観測開始: 2026年5月頃
 
 ## タイムライン
 
 - [2026-07-13 中国系脅威クラスター「UNK_MassTraction」、Roundcubeの脆弱性で北米大学の研究者を標的に](../articles/2026-07-13-roundcube-unk-masstraction-china-universities.md)
+- [2026-07-11 中国系ハッカークラスター「UNK_MassTraction」、Roundcube Webmailの脆弱性を悪用し北米大学の研究者を標的に](../articles/2026-07-11-roundcube-webmail-china-unk-masstraction-universities.md)
