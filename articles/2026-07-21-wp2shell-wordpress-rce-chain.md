@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-21
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
-- **トピック**: [WP2Shell WordPress コア RCE チェーン（2026年7月）](../topics/wp2shell-wordpress-rce-chain.md)
-- **分類**: 新規
-
+- **トピック**: [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](../topics/wp2shell-wordpress-core-rce-2026.md)
+- **分類**: 続報
 ## 概要
 
 WordPressコアに存在する2つの脆弱性を連鎖させることで、未認証の攻撃者がデフォルト設定・未改変のWordPressサイトを完全に乗っ取れる攻撃チェーン「WP2Shell」が発見され、2026年7月20日に実際の悪用がハニーポット上で観測された。ログインもプラグインのインストールも不要という深刻度の高さから、数千万サイトが影響を受けるとみられる。

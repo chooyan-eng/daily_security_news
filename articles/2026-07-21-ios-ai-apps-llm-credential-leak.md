@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-21
 - **出典**: [Cybersecurity News](https://cybersecuritynews.com/ai-ios-apps-leaking-llm-credentials/)
-- **トピック**: [iOS向けAIアプリのLLM APIキー漏洩問題（2026年）](../topics/ios-ai-apps-llm-credential-leak.md)
-- **分類**: 新規
-
+- **トピック**: [iOS AIアプリ LLM APIキー漏洩問題（2026年）](../topics/ios-ai-apps-llm-key-leak-2026.md)
+- **分類**: 続報
 ## 概要
 
 米国App Storeで配布されている無料のLLM搭載iOSアプリ444本を対象にした実証研究により、64%にあたる282本のアプリが、通信の傍受によって悪用可能なLLM API認証情報を露出させることが明らかになった。対象アプリは13カテゴリにわたり、200万件超の評価を持つ人気アプリも含まれる。

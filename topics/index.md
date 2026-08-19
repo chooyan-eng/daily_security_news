@@ -4,20 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [WP2Shell WordPress コア RCE チェーン（2026年7月）](./wp2shell-wordpress-rce-chain.md) | 2026-07-21 | 1件 |
+| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-21 | 4件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-21 | 4件 |
-| [ServiceNow AI Platform CVE-2026-6875 スクリプトサンドボックス脱出RCE（2026年7月）](./servicenow-cve-2026-6875-ai-platform-rce.md) | 2026-07-21 | 1件 |
+| [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-21 | 2件 |
 | [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
 | [Paidwork データ漏洩事件（2026年）](./paidwork-data-breach-2026.md) | 2026-07-21 | 1件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
-| [iOS向けAIアプリのLLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-credential-leak.md) | 2026-07-21 | 1件 |
+| [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-07-21 | 2件 |
 | [Hugging Face 自律型AIエージェントによる侵害（2026年7月）](./huggingface-autonomous-ai-agent-breach.md) | 2026-07-21 | 1件 |
 | [Gemini CLI悪用によるAIエージェント型サイバー攻撃（2026年）](./gemini-cli-botnet-wordpress-abuse.md) | 2026-07-21 | 1件 |
 | [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-07-21 | 1件 |
-| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-20 | 3件 |
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-20 | 4件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
-| [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-20 | 1件 |
 | [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-20 | 1件 |
 | [Craneware ヘルスケア請求ソフトウェアデータ侵害（2026年7月）](./craneware-data-breach-2026.md) | 2026-07-20 | 1件 |
 | [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-20 | 1件 |
@@ -123,7 +121,6 @@
 | [Silent Swap 暗号資産クリッパー拡張機能キャンペーン（2026年）](./silent-swap-crypto-clipper-2026.md) | 2026-06-30 | 1件 |
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |
-| [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-06-30 | 1件 |
 | [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](./fbi-signal-russian-backup-key-2026.md) | 2026-06-30 | 4件 |
 | [TheGentlemen ランサムウェアグループ（2026年）](./thegentlemen-ransomware-2026.md) | 2026-06-29 | 1件 |
 | [Synology MailPlus Server 重大脆弱性（2026年）](./synology-mailplus-server-2026.md) | 2026-06-29 | 1件 |
