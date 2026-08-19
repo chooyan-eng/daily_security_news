@@ -11,7 +11,14 @@
 - 被害企業: Framework（PC自作キットメーカー）、Tally（オンラインフォームビルダー）
 - 漏洩データ: 氏名・メールアドレス・住所・電話番号（Tallyはパスワードハッシュも含む）
 - Metabase Cloud: パッチ適用済み／自己ホスト型: 手動アップデート必要
+- 対象製品: Metabase（BI/分析プラットフォーム）
+- 脆弱性箇所: POST /api/session/reset_password
+- CVSS: 10.0（CVE番号は本記事時点で未割当）
+- 影響バージョン: 58〜63（Cloud・セルフホスト両方）
+- Metabase Cloud侵害日: 2026年8月3日
+- 被害公表企業: Framework, Tally
 
 ## タイムライン
 
 - [2026-08-10 Metabase未認証SQLインジェクションゼロデイが悪用、Framework・Tallyの顧客データが流出](../articles/2026-08-10-metabase-sqli-zeroday.md)
+- [2026-08-08 Metabaseの未認証SQLインジェクション ゼロデイが実際に悪用、Framework・Tallyが顧客データ窃取を公表](../articles/2026-08-09-metabase-sqli-zeroday-framework-tally.md)
