@@ -4,18 +4,22 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 1件 |
+| [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
+| [Ruby on Rails Active Storage CVE-2026-66066 任意ファイル読み取り・RCE脆弱性](./rails-active-storage-cve-2026-66066.md) | 2026-08-01 | 3件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-01 | 8件 |
+| [CosmosEscape：Azure Cosmos DB プラットフォーム全体の乗っ取り脆弱性](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 2件 |
+| [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
+| [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
+| [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-08-01 | 1件 |
+| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-01 | 8件 |
 | [VMware vCenter CVE-2026-59309 認証バイパス脆弱性](./vmware-vcenter-cve-2026-59309.md) | 2026-07-30 | 1件 |
 | [vBulletin CVE-2026-61511 未認証RCE脆弱性](./vbulletin-rce-cve-2026-61511.md) | 2026-07-30 | 1件 |
 | [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-30 | 2件 |
 | [SolarWinds Web Help Desk SAML認証バイパス（CVE-2026-28323）](./solarwinds-web-help-desk-saml-bypass-2026.md) | 2026-07-30 | 1件 |
-| [Ruby on Rails Active Storage CVE-2026-66066 任意ファイル読み取り・RCE脆弱性](./rails-active-storage-cve-2026-66066.md) | 2026-07-30 | 2件 |
 | [Node.js 2026年7月セキュリティリリース](./nodejs-security-release-july-2026.md) | 2026-07-30 | 2件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-30 | 6件 |
 | [ExfilSquad ランサムウェアグループ（2026年）](./exfilsquad-ransomware-group-2026.md) | 2026-07-30 | 1件 |
-| [CosmosEscape：Azure Cosmos DB プラットフォーム全体の乗っ取り脆弱性](./cosmosescape-azure-cosmos-db-2026.md) | 2026-07-30 | 1件 |
-| [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-07-30 | 1件 |
 | [Check Point SmartConsole CVE-2026-16232 認証バイパス](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-30 | 3件 |
-| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-30 | 7件 |
 | [MCBS 医療系サードパーティベンダー侵害（2026年7月）](./mcbs-healthcare-vendor-breach-2026.md) | 2026-07-29 | 1件 |
 | [Chrome 151 セキュリティアップデート（2026年7月）](./chrome-151-security-update-2026.md) | 2026-07-29 | 1件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 3件 |
@@ -65,7 +69,6 @@
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-22 | 5件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-22 | 3件 |
 | [ルーマニア不動産登記システム（ANCPI）データベース破壊攻撃（2026年7月）](./romania-land-registry-wipe-2026.md) | 2026-07-22 | 1件 |
-| [OpenAI AIモデルによるHugging Face不正侵入インシデント（2026年7月）](./openai-huggingface-ai-model-incident-2026.md) | 2026-07-22 | 1件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-21 | 4件 |
 | [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
@@ -161,6 +164,11 @@
 | [保護者連絡アプリ「ミマモルメ」個人情報誤配信事案（2026年）](./osaka-mimamorume-data-misdelivery-2026.md) | 2026-07-03 | 1件 |
 | [Medtronic データ侵害事件（ShinyHunters、2026年）](./medtronic-shinyhunters-breach-2026.md) | 2026-07-03 | 1件 |
 | [Apache Tomcat 複数脆弱性（2026年6月）](./apache-tomcat-vulnerabilities-june-2026.md) | 2026-07-03 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [サッポロホールディングス海外子会社不正アクセス（2026年）](./sapporo-holdings-overseas-breach-2026.md) | 2026-07-01 | 1件 |
 | [Phantom Squatting：AI幻覚ドメイン悪用の新種脅威（2026年）](./phantom-squatting-ai-domains-2026.md) | 2026-07-01 | 1件 |
 | [npm v12 サプライチェーン対策強化（2026年）](./npm-v12-supply-chain-hardening-2026.md) | 2026-07-01 | 1件 |
@@ -172,11 +180,6 @@
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |
 | [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](./fbi-signal-russian-backup-key-2026.md) | 2026-06-30 | 4件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
 | [TheGentlemen ランサムウェアグループ（2026年）](./thegentlemen-ransomware-2026.md) | 2026-06-29 | 1件 |
 | [Synology MailPlus Server 重大脆弱性（2026年）](./synology-mailplus-server-2026.md) | 2026-06-29 | 1件 |
 | [PTC Windchill CVE-2026-12569 RCE](./ptc-windchill-cve-2026-12569.md) | 2026-06-29 | 4件 |
