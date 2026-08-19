@@ -9,16 +9,13 @@
 | [Polymarket サードパーティ侵害・フロントエンドスクリプト注入（2026年6月）](./polymarket-supply-chain-attack-2026.md) | 2026-06-28 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-06-28 | 2件 |
 | [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-06-28 | 3件 |
-| [ロシア系APT による Signal バックアップキー窃取キャンペーン（UNC5792/UNC4221）](./signal-backup-key-russian-phishing-2026.md) | 2026-06-27 | 1件 |
 | [Polymarket フロントエンド侵害（2026年6月）](./polymarket-frontend-breach-2026.md) | 2026-06-27 | 1件 |
-| [OpenAI「Poisoned Tenant」フィッシングキャンペーン（2026年）](./openai-poisoned-tenant-phishing-2026.md) | 2026-06-27 | 1件 |
-| [OpenAI「Poisoned Tenant」フィッシングキャンペーン（2026年）](./openai-poisoned-tenant-2026.md) | 2026-06-27 | 1件 |
+| [OpenAI「Poisoned Tenant」フィッシングキャンペーン（2026年）](./openai-poisoned-tenant-2026.md) | 2026-06-27 | 2件 |
 | [macOS.Gaslight：北朝鮮関連マルウェアによるAIマルウェア解析回避（2026年6月）](./macos-gaslight-north-korea-2026.md) | 2026-06-27 | 1件 |
-| [Linuxカーネルpage cache LPE脆弱性シリーズ（CVE-2026-46331 / CVE-2026-43503）](./linux-page-cache-lpe-2026.md) | 2026-06-27 | 3件 |
+| [Linuxカーネルpage cache LPE脆弱性シリーズ（CVE-2026-46331 / CVE-2026-43503）](./linux-page-cache-lpe-2026.md) | 2026-06-27 | 4件 |
 | [2026年6月26日侵害クラスター（MagMutual・Atlas Elektronik等）](./june26-2026-breach-cluster.md) | 2026-06-27 | 1件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-27 | 8件 |
-| [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](./fbi-signal-russian-backup-key-2026.md) | 2026-06-27 | 1件 |
-| [DirtyClone Linux カーネル特権昇格（CVE-2026-43503）](./dirtyclone-linux-cve-2026-43503.md) | 2026-06-27 | 1件 |
+| [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](./fbi-signal-russian-backup-key-2026.md) | 2026-06-27 | 2件 |
 | [DCloud Uni-App 悪用によるグローバル詐欺インフラ（2026年）](./dcloud-uniapp-scam-infrastructure-2026.md) | 2026-06-27 | 1件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-06-26 | 2件 |
 | [SIMスワッピング犯罪組織摘発（ポーランド・FBI、2026年6月）](./poland-sim-swap-arrest-2026.md) | 2026-06-26 | 1件 |

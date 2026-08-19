@@ -11,7 +11,13 @@ Push Securityが発見した「Poisoned Tenant」キャンペーンでは、攻�
 - 送信元: noreply@tm.openai.com（正規OpenAIインフラ）
 - ターゲット: セキュリティ企業を含む複数の企業・組織
 - 狙い: AI プラットフォームへの業務プロンプト（ソースコード・機密文書・認証情報等）の窃取
+- 攻撃手法: 偽 OpenAI テナント作成 → 正規招待メール経由でフィッシング
+- 発見: Push Security
+- 主な標的セクター: サイバーセキュリティ・テクノロジー企業
+- 攻撃者の目的: 従業員が ChatGPT に入力する機密業務情報の収集
+- 招待メール送信元: noreply@tm.openai.com（OpenAI 公式、詐称なし）
 
 ## タイムライン
 
+- [2026-06-27 OpenAI「Poisoned Tenant」攻撃：偽組織招待で企業従業員を狙うフィッシングキャンペーン](../articles/2026-06-28-openai-poisoned-tenant-phishing.md)
 - [2026-06-27 「Poisoned Tenant」キャンペーン：攻撃者が企業を騙るOpenAIテナントを作成し従業員の機密情報を収集](../articles/2026-06-27-openai-poisoned-tenant-phishing-campaign.md)

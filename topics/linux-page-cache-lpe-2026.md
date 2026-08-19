@@ -23,9 +23,18 @@
 - 攻撃条件：CAP_NET_ADMIN ケーパビリティ（ユーザー名前空間有効時に非特権ユーザーが取得可能）
 - 影響ディストリビューション：Debian・Ubuntu・Fedora（動作確認済み）
 - アップストリームパッチ：v7.1-rc5（2026年5月21日、コミット 9e171fc1d7d7）
+- CVE: CVE-2026-43503
+- CVSS: 8.8（High）
+- 脆弱性名: DirtyClone（DirtyFrag ファミリー）
+- 発見者: JFrog Security Research
+- PoC 公開日: 2026年6月25日
+- 影響OS: Linux（Debian, Ubuntu, Fedora 等）
+- 前提条件: ローカルユーザー権限 + ドメインネームスペース（デフォルト設定）
+- パッチ: Linux v7.1-rc5（コミット 48f6a5356a33、2026年5月24日）
 
 ## タイムライン
 
+- [2026-06-27 DirtyClone（CVE-2026-43503）：Linuxカーネルの特権昇格、痕跡なしでルート奪取のPoC公開](../articles/2026-06-28-dirtyclone-linux-cve-2026-43503.md)
 - [2026-06-27 Linux CVE-2026-46331「pedit COW」：ネットワーク制御サブシステムのpage cacheメモリ破壊によるroot権限昇格](../articles/2026-06-27-linux-cve-2026-46331-pedit-cow-lpe.md)
 - [2026-06-27 DirtyClone（CVE-2026-43503）：JFrogがLinuxカーネルソケットバッファLPEのエクスプロイト解析を公開](../articles/2026-06-27-linux-cve-2026-43503-dirtyclone-lpe.md)
 - [2026-06-26 DirtyClone (CVE-2026-43503)：Linux カーネル特権昇格 PoC 公開](../articles/2026-06-26-dirtyclone-linux-kernel-cve-2026-43503.md)

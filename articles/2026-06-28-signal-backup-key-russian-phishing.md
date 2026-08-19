@@ -2,9 +2,8 @@
 
 - **日付**: 2026-06-27
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/) / [Hacker News](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html) / [The Next Web](https://thenextweb.com/news/fbi-russian-hackers-signal-backup-recovery-key-unc5792)
-- **トピック**: [ロシア系APT による Signal バックアップキー窃取キャンペーン（UNC5792/UNC4221）](../topics/signal-backup-key-russian-phishing-2026.md)
-- **分類**: 新規
-
+- **トピック**: [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](../topics/fbi-signal-russian-backup-key-2026.md)
+- **分類**: 続報
 ## 概要
 
 FBI と CISA が2026年6月26日、ロシア諜報機関系ハッカーグループ（UNC5792・UNC4221）が Signal ユーザーを狙うフィッシングキャンペーンを更新した警告（PSA I-062626-PSA）を発出した。新たな手口では Signal の「バックアップリカバリーキー」を標的とし、奪取に成功すれば攻撃者が過去のメッセージ履歴すべてにアクセス可能となる。

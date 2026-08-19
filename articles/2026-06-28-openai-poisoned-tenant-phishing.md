@@ -2,9 +2,8 @@
 
 - **日付**: 2026-06-27
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/) / [TechRadar](https://www.techradar.com/pro/security/beware-hackers-have-hijacked-openais-invite-your-team-feature-to-break-into-your-business)
-- **トピック**: [OpenAI「Poisoned Tenant」フィッシングキャンペーン（2026年）](../topics/openai-poisoned-tenant-phishing-2026.md)
-- **分類**: 新規
-
+- **トピック**: [OpenAI「Poisoned Tenant」フィッシングキャンペーン（2026年）](../topics/openai-poisoned-tenant-2026.md)
+- **分類**: 続報
 ## 概要
 
 Push Security が発見した「Poisoned Tenant」と呼ばれる新型フィッシングキャンペーンで、攻撃者が正規の OpenAI 組織（テナント）機能を悪用し、企業名を騙った偽 ChatGPT ワークスペースに従業員を招待する攻撃が確認されている。招待メールは OpenAI の正規インフラから送信されるため、メールセキュリティフィルターをほぼすべてすり抜ける。
