@@ -4,13 +4,19 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-20 | 3件 |
+| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-21 | 4件 |
+| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-21 | 4件 |
+| [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-21 | 2件 |
+| [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
+| [Paidwork データ漏洩事件（2026年）](./paidwork-data-breach-2026.md) | 2026-07-21 | 1件 |
+| [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
+| [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-07-21 | 2件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-21 | 2件 |
+| [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-21 | 2件 |
+| [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-07-21 | 1件 |
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-20 | 4件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
-| [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-20 | 1件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-20 | 1件 |
 | [Craneware ヘルスケア請求ソフトウェアデータ侵害（2026年7月）](./craneware-data-breach-2026.md) | 2026-07-20 | 1件 |
-| [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-20 | 1件 |
 | [ViteVenom npm サプライチェーン攻撃（2026年7月）](./vitevenom-npm-supply-chain-2026.md) | 2026-07-19 | 2件 |
 | [UAC-0145（Sandworm系）ClickFix・Android偽アプリキャンペーン（2026年）](./uac0145-sandworm-clickfix-2026.md) | 2026-07-19 | 1件 |
 | [Spirals ランサムウェア（2026年）](./spirals-ransomware-2026.md) | 2026-07-19 | 1件 |
@@ -103,7 +109,6 @@
 | [保護者連絡アプリ「ミマモルメ」個人情報誤配信事案（2026年）](./osaka-mimamorume-data-misdelivery-2026.md) | 2026-07-03 | 1件 |
 | [Medtronic データ侵害事件（ShinyHunters、2026年）](./medtronic-shinyhunters-breach-2026.md) | 2026-07-03 | 1件 |
 | [Apache Tomcat 複数脆弱性（2026年6月）](./apache-tomcat-vulnerabilities-june-2026.md) | 2026-07-03 | 1件 |
-| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-01 | 3件 |
 | [サッポロホールディングス海外子会社不正アクセス（2026年）](./sapporo-holdings-overseas-breach-2026.md) | 2026-07-01 | 1件 |
 | [Phantom Squatting：AI幻覚ドメイン悪用の新種脅威（2026年）](./phantom-squatting-ai-domains-2026.md) | 2026-07-01 | 1件 |
 | [npm v12 サプライチェーン対策強化（2026年）](./npm-v12-supply-chain-hardening-2026.md) | 2026-07-01 | 1件 |
@@ -114,7 +119,6 @@
 | [Silent Swap 暗号資産クリッパー拡張機能キャンペーン（2026年）](./silent-swap-crypto-clipper-2026.md) | 2026-06-30 | 1件 |
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |
-| [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-06-30 | 1件 |
 | [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](./fbi-signal-russian-backup-key-2026.md) | 2026-06-30 | 4件 |
 | [TheGentlemen ランサムウェアグループ（2026年）](./thegentlemen-ransomware-2026.md) | 2026-06-29 | 1件 |
 | [Synology MailPlus Server 重大脆弱性（2026年）](./synology-mailplus-server-2026.md) | 2026-06-29 | 1件 |
@@ -139,7 +143,6 @@
 | [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-25 | 4件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
 | [Cisco Catalyst SD-WAN CVE-2026-20262 ゼロデイ悪用（2026年6月）](./cisco-sdwan-cve-2026-20262.md) | 2026-06-25 | 4件 |
-| [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-06-24 | 1件 |
 | [Microsoft Exchange CVE-2026-42897 OWA XSS ゼロデイ（2026年6月）](./microsoft-exchange-cve-2026-42897.md) | 2026-06-24 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-06-24 | 2件 |
 | [Cordyceps CI/CDワークフロー脆弱性パターン（2026年）](./cordyceps-cicd-vulnerability-2026.md) | 2026-06-24 | 1件 |
@@ -160,16 +163,16 @@
 | [Mastra npm サプライチェーン攻撃（2026年6月）](./mastra-npm-supply-chain-2026.md) | 2026-06-21 | 2件 |
 | [Ivanti Sentry 重大脆弱性（CVE-2026-10520 / CVE-2026-10523）](./ivanti-sentry-cve-2026-10520.md) | 2026-06-21 | 1件 |
 | [Gravity SMTP WordPress CVE-2026-4020 大規模悪用（2026年6月）](./gravity-smtp-wordpress-cve-2026-4020.md) | 2026-06-21 | 1件 |
-| [SolarWinds Serv-U CVE-2026-28318 DoS 脆弱性（2026年）](./solarwinds-serv-u-cve-2026-28318.md) | 2026-06-20 | 1件 |
-| [Microsoft AutoJack AI エージェント RCE エクスプロイトチェーン（2026年）](./microsoft-autojack-ai-agent-rce-2026.md) | 2026-06-20 | 1件 |
-| [Google Vertex AI SDK バケット乗っ取り脆弱性「Pickle in the Middle」（2026年）](./google-vertex-ai-sdk-pickle-2026.md) | 2026-06-20 | 1件 |
-| [CryptoBandits Windows クリプト・クリッパーキャンペーン（2026年）](./cryptobandits-windows-crypto-clipper-2026.md) | 2026-06-20 | 1件 |
-| [Atomic Arch AUR サプライチェーン攻撃（2026年6月）](./atomic-arch-aur-supply-chain-2026.md) | 2026-06-20 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [SolarWinds Serv-U CVE-2026-28318 DoS 脆弱性（2026年）](./solarwinds-serv-u-cve-2026-28318.md) | 2026-06-20 | 1件 |
+| [Microsoft AutoJack AI エージェント RCE エクスプロイトチェーン（2026年）](./microsoft-autojack-ai-agent-rce-2026.md) | 2026-06-20 | 1件 |
+| [Google Vertex AI SDK バケット乗っ取り脆弱性「Pickle in the Middle」（2026年）](./google-vertex-ai-sdk-pickle-2026.md) | 2026-06-20 | 1件 |
+| [CryptoBandits Windows クリプト・クリッパーキャンペーン（2026年）](./cryptobandits-windows-crypto-clipper-2026.md) | 2026-06-20 | 1件 |
+| [Atomic Arch AUR サプライチェーン攻撃（2026年6月）](./atomic-arch-aur-supply-chain-2026.md) | 2026-06-20 | 1件 |
 | [Splunk Enterprise CVE-2026-20253 未認証RCE](./splunk-cve-2026-20253-rce.md) | 2026-06-19 | 1件 |
 | [NGINX 複数脆弱性（2026年6月）](./nginx-vulnerabilities-june-2026.md) | 2026-06-19 | 1件 |
 | [HTTP/2 Bomb CVE-2026-49975](./http2-bomb-cve-2026-49975.md) | 2026-06-19 | 1件 |

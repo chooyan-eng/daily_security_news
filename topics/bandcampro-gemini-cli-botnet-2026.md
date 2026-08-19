@@ -9,7 +9,14 @@
 - 悪用ツール: Google Gemini CLI（ジェイルブレイク状態で使用）
 - 対象: 歯科医院8施設のPC（OpenDentalデータベースへのアクセスも試行）
 - 特徴: C2サーバー再構築が約6分で完了
+- 脅威アクター: bandcampro（ロシア語圏、単独）
+- 悪用ツール: Google Gemini CLI（ジェイルブレイク）
+- 活動期間: 2026-03-19〜2026-04-21（200回超のセッション）
+- 被害: 歯科医院PC8台のボットネット化、OpenDentalデータベースへのアクセス
+- その他活動: WordPress加盟店アカウント侵害、高齢者標的の電話詐欺計画
+- 調査元: Trend Micro（TrendAI Research）
 
 ## タイムライン
 
+- [2026-07-21 ロシア語圏ハッカー、ジェイルブレイクしたGemini CLIでボットネット構築・WordPress侵害・高齢者標的の詐欺を計画](../articles/2026-07-21-gemini-cli-botnet-wordpress-abuse.md)
 - [2026-07-20 ロシア語圏の単独脅威アクター「bandcampro」、GoogleのGemini CLIを悪用しボットネットを制御](../articles/2026-07-20-bandcampro-gemini-cli-botnet.md)
