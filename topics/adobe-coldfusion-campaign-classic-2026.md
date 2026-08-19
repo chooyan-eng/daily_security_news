@@ -1,0 +1,71 @@
+# Adobe 2026年8月定例セキュリティ更新（ColdFusion・Campaign Classic）
+
+## 概要
+
+Adobe が2026年8月11日（8月定例パッチ）に公開した、ColdFusion・Commerce・Lightroom Classic・Content Credentials SDK・Campaign Classic の5製品向けセキュリティ更新。合計51件の脆弱性を修正し、うち33件がクリティカル。ColdFusion（CVE-2026-48362 CVSS10.0のOSコマンドインジェクション等）とCampaign Classic（CVE-2026-71398/CVE-2026-27302 CVSS10.0の不適切な認可等）は最優先度「Priority 1」に指定。
+
+**同一性の判断に役立つ情報：**
+- 対象製品: ColdFusion、Adobe Commerce、Lightroom Classic、Content Credentials SDK、Campaign Classic
+- 主要CVE: CVE-2026-48362（ColdFusion, CVSS10.0）、CVE-2026-48273（ColdFusion, CVSS9.9）、CVE-2026-71384（ColdFusion, CVSS9.6）、CVE-2026-71398／CVE-2026-27302（Campaign Classic, CVSS10.0）、CVE-2026-48381（Campaign Classic, CVSS9.0）、CVE-2026-71362（Commerce, CVSS9.1）
+- 公開日: 2026-08-11（8月定例パッチ）
+- 優先度: ColdFusion・Campaign Classic は Priority 1
+- ベンダー: Adobe
+- 対象製品: ColdFusion（2025/2023）、Campaign Classic（オンプレミス版）
+- 公開日: 2026-07-01
+- 主要CVE: CVE-2026-48276, -48277, -48281, -48316, -48282, -48283（ColdFusion、CVSS10.0）、CVE-2026-48286（Campaign Classic、CVSS10.0）
+- 修正版: ColdFusion 2025 Update 10 / 2023 Update 21、ACC v7.4.3 build 9397
+- 対象製品: Adobe ColdFusion 2023／2025、Campaign Classic v7（オンプレミス）
+- 脆弱性件数: 9件（うちCVSS 10.0が7件）
+- 主なCVE: CVE-2026-48276、48277、48281、48282、48283、48316（ColdFusion）、CVE-2026-48286（Campaign Classic）
+- 公開日: 2026年7月1日
+- 修正バージョン: ColdFusion 2023 Update 21／2025 Update 10、Campaign Classic 7.4.3 build 9397
+- 悪用確認: CVE-2026-48282が公開後数時間で実悪用
+- CVE: CVE-2026-48282
+- CVSSスコア: 10.0（最大深刻度）
+- 対象製品: Adobe ColdFusion 2025.9、2023.20 およびそれ以前
+- 脆弱コンポーネント: RDS（Remote Development Services）FILEIOハンドラ
+- 悪用条件: RDS有効 + RDS認証無効
+- 修正版: ColdFusion 2025 Update 10 / ColdFusion 2023 Update 21
+- 悪用開始: 詳細公開から約2時間後
+- CVSS: 10.0
+- 脆弱性種別: パストラバーサル
+- 影響製品: Adobe ColdFusion 2025.9、2023.20 以前
+- CISA KEV 追加日: 2026年7月7日
+- 連邦機関修正期限: 2026年7月10日（BOD 26-04）
+- CVE: CVE-2026-48282（Adobe ColdFusion、パストラバーサル、CVSS 10.0）
+- 開示日: 2026年7月7日／実悪用確認: 開示から数時間後
+- CISA KEV追加: 2026年7月8日頃、同時にCVE-2026-56290（Joomlackページビルダー）、CVE-2026-55255（Langflow）も追加
+- 影響: 現在のユーザー権限でのリモートコード実行
+- CVSS: 10.0（最大深刻度）
+- 対象製品: Adobe ColdFusion 2025.9、2023.20 以前
+- 脆弱性種別: パストラバーサル（RDS FILEIOハンドラ経由のRCE）
+- 悪用前提条件: RDS有効 + RDS認証無効
+- 技術詳細公開: watchTowr Labs
+- 悪用初観測: 2026年7月2日（KEVIntelハニーポット）
+- FCEB 機関修正期限: 2026年7月10日
+- CVE: CVE-2026-48449（関連: CVE-2026-48286）
+- 対象製品: Adobe Campaign Classic（オンプレミス・ハイブリッドのみ、Adobeホスト型は対象外）
+- 公開日: 2026年7月30日
+- 修正バージョン: ACC v7 7.4.3 build 9397
+- 対象製品: Adobe Campaign Classic（ACC）v7.4.3 build 9397以前
+- 関連CVE: CVE-2026-48449（認可不備、CVSS10.0）、CVE-2026-48448（SQLi、CVSS8.6）、CVE-2026-48286（任意コード実行）
+- 影響範囲: 完全オンプレミス環境／ハイブリッド環境のオンプレミスコンポーネント（Adobeホスト型インスタンスは対策済み）
+- 製品: Adobe Campaign Classic（ACC）v7.4.3 build 9398以前
+- セキュリティ情報: APSB26-120（Priority 1）
+- 脆弱性: CVE-2026-48331（SSRF）、CVE-2026-48323（テンプレートエンジンインジェクション）、CVE-2026-48330（SQLインジェクション）　いずれもCVSS 10.0
+- 修正版: v7.4.3 build 9399
+- 公開日: 2026年8月3日
+- 悪用状況: Adobe公表時点で実悪用の確認事例なし
+
+## タイムライン
+
+- [2026-08-12 Adobe、ColdFusion・Campaign Classic 等5製品で51件の脆弱性を修正 – CVSS10.0のコマンドインジェクション等、最優先パッチ指定](../articles/2026-08-12-adobe-coldfusion-campaign-classic.md)
+- [2026-08-03 Adobe Campaign Classicに最大深刻度（CVSS 10.0）の脆弱性3件、未認証でのコード実行が可能に](../articles/2026-08-03-adobe-campaign-classic-vulnerabilities.md)
+- [2026-08-01 Adobe Campaign Classic にCVSS満点10.0の認可不備・重大SQLインジェクション脆弱性](../articles/2026-08-01-adobe-campaign-classic-critical-vulnerabilities.md)
+- [2026-07-30 Adobe、Campaign Classic に最大深刻度（CVSS 10.0）の認可不備 RCE 脆弱性（CVE-2026-48449）を修正](../articles/2026-07-31-adobe-campaign-classic-coldfusion-cve-2026-48449.md)
+- [2026-07-09 Adobe ColdFusionの最大深刻度パストラバーサル脆弱性（CVE-2026-48282）、CISA KEVに追加・積極的悪用を確認](../articles/2026-07-09-adobe-coldfusion-cve-2026-48282-kev.md)
+- [2026-07-08 CISA、積極的に悪用されているAdobe ColdFusionの最大深刻度パストラバーサル脆弱性(CVE-2026-48282)を巡り連邦機関に金曜日までの修正を指示](../articles/2026-07-08-adobe-coldfusion-cve-2026-48282-kev.md)
+- [2026-07-07 Adobe ColdFusion 最大深刻度10.0の脆弱性が積極的悪用 — CISAが連邦機関へ7月10日までの緊急パッチ適用を指示](../articles/2026-07-10-adobe-coldfusion-cve-2026-48282-kev.md)
+- [2026-07-07 Adobe ColdFusion 最大深刻度パストラバーサル脆弱性（CVE-2026-48282）が野放し状態で悪用中](../articles/2026-07-07-adobe-coldfusion-cve-2026-48282.md)
+- [2026-07-06 Adobe、ColdFusionとCampaign Classicに最大深刻度CVSS 10.0の脆弱性7件を含む緊急パッチ](../articles/2026-07-06-adobe-coldfusion-campaign-classic-cvss10.md)
+- [2026-07-01 Adobe、ColdFusionとCampaign Classicに存在するCVSS10.0の重大脆弱性7件を修正](../articles/2026-07-01-adobe-coldfusion-campaign-classic-july-2026.md)

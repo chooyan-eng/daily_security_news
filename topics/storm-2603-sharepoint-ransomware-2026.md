@@ -14,8 +14,18 @@
 - C2 手法: Cloudflare トンネル・Zoho Assist・Visual Studio Code SSH
 - 中国系APT 関連: Palo Alto Unit 42 が暫定的に指摘
 - 帰属研究: Unit 42（Project AK47）・Microsoft（Storm-2603）
+- 主要悪用 CVE: CVE-2025-49706・CVE-2025-49704・CVE-2025-11371・CVE-2026-45659
+- 主要悪用 CVE: CVE-2025-49706・CVE-2025-49704・CVE-2025-11371・CVE-2026-23760・CVE-2026-45659
+- ランサムウェア名/拡張子: Warlock ランサムウェア（`.x2anylock` 拡張子）
+- CVE-2026-45659 KEV追加・連邦機関修正期限: 2026年7月4日
+- ランサムウェア: `.x2anylock` 拡張子（Project AK47）／ Warlockランサムウェア（CVE-2026-45659経由）
+- CVE-2026-45659 CISA KEV追加日: 2026-07-01（FCEB向けパッチ期限: 2026-07-04）
 
 ## タイムライン
 
 - [2026-08-17 AI支援研究でSharePointの未認証RCEに繋がる新たな脆弱性チェーンが判明（CVE-2026-55040/CVE-2026-63520、Storm-2603とは別チェーン）](../articles/2026-08-17-sharepoint-ai-assisted-exploit-chain.md)
+- [2026-07-16 SharePoint RCE脆弱性CVE-2026-45659がCISA KEVに追加、Storm-2603による悪用が確認](../articles/2026-07-16-sharepoint-cve-2026-45659-storm2603.md)
+- [2026-07-11 SharePoint RCE脆弱性CVE-2026-45659がCISA KEVに追加、Storm-2603によるWarlockランサムウェア展開に悪用](../articles/2026-07-11-sharepoint-cve-2026-45659-storm-2603-warlock-kev.md)
+- [2026-07-05 SharePoint新CVE-2026-45659、Storm-2603がWarlockランサムウェア展開に悪用しCISA KEV追加](../articles/2026-07-05-sharepoint-cve-2026-45659-storm-2603-warlock.md)
+- [2026-07-01 Microsoft SharePoint RCE（CVE-2026-45659）がCISA KEVに追加、実悪用を確認](../articles/2026-07-02-sharepoint-cve-2026-45659-kev.md)
 - [2026-06-25 Storm-2603 が未修正 SharePoint サーバーを悪用：ランサムウェアとカスタムバックドア「Project AK47」を展開](../articles/2026-06-25-storm-2603-sharepoint-backdoor-ransomware.md)
