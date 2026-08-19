@@ -12,4 +12,5 @@ Qilinは2026年第1四半期時点で最も活発なランサムウェアグル�
 
 ## タイムライン
 
+- [2026-08-19 Qilinランサムウェア、英InVentryと仏Smart Energiesをリークサイトに新たに掲載](../articles/2026-08-19-qilin-inventry-smart-energies-victims.md)
 - [2026-08-04 Qilinランサムウェア、米保険サービス企業Freedom Claims Managementへの侵害を主張](../articles/2026-08-04-qilin-freedom-claims-management-ransomware.md)
