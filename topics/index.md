@@ -4,13 +4,20 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [wp2shell WordPress コア 未認証RCE（CVE-2026-63030）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-18 | 1件 |
+| [Windows LegacyHive 特権昇格ゼロデイ（2026年7月）](./windows-legacyhive-zero-day-2026.md) | 2026-07-18 | 1件 |
+| [ViteVenom npm サプライチェーン攻撃（2026年7月）](./vitevenom-npm-supply-chain-2026.md) | 2026-07-18 | 1件 |
+| [SharePoint CVE-2026-58644 未認証デシリアライゼーションRCE（2026年7月）](./sharepoint-cve-2026-58644-2026.md) | 2026-07-18 | 1件 |
+| [OpenSSL HollowByte DoS 脆弱性（2026年7月）](./openssl-hollowbyte-dos-2026.md) | 2026-07-18 | 1件 |
+| [ニチレイグループ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-18 | 3件 |
+| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-07-18 | 3件 |
+| [Ernst & Young サポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-18 | 2件 |
 | [Zoom Windowsクライアント CVE-2026-53412 アカウント乗っ取り脆弱性](./zoom-windows-cve-2026-53412.md) | 2026-07-17 | 1件 |
 | [Zimbra Classic Web Client 保存型XSS脆弱性（2026年7月）](./zimbra-classic-web-client-xss-2026.md) | 2026-07-17 | 2件 |
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-17 | 3件 |
 | [Mirax Androidバンキングトロイ（MaaS、2026年）](./mirax-android-banking-trojan-2026.md) | 2026-07-17 | 1件 |
 | [miniOrange WordPress OAuth SSO プラグイン 認証バイパス（CVE-2026-57807）](./miniorange-wordpress-oauth-sso-cve-2026-57807.md) | 2026-07-17 | 2件 |
 | [Microsoft SharePoint／AD FS ゼロデイ悪用（CVE-2026-56164・CVE-2026-56155、2026年7月）](./microsoft-sharepoint-adfs-cve-2026-56164.md) | 2026-07-17 | 1件 |
-| [Ernst & Young（EY）ITサポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-17 | 1件 |
 | [コカ・コーラ Fairlife ランサムウェア攻撃（2026年7月）](./coca-cola-fairlife-ransomware-2026.md) | 2026-07-17 | 1件 |
 | [Claude for Chrome ClaudeBleed脆弱性（2026年）](./claude-for-chrome-claudebleed-2026.md) | 2026-07-17 | 2件 |
 | [@asyncapi npmサプライチェーン攻撃（2026年7月）](./asyncapi-npm-supply-chain-2026.md) | 2026-07-17 | 1件 |
@@ -24,7 +31,6 @@
 | [UEFIシムによるSecure Bootバイパス（CVE-2026-8863/CVE-2026-10797）](./uefi-secure-boot-bypass-shims-2026.md) | 2026-07-14 | 1件 |
 | [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-14 | 3件 |
 | [日本交通 マルウェア感染・不正アクセスによるシステム停止（2026年7月）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-14 | 1件 |
-| [ニチレイ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-14 | 2件 |
 | [Lidl 通販サイト第三者ベンダー経由データ侵害（2026年7月）](./lidl-online-shop-breach-2026.md) | 2026-07-14 | 1件 |
 | [ブラウザ拡張型暗号資産ウォレットのプライバシー漏洩問題（2026年）](./ku-leuven-crypto-wallet-privacy-2026.md) | 2026-07-14 | 1件 |
 | [jscrambler npm サプライチェーン攻撃 - Rust製インフォスティーラー混入（2026年7月）](./jscrambler-npm-supply-chain-2026.md) | 2026-07-14 | 1件 |
@@ -131,7 +137,6 @@
 | [Squidbleed（CVE-2026-47729）Squid プロキシ 認証情報漏洩](./squidbleed-cve-2026-47729.md) | 2026-06-23 | 1件 |
 | [ShapedPlugin WordPress サプライチェーン攻撃（CVE-2026-10735）](./shapedplugin-wordpress-supply-chain-2026.md) | 2026-06-23 | 1件 |
 | [libssh2 CVE-2026-55200 重大 RCE 脆弱性](./libssh2-cve-2026-55200-rce.md) | 2026-06-23 | 1件 |
-| [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-06-23 | 2件 |
 | [Dify AI プラットフォーム 脆弱性（CVE-2026-41947 他）](./dify-ai-vulnerabilities-2026.md) | 2026-06-23 | 1件 |
 | [AryStinger ボットネット（D-Link ルーター大規模感染、2026年6月）](./arystinger-router-botnet-2026.md) | 2026-06-23 | 1件 |
 | [Texas Parks & Wildlife Department 第三者ベンダー侵害（2026年6月）](./texas-parks-wildlife-breach-2026.md) | 2026-06-22 | 1件 |
@@ -160,16 +165,16 @@
 | [Klue OAuth 侵害・Icarus による Salesforce データ窃取（2026年6月）](./klue-oauth-icarus-salesforce-2026.md) | 2026-06-18 | 1件 |
 | [Hugging Face Transformers RCE 脆弱性（CVE-2026-4372）](./hugging-face-transformers-rce-2026.md) | 2026-06-18 | 1件 |
 | [F5 NGINX クリティカル脆弱性（CVE-2026-42530/42055）（2026年6月）](./f5-nginx-critical-2026.md) | 2026-06-18 | 1件 |
-| [UNC6508 中国系APT 北米医療研究機関サイバースパイ（2026年6月）](./unc6508-china-medical-espionage.md) | 2026-06-17 | 1件 |
-| [Novo Nordisk FulcrumSec データ窃取・恐喝事件（2026年6月）](./novo-nordisk-fulcrumsec-2026.md) | 2026-06-17 | 1件 |
-| [LiteSpeed cPanel プラグイン root 権限昇格脆弱性（2026年6月）](./litespeed-cpanel-plugin-2026.md) | 2026-06-17 | 1件 |
-| [Joomla JCE CVE-2026-48907 最大深刻度脆弱性（2026年6月）](./joomla-jce-cve-2026-48907.md) | 2026-06-17 | 1件 |
-| [JetBrains Marketplace 悪意あるプラグインによる AI API キー窃取（2026年）](./jetbrains-plugin-ai-key-theft-2026.md) | 2026-06-17 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [UNC6508 中国系APT 北米医療研究機関サイバースパイ（2026年6月）](./unc6508-china-medical-espionage.md) | 2026-06-17 | 1件 |
+| [Novo Nordisk FulcrumSec データ窃取・恐喝事件（2026年6月）](./novo-nordisk-fulcrumsec-2026.md) | 2026-06-17 | 1件 |
+| [LiteSpeed cPanel プラグイン root 権限昇格脆弱性（2026年6月）](./litespeed-cpanel-plugin-2026.md) | 2026-06-17 | 1件 |
+| [Joomla JCE CVE-2026-48907 最大深刻度脆弱性（2026年6月）](./joomla-jce-cve-2026-48907.md) | 2026-06-17 | 1件 |
+| [JetBrains Marketplace 悪意あるプラグインによる AI API キー窃取（2026年）](./jetbrains-plugin-ai-key-theft-2026.md) | 2026-06-17 | 1件 |
 | [WordPress Awesome Motive CDNサプライチェーン攻撃（2026年6月）](./wordpress-awesome-motive-cdn-attack-2026.md) | 2026-06-16 | 1件 |
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
