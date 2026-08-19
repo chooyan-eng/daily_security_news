@@ -22,9 +22,14 @@
 - 悪用エンドポイント: `POST /api/session/reset_password`
 - 安全な最小バージョン: 0.58.24 / 0.59.21 / 0.60.17 / 0.61.11 / 0.62.9 / 0.63.5
 - 確認済み被害組織: n8n（顧客136件）、Framework、Kilo Code 等
+- CVE: CVE-2026-72898（CVSS 10.0、パスワードリセットエンドポイントのSQLi）
+- 影響バージョン: 自己ホスト型 Metabase 0.58〜0.63.4
+- 公開日: 2026-08-06、CISA KEV追加日: 2026-08-11
+- 既知の被害: 開示時点で確認された侵害企業 5社以上
 
 ## タイムライン
 
+- [2026-08-12 Metabase SQL インジェクション（CVE-2026-72898、CVSS 10.0）で少なくとも5社が侵害 – 接続先データベースの認証情報が根こそぎ流出](../articles/2026-08-12-metabase-cve-2026-72898-sqli.md)
 - [2026-08-11 n8n・Framework 等がMetabaseゼロデイ経由で顧客情報漏洩を確認](../articles/2026-08-11-n8n-framework-metabase-breach.md)
 - [2026-08-11 Metabase 認証不要SQLインジェクション・ゼロデイ（CVSS 10.0）が実悪用、管理者権限奪取が可能に](../articles/2026-08-11-metabase-sqli-zero-day.md)
 - [2026-08-10 Metabase未認証SQLインジェクションゼロデイが悪用、Framework・Tallyの顧客データが流出](../articles/2026-08-10-metabase-sqli-zeroday.md)
