@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-10
 - **出典**: [The Hacker News](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
-- **トピック**: [CSS Webメール攻撃「CSS: The Bomb Inside Your Inbox」（2026年）](../topics/css-webmail-attacks-2026.md)
-- **分類**: 新規
-
+- **トピック**: [CSS属性セレクタ悪用によるWebメール攻撃チェーン（2026年）](../topics/css-attacks-webmail-2026.md)
+- **分類**: 続報
 ## 概要
 
 PortSwiggerの研究者Gareth Heyes氏が、Black Hat USA 2026にて悪意あるメール内のCSSを悪用し、Webメールの信頼された画面表示を乗っ取る新種の攻撃手法「CSS: The Bomb Inside Your Inbox」を発表した。JavaScriptを使わずにCSSのみでOutlook・Gmail・Fastmail・Proton Mail・Yahoo Mail・AOL Mailに対する実際の攻撃チェーンを構築し、メール開封の追跡、偽サインインフォームによるパスワード窃取、クリックのリダイレクトなどが可能であることを実証した。

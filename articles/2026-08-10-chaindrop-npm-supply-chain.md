@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-10
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
-- **トピック**: [ChainDrop npmサプライチェーンワーム攻撃（2026年8月）](../topics/chaindrop-npm-supply-chain-2026.md)
-- **分類**: 新規
-
+- **トピック**: [npm keyv/cacheable サプライチェーンワーム（2026年8月）](../topics/npm-keyv-cacheable-worm-2026.md)
+- **分類**: 続報
 ## 概要
 
 npmレジストリ上で、人気パッケージ「keyv」を起点に感染を広げる自己増殖型マルウェア「ChainDrop」が発見された。攻撃者はkeyvにクレデンシャルスティーラーとnpmワーム機能を仕込んで公開し、盗んだ認証トークンを使って連鎖的に他のパッケージへ感染を広げた。被害は1,300以上のパッケージ、合計で月間20億ダウンロード規模に達しており、npmサプライチェーン攻撃としては過去最大級の規模となっている。
