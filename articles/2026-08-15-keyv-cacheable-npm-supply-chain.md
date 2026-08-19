@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-15
 - **出典**: [Wiz](https://www.wiz.io/blog/keyv-and-cacheable-npm-supply-chain-attack)
-- **トピック**: [keyv/cacheable npmサプライチェーン攻撃（2026年8月）](../topics/keyv-cacheable-npm-supply-chain-2026.md)
-- **分類**: 新規
-
+- **トピック**: [npm keyv/cacheable サプライチェーンワーム（2026年8月）](../topics/npm-keyv-cacheable-worm-2026.md)
+- **分類**: 続報
 ## 概要
 
 npmで広く使われるキャッシュライブラリ「keyv」および関連パッケージ「cacheable」が、GitHubメンテナーアカウントの侵害を発端に乗っ取られ、インストール時に実行される悪意あるコードが仕込まれた。窃取した認証情報を使ってワームのように他パッケージへ拡散し、月間20億インストール超のエコシステムに影響が及んでいる。

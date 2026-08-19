@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-15
 - **出典**: [ITmedia エンタープライズ](https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news011.html)
-- **トピック**: [ニチレイ RansomHouse ランサムウェア被害（2026年）](../topics/nichirei-ransomhouse-breach-2026.md)
-- **分類**: 新規
-
+- **トピック**: [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](../topics/nichirei-ransomhouse-ransomware-2026.md)
+- **分類**: 続報
 ## 概要
 
 冷凍食品大手ニチレイは2026年8月14日、7月に公表したランサムウェア被害について、攻撃を受けたサーバに保管されていた従業員の氏名・生年月日・社内メールアドレス・従業員番号・人事労務情報が漏洩した可能性があると発表した。RansomHouseを名乗る攻撃者は8月10日に窃取データを公開している。

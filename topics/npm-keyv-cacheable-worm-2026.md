@@ -48,9 +48,16 @@
 - 発覚日: 2026年8月4日
 - 手口: 悪意あるプリインストールフック（setup.mjs）→Bunランタイム経由の第2段階ペイロード→クラウド/CI認証情報窃取→他パッケージへの再感染
 - 規模: 影響パッケージの月間インストール数合計20億件超
+- 対象パッケージ: keyv、cacheable、file-entry-cache、cache-manager 他
+- 侵害発端: GitHubメンテナーアカウントの侵害
+- 悪意あるリリース公開: 2026年8月4日 09:35 UTC（keyv@6.0.0）
+- 悪意あるリリース数: keyv関連11件
+- 攻撃手法: preinstallフックによる難読化ローダー→第二段階ペイロードでnpm/GitHub/AWS認証情報を窃取
+- 拡散規模: 868件以上のパッケージ、月間20億インストール超に影響
 
 ## タイムライン
 
+- [2026-08-15 npmパッケージ keyv/cacheable が乗っ取り被害 – ワーム化し868超のパッケージに拡散](../articles/2026-08-15-keyv-cacheable-npm-supply-chain.md)
 - [2026-08-11 npmサプライチェーン攻撃「Shai-Hulud」ワーム — keyv/cacheable等1,300超のパッケージバージョンが汚染](../articles/2026-08-11-npm-shai-hulud-keyv-cacheable.md)
 - [2026-08-10 自己増殖型npmワーム「ChainDrop」が1,300以上のパッケージに感染、月間20億ダウンロード規模に拡大](../articles/2026-08-10-chaindrop-npm-supply-chain.md)
 - [2026-08-06 npmの人気キャッシュパッケージ keyv・cacheable がサプライチェーン攻撃で侵害、メンテナーアカウント乗っ取りから拡散](../articles/2026-08-06-npm-keyv-cacheable-mini-shai-hulud-2026.md)
