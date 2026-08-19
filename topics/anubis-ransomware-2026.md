@@ -15,4 +15,5 @@
 
 ## タイムライン
 
+- [2026-07-28 Coca-Cola、Fairlifeへのランサムウェア攻撃でデータ窃取を確認 — Anubisが身代金拒否後にデータをリーク](../articles/2026-07-28-coca-cola-fairlife-anubis-ransomware.md)
 - [2026-06-22 Anubisランサムウェア：2026年に医療機関・港湾インフラへ35件以上の攻撃を実施](../articles/2026-06-22-anubis-ransomware-healthcare-port.md)
