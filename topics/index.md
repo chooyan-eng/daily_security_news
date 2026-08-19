@@ -4,20 +4,28 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-23 | 1件 |
+| [韓国 国立外交院オンライン教育システム侵害（2026年）](./south-korea-diplomatic-academy-breach-2026.md) | 2026-07-23 | 1件 |
+| [Sony FeliCa CVE-2026-59776 暗号処理脆弱性（2026年）](./sony-felica-cve-2026-59776.md) | 2026-07-23 | 1件 |
+| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-07-23 | 2件 |
+| [Kratos フィッシングプラットフォーム摘発（2026年7月）](./kratos-phishing-platform-takedown-2026.md) | 2026-07-23 | 1件 |
+| [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-23 | 6件 |
+| [JadeProx TriBack Loader 中国系スパイキャンペーン（2026年）](./jadeprox-triback-loader-china-2026.md) | 2026-07-23 | 1件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-23 | 3件 |
+| [Chrome定例セキュリティアップデート（2026年7月）](./chrome-stable-security-update-2026-07.md) | 2026-07-23 | 1件 |
+| [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-23 | 1件 |
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-22 | 5件 |
 | [Uber Eats・Starbucks 利用者データ流出主張（インフォスティーラー由来、2026年7月）](./uber-eats-starbucks-stealer-log-leak-2026.md) | 2026-07-22 | 1件 |
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-22 | 5件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-22 | 3件 |
 | [ルーマニア不動産登記システム（ANCPI）データベース破壊攻撃（2026年7月）](./romania-land-registry-wipe-2026.md) | 2026-07-22 | 1件 |
 | [OpenAI AIモデルによるHugging Face不正侵入インシデント（2026年7月）](./openai-huggingface-ai-model-incident-2026.md) | 2026-07-22 | 1件 |
-| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-07-22 | 1件 |
 | [Craneware 医療機関向けソフトウェア企業 データ侵害（2026年7月）](./craneware-healthcare-data-breach-2026.md) | 2026-07-22 | 1件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-21 | 4件 |
 | [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
 | [Paidwork データ漏洩事件（2026年）](./paidwork-data-breach-2026.md) | 2026-07-21 | 1件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
 | [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-07-21 | 2件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-21 | 2件 |
 | [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-21 | 2件 |
 | [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-07-21 | 1件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
@@ -88,7 +96,6 @@
 | [Accenture データ侵害 — 脅威アクター「888」（2026年7月）](./accenture-breach-888-2026.md) | 2026-07-09 | 1件 |
 | [XRING — XQUIC HTTP/3 QPACK脆弱性（2026年）](./xring-http3-xquic-vulnerability-2026.md) | 2026-07-08 | 1件 |
 | [Ubiquiti UniFi OS 最大深刻度脆弱性の悪用（2026年6月）](./ubiquiti-unifi-os-vulnerabilities-2026.md) | 2026-07-08 | 2件 |
-| [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-08 | 5件 |
 | [Injective SDK npmサプライチェーン攻撃（2026年7月）](./injective-sdk-npm-supply-chain-2026.md) | 2026-07-08 | 1件 |
 | [GitHub Agentic Workflows「GitLost」プロンプトインジェクション脆弱性（2026年7月）](./github-gitlost-prompt-injection-2026.md) | 2026-07-08 | 1件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-07-08 | 2件 |
@@ -157,16 +164,16 @@
 | [libssh2 CVE-2026-55200 重大 RCE 脆弱性](./libssh2-cve-2026-55200-rce.md) | 2026-06-23 | 1件 |
 | [Dify AI プラットフォーム 脆弱性（CVE-2026-41947 他）](./dify-ai-vulnerabilities-2026.md) | 2026-06-23 | 1件 |
 | [AryStinger ボットネット（D-Link ルーター大規模感染、2026年6月）](./arystinger-router-botnet-2026.md) | 2026-06-23 | 1件 |
-| [Texas Parks & Wildlife Department 第三者ベンダー侵害（2026年6月）](./texas-parks-wildlife-breach-2026.md) | 2026-06-22 | 1件 |
-| [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
-| [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
-| [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
-| [Android CVE-2025-48595 特権昇格ゼロデイ（2026年6月）](./android-cve-2025-48595-zero-day.md) | 2026-06-22 | 2件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Texas Parks & Wildlife Department 第三者ベンダー侵害（2026年6月）](./texas-parks-wildlife-breach-2026.md) | 2026-06-22 | 1件 |
+| [英国NCSCのAIコード生成セキュリティリスク警告（2026年）](./ncsc-ai-code-security-2026.md) | 2026-06-22 | 1件 |
+| [Chrome V8 ゼロデイ脆弱性シリーズ（2026年）](./chrome-zero-day-2026.md) | 2026-06-22 | 2件 |
+| [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-06-22 | 1件 |
+| [Android CVE-2025-48595 特権昇格ゼロデイ（2026年6月）](./android-cve-2025-48595-zero-day.md) | 2026-06-22 | 2件 |
 | [usbliter8 — Apple A12/A13 パッチ不可能 BootROM エクスプロイト（2026年）](./usbliter8-apple-bootrom-2026.md) | 2026-06-21 | 2件 |
 | [SAP NetWeaver クリティカル脆弱性（2026年6月）](./sap-netweaver-saml-critical-june-2026.md) | 2026-06-21 | 1件 |
 | [Prinz Eugen ランサムウェア（2026年6月〜）](./prinz-eugen-ransomware-2026.md) | 2026-06-21 | 1件 |
