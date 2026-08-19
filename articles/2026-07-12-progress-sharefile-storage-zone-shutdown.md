@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-12
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
-- **トピック**: [Progress ShareFile Storage Zone Controllers 緊急停止要請（2026年7月）](../topics/progress-sharefile-storage-zone-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](../topics/progress-sharefile-storage-zone-controllers-2026.md)
+- **分類**: 続報
 ## 概要
 
 Progress Softwareは、オンプレミス版ファイル共有製品「ShareFile」のコンポーネント「Storage Zone Controllers」の利用企業に対し、「信頼性の高い外部からの脅威」を確認したとして、対象サーバーの即時停止を求めるメールを送付した。CVE番号や脅威の詳細は非公開だが、ゼロデイの可能性を含め警戒されている。

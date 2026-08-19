@@ -6,19 +6,17 @@
 |----------|----------|--------|
 | [Zimbra Classic Web Client 保存型XSS脆弱性（2026年）](./zimbra-classic-web-client-xss-2026.md) | 2026-07-12 | 1件 |
 | [WP-SHELLSTORM WordPress ウェブシェルブローカー活動（2026年）](./wp-shellstorm-webshell-brokerage-2026.md) | 2026-07-12 | 1件 |
-| [Progress ShareFile Storage Zone Controllers 緊急停止要請（2026年7月）](./progress-sharefile-storage-zone-2026.md) | 2026-07-12 | 1件 |
+| [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-12 | 2件 |
 | [パキスタン法執行機関への中国・インド系サイバースパイ活動（2026年）](./pakistan-law-enforcement-cyber-espionage-2026.md) | 2026-07-12 | 1件 |
 | [npmサプライチェーン攻撃・暗号資産ウォレット窃取（2026年7月）](./npm-supply-chain-crypto-wallet-2026.md) | 2026-07-12 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-07-12 | 5件 |
-| [Gitea Docker イメージ認証バイパス CVE-2026-20896（2026年）](./gitea-docker-auth-bypass-cve-2026-20896.md) | 2026-07-12 | 1件 |
+| [Gitea Docker CVE-2026-20896 認証バイパス脆弱性（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-12 | 4件 |
 | [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-07-12 | 2件 |
 | [Accenture データ侵害・ソースコード窃取主張（2026年7月）](./accenture-breach-source-code-2026.md) | 2026-07-12 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-11 | 4件 |
 | [UNK_MassTraction Roundcube悪用キャンペーン（2026年）](./roundcube-unk-masstraction-2026.md) | 2026-07-11 | 1件 |
-| [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-11 | 1件 |
 | [Odido（オランダ通信大手）不正アクセス事件（2026年）](./odido-breach-2026.md) | 2026-07-11 | 1件 |
 | [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-vulnerability-2026.md) | 2026-07-11 | 2件 |
-| [Gitea Docker CVE-2026-20896 認証バイパス脆弱性（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-11 | 3件 |
 | [Bad Epoll Linuxカーネル脆弱性 CVE-2026-46242（2026年）](./bad-epoll-cve-2026-46242-android.md) | 2026-07-11 | 1件 |
 | [Accenture 侵害・ソースコード流出事件（2026年7月）](./accenture-breach-2026.md) | 2026-07-11 | 2件 |
 | [無料Android VPNアプリのセキュリティ調査 — MVPNalyzer（2026年）](./free-vpn-android-apps-security-study-2026.md) | 2026-07-10 | 1件 |
