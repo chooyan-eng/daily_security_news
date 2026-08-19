@@ -13,7 +13,7 @@
 | [Chrome DevTools Protocol悪用セッションハイジャック手法（2026年）](./chrome-devtools-protocol-session-hijack-2026.md) | 2026-08-15 | 1件 |
 | [Beacon CRM データ侵害（2026年）](./beacon-crm-data-breach-2026.md) | 2026-08-15 | 1件 |
 | [Adobe 2026年8月定例セキュリティ更新](./adobe-patch-tuesday-august-2026.md) | 2026-08-15 | 2件 |
-| [ShinyHunters ランサムウェア恐喝キャンペーン（2026年8月）](./shinyhunters-ransomware-extortion-2026.md) | 2026-08-14 | 2件 |
+| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-14 | 4件 |
 | [SAP Commerce Cloud CVE-2026-58231 重大脆弱性（2026年8月）](./sap-commerce-cloud-cve-2026-58231.md) | 2026-08-14 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-13 | 4件 |
 | [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-08-13 | 1件 |
@@ -51,7 +51,6 @@
 | [Atlassian Rovo プロンプトインジェクション・データ持ち出し脆弱性（2026年）](./atlassian-rovo-prompt-injection-2026.md) | 2026-08-09 | 1件 |
 | [WordPress CVE-2026-64638 未認証XSS（2026年8月）](./wordpress-cve-2026-64638-pre-auth-xss.md) | 2026-08-07 | 2件 |
 | [TrueBooker WordPress プラグイン認可バイパス（2026年8月）](./truebooker-wordpress-plugin-2026.md) | 2026-08-07 | 1件 |
-| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-07 | 2件 |
 | [Qilinランサムウェアグループ（2026年）](./qilin-freedom-claims-ransomware-2026.md) | 2026-08-07 | 1件 |
 | [NatJack – NAT実装の設計的脆弱性による攻撃クラス（2026年）](./natjack-nat-attack-class-2026.md) | 2026-08-07 | 1件 |
 | [Linux カーネル SCTPhantom CVE-2026-64564（2026年8月）](./linux-sctphantom-cve-2026-64564.md) | 2026-08-07 | 2件 |

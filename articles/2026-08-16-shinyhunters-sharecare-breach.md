@@ -2,7 +2,7 @@
 
 - **日付**: 2026-08-14
 - **出典**: [Ransomware.live](https://ransomware.live/id/U2hhcmVjYXJlLCBJbmMuQHNoaW55aHVudGVycw==), [Migliaccio & Rathod LLP](https://classlawdc.com/2026/08/14/sharecare-data-breach-investigation/)
-- **トピック**: [ShinyHunters ランサムウェア恐喝キャンペーン（2026年8月）](../topics/shinyhunters-ransomware-extortion-2026.md)
+- **トピック**: [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](../topics/shinyhunters-saas-extortion-campaign-2026-08.md)
 - **分類**: 続報
 
 ## 概要

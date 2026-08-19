@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-14
 - **出典**: [DeXpose](https://www.dexpose.io/shinyhunters-compromises-carhartt-inc-in-major-ransomware-attack/), [Ransomware.live](https://www.ransomware.live/id/Q2FyaGFydHQsIEluYy5Ac2hpbnlodW50ZXJz)
-- **トピック**: [ShinyHunters ランサムウェア恐喝キャンペーン（2026年8月）](../topics/shinyhunters-ransomware-extortion-2026.md)
-- **分類**: 新規
-
+- **トピック**: [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](../topics/shinyhunters-saas-extortion-campaign-2026-08.md)
+- **分類**: 続報
 ## 概要
 
 ランサムウェア／データ恐喝グループ「ShinyHunters」が8月14日、米アパレル大手Carhartt社への攻撃を主張し、数百万件の顧客・従業員・企業データの窃取を公表した。推定攻撃日は8月13日、身代金要求額は330万ドル。同社が交渉に応じなかったため、窃取データが公開された。
