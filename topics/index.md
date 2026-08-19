@@ -4,7 +4,7 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [N-able N-central 認証バイパス脆弱性 積極的悪用（2026年8月）](./n-able-ncentral-cve-2026-18577.md) | 2026-08-05 | 1件 |
+| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-05 | 3件 |
 | [共同通信社 業務メール環境への不正アクセス（2026年8月）](./kyodo-news-unauthorized-access-2026.md) | 2026-08-05 | 1件 |
 | [ChainDrop npmサプライチェーンワーム（2026年8月）](./chaindrop-npm-supply-chain-worm-2026.md) | 2026-08-05 | 2件 |
 | [SplitVPN（旧NotVPN）データ侵害（2026年）](./splitvpn-notvpn-breach-2026.md) | 2026-08-04 | 1件 |
@@ -13,7 +13,6 @@
 | [PNLD（英国警察法務データベース）データ侵害（2026年）](./pnld-uk-police-database-breach-2026.md) | 2026-08-04 | 1件 |
 | [Pass-ta-key：Googleパスワードマネージャー パスキー攻撃（2026年8月）](./pass-ta-key-google-password-manager-2026.md) | 2026-08-04 | 1件 |
 | [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-04 | 1件 |
-| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-04 | 2件 |
 | [Langflow CVE-2026-9198 未認証RCE・KEV追加（2026年8月）](./langflow-cve-2026-9198-kev-2026.md) | 2026-08-04 | 1件 |
 | [イノベーション GitHub認証情報漏えい・不正アクセス（2026年8月）](./innovation-github-credential-leak-2026.md) | 2026-08-04 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-08-04 | 3件 |
