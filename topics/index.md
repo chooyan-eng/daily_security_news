@@ -7,7 +7,7 @@
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-25 | 6件 |
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
-| [LAUNDRY BEAR — Zimbra ゼロクリックXSSゼロデイ悪用作戦（CVE-2025-66376）](./laundrybear-zimbra-zeroday-2026.md) | 2026-07-25 | 1件 |
+| [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](./laundry-bear-zimbra-cve-2025-66376.md) | 2026-07-25 | 2件 |
 | [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-25 | 1件 |
 | [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-25 | 1件 |
 | [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 5件 |
@@ -19,7 +19,6 @@
 | [佐川急便「スマートクラブ」個人情報漏えい（2026年7月）](./sagawa-smartclub-leak-2026.md) | 2026-07-24 | 1件 |
 | [Origin Energy 顧客データ侵害（2026年7月）](./origin-energy-data-breach-2026.md) | 2026-07-24 | 1件 |
 | [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-24 | 3件 |
-| [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](./laundry-bear-zimbra-cve-2025-66376.md) | 2026-07-24 | 1件 |
 | [Check Point SmartConsole 認証バイパス CVE-2026-16232（2026年7月）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-24 | 1件 |
 | [Bing画像検索 SVGコマンドインジェクションRCE（CVE-2026-32194/32191）](./bing-images-svg-rce-2026.md) | 2026-07-24 | 1件 |
 | [AWS Kiro エージェント型IDE 設定書き換えRCE（2026年）](./aws-kiro-mcp-config-rce-2026.md) | 2026-07-24 | 1件 |

@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-25
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/russian-espionage-group-exploited.html)
-- **トピック**: [LAUNDRY BEAR — Zimbra ゼロクリックXSSゼロデイ悪用作戦（CVE-2025-66376）](../topics/laundrybear-zimbra-zeroday-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](../topics/laundry-bear-zimbra-cve-2025-66376.md)
+- **分類**: 続報
 ## 概要
 
 ロシア国家支援とされる脅威アクター「LAUNDRY BEAR」が、Zimbra Collaboration Suiteのゼロクリック型XSS脆弱性（CVE-2025-66376）を悪用し、西側諸国の政府・防衛・エネルギー・教育・メディア機関などから直近90日分のメールを窃取するフィッシングキャンペーンを展開していたことが、NSA等の共同勧告（AA26-204A、7月23日公開）で明らかになった。
