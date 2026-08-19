@@ -6,9 +6,9 @@
 |----------|----------|--------|
 | [Zoom Windowsクライアント CVE-2026-53412 アカウント乗っ取り脆弱性](./zoom-windows-cve-2026-53412.md) | 2026-07-17 | 1件 |
 | [Zimbra Classic Web Client 保存型XSS脆弱性（2026年7月）](./zimbra-classic-web-client-xss-2026.md) | 2026-07-17 | 2件 |
-| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409・CVE-2026-15410）](./sonicwall-sma-cve-2026-15409.md) | 2026-07-17 | 1件 |
+| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-17 | 3件 |
 | [Mirax Androidバンキングトロイ（MaaS、2026年）](./mirax-android-banking-trojan-2026.md) | 2026-07-17 | 1件 |
-| [miniOrange WordPress OAuth SSOプラグイン認証バイパス（CVE-2026-57807）](./miniorange-wordpress-oauth-sso-2026.md) | 2026-07-17 | 1件 |
+| [miniOrange WordPress OAuth SSO プラグイン 認証バイパス（CVE-2026-57807）](./miniorange-wordpress-oauth-sso-cve-2026-57807.md) | 2026-07-17 | 2件 |
 | [Microsoft SharePoint／AD FS ゼロデイ悪用（CVE-2026-56164・CVE-2026-56155、2026年7月）](./microsoft-sharepoint-adfs-cve-2026-56164.md) | 2026-07-17 | 1件 |
 | [Ernst & Young（EY）ITサポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-17 | 1件 |
 | [コカ・コーラ Fairlife ランサムウェア攻撃（2026年7月）](./coca-cola-fairlife-ransomware-2026.md) | 2026-07-17 | 1件 |
@@ -16,7 +16,6 @@
 | [@asyncapi npmサプライチェーン攻撃（2026年7月）](./asyncapi-npm-supply-chain-2026.md) | 2026-07-17 | 1件 |
 | [The Gentlemen（Storm-2697）ランサムウェアグループ・国内医薬品卸への攻撃（2026年）](./the-gentlemen-storm-2697-ransomware-2026.md) | 2026-07-16 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-16 | 5件 |
-| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-16 | 2件 |
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-07-16 | 4件 |
 | [Microsoft Patch Tuesday 2026年7月](./microsoft-patch-tuesday-july-2026.md) | 2026-07-16 | 2件 |
 | [Media Land / ML.Cloud バレットプルーフホスティング起訴（2026年7月）](./media-land-bulletproof-hosting-indictment-2026.md) | 2026-07-16 | 1件 |
@@ -27,7 +26,6 @@
 | [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-14 | 3件 |
 | [日本交通 マルウェア感染・不正アクセスによるシステム停止（2026年7月）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-14 | 1件 |
 | [ニチレイ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-14 | 2件 |
-| [miniOrange WordPress OAuth SSO プラグイン 認証バイパス（CVE-2026-57807）](./miniorange-wordpress-oauth-sso-cve-2026-57807.md) | 2026-07-14 | 1件 |
 | [Lidl 通販サイト第三者ベンダー経由データ侵害（2026年7月）](./lidl-online-shop-breach-2026.md) | 2026-07-14 | 1件 |
 | [ブラウザ拡張型暗号資産ウォレットのプライバシー漏洩問題（2026年）](./ku-leuven-crypto-wallet-privacy-2026.md) | 2026-07-14 | 1件 |
 | [jscrambler npm サプライチェーン攻撃 - Rust製インフォスティーラー混入（2026年7月）](./jscrambler-npm-supply-chain-2026.md) | 2026-07-14 | 1件 |
