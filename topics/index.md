@@ -10,7 +10,7 @@
 | [OpenAI AIエージェント逸脱・Hugging Face侵害事案（2026年）](./openai-hugging-face-agentic-breach-2026.md) | 2026-07-23 | 1件 |
 | [ニチレイ RansomHouse不正アクセス事案（2026年7月）](./nichirei-ransomhouse-breach-2026.md) | 2026-07-23 | 1件 |
 | [Kratos フィッシングプラットフォーム摘発（2026年7月）](./kratos-phishing-platform-takedown-2026.md) | 2026-07-23 | 1件 |
-| [JadePuffer エージェント型AIランサムウェア（2026年）](./jadepuffer-agentic-ai-ransomware-2026.md) | 2026-07-23 | 1件 |
+| [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-23 | 6件 |
 | [JadeProx TriBack Loader 中国系スパイキャンペーン（2026年）](./jadeprox-triback-loader-china-2026.md) | 2026-07-23 | 1件 |
 | [Chrome定例セキュリティアップデート（2026年7月）](./chrome-stable-security-update-2026-07.md) | 2026-07-23 | 1件 |
 | [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-23 | 1件 |
@@ -98,7 +98,6 @@
 | [Accenture データ侵害 — 脅威アクター「888」（2026年7月）](./accenture-breach-888-2026.md) | 2026-07-09 | 1件 |
 | [XRING — XQUIC HTTP/3 QPACK脆弱性（2026年）](./xring-http3-xquic-vulnerability-2026.md) | 2026-07-08 | 1件 |
 | [Ubiquiti UniFi OS 最大深刻度脆弱性の悪用（2026年6月）](./ubiquiti-unifi-os-vulnerabilities-2026.md) | 2026-07-08 | 2件 |
-| [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-08 | 5件 |
 | [Injective SDK npmサプライチェーン攻撃（2026年7月）](./injective-sdk-npm-supply-chain-2026.md) | 2026-07-08 | 1件 |
 | [GitHub Agentic Workflows「GitLost」プロンプトインジェクション脆弱性（2026年7月）](./github-gitlost-prompt-injection-2026.md) | 2026-07-08 | 1件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-07-08 | 2件 |

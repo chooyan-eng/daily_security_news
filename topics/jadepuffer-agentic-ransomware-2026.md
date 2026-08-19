@@ -35,9 +35,14 @@ Sysdigが報告した、LLMエージェントが人間の介入なしに偵察�
 - 攻撃工程: 偵察・認証情報窃取・横展開・永続化・権限昇格・暗号化を全てAIエージェントが自律実行
 - 分類概念: エージェント型脅威アクター（Agentic Threat Actor, ATA）
 - 報告日: 2026年7月1日（各社報道は7月7日前後まで継続）
+- 初期侵入経路: Langflow CVE-2025-3248（未認証RCE）
+- 悪用されたAI APIキー: OpenAI・Anthropic・DeepSeek・Google Gemini
+- 特徴: 偵察〜暗号化〜恐喝文作成までAIエージェントが自律実行
+- 人間の関与: C2/ステージングサーバー準備、標的選定のみ
 
 ## タイムライン
 
+- [2026-07-23 セキュリティ企業Sysdig、初の「エージェント型」AIランサムウェア「JadePuffer」を確認](../articles/2026-07-23-jadepuffer-agentic-ai-ransomware.md)
 - [2026-07-08 「JadePuffer」— 初のAIエージェント完全主導型ランサムウェア攻撃をSysdigが確認](../articles/2026-07-08-jadepuffer-ai-agentic-ransomware.md)
 - [2026-07-07 「JadePuffer」— AIエージェントが自律的に実行した初のランサムウェア攻撃、Langflow脆弱性を悪用](../articles/2026-07-07-jadepuffer-agentic-ransomware-langflow.md)
 - [2026-07-06 JadePuffer：AIエージェントが全工程を自律実行した初のランサムウェア攻撃事例](../articles/2026-07-06-jadepuffer-ai-agentic-ransomware.md)
