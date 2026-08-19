@@ -5,7 +5,7 @@
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
 | [WatchGuard Firebox CVE-2026-13368 VPN認証脆弱性（2026年）](./watchguard-firebox-cve-2026-13368.md) | 2026-07-04 | 1件 |
-| [Microsoft SharePoint Server CVE-2026-45659 RCE脆弱性（2026年）](./sharepoint-cve-2026-45659-2026.md) | 2026-07-04 | 1件 |
+| [Microsoft SharePoint Server CVE-2026-45659 リモートコード実行脆弱性](./sharepoint-cve-2026-45659-rce.md) | 2026-07-04 | 2件 |
 | [NetNut レジデンシャルプロキシ悪用ボットネット摘発（2026年）](./netnut-residential-proxy-takedown-2026.md) | 2026-07-04 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-07-04 | 3件 |
 | [米国土安全保障省 情報共有基盤HSIN不正侵入（2026年）](./dhs-hsin-breach-2026.md) | 2026-07-04 | 3件 |
@@ -13,7 +13,6 @@
 | [AirDrop・Quick Share 近接無線共有プロトコル脆弱性（2026年）](./airdrop-quickshare-vulnerabilities-2026.md) | 2026-07-04 | 2件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-07-04 | 4件 |
 | [ToddyCat APT「Umbrij」マルウェア・OAuthトークン窃取キャンペーン（2026年）](./toddycat-umbrij-oauth-malware-2026.md) | 2026-07-03 | 1件 |
-| [Microsoft SharePoint Server CVE-2026-45659 リモートコード実行脆弱性](./sharepoint-cve-2026-45659-rce.md) | 2026-07-03 | 1件 |
 | [セイコーソリューションズ SkyBridge/SkySpider 脆弱性（2026年）](./seiko-skybridge-vulnerabilities-2026.md) | 2026-07-03 | 1件 |
 | [保護者連絡アプリ「ミマモルメ」個人情報誤配信事案（2026年）](./osaka-mimamorume-data-misdelivery-2026.md) | 2026-07-03 | 1件 |
 | [Medtronic データ侵害事件（ShinyHunters、2026年）](./medtronic-shinyhunters-breach-2026.md) | 2026-07-03 | 1件 |
