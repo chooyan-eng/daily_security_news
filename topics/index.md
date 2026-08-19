@@ -4,9 +4,9 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [Citrix NetScaler CitrixBleed系メモリ漏洩脆弱性 CVE-2026-8451（2026年）](./citrix-netscaler-cve-2026-8451-citrixbleed.md) | 2026-07-02 | 1件 |
+| [Citrix NetScaler ADC/Gateway 複数脆弱性（CVE-2026-8451 他、2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-02 | 2件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-01 | 2件 |
-| [SimpleHelp RMM CVE-2026-48558 認証バイパス脆弱性（2026年）](./simplehelp-rmm-cve-2026-48558.md) | 2026-07-01 | 1件 |
+| [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-07-01 | 2件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-01 | 3件 |
 | [サッポロホールディングス海外子会社不正アクセス（2026年）](./sapporo-holdings-overseas-breach-2026.md) | 2026-07-01 | 1件 |
 | [Phantom Squatting：AI幻覚ドメイン悪用の新種脅威（2026年）](./phantom-squatting-ai-domains-2026.md) | 2026-07-01 | 1件 |
@@ -16,12 +16,10 @@
 | [樋口商会 ランサムウェア攻撃（Stormous、2026年6月）](./higuchi-shokai-stormous-ransomware-2026.md) | 2026-07-01 | 1件 |
 | [DHS HSIN 情報共有基盤への侵入（2026年）](./dhs-hsin-breach-2026.md) | 2026-07-01 | 1件 |
 | [Cursor AIコードエディタ サンドボックス脱出脆弱性「DuneSlide」（2026年）](./cursor-ai-duneslide-2026.md) | 2026-07-01 | 1件 |
-| [Citrix NetScaler ADC/Gateway 複数脆弱性（CVE-2026-8451 他、2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-01 | 1件 |
 | [ブラウザ完結型ランサムウェア（File System Access API悪用、2026年）](./browser-native-ransomware-fsapi-2026.md) | 2026-07-01 | 1件 |
 | [Azure CLI パスワードスプレー攻撃「LSHIY」キャンペーン（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-01 | 1件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-07-01 | 2件 |
 | [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-01 | 1件 |
-| [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-06-30 | 1件 |
 | [Silent Swap 暗号資産クリッパー拡張機能キャンペーン（2026年）](./silent-swap-crypto-clipper-2026.md) | 2026-06-30 | 1件 |
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |
