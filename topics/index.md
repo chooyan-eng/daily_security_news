@@ -6,7 +6,7 @@
 |----------|----------|--------|
 | [The Gentlemen（Storm-2697）ランサムウェアグループ・国内医薬品卸への攻撃（2026年）](./the-gentlemen-storm-2697-ransomware-2026.md) | 2026-07-16 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-16 | 5件 |
-| [SonicWall SMA1000 ゼロデイ脆弱性連鎖悪用（2026年7月）](./sonicwall-sma1000-zero-day-2026.md) | 2026-07-16 | 1件 |
+| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-16 | 2件 |
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-07-16 | 4件 |
 | [Microsoft Patch Tuesday 2026年7月](./microsoft-patch-tuesday-july-2026.md) | 2026-07-16 | 2件 |
 | [Media Land / ML.Cloud バレットプルーフホスティング起訴（2026年7月）](./media-land-bulletproof-hosting-indictment-2026.md) | 2026-07-16 | 1件 |
@@ -14,7 +14,6 @@
 | [D1R グループによるSynopsys・Bosch侵害主張（2026年7月）](./d1r-synopsys-bosch-claim-2026.md) | 2026-07-16 | 2件 |
 | [Claude for Chrome ClaudeBleed脆弱性（2026年）](./claude-for-chrome-claudebleed-2026.md) | 2026-07-16 | 1件 |
 | [UEFIシムによるSecure Bootバイパス（CVE-2026-8863/CVE-2026-10797）](./uefi-secure-boot-bypass-shims-2026.md) | 2026-07-14 | 1件 |
-| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-14 | 1件 |
 | [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-14 | 3件 |
 | [日本交通 マルウェア感染・不正アクセスによるシステム停止（2026年7月）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-14 | 1件 |
 | [ニチレイ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-14 | 2件 |
