@@ -4,8 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-05 | 3件 |
-| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-05 | 3件 |
+| [TP-Link Omada ZTP 脆弱性群（2026年8月）](./tp-link-omada-ztp-vulnerabilities-2026.md) | 2026-08-06 | 1件 |
+| [Samsung Members/Account エクスプロイトチェーン（Bixby悪用）](./samsung-members-account-bixby-exploit-chain-2026.md) | 2026-08-06 | 1件 |
+| [Sakura Mobile 不正アクセス事案（2026年）](./sakura-mobile-unauthorized-access-2026.md) | 2026-08-06 | 1件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 4件 |
+| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-06 | 4件 |
+| [リヒテンシュタイン実質的所有者登録簿 不正アクセス事案（2026年）](./liechtenstein-beneficial-owner-register-breach-2026.md) | 2026-08-06 | 1件 |
+| [ジョンズ・ホプキンス大学 myJH偽装フィッシングキャンペーン（2026年8月）](./johns-hopkins-myjh-phishing-2026.md) | 2026-08-06 | 1件 |
+| [Pass-ta-key攻撃 Google同期パスキー ハイジャック（2026年8月）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-06 | 1件 |
+| [DentaQuest データ漏洩事件（ShinyHunters、2026年）](./dentaquest-data-breach-2026.md) | 2026-08-06 | 1件 |
+| [AI自律型ハッキングキャンペーン「Hermes Agent」（2026年8月）](./ai-agent-hacking-campaign-langflow-tomcat-2026.md) | 2026-08-06 | 1件 |
 | [共同通信社 業務メール環境への不正アクセス（2026年8月）](./kyodo-news-unauthorized-access-2026.md) | 2026-08-05 | 1件 |
 | [SplitVPN（旧NotVPN）データ侵害（2026年）](./splitvpn-notvpn-breach-2026.md) | 2026-08-04 | 1件 |
 | [Rails Active Storage CVE-2026-66066（KindaRails2Shell、2026年）](./rails-active-storage-cve-2026-66066.md) | 2026-08-04 | 6件 |
@@ -167,14 +175,14 @@
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-07-07 | 10件 |
 | [Azure CLI パスワードスプレーキャンペーン「LSHIY」（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-07 | 4件 |
 | [AdaptHealth ソーシャルエンジニアリング侵害（2026年6月）](./adapthealth-breach-2026.md) | 2026-07-07 | 1件 |
-| [Oracle E-Business Suite CVE-2026-46817 未認証RCE（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-06 | 3件 |
-| [Operation DragonReturn – 中国系脅威アクターによるインド税務インフラ標的キャンペーン（2026年）](./operation-dragonreturn-china-india-2026.md) | 2026-07-06 | 1件 |
-| [AirDrop・Quick Share 近接ファイル共有プロトコル脆弱性（2026年）](./airdrop-quickshare-vulnerabilities-2026.md) | 2026-07-06 | 3件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Oracle E-Business Suite CVE-2026-46817 未認証RCE（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-06 | 3件 |
+| [Operation DragonReturn – 中国系脅威アクターによるインド税務インフラ標的キャンペーン（2026年）](./operation-dragonreturn-china-india-2026.md) | 2026-07-06 | 1件 |
+| [AirDrop・Quick Share 近接ファイル共有プロトコル脆弱性（2026年）](./airdrop-quickshare-vulnerabilities-2026.md) | 2026-07-06 | 3件 |
 | [Microsoft Defender BlueHammer 特権昇格脆弱性（CVE-2026-33825）](./microsoft-defender-bluehammer-cve-2026-33825.md) | 2026-07-05 | 1件 |
 | [メール配信システム「める配くん」不正アクセス（2026年6月）](./meruhaikun-email-delivery-breach-2026.md) | 2026-07-05 | 1件 |
 | [Kubota North America 従業員データ侵害（2026年）](./kubota-north-america-breach-2026.md) | 2026-07-05 | 1件 |

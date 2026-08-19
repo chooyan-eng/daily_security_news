@@ -16,9 +16,16 @@
 - 手口: npm preinstallフック → Bun難読化ペイロード → 認証情報窃取 → 自己拡散、Ethereumスマートコントラクト経由のC2デッドドロップ
 - 関連キャンペーン: Open VSX「Evil Twin」拡張機能77件（2026年7月26日〜8月1日アップロード、8月3日削除）
 - 悪用開始: 2026年8月4日UTC10:53頃
+- 侵害日: 2026年8月4日
+- 侵害対象: npmメンテナー Jared Wray（jaredwray）のGitHubアカウント
+- 直接侵害パッケージ: keyv, cacheable-request, cache-manager, @cacheable/utils, flat-cache, file-entry-cache, cacheable, @cacheable/memory, @cacheable/node-cache（計9パッケージ、月間20億+DL）
+- マルウェア: preinstallフック経由の難読化ローダー→クレデンシャルスティーラー（npm/GitHub/AWS/HashiCorp Vault認証情報窃取）
+- 攻撃者ファミリー帰属（Wiz）: Mini Shai-Hulud（TeamPCP・@antvキャンペーンとの類似性を指摘、同一犯行と断定はせず）
+- 影響規模: 約400〜2,200件超のパッケージ・成果物
 
 ## タイムライン
 
+- [2026-08-06 npmの人気キャッシュパッケージ keyv・cacheable がサプライチェーン攻撃で侵害、メンテナーアカウント乗っ取りから拡散](../articles/2026-08-06-npm-keyv-cacheable-mini-shai-hulud-2026.md)
 - [2026-08-05 Open VSXで「Evil Twin」型の悪性拡張機能77件を検出・削除、ChainDropキャンペーンの一部と判明](../articles/2026-08-05-openvsx-evil-twin-extensions.md)
 - [2026-08-04 npmサプライチェーンワーム、keyv/cacheable経由で数百パッケージに拡散し認証情報を窃取](../articles/2026-08-04-npm-keyv-cacheable-supply-chain-worm.md)
 - [2026-08-04 「ChainDrop」自己増殖型npmワーム、keyv・cacheable等450パッケージ・2,200超のバージョンに感染](../articles/2026-08-04-chaindrop-npm-worm.md)
