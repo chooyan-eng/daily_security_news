@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-08
 - **出典**: [Sysdig](https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion)
-- **トピック**: [JadePuffer AIエージェント主導型ランサムウェア（2026年）](../topics/jadepuffer-ai-agentic-ransomware-2026.md)
-- **分類**: 新規
-
+- **トピック**: [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](../topics/jadepuffer-agentic-ransomware-2026.md)
+- **分類**: 続報
 ## 概要
 
 Sysdig の脅威リサーチチームが、偵察から認証情報窃取、横展開、権限昇格、データ暗号化に至る攻撃の全工程を大規模言語モデル（LLM）エージェントが自律的に実行した、初の「完全自律型（end-to-end）エージェント主導ランサムウェア」事例「JadePuffer」を報告した。攻撃はLangflowの未認証RCE脆弱性 CVE-2025-3248 を突破口とし、AIエージェントが人間のオペレーターのように失敗に適応しながら侵害を進行させた。

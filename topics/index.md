@@ -4,21 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [JadePuffer AIエージェント主導型ランサムウェア（2026年）](./jadepuffer-ai-agentic-ransomware-2026.md) | 2026-07-08 | 1件 |
+| [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-08 | 5件 |
 | [GitHub Agentic Workflows「GitLost」プロンプトインジェクション脆弱性（2026年7月）](./github-gitlost-prompt-injection-2026.md) | 2026-07-08 | 1件 |
 | [Gitea Docker CVE-2026-20896 認証バイパス脆弱性（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-08 | 2件 |
-| [Citrix NetScaler CitrixBleed Echo（CVE-2026-8451）メモリ漏洩脆弱性（2026年）](./citrix-netscaler-cve-2026-8451-citrixbleed-echo.md) | 2026-07-08 | 1件 |
+| [Citrix NetScaler CVE-2026-8451 SAMLメモリ漏洩「CitrixBleed」再来（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-08 | 6件 |
 | [AI生成ブラウザ内蔵型ランサムウェア「InfernoGrabber」（Chromium File System Access API悪用）](./ai-browser-ransomware-chromium-api-2026.md) | 2026-07-08 | 1件 |
-| [Adobe ColdFusion CVE-2026-48282 パストラバーサル積極的悪用（2026年7月）](./adobe-coldfusion-cve-2026-48282.md) | 2026-07-08 | 1件 |
+| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-08 | 4件 |
 | [Accenture データ侵害・ソースコード窃取主張（2026年7月）](./accenture-breach-2026.md) | 2026-07-08 | 1件 |
 | [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-07-07 | 4件 |
 | [Microsoft SharePoint Server CVE-2026-45659 リモートコード実行脆弱性](./sharepoint-cve-2026-45659-rce.md) | 2026-07-07 | 4件 |
-| [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-07 | 4件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-07-07 | 10件 |
-| [Citrix NetScaler CVE-2026-8451 SAMLメモリ漏洩「CitrixBleed」再来（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-07 | 5件 |
 | [Azure CLI パスワードスプレーキャンペーン「LSHIY」（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-07 | 4件 |
 | [AI生成ブラウザ内完結型ランサムウェア（Chromium File System Access API悪用、2026年）](./ai-browser-ransomware-chromium-2026.md) | 2026-07-07 | 1件 |
-| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-07 | 3件 |
 | [AdaptHealth ソーシャルエンジニアリング侵害（2026年6月）](./adapthealth-breach-2026.md) | 2026-07-07 | 1件 |
 | [Oracle E-Business Suite CVE-2026-46817 未認証RCE（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-06 | 3件 |
 | [Operation DragonReturn – 中国系脅威アクターによるインド税務インフラ標的キャンペーン（2026年）](./operation-dragonreturn-china-india-2026.md) | 2026-07-06 | 1件 |

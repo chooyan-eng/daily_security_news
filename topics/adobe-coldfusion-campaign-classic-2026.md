@@ -23,9 +23,15 @@
 - 悪用条件: RDS有効 + RDS認証無効
 - 修正版: ColdFusion 2025 Update 10 / ColdFusion 2023 Update 21
 - 悪用開始: 詳細公開から約2時間後
+- CVSS: 10.0
+- 脆弱性種別: パストラバーサル
+- 影響製品: Adobe ColdFusion 2025.9、2023.20 以前
+- CISA KEV 追加日: 2026年7月7日
+- 連邦機関修正期限: 2026年7月10日（BOD 26-04）
 
 ## タイムライン
 
+- [2026-07-08 CISA、積極的に悪用されているAdobe ColdFusionの最大深刻度パストラバーサル脆弱性(CVE-2026-48282)を巡り連邦機関に金曜日までの修正を指示](../articles/2026-07-08-adobe-coldfusion-cve-2026-48282-kev.md)
 - [2026-07-07 Adobe ColdFusion 最大深刻度パストラバーサル脆弱性（CVE-2026-48282）が野放し状態で悪用中](../articles/2026-07-07-adobe-coldfusion-cve-2026-48282.md)
 - [2026-07-06 Adobe、ColdFusionとCampaign Classicに最大深刻度CVSS 10.0の脆弱性7件を含む緊急パッチ](../articles/2026-07-06-adobe-coldfusion-campaign-classic-cvss10.md)
 - [2026-07-01 Adobe、ColdFusionとCampaign Classicに存在するCVSS10.0の重大脆弱性7件を修正](../articles/2026-07-01-adobe-coldfusion-campaign-classic-july-2026.md)
