@@ -7,8 +7,7 @@
 | [Atlassian Rovo プロンプトインジェクション・データ持ち出し脆弱性（2026年）](./atlassian-rovo-prompt-injection-2026.md) | 2026-08-09 | 1件 |
 | [Metabase 未認証SQLインジェクション ゼロデイ（2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-08 | 1件 |
 | [CSS属性セレクタ悪用によるWebメール攻撃チェーン（2026年）](./css-attacks-webmail-2026.md) | 2026-08-08 | 1件 |
-| [WordPress XSS2Shell CVE-2026-64638（2026年8月）](./wordpress-xss2shell-cve-2026-64638.md) | 2026-08-07 | 1件 |
-| [WordPress CVE-2026-64638 未認証XSS（2026年8月）](./wordpress-cve-2026-64638-pre-auth-xss.md) | 2026-08-07 | 1件 |
+| [WordPress CVE-2026-64638 未認証XSS（2026年8月）](./wordpress-cve-2026-64638-pre-auth-xss.md) | 2026-08-07 | 2件 |
 | [TrueBooker WordPress プラグイン認可バイパス（2026年8月）](./truebooker-wordpress-plugin-2026.md) | 2026-08-07 | 1件 |
 | [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-07 | 2件 |
 | [Qilinランサムウェアグループ（2026年）](./qilin-freedom-claims-ransomware-2026.md) | 2026-08-07 | 1件 |
@@ -20,7 +19,7 @@
 | [TP-Link Omada ZTP 脆弱性群（2026年8月）](./tp-link-omada-ztp-vulnerabilities-2026.md) | 2026-08-06 | 1件 |
 | [Samsung Members/Account エクスプロイトチェーン（Bixby悪用）](./samsung-members-account-bixby-exploit-chain-2026.md) | 2026-08-06 | 1件 |
 | [Sakura Mobile 不正アクセス事案（2026年）](./sakura-mobile-unauthorized-access-2026.md) | 2026-08-06 | 1件 |
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 6件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 7件 |
 | [リヒテンシュタイン実質的所有者登録簿 不正アクセス事案（2026年）](./liechtenstein-beneficial-owner-register-breach-2026.md) | 2026-08-06 | 1件 |
 | [ジョンズ・ホプキンス大学 myJH偽装フィッシングキャンペーン（2026年8月）](./johns-hopkins-myjh-phishing-2026.md) | 2026-08-06 | 1件 |
 | [Pass-ta-key攻撃 Google同期パスキー ハイジャック（2026年8月）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-06 | 1件 |
@@ -36,7 +35,6 @@
 | [PNLD（英国警察法務データベース）データ侵害（2026年）](./pnld-uk-police-database-breach-2026.md) | 2026-08-04 | 1件 |
 | [Pass-ta-key：Googleパスワードマネージャー パスキー攻撃（2026年8月）](./pass-ta-key-google-password-manager-2026.md) | 2026-08-04 | 1件 |
 | [Langflow CVE-2026-9198 未認証RCE・KEV追加（2026年8月）](./langflow-cve-2026-9198-kev-2026.md) | 2026-08-04 | 1件 |
-| [keyv/cacheable npmサプライチェーン攻撃「CHAINDROP」（2026年8月）](./keyv-cacheable-npm-chaindrop-2026.md) | 2026-08-04 | 1件 |
 | [イノベーション GitHub認証情報漏えい・不正アクセス（2026年8月）](./innovation-github-credential-leak-2026.md) | 2026-08-04 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-08-04 | 3件 |
 | [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-08-04 | 6件 |

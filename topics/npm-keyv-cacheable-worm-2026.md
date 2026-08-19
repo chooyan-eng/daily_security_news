@@ -30,12 +30,19 @@
 - マルウェアの特徴: preinstall フック（setup.mjs）、Bun ランタイム悪用、npm公開トークンを使った自己増殖
 - 波及した企業: Deliveroo・OneReach・Ornikar・Picsart・ServiceTitan・Qlik 等
 - 関連する過去キャンペーン: Red Hat npm サプライチェーン攻撃「Miasma」、TeamPCP、@antv
+- 攻撃発生日: 2026年8月4日
+- 起点: keyvメンテナーのGitHubアカウント侵害
+- ワーム名: CHAINDROP（Shai-Hulud系統、Mini Shai-Huludの後継）
+- 影響パッケージ: keyv, cacheable, flat-cache, file-entry-cache, cacheable-request, cache-manager 等（1,300バージョン超）
+- 影響規模: 月間合計約20億ダウンロード
+- 手口: preinstallフック → Bunランタイムダウンロード → 728KB難読化情報窃取プログラム実行
 
 ## タイムライン
 
 - [2026-08-06 npmの人気キャッシュパッケージ keyv・cacheable がサプライチェーン攻撃で侵害、メンテナーアカウント乗っ取りから拡散](../articles/2026-08-06-npm-keyv-cacheable-mini-shai-hulud-2026.md)
 - [2026-08-05 Microsoft、自己拡散型 npm ワーム「ChainDrop」を分析 – 400超パッケージに感染拡大](../articles/2026-08-08-chaindrop-npm-worm-microsoft-analysis.md)
 - [2026-08-05 Open VSXで「Evil Twin」型の悪性拡張機能77件を検出・削除、ChainDropキャンペーンの一部と判明](../articles/2026-08-05-openvsx-evil-twin-extensions.md)
+- [2026-08-04 npmの人気キャッシュライブラリkeyv/cacheableが乗っ取り被害、自己増殖ワーム「CHAINDROP」が1300超のパッケージに拡散](../articles/2026-08-09-keyv-cacheable-npm-chaindrop-worm.md)
 - [2026-08-04 keyv・cacheable 名前空間の npm パッケージが乗っ取り被害 – 月間20億ダウンロード規模の「Mini Shai-Hulud」型サプライチェーン攻撃](../articles/2026-08-08-keyv-cacheable-npm-mini-shai-hulud.md)
 - [2026-08-04 npmサプライチェーンワーム、keyv/cacheable経由で数百パッケージに拡散し認証情報を窃取](../articles/2026-08-04-npm-keyv-cacheable-supply-chain-worm.md)
 - [2026-08-04 「ChainDrop」自己増殖型npmワーム、keyv・cacheable等450パッケージ・2,200超のバージョンに感染](../articles/2026-08-04-chaindrop-npm-worm.md)

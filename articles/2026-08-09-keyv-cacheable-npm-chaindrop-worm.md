@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-04
 - **出典**: [Elastic Security Labs](https://www.elastic.co/security-labs/shai-hulud-chaindrop-npm-supply-chain) / [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/)
-- **トピック**: [keyv/cacheable npmサプライチェーン攻撃「CHAINDROP」（2026年8月）](../topics/keyv-cacheable-npm-chaindrop-2026.md)
-- **分類**: 新規
-
+- **トピック**: [npm keyv/cacheable サプライチェーンワーム（2026年8月）](../topics/npm-keyv-cacheable-worm-2026.md)
+- **分類**: 続報
 ## 概要
 
 npmの主要なキャッシュ・ストレージライブラリ「keyv」のメンテナーアカウントが侵害され、自己増殖型ワーム「CHAINDROP」（Shai-Huludキャンペーンの新系統）が、keyvが公開権限を持つ全パッケージへ自動的にバックドアを仕込んだ。月間ダウンロード数で合計20億回に達する1,300以上のパッケージバージョンが影響を受け、cacheable・flat-cache・file-entry-cacheなど広く使われる関連パッケージも巻き込まれた。
