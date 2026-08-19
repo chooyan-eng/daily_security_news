@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-08
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
-- **トピック**: [AI生成ブラウザ内蔵型ランサムウェア「InfernoGrabber」（Chromium File System Access API悪用）](../topics/ai-browser-ransomware-chromium-api-2026.md)
-- **分類**: 新規
-
+- **トピック**: [AI生成ブラウザ内完結型ランサムウェア（Chromium File System Access API悪用、2026年）](../topics/ai-browser-ransomware-chromium-2026.md)
+- **分類**: 続報
 ## 概要
 
 セキュリティ研究者が、DeepSeek を用いて生成されたマルウェアサンプルが、これまで「理論上は可能だが非現実的」とされてきたブラウザ完結型ランサムウェアの攻撃手法を実際に動作する形で実現していたことを発見した。Chromium系ブラウザに実装されている File System Access API を悪用し、ネイティブペイロードのインストールやブラウザの脆弱性悪用、root権限なしに、ユーザーが許可したフォルダ内のファイルを暗号化・上書きする。Windows・macOS・Linux・Android・Edgeにまたがって動作が確認された。
