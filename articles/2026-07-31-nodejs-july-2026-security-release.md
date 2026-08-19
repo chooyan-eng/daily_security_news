@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-29
 - **出典**: [Node.js Blog](https://nodejs.org/en/blog/vulnerability/july-2026-security-releases)
-- **トピック**: [Node.js 2026年7月セキュリティリリース](../topics/nodejs-july-2026-security-release.md)
-- **分類**: 新規
-
+- **トピック**: [Node.js 2026年7月セキュリティリリース](../topics/nodejs-security-release-july-2026.md)
+- **分類**: 続報
 ## 概要
 
 Node.js プロジェクトはインフラ障害により延期していたセキュリティリリースを2026年7月29日に公開し、稼働中の全ブランチ（22.x／24.x／26.x）にまたがる11件の脆弱性を修正した。v22.23.2・v24.18.1・v26.5.1 が公開され、HTTP/2処理、Permission Model、HTTPS接続、DNS解決、SQLite、Zlib、HTTPパーサーなど広範な領域が対象となった。

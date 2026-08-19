@@ -9,14 +9,13 @@
 | [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-30 | 2件 |
 | [SolarWinds Web Help Desk SAML認証バイパス（CVE-2026-28323）](./solarwinds-web-help-desk-saml-bypass-2026.md) | 2026-07-30 | 1件 |
 | [Ruby on Rails Active Storage CVE-2026-66066 任意ファイル読み取り・RCE脆弱性](./rails-active-storage-cve-2026-66066.md) | 2026-07-30 | 2件 |
-| [Node.js 2026年7月セキュリティリリース](./nodejs-security-release-july-2026.md) | 2026-07-30 | 1件 |
+| [Node.js 2026年7月セキュリティリリース](./nodejs-security-release-july-2026.md) | 2026-07-30 | 2件 |
 | [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-30 | 6件 |
 | [ExfilSquad ランサムウェアグループ（2026年）](./exfilsquad-ransomware-group-2026.md) | 2026-07-30 | 1件 |
 | [CosmosEscape：Azure Cosmos DB プラットフォーム全体の乗っ取り脆弱性](./cosmosescape-azure-cosmos-db-2026.md) | 2026-07-30 | 1件 |
 | [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-07-30 | 1件 |
 | [Check Point SmartConsole CVE-2026-16232 認証バイパス](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-30 | 3件 |
-| [Adobe Campaign Classic 重大脆弱性（CVE-2026-48449）](./adobe-campaign-classic-cve-2026-48449.md) | 2026-07-30 | 1件 |
-| [Node.js 2026年7月セキュリティリリース](./nodejs-july-2026-security-release.md) | 2026-07-29 | 1件 |
+| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-30 | 7件 |
 | [MCBS 医療系サードパーティベンダー侵害（2026年7月）](./mcbs-healthcare-vendor-breach-2026.md) | 2026-07-29 | 1件 |
 | [Chrome 151 セキュリティアップデート（2026年7月）](./chrome-151-security-update-2026.md) | 2026-07-29 | 1件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 3件 |
@@ -133,7 +132,6 @@
 | [GodDamnランサムウェア・PoisonXドライバ（2026年）](./goddamn-ransomware-poisonx-2026.md) | 2026-07-09 | 1件 |
 | [GitHub署名付きコミットのハッシュ可鍛性（2026年7月）](./github-commit-signature-malleability-2026.md) | 2026-07-09 | 1件 |
 | [GhostApproval：AIコーディングアシスタントのシンボリックリンク信頼境界欠陥（2026年7月）](./ghostapproval-ai-coding-symlink-2026.md) | 2026-07-09 | 1件 |
-| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-09 | 6件 |
 | [Accenture データ侵害・ソースコード流出（2026年7月）](./accenture-data-breach-2026.md) | 2026-07-09 | 1件 |
 | [Accenture データ侵害 — 脅威アクター「888」（2026年7月）](./accenture-breach-888-2026.md) | 2026-07-09 | 1件 |
 | [XRING — XQUIC HTTP/3 QPACK脆弱性（2026年）](./xring-http3-xquic-vulnerability-2026.md) | 2026-07-08 | 1件 |
