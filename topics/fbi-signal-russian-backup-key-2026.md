@@ -27,9 +27,16 @@ FBI・CISAが2026年6月26日に発出した更新済み公式勧告（PSA I-062
 - FBI・SBU合同発表日: 2026年6月25日
 - 攻撃対象アプリ: Signal（主）、WhatsApp
 - バックアップキー窃取の特徴: 新アカウント作成後も盗まれたキーは無効にならない
+- 対象グループ: UNC5792（ロシアFSB国境警備局関連）、UNC4221（ロシア軍関連）
+- 標的アプリ: Signal、WhatsApp
+- 手口: デバイスリンク機能悪用フィッシング、バックアップリカバリーキー窃取
+- 懸賞金: 最大1000万ドル（米国務省 Rewards for Justice プログラム）
+- 発表日: 2026年6月30日
+- 関連する過去の警告: FBI/CISAによるSignalバックアップリカバリーキー狙いの新手口に関する注意喚起（2026年6月）
 
 ## タイムライン
 
+- [2026-06-30 米国務省、Signal・WhatsApp標的のロシア系ハッカー集団UNC5792/UNC4221に1000万ドルの懸賞金](../articles/2026-06-30-us-reward-unc5792-unc4221.md)
 - [2026-06-29 FBI・SSU合同警告：ロシア諜報機関がSignalバックアップリカバリーキーを標的に大規模フィッシング](../articles/2026-06-29-russian-signal-backup-key-phishing.md)
 - [2026-06-27 FBI・CISA警告：ロシア諜報機関がSignalバックアップリカバリーキーを狙うフィッシングに手口を進化](../articles/2026-06-28-signal-backup-key-russian-phishing.md)
 - [2026-06-27 FBI/CISA：ロシア諜報機関がSignalバックアップリカバリーキーを標的にしたフィッシングを進化させる](../articles/2026-06-27-fbi-cisa-signal-backup-key-russian-phishing.md)
