@@ -12,8 +12,7 @@
 | [ナカバヤシ「REVEX」製品サイト不正アクセス（2026年7月）](./nakabayashi-revex-breach-2026.md) | 2026-07-28 | 1件 |
 | [MCBS 医療請求代行企業データ侵害（2026年）](./mcbs-medical-billing-breach-2026.md) | 2026-07-28 | 1件 |
 | [北海道協同組合通信社 委託先クラウド不正アクセス（2026年7月）](./hokkaido-kyodo-tsushinsha-breach-2026.md) | 2026-07-28 | 1件 |
-| [サーバーBMC/IPMI 認証情報漏えい問題（CVE-2013-4786）](./bmc-ipmi-password-hash-leak-2026.md) | 2026-07-28 | 1件 |
-| [IPMI CVE-2013-4786 によるBMC認証ハッシュ露出（2026年7月調査）](./bmc-ipmi-cve-2013-4786-2026.md) | 2026-07-28 | 1件 |
+| [サーバーBMC/IPMI 認証情報漏えい問題（CVE-2013-4786）](./bmc-ipmi-password-hash-leak-2026.md) | 2026-07-28 | 2件 |
 | [Arista VeloCloud Orchestrator コマンドインジェクション（CVE-2026-16812）](./arista-velocloud-cve-2026-16812.md) | 2026-07-28 | 1件 |
 | [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-07-28 | 2件 |
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-27 | 7件 |
