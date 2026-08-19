@@ -4,21 +4,27 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-05 | 3件 |
+| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-05 | 3件 |
+| [共同通信社 業務メール環境への不正アクセス（2026年8月）](./kyodo-news-unauthorized-access-2026.md) | 2026-08-05 | 1件 |
 | [SplitVPN（旧NotVPN）データ侵害（2026年）](./splitvpn-notvpn-breach-2026.md) | 2026-08-04 | 1件 |
 | [Rails Active Storage CVE-2026-66066（KindaRails2Shell、2026年）](./rails-active-storage-cve-2026-66066.md) | 2026-08-04 | 6件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-04 | 1件 |
 | [PNLD（英国警察法務データベース）データ侵害（2026年）](./pnld-uk-police-database-breach-2026.md) | 2026-08-04 | 1件 |
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-04 | 1件 |
-| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-04 | 2件 |
+| [Pass-ta-key：Googleパスワードマネージャー パスキー攻撃（2026年8月）](./pass-ta-key-google-password-manager-2026.md) | 2026-08-04 | 1件 |
+| [Langflow CVE-2026-9198 未認証RCE・KEV追加（2026年8月）](./langflow-cve-2026-9198-kev-2026.md) | 2026-08-04 | 1件 |
+| [イノベーション GitHub認証情報漏えい・不正アクセス（2026年8月）](./innovation-github-credential-leak-2026.md) | 2026-08-04 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-08-04 | 3件 |
-| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-08-04 | 4件 |
+| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-08-04 | 5件 |
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-breach-2026.md) | 2026-08-04 | 1件 |
 | [Adform サプライチェーン攻撃・暗号資産アドレス改ざん（2026年）](./adform-supply-chain-crypto-stealer-2026.md) | 2026-08-04 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-03 | 3件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-08-03 | 5件 |
 | [Eストアー「ショップサーブ」不正アクセス事件（2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-03 | 1件 |
+| [EPARKリラク＆エステ「PeakManager」不正アクセス（2026年7-8月）](./epark-peakmanager-breach-2026.md) | 2026-08-03 | 1件 |
 | [DeepSeekベース自律型AIサイバー攻撃（2026年）](./deepseek-autonomous-cyberattack-2026.md) | 2026-08-03 | 1件 |
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-data-breach-2026.md) | 2026-08-03 | 1件 |
+| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-03 | 9件 |
 | [Adform 広告スクリプト サプライチェーン攻撃（2026年）](./adform-adtech-supply-chain-2026.md) | 2026-08-03 | 1件 |
 | [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 2件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
@@ -27,7 +33,6 @@
 | [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
 | [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
 | [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-08-01 | 2件 |
-| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-01 | 8件 |
 | [Adform 広告スクリプト サプライチェーン攻撃・暗号資産ウォレットすり替え（2026年）](./adform-crypto-wallet-swap-supply-chain-2026.md) | 2026-08-01 | 1件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 認証脆弱性（2026年）](./takara-tomy-duelmasters-app-vulnerability-2026.md) | 2026-07-31 | 1件 |
 | [Gitea Docker CVE-2026-20896 認証バイパス（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-31 | 6件 |
@@ -165,17 +170,17 @@
 | [Oracle E-Business Suite CVE-2026-46817 未認証RCE（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-06 | 3件 |
 | [Operation DragonReturn – 中国系脅威アクターによるインド税務インフラ標的キャンペーン（2026年）](./operation-dragonreturn-china-india-2026.md) | 2026-07-06 | 1件 |
 | [AirDrop・Quick Share 近接ファイル共有プロトコル脆弱性（2026年）](./airdrop-quickshare-vulnerabilities-2026.md) | 2026-07-06 | 3件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Microsoft Defender BlueHammer 特権昇格脆弱性（CVE-2026-33825）](./microsoft-defender-bluehammer-cve-2026-33825.md) | 2026-07-05 | 1件 |
 | [メール配信システム「める配くん」不正アクセス（2026年6月）](./meruhaikun-email-delivery-breach-2026.md) | 2026-07-05 | 1件 |
 | [Kubota North America 従業員データ侵害（2026年）](./kubota-north-america-breach-2026.md) | 2026-07-05 | 1件 |
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-07-05 | 1件 |
 | [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-07-05 | 5件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-07-05 | 5件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
 | [WatchGuard Firebox CVE-2026-13368 VPN認証脆弱性（2026年）](./watchguard-firebox-cve-2026-13368.md) | 2026-07-04 | 1件 |
 | [NetNut レジデンシャルプロキシ悪用ボットネット摘発（2026年）](./netnut-residential-proxy-takedown-2026.md) | 2026-07-04 | 1件 |
 | [ToddyCat APT「Umbrij」マルウェア・OAuthトークン窃取キャンペーン（2026年）](./toddycat-umbrij-oauth-malware-2026.md) | 2026-07-03 | 1件 |
