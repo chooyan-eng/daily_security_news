@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-03
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)（Huntress調査）
-- **トピック**: [Microsoft 365 ROPCパスワードスプレーキャンペーン（2026年）](../topics/microsoft-365-password-spray-ropc-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Azure CLI パスワードスプレー攻撃「LSHIY」キャンペーン（2026年）](../topics/azure-cli-password-spray-lshiy-2026.md)
+- **分類**: 続報
 ## 概要
 
 2026年6月12日から26日にかけて、Microsoft 365テナントを標的とした大規模なパスワードスプレー攻撃が観測された。攻撃者はAzure CLI経由のOAuth ROPC（Resource Owner Password Credentials）認証フローを悪用し、条件付きアクセスポリシーの設定不備を突いてMFAを回避。8100万回超のログイン試行の末、64組織にまたがる78アカウントの侵害に成功した。

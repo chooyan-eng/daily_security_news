@@ -11,7 +11,14 @@ Azure CLIを標的とした大規模パスワードスプレー攻撃。2026年6
 - 被害規模: 78アカウント、64組織
 - 悪用技術: ROPC（Resource Owner Password Credentials）によるMFAバイパス
 - 検知組織: Huntress
+- キャンペーン期間: 2026年6月12日〜26日
+- 攻撃手法: Azure CLI経由のOAuth ROPCフロー悪用、MFA回避
+- 攻撃規模: 8100万回超のログイン試行
+- 侵害結果: 64組織・78アカウント
+- 攻撃元: LSHIY LLC保有のIPv6アドレス範囲（AS32167）
+- 報告元: Huntress
 
 ## タイムライン
 
+- [2026-07-03 Microsoft 365に8100万回超のパスワードスプレー攻撃、Azure CLIのROPCフローでMFAを回避](../articles/2026-07-03-microsoft-365-password-spray-ropc.md)
 - [2026-07-01 Azure CLIを狙った大規模パスワードスプレー攻撃、8100万回超の試行で78アカウント侵害](../articles/2026-07-01-azure-cli-password-spray-lshiy.md)
