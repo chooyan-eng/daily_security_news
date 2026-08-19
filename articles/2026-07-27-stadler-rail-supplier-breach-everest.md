@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-27
 - **出典**: [The Record from Recorded Future News](https://therecord.media/stadler-refuses-everest-ransom-demand)
-- **トピック**: [Stadler Rail サプライヤー経由データ侵害・Everest ランサムウェア（2026年7月）](../topics/stadler-rail-supplier-breach-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Stadler Rail Everest恐喝事案（2026年7月）](../topics/stadler-rail-everest-ransomware-2026.md)
+- **分類**: 続報
 ## 概要
 
 スイスの鉄道車両大手Stadler Railは、サプライヤーが利用するデータ交換（ファイル共有）プラットフォームの認証情報が侵害されたことに端を発するデータ侵害を公表した。ランサムウェアグループEverestが同サプライヤー保有の技術文書を窃取したとして1230万ドル（約1230万米ドル）の身代金を要求したが、Stadlerは支払いを拒否し、スイス・トゥールガウ州警察に刑事告訴を行った。

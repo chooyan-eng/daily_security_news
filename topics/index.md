@@ -10,7 +10,7 @@
 | [サーバーBMC/IPMI 認証情報漏えい問題（CVE-2013-4786）](./bmc-ipmi-password-hash-leak-2026.md) | 2026-07-28 | 1件 |
 | [Arista VeloCloud Orchestrator CVE-2026-16812 コマンドインジェクション積極的悪用（2026年7月）](./arista-velocloud-cve-2026-16812.md) | 2026-07-28 | 1件 |
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-27 | 7件 |
-| [Stadler Rail サプライヤー経由データ侵害・Everest ランサムウェア（2026年7月）](./stadler-rail-supplier-breach-2026.md) | 2026-07-27 | 1件 |
+| [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-27 | 2件 |
 | [Paidwork（マイクロタスクアプリ）データ侵害（2026年）](./paidwork-mobile-app-data-breach-2026.md) | 2026-07-27 | 1件 |
 | [Origin Energy（豪エネルギー大手）顧客データ侵害（2026年7月）](./origin-energy-data-breach-2026.md) | 2026-07-27 | 2件 |
 | [Node.js 2026年7月定例セキュリティリリース](./nodejs-security-releases-2026.md) | 2026-07-27 | 1件 |
@@ -38,7 +38,6 @@
 | [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-24 | 3件 |
 | [Check Point SmartConsole 認証バイパス CVE-2026-16232（2026年7月）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-24 | 1件 |
 | [AWS Kiro エージェント型IDE 設定書き換えRCE（2026年）](./aws-kiro-mcp-config-rce-2026.md) | 2026-07-24 | 1件 |
-| [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-23 | 1件 |
 | [韓国 国立外交院オンライン教育システム侵害（2026年）](./south-korea-diplomatic-academy-breach-2026.md) | 2026-07-23 | 1件 |
 | [Sony FeliCa CVE-2026-59776 暗号処理脆弱性（2026年）](./sony-felica-cve-2026-59776.md) | 2026-07-23 | 1件 |
 | [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-07-23 | 2件 |
