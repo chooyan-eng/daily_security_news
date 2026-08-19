@@ -12,7 +12,13 @@ Vite フロントエンドツールエコシステムを標的とした npm サ�
 - C2手法: Tron・Aptos・Binance Smart Chain上のトランザクションデータ
 - 発見: Checkmarx
 - 実行タイミング: インストール時ではなくインポート時
+- キャンペーン名: ViteVenom（Checkmarx 命名）
+- 関連キャンペーン: ChainVeil（先行するタイポスクワッティング型攻撃）
+- 対象: `@vitejs/*` スコープを模したパッケージ7件
+- C2 手法: Tron・Aptos・Binance Smart Chain にまたがる4層ブロックチェーン C2
+- パッケージ公開期間: 2026-06-29〜2026-07-03
 
 ## タイムライン
 
+- [2026-07-19 「ViteVenom」— Vite エコシステムを狙う悪意ある npm パッケージ7件、ブロックチェーン C2 で RAT を配布](../articles/2026-07-19-vitevenom-npm-vite-supply-chain.md)
 - [2026-07-18 ViteVenom：Vite エコシステムを標的としたブロックチェーン C2 npm サプライチェーン攻撃](../articles/2026-07-18-vitevenom-npm-supply-chain.md)
