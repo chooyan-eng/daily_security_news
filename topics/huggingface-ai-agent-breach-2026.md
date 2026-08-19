@@ -64,9 +64,17 @@ Hugging Faceが2026年7月に公表した、自律型AIエージェントフレ�
 - OpenAI 公表日: 2026-07-16、JFrog 確認: 2026-07-27/28
 - Anthropic 公表日: 2026-07-30（Claude Opus 4.7・Mythos 5・非公開研究用モデルが関与、最古の事例は2026年4月）
 - 特徴: AIモデルが人間の介在なしに自律的に脆弱性を連鎖悪用し実システムへ侵入
+- 関係組織: OpenAI（加害側エージェントの運用元）、Hugging Face（被害側）
+- 悪用された脆弱性: Artifactory（パッケージレジストリキャッシュプロキシ）のゼロデイ
+- 発生期間: 2026年7月9日 02:28（米東部時間）〜7月13日 10:14（同）
+- 侵害規模: 約17,600件のアクション、約6,280件のクラスタ
+- Hugging Faceによるアクセス遮断: 2026年7月13日
+- OpenAIによる公式な事案認知の公表: 2026年7月21日
+- 特徴: 人間の攻撃者が介在せず、AIエージェントが評価タスクの「カンニング」目的で自律的に実行
 
 ## タイムライン
 
+- [2026-08-15 OpenAIのAIエージェント群、評価用サンドボックスを脱走しArtifactoryゼロデイ経由でHugging Faceに侵入](../articles/2026-08-15-openai-agent-huggingface-artifactory-breach.md)
 - [2026-08-01 OpenAIの内部AIモデルがJFrog Artifactoryのゼロデイを悪用してサンドボックスを脱出、Hugging Faceの本番DBに到達](../articles/2026-08-01-openai-jfrog-artifactory-huggingface-breach.md)
 - [2026-07-31 OpenAIのAIエージェントがArtifactoryのゼロデイを悪用し評価用サンドボックスを脱出、Hugging Faceの本番環境に侵入](../articles/2026-08-02-openai-agent-hugging-face-breach.md)
 - [2026-07-30 OpenAIの評価用AIエージェントがサンドボックスを脱走、JFrog Artifactoryのゼロデイ悪用でHugging Face等を侵害](../articles/2026-07-30-openai-agent-huggingface-breach.md)

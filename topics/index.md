@@ -4,9 +4,17 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-15 | 4件 |
+| [Presentations.AI ランサムウェア被害（Unsafeグループ、2026年）](./presentations-ai-unsafe-ransomware-2026.md) | 2026-08-15 | 1件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-15 | 10件 |
+| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-08-15 | 3件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-15 | 11件 |
+| [GeoServer ゼロデイ SQLインジェクション→RCE（2026年）](./geoserver-zeroday-sqli-rce-2026.md) | 2026-08-15 | 1件 |
+| [Chrome DevTools Protocol悪用セッションハイジャック手法（2026年）](./chrome-devtools-protocol-session-hijack-2026.md) | 2026-08-15 | 1件 |
+| [Beacon CRM データ侵害（2026年）](./beacon-crm-data-breach-2026.md) | 2026-08-15 | 1件 |
+| [Adobe 2026年8月定例セキュリティ更新](./adobe-patch-tuesday-august-2026.md) | 2026-08-15 | 2件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-13 | 4件 |
 | [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-08-13 | 1件 |
-| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-13 | 3件 |
 | [北朝鮮リモートIT労働者による組織潜入問題（2026年）](./north-korea-it-worker-infiltration-2026.md) | 2026-08-13 | 1件 |
 | [Microsoft Patch Tuesday 2026年8月](./microsoft-patch-tuesday-august-2026.md) | 2026-08-13 | 1件 |
 | [Clopランサムウェアグループ、Philipsを新たな被害者として掲載（2026年8月）](./clop-ransomware-philips-2026.md) | 2026-08-13 | 1件 |
@@ -25,7 +33,6 @@
 | [BdThemes WordPress プラグイン サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-12 | 2件 |
 | [Adobe 2026年8月定例セキュリティ更新（ColdFusion・Campaign Classic）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-12 | 10件 |
 | [Zoom 「Zoomsday」アノテーション機能RCE脆弱性（2026年8月）](./zoom-zoomsday-cve-2026-53413.md) | 2026-08-11 | 1件 |
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-11 | 9件 |
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-11 | 3件 |
 | [科学技術振興機構（JST）メール情報漏洩（2026年8月）](./jst-email-leak-2026.md) | 2026-08-11 | 1件 |
 | [CEVA Logistics サプライチェーン侵害の連鎖（2026年8月）](./ceva-logistics-supply-chain-breach-2026.md) | 2026-08-11 | 2件 |
@@ -74,7 +81,6 @@
 | [Adform 広告スクリプト サプライチェーン攻撃（2026年）](./adform-adtech-supply-chain-2026.md) | 2026-08-03 | 1件 |
 | [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 2件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-01 | 10件 |
 | [CosmosEscape：Azure Cosmos DB プラットフォーム全体キー露出脆弱性（2026年）](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 3件 |
 | [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
 | [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
@@ -127,7 +133,6 @@
 | [AWS Kiro エージェント型IDE 設定書き換えRCE（2026年）](./aws-kiro-mcp-config-rce-2026.md) | 2026-07-24 | 1件 |
 | [韓国 国立外交院オンライン教育システム侵害（2026年）](./south-korea-diplomatic-academy-breach-2026.md) | 2026-07-23 | 1件 |
 | [Sony FeliCa CVE-2026-59776 暗号処理脆弱性（2026年）](./sony-felica-cve-2026-59776.md) | 2026-07-23 | 1件 |
-| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-07-23 | 2件 |
 | [Kratos フィッシングプラットフォーム摘発（2026年7月）](./kratos-phishing-platform-takedown-2026.md) | 2026-07-23 | 1件 |
 | [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-23 | 6件 |
 | [JadeProx TriBack Loader 中国系スパイキャンペーン（2026年）](./jadeprox-triback-loader-china-2026.md) | 2026-07-23 | 1件 |
@@ -170,6 +175,11 @@
 | [Media Land / ML.Cloud バレットプルーフホスティング起訴（2026年7月）](./media-land-bulletproof-hosting-indictment-2026.md) | 2026-07-16 | 1件 |
 | [Firefox・Chrome 複数重大脆弱性（2026年7月）](./firefox-chrome-critical-vulnerabilities-2026.md) | 2026-07-16 | 1件 |
 | [D1R グループによるSynopsys・Bosch侵害主張（2026年7月）](./d1r-synopsys-bosch-claim-2026.md) | 2026-07-16 | 2件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [UEFIシムによるSecure Bootバイパス（CVE-2026-8863/CVE-2026-10797）](./uefi-secure-boot-bypass-shims-2026.md) | 2026-07-14 | 1件 |
 | [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-14 | 3件 |
 | [Lidl 通販サイト第三者ベンダー経由データ侵害（2026年7月）](./lidl-online-shop-breach-2026.md) | 2026-07-14 | 1件 |
@@ -179,11 +189,6 @@
 | [ファブリカホールディングス メディア4u 不正アクセス（2026年7月）](./fabrica-holdings-media4u-breach-2026.md) | 2026-07-14 | 1件 |
 | [DHS Homeland Security Information Network（HSIN）侵害（2026年5-7月）](./dhs-hsin-breach-2026.md) | 2026-07-14 | 5件 |
 | [AssuranceAmerica 従業員アカウント侵害によるデータ侵害（2026年3月発生・7月通知）](./assuranceamerica-breach-2026.md) | 2026-07-14 | 2件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
 | [Samsung 2026年7月セキュリティパッチ](./samsung-july-2026-security-patch.md) | 2026-07-13 | 1件 |
 | [UNK_MassTraction Roundcube悪用キャンペーン（2026年）](./roundcube-unk-masstraction-2026.md) | 2026-07-13 | 2件 |
 | [ModHeader 悪性ブラウザ拡張機能（2026年）](./modheader-malicious-extension-2026.md) | 2026-07-13 | 1件 |
