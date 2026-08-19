@@ -15,4 +15,5 @@ Ubiquiti UniFi OS Server に存在するアクセス制御・パストラバー�
 
 ## タイムライン
 
+- [2026-07-08 Ubiquiti、UniFi Connect/Talk/Access に最大深刻度10.0を含む7件の重大脆弱性 — わずか数日で3回目の大量開示](../articles/2026-07-10-ubiquiti-unifi-connect-talk-access-cves.md)（関連: 別CVE群だが同一製品エコシステム）
 - [2026-06-20 Ubiquiti UniFi OS 最大深刻度の3脆弱性が積極悪用 - 大学・高等教育機関を主要標的に](../articles/2026-06-20-ubiquiti-unifi-os-max-severity-exploit.md)
