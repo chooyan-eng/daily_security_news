@@ -9,7 +9,7 @@
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
 | [RIZAP「APORITOオンラインストア」不正アクセス事案（2026年8月）](./rizap-aporito-ec-breach-2026.md) | 2026-08-17 | 1件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
-| [Metabase CVE-2026-72898 SQLインジェクション脆弱性（2026年8月）](./metabase-cve-2026-72898-sqli.md) | 2026-08-17 | 1件 |
+| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-17 | 6件 |
 | [GeoServer 未認証SQLインジェクション ゼロデイ（2026年8月）](./geoserver-sqli-zero-day-2026.md) | 2026-08-17 | 1件 |
 | [悪意あるChrome拡張機能によるAIチャット窃取キャンペーン（2026年）](./chrome-extension-ai-sidebar-data-theft-2026.md) | 2026-08-17 | 1件 |
 | [Azure Logic Apps CVE-2026-56161 情報漏洩脆弱性（2026年8月）](./azure-logic-apps-cve-2026-56161.md) | 2026-08-17 | 1件 |
@@ -41,7 +41,6 @@
 | [Microsoft SharePoint CVE-2026-63520 RCE 脆弱性チェーン（2026年8月）](./sharepoint-cve-2026-63520-rce.md) | 2026-08-12 | 1件 |
 | [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-12 | 2件 |
 | [N-able N-central CVE-2026-18577 認証バイパス継続悪用（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-12 | 8件 |
-| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-12 | 5件 |
 | [「New Audio MSG」偽装Google風フィッシングキャンペーン（2026年8月）](./google-themed-phishing-new-audio-msg-2026.md) | 2026-08-12 | 1件 |
 | [ショップサーブ不正アクセス事案（Eストアー、2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-12 | 3件 |
 | [ClickFix経由の新種RAT「CNCMachineRMS」配布キャンペーン（2026年8月）](./clickfix-cncmachinerms-rat-2026.md) | 2026-08-12 | 1件 |
