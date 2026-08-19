@@ -39,9 +39,14 @@
 - 技術詳細公開: watchTowr Labs
 - 悪用初観測: 2026年7月2日（KEVIntelハニーポット）
 - FCEB 機関修正期限: 2026年7月10日
+- CVE: CVE-2026-48449（関連: CVE-2026-48286）
+- 対象製品: Adobe Campaign Classic（オンプレミス・ハイブリッドのみ、Adobeホスト型は対象外）
+- 公開日: 2026年7月30日
+- 修正バージョン: ACC v7 7.4.3 build 9397
 
 ## タイムライン
 
+- [2026-07-30 Adobe、Campaign Classic に最大深刻度（CVSS 10.0）の認可不備 RCE 脆弱性（CVE-2026-48449）を修正](../articles/2026-07-31-adobe-campaign-classic-coldfusion-cve-2026-48449.md)
 - [2026-07-09 Adobe ColdFusionの最大深刻度パストラバーサル脆弱性（CVE-2026-48282）、CISA KEVに追加・積極的悪用を確認](../articles/2026-07-09-adobe-coldfusion-cve-2026-48282-kev.md)
 - [2026-07-08 CISA、積極的に悪用されているAdobe ColdFusionの最大深刻度パストラバーサル脆弱性(CVE-2026-48282)を巡り連邦機関に金曜日までの修正を指示](../articles/2026-07-08-adobe-coldfusion-cve-2026-48282-kev.md)
 - [2026-07-07 Adobe ColdFusion 最大深刻度10.0の脆弱性が積極的悪用 — CISAが連邦機関へ7月10日までの緊急パッチ適用を指示](../articles/2026-07-10-adobe-coldfusion-cve-2026-48282-kev.md)
