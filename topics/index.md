@@ -5,17 +5,18 @@
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
 | [WordPress CVE-2026-64638 未認証XSS（2026年8月）](./wordpress-cve-2026-64638-pre-auth-xss.md) | 2026-08-07 | 1件 |
+| [TrueBooker WordPress プラグイン認可バイパス（2026年8月）](./truebooker-wordpress-plugin-2026.md) | 2026-08-07 | 1件 |
 | [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-07 | 2件 |
 | [Qilinランサムウェアグループ（2026年）](./qilin-freedom-claims-ransomware-2026.md) | 2026-08-07 | 1件 |
 | [NatJack – NAT実装の設計的脆弱性による攻撃クラス（2026年）](./natjack-nat-attack-class-2026.md) | 2026-08-07 | 1件 |
-| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-07 | 5件 |
-| [Linux カーネル SCTPhantom CVE-2026-64564（2026年8月）](./linux-sctphantom-cve-2026-64564.md) | 2026-08-07 | 1件 |
+| [N-able N-central 認証バイパス脆弱性 CVE-2026-18577 の悪用（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-07 | 6件 |
+| [Linux カーネル SCTPhantom CVE-2026-64564（2026年8月）](./linux-sctphantom-cve-2026-64564.md) | 2026-08-07 | 2件 |
 | [講談社 社用メール不正アクセス（2026年7月〜8月）](./kodansha-phishing-email-breach-2026.md) | 2026-08-07 | 1件 |
 | [Apache Traffic Server CVE-2026-63078 HTTPデシンク脆弱性（2026年8月）](./apache-traffic-server-cve-2026-63078-http-terminator.md) | 2026-08-07 | 1件 |
 | [TP-Link Omada ZTP 脆弱性群（2026年8月）](./tp-link-omada-ztp-vulnerabilities-2026.md) | 2026-08-06 | 1件 |
 | [Samsung Members/Account エクスプロイトチェーン（Bixby悪用）](./samsung-members-account-bixby-exploit-chain-2026.md) | 2026-08-06 | 1件 |
 | [Sakura Mobile 不正アクセス事案（2026年）](./sakura-mobile-unauthorized-access-2026.md) | 2026-08-06 | 1件 |
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 4件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 6件 |
 | [リヒテンシュタイン実質的所有者登録簿 不正アクセス事案（2026年）](./liechtenstein-beneficial-owner-register-breach-2026.md) | 2026-08-06 | 1件 |
 | [ジョンズ・ホプキンス大学 myJH偽装フィッシングキャンペーン（2026年8月）](./johns-hopkins-myjh-phishing-2026.md) | 2026-08-06 | 1件 |
 | [Pass-ta-key攻撃 Google同期パスキー ハイジャック（2026年8月）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-06 | 1件 |
@@ -30,10 +31,11 @@
 | [Langflow CVE-2026-9198 未認証RCE・KEV追加（2026年8月）](./langflow-cve-2026-9198-kev-2026.md) | 2026-08-04 | 1件 |
 | [イノベーション GitHub認証情報漏えい・不正アクセス（2026年8月）](./innovation-github-credential-leak-2026.md) | 2026-08-04 | 1件 |
 | [INC Ransomwareグループ（2023年〜）](./inc-ransomware-2026.md) | 2026-08-04 | 3件 |
-| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-08-04 | 5件 |
+| [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-08-04 | 6件 |
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-breach-2026.md) | 2026-08-04 | 1件 |
 | [Adform サプライチェーン攻撃・暗号資産アドレス改ざん（2026年）](./adform-supply-chain-crypto-stealer-2026.md) | 2026-08-04 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-03 | 3件 |
+| [英国警察法務データベース（PNLD）侵害（2026年8月）](./uk-pnld-breach-2026.md) | 2026-08-03 | 1件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-08-03 | 5件 |
 | [Eストアー「ショップサーブ」不正アクセス事件（2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-03 | 1件 |
 | [EPARKリラク＆エステ「PeakManager」不正アクセス（2026年7-8月）](./epark-peakmanager-breach-2026.md) | 2026-08-03 | 1件 |
@@ -43,7 +45,7 @@
 | [Adform 広告スクリプト サプライチェーン攻撃（2026年）](./adform-adtech-supply-chain-2026.md) | 2026-08-03 | 1件 |
 | [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 2件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-01 | 9件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-01 | 10件 |
 | [CosmosEscape：Azure Cosmos DB プラットフォーム全体キー露出脆弱性（2026年）](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 3件 |
 | [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
 | [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |

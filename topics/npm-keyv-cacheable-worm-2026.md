@@ -22,10 +22,20 @@
 - マルウェア: preinstallフック経由の難読化ローダー→クレデンシャルスティーラー（npm/GitHub/AWS/HashiCorp Vault認証情報窃取）
 - 攻撃者ファミリー帰属（Wiz）: Mini Shai-Hulud（TeamPCP・@antvキャンペーンとの類似性を指摘、同一犯行と断定はせず）
 - 影響規模: 約400〜2,200件超のパッケージ・成果物
+- 攻撃名: Mini Shai-Hulud（Wiz命名）／ ChainDrop（Microsoft命名、自己拡散メカニズムの分析名）
+- 発端: keyv・cacheable メンテナー Jared Wray 氏の GitHub アカウント乗っ取り
+- 発生日: 2026-08-04
+- 侵害パッケージ数: 最終的に434パッケージ・1,381バージョン
+- 影響ダウンロード数: 月間合計20億件超
+- マルウェアの特徴: preinstall フック（setup.mjs）、Bun ランタイム悪用、npm公開トークンを使った自己増殖
+- 波及した企業: Deliveroo・OneReach・Ornikar・Picsart・ServiceTitan・Qlik 等
+- 関連する過去キャンペーン: Red Hat npm サプライチェーン攻撃「Miasma」、TeamPCP、@antv
 
 ## タイムライン
 
 - [2026-08-06 npmの人気キャッシュパッケージ keyv・cacheable がサプライチェーン攻撃で侵害、メンテナーアカウント乗っ取りから拡散](../articles/2026-08-06-npm-keyv-cacheable-mini-shai-hulud-2026.md)
+- [2026-08-05 Microsoft、自己拡散型 npm ワーム「ChainDrop」を分析 – 400超パッケージに感染拡大](../articles/2026-08-08-chaindrop-npm-worm-microsoft-analysis.md)
 - [2026-08-05 Open VSXで「Evil Twin」型の悪性拡張機能77件を検出・削除、ChainDropキャンペーンの一部と判明](../articles/2026-08-05-openvsx-evil-twin-extensions.md)
+- [2026-08-04 keyv・cacheable 名前空間の npm パッケージが乗っ取り被害 – 月間20億ダウンロード規模の「Mini Shai-Hulud」型サプライチェーン攻撃](../articles/2026-08-08-keyv-cacheable-npm-mini-shai-hulud.md)
 - [2026-08-04 npmサプライチェーンワーム、keyv/cacheable経由で数百パッケージに拡散し認証情報を窃取](../articles/2026-08-04-npm-keyv-cacheable-supply-chain-worm.md)
 - [2026-08-04 「ChainDrop」自己増殖型npmワーム、keyv・cacheable等450パッケージ・2,200超のバージョンに感染](../articles/2026-08-04-chaindrop-npm-worm.md)
