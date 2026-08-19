@@ -9,7 +9,12 @@
 - 主要CVE: CVE-2026-56155（AD FS EoP、悪用実績あり）、CVE-2026-56164（SharePoint EoP、悪用実績あり）、CVE-2026-50661（BitLockerバイパス、公開済み）
 - 修正総数: 622件（過去最多）
 - Criticalの件数: 59件
+- 公開日: 2026年7月14日
+- 修正CVE件数: 621件（過去最大）
+- 悪用済みゼロデイ: CVE-2026-56155（AD FS）、CVE-2026-56164（SharePoint Server）
+- CISA KEV追加: 2026年7月14日
 
 ## タイムライン
 
 - [2026-07-16 Microsoft Patch Tuesday 2026年7月：過去最多622件を修正、ゼロデイ3件を含む](../articles/2026-07-16-microsoft-patch-tuesday-july-2026.md)
+- [2026-07-14 Microsoft 2026年7月Patch Tuesday：過去最大621件のCVEを修正、悪用済みゼロデイ2件含む](../articles/2026-07-15-microsoft-patch-tuesday-july-2026.md)
