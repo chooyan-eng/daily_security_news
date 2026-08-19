@@ -4,14 +4,22 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-27 | 7件 |
+| [Paidwork（マイクロタスクアプリ）データ侵害（2026年）](./paidwork-mobile-app-data-breach-2026.md) | 2026-07-27 | 1件 |
+| [Origin Energy（豪エネルギー大手）顧客データ侵害（2026年7月）](./origin-energy-data-breach-2026.md) | 2026-07-27 | 2件 |
+| [Node.js 2026年7月定例セキュリティリリース](./nodejs-security-releases-2026.md) | 2026-07-27 | 1件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-27 | 4件 |
+| [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-27 | 3件 |
+| [Ernst & Young サポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-27 | 3件 |
+| [Craneware ヘルスケア請求ソフトウェア データ侵害（2026年7月）](./craneware-healthcare-data-breach-2026.md) | 2026-07-27 | 2件 |
+| [ChatGPT Workspace Agents「AgentForger」CSRF脆弱性（2026年）](./chatgpt-agentforger-vulnerability-2026.md) | 2026-07-27 | 1件 |
+| [Bing Images SVG経由のリモートコード実行（CVE-2026-32194/CVE-2026-32191）](./bing-images-svg-rce-2026.md) | 2026-07-27 | 2件 |
 | [RevolutionParts データ漏洩事件（2026年）](./revolutionparts-data-breach-2026.md) | 2026-07-26 | 1件 |
 | [OnTrac 社内ネットワーク侵害によるデータ漏洩（2026年）](./ontrac-data-breach-2026.md) | 2026-07-26 | 1件 |
 | [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](./laundry-bear-zimbra-cve-2025-66376.md) | 2026-07-26 | 3件 |
-| [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-26 | 2件 |
 | [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-26 | 2件 |
 | [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-26 | 3件 |
 | [Adobe Acrobat Chrome拡張機能 UXSS脆弱性「HermeticReader」（CVE-2026-48294）](./adobe-acrobat-extension-hermeticreader-cve-2026-48294.md) | 2026-07-26 | 1件 |
-| [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-25 | 6件 |
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
 | [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 5件 |
@@ -20,10 +28,8 @@
 | [Microsoft SharePoint Server CVE-2026-50522 マシンキー窃取キャンペーン（2026年7月）](./sharepoint-cve-2026-50522-machine-key-theft.md) | 2026-07-24 | 1件 |
 | [関市 Webアンケートフォーム個人情報閲覧可能事案（2026年7月）](./seki-city-survey-form-leak-2026.md) | 2026-07-24 | 1件 |
 | [佐川急便「スマートクラブ」個人情報漏えい（2026年7月）](./sagawa-smartclub-leak-2026.md) | 2026-07-24 | 1件 |
-| [Origin Energy 顧客データ侵害（2026年7月）](./origin-energy-data-breach-2026.md) | 2026-07-24 | 1件 |
 | [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-24 | 3件 |
 | [Check Point SmartConsole 認証バイパス CVE-2026-16232（2026年7月）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-24 | 1件 |
-| [Bing画像検索 SVGコマンドインジェクションRCE（CVE-2026-32194/32191）](./bing-images-svg-rce-2026.md) | 2026-07-24 | 1件 |
 | [AWS Kiro エージェント型IDE 設定書き換えRCE（2026年）](./aws-kiro-mcp-config-rce-2026.md) | 2026-07-24 | 1件 |
 | [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-23 | 1件 |
 | [韓国 国立外交院オンライン教育システム侵害（2026年）](./south-korea-diplomatic-academy-breach-2026.md) | 2026-07-23 | 1件 |
@@ -32,14 +38,12 @@
 | [Kratos フィッシングプラットフォーム摘発（2026年7月）](./kratos-phishing-platform-takedown-2026.md) | 2026-07-23 | 1件 |
 | [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-23 | 6件 |
 | [JadeProx TriBack Loader 中国系スパイキャンペーン（2026年）](./jadeprox-triback-loader-china-2026.md) | 2026-07-23 | 1件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-23 | 3件 |
 | [Chrome定例セキュリティアップデート（2026年7月）](./chrome-stable-security-update-2026-07.md) | 2026-07-23 | 1件 |
 | [Uber Eats・Starbucks 利用者データ流出主張（インフォスティーラー由来、2026年7月）](./uber-eats-starbucks-stealer-log-leak-2026.md) | 2026-07-22 | 1件 |
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-22 | 5件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-22 | 3件 |
 | [ルーマニア不動産登記システム（ANCPI）データベース破壊攻撃（2026年7月）](./romania-land-registry-wipe-2026.md) | 2026-07-22 | 1件 |
 | [OpenAI AIモデルによるHugging Face不正侵入インシデント（2026年7月）](./openai-huggingface-ai-model-incident-2026.md) | 2026-07-22 | 1件 |
-| [Craneware 医療機関向けソフトウェア企業 データ侵害（2026年7月）](./craneware-healthcare-data-breach-2026.md) | 2026-07-22 | 1件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-21 | 4件 |
 | [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
@@ -60,7 +64,6 @@
 | [Windows LegacyHive 特権昇格ゼロデイ（2026年7月）](./windows-legacyhive-zero-day-2026.md) | 2026-07-18 | 1件 |
 | [ニチレイグループ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-18 | 3件 |
 | [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-07-18 | 3件 |
-| [Ernst & Young サポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-18 | 2件 |
 | [Zoom Windowsクライアント CVE-2026-53412 アカウント乗っ取り脆弱性](./zoom-windows-cve-2026-53412.md) | 2026-07-17 | 1件 |
 | [Zimbra Classic Web Client 保存型XSS脆弱性（2026年7月）](./zimbra-classic-web-client-xss-2026.md) | 2026-07-17 | 2件 |
 | [Mirax Androidバンキングトロイ（MaaS、2026年）](./mirax-android-banking-trojan-2026.md) | 2026-07-17 | 1件 |
@@ -160,6 +163,11 @@
 | [macOS.Gaslight：北朝鮮関連マルウェアによるAIマルウェア解析回避（2026年6月）](./macos-gaslight-north-korea-2026.md) | 2026-06-27 | 1件 |
 | [2026年6月26日侵害クラスター（MagMutual・Atlas Elektronik等）](./june26-2026-breach-cluster.md) | 2026-06-27 | 1件 |
 | [DCloud Uni-App 悪用によるグローバル詐欺インフラ（2026年）](./dcloud-uniapp-scam-infrastructure-2026.md) | 2026-06-27 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-06-26 | 2件 |
 | [SIMスワッピング犯罪組織摘発（ポーランド・FBI、2026年6月）](./poland-sim-swap-arrest-2026.md) | 2026-06-26 | 1件 |
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-26 | 2件 |
@@ -167,11 +175,6 @@
 | [FIFA ワールドカップ 2026 便乗フィッシング・詐欺キャンペーン](./fifa-worldcup-2026-phishing.md) | 2026-06-26 | 1件 |
 | [ClickFix キャンペーン拡大（BabaDeda/Lorem Ipsum/Potemkin、2026年6月）](./clickfix-babadeda-lorem-ipsum-2026.md) | 2026-06-26 | 1件 |
 | [Amazon Q Developer CVE-2026-12957 MCP 自動実行脆弱性（2026年）](./amazon-q-developer-cve-2026-12957.md) | 2026-06-26 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |
 | [Microsoft Patch Tuesday 2026年6月](./microsoft-patch-tuesday-june-2026.md) | 2026-06-25 | 4件 |
 | [Microsoft Defender RoguePlanet ゼロデイ（CVE-2026-50656）](./microsoft-defender-rogueplanet-2026.md) | 2026-06-25 | 3件 |
