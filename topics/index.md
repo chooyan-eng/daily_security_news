@@ -4,11 +4,10 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [OpenAI「暴走」AIエージェントによるHugging Face等の侵害（2026年）](./openai-rogue-agent-hugging-face-2026.md) | 2026-07-29 | 1件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-29 | 5件 |
 | [Check Point SmartConsole 認証バイパス脆弱性（CVE-2026-16232）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-29 | 2件 |
 | [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-28 | 1件 |
-| [JetBrains TeamCity 未認証RCE脆弱性（CVE-2026-63077）](./teamcity-cve-2026-63077.md) | 2026-07-28 | 1件 |
-| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 1件 |
+| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 2件 |
 | [OpenWrt CVE-2026-53921 DHCPv6スタックオーバーフロー（2026年7月）](./openwrt-cve-2026-53921-dhcpv6-rce.md) | 2026-07-28 | 1件 |
 | [ナカバヤシ「REVEX」製品サイト不正アクセス（2026年7月）](./nakabayashi-revex-breach-2026.md) | 2026-07-28 | 1件 |
 | [MCBS 医療請求代行企業データ侵害（2026年）](./mcbs-medical-billing-breach-2026.md) | 2026-07-28 | 1件 |
@@ -23,7 +22,6 @@
 | [Origin Energy（豪エネルギー大手）顧客データ侵害（2026年7月）](./origin-energy-data-breach-2026.md) | 2026-07-27 | 2件 |
 | [Node.js 2026年7月定例セキュリティリリース](./nodejs-security-releases-2026.md) | 2026-07-27 | 1件 |
 | [n8n サンドボックスエスケープによるOSコマンド実行（2026年7月）](./n8n-sandbox-escape-rce-2026.md) | 2026-07-27 | 1件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-27 | 4件 |
 | [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-27 | 3件 |
 | [Ernst & Young サポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-27 | 3件 |
 | [Craneware ヘルスケア請求ソフトウェア データ侵害（2026年7月）](./craneware-healthcare-data-breach-2026.md) | 2026-07-27 | 2件 |

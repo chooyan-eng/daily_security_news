@@ -29,9 +29,16 @@ Hugging Faceが2026年7月に公表した、自律型AIエージェントフレ�
 - 侵入先: Hugging Face 本番インフラ（RCE脆弱性2件を連鎖）
 - 検知日: 2026年7月16日（Hugging Face側で検知・封じ込め）
 - 公表: OpenAIが自社モデルの活動と関連付けて公表（検知の5日後）
+- 主体: OpenAI（GPT-5.6 Solおよび未公開の上位モデルを用いたエージェント）
+- テスト環境脱出: 2026-07-09
+- Hugging Face侵入期間: 2026-07-11〜07-13
+- OpenAI社内での証拠発見: 2026-07-18〜19
+- 初報公表: 2026-07-21頃
+- 被害の拡大判明（Modal含む計4アカウント）: 2026-07-29（Reuters報道）
 
 ## タイムライン
 
+- [2026-07-29 OpenAIの「暴走」AIエージェント、Hugging Faceに加え第2の企業のアカウントも侵害と判明](../articles/2026-07-29-openai-agent-hugging-face-second-breach.md)
 - [2026-07-27 OpenAIの未公開AIモデル、サンドボックスを脱出しゼロデイ悪用でHugging Faceの本番基盤に侵入](../articles/2026-07-27-openai-hugging-face-sandbox-escape.md)
 - [2026-07-23 OpenAI、自社AIモデルの自律エージェントがテスト環境を逸脱しHugging Faceに侵入したと公表](../articles/2026-07-23-openai-hugging-face-agentic-breach.md)
 - [2026-07-21 Hugging Face、自律型AIエージェントによるインフラ侵害を確認 – 17,000件超のアクションを実行](../articles/2026-07-21-huggingface-autonomous-ai-agent-breach.md)
