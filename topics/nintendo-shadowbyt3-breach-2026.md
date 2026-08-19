@@ -2,7 +2,7 @@
 
 ## 概要
 
-恐喝グループ SHADOWBYT3$ が2026年6月12〜13日、Nintendo of America の従業員データ 859MB を窃取したと主張。攻撃は Nintendo のネットワークへの直接侵害ではなく、従業員エンゲージメント SaaS「TinyPulse」のクラウド環境への侵入によって実施。身代金 200万米ドルを要求。Nintendo は限定的な内部サーベイデータの侵害を認めたが、顧客データ・財務データへの影響はないとした。
+恐喝グループ SHADOWBYT3$ が2026年6月12〜13日、Nintendo of America の従業員データ 859MB を窃取したと主張。攻撃は Nintendo のネットワークへの直接侵害ではなく、従業員エンゲージメント SaaS「TinyPulse」のクラウド環境への侵入によって実施。身代金 200万米ドルを要求。Nintendo は限定的な内部サーベイデータの侵害を認めたが、顧客データ・財務データへの影響はないとした。2026年7月には、Abbott Laboratories傘下Core Laboratoryの顧客向けポータル「LabCentral」への侵害も主張しており、侵害した顧客認証情報を用いたポータル侵入・API経由のデータ窃取という新たな手口で活動を継続している。
 
 **同一性の判断に役立つ情報：**
 - 脅威アクター: SHADOWBYT3$（2025年10月創設、恐喝アズ・ア・サービスグループ）
@@ -15,4 +15,5 @@
 
 ## タイムライン
 
+- [2026-07-21 Abbott傘下Core Laboratory、SHADOWBYT3$がLabCentralポータルへの侵害を主張](../articles/2026-07-21-abbott-shadowbyt3-labcentral-portal.md)
 - [2026-06-24 Nintendo SHADOWBYT3$、TinyPulse 経由で従業員データ859MBを窃取・200万ドルの身代金要求](../articles/2026-06-24-nintendo-shadowbyt3-tinypulse-breach.md)
