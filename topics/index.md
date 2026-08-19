@@ -8,7 +8,7 @@
 | [Polymarket フロントエンド侵害（2026年6月）](./polymarket-frontend-breach-2026.md) | 2026-06-27 | 1件 |
 | [OpenAI「Poisoned Tenant」フィッシングキャンペーン（2026年）](./openai-poisoned-tenant-2026.md) | 2026-06-27 | 1件 |
 | [macOS.Gaslight：北朝鮮関連マルウェアによるAIマルウェア解析回避（2026年6月）](./macos-gaslight-north-korea-2026.md) | 2026-06-27 | 1件 |
-| [Linuxカーネルpage cache LPE脆弱性シリーズ（CVE-2026-46331 / CVE-2026-43503）](./linux-page-cache-lpe-2026.md) | 2026-06-27 | 2件 |
+| [Linuxカーネルpage cache LPE脆弱性シリーズ（CVE-2026-46331 / CVE-2026-43503）](./linux-page-cache-lpe-2026.md) | 2026-06-27 | 3件 |
 | [2026年6月26日侵害クラスター（MagMutual・Atlas Elektronik等）](./june26-2026-breach-cluster.md) | 2026-06-27 | 1件 |
 | [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-06-27 | 8件 |
 | [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](./fbi-signal-russian-backup-key-2026.md) | 2026-06-27 | 1件 |
@@ -18,7 +18,6 @@
 | [Operation Endgame：StealC・Amadey・SocGholish マルウェアインフラ解体（2026年6月）](./operation-endgame-stealc-amadey-2026.md) | 2026-06-26 | 2件 |
 | [Klue OAuth侵害と「Icarus」キャンペーン（2026年6月）](./klue-icarus-salesforce-oauth-2026.md) | 2026-06-26 | 3件 |
 | [FIFA ワールドカップ 2026 便乗フィッシング・詐欺キャンペーン](./fifa-worldcup-2026-phishing.md) | 2026-06-26 | 1件 |
-| [DirtyClone Linux Kernel LPE (CVE-2026-43503)](./dirtyclone-linux-kernel-cve-2026-43503.md) | 2026-06-26 | 1件 |
 | [ClickFix キャンペーン拡大（BabaDeda/Lorem Ipsum/Potemkin、2026年6月）](./clickfix-babadeda-lorem-ipsum-2026.md) | 2026-06-26 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-06-25 | 1件 |
 | [Mistic バックドア・KongTuke ランサムウェア IAB（2026年）](./mistic-backdoor-kongtuke-2026.md) | 2026-06-25 | 1件 |

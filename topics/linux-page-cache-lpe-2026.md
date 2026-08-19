@@ -15,8 +15,17 @@
 - 共通攻撃ベクタ: ユーザー名前空間 + page cache破壊 → 特権バイナリ書き換え → rootシェル
 - 影響: RHEL 8/9/10、AlmaLinux 8、Debian 11/12/13、Ubuntu
 - 修正: v7.1-rc5（CVE-2026-43503）、各ディストリビューションのバックポートパッチ（CVE-2026-46331）
+- CVE：CVE-2026-43503
+- CVSS：8.8（High）
+- 脆弱性ファミリー：DirtyFrag
+- 発見・PoC：JFrog Security Research（2026年6月25日公開）
+- 影響関数：`__pskb_copy_fclone()` / `SKBFL_SHARED_FRAG` フラグ
+- 攻撃条件：CAP_NET_ADMIN ケーパビリティ（ユーザー名前空間有効時に非特権ユーザーが取得可能）
+- 影響ディストリビューション：Debian・Ubuntu・Fedora（動作確認済み）
+- アップストリームパッチ：v7.1-rc5（2026年5月21日、コミット 9e171fc1d7d7）
 
 ## タイムライン
 
-- [2026-06-27 DirtyClone（CVE-2026-43503）：JFrogがLinuxカーネルソケットバッファLPEのエクスプロイト解析を公開](../articles/2026-06-27-linux-cve-2026-43503-dirtyclone-lpe.md)
 - [2026-06-27 Linux CVE-2026-46331「pedit COW」：ネットワーク制御サブシステムのpage cacheメモリ破壊によるroot権限昇格](../articles/2026-06-27-linux-cve-2026-46331-pedit-cow-lpe.md)
+- [2026-06-27 DirtyClone（CVE-2026-43503）：JFrogがLinuxカーネルソケットバッファLPEのエクスプロイト解析を公開](../articles/2026-06-27-linux-cve-2026-43503-dirtyclone-lpe.md)
+- [2026-06-26 DirtyClone (CVE-2026-43503)：Linux カーネル特権昇格 PoC 公開](../articles/2026-06-26-dirtyclone-linux-kernel-cve-2026-43503.md)
