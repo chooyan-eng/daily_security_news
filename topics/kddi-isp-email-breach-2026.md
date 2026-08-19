@@ -17,4 +17,5 @@ KDDIが提供するISP向けメールシステムが2026年6月に不正アク�
 ## タイムライン
 
 - [2026-07-04 KDDIのISPメール不正アクセス事案、総務省が行政処分（報告徴収）を発出——7月6日までの報告を要求](../articles/2026-07-04-kddi-breach-soumu-administrative-order.md)
+- [2026-06-28 KDDI ISP メール不正アクセス、BleepingComputer が国際報道：最大1422万件の認証情報漏洩](../articles/2026-06-28-kddi-isp-breach-bleepingcomputer.md)
 - [2026-06-24 KDDI ISPメールシステム不正アクセス：最大1,422万件のメールアドレス・パスワード漏洩の恐れ](../articles/2026-06-24-kddi-isp-email-breach-14m.md)
