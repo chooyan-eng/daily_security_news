@@ -4,9 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-29 | 5件 |
-| [Check Point SmartConsole 認証バイパス脆弱性（CVE-2026-16232）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-29 | 2件 |
-| [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-28 | 1件 |
+| [VMware vCenter CVE-2026-59309 認証バイパス脆弱性](./vmware-vcenter-cve-2026-59309.md) | 2026-07-30 | 1件 |
+| [vBulletin CVE-2026-61511 未認証RCE脆弱性](./vbulletin-rce-cve-2026-61511.md) | 2026-07-30 | 1件 |
+| [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](./vatican-click-to-pray-app-breach-2026.md) | 2026-07-30 | 2件 |
+| [Ruby on Rails Active Storage CVE-2026-66066 任意ファイル読み取り・RCE脆弱性](./rails-active-storage-cve-2026-66066.md) | 2026-07-30 | 1件 |
+| [Node.js 2026年7月セキュリティリリース](./nodejs-security-release-july-2026.md) | 2026-07-30 | 1件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-30 | 6件 |
+| [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-07-30 | 1件 |
+| [Check Point SmartConsole CVE-2026-16232 認証バイパス](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-30 | 3件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-07-28 | 2件 |
 | [OpenWrt CVE-2026-53921 DHCPv6スタックオーバーフロー（2026年7月）](./openwrt-cve-2026-53921-dhcpv6-rce.md) | 2026-07-28 | 1件 |
 | [ナカバヤシ「REVEX」製品サイト不正アクセス（2026年7月）](./nakabayashi-revex-breach-2026.md) | 2026-07-28 | 1件 |
@@ -161,16 +166,16 @@
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |
 | [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](./fbi-signal-russian-backup-key-2026.md) | 2026-06-30 | 4件 |
-| [TheGentlemen ランサムウェアグループ（2026年）](./thegentlemen-ransomware-2026.md) | 2026-06-29 | 1件 |
-| [Synology MailPlus Server 重大脆弱性（2026年）](./synology-mailplus-server-2026.md) | 2026-06-29 | 1件 |
-| [PTC Windchill CVE-2026-12569 RCE](./ptc-windchill-cve-2026-12569.md) | 2026-06-29 | 4件 |
-| [Linuxカーネルpage cache LPE脆弱性シリーズ（CVE-2026-46331 / CVE-2026-43503）](./linux-page-cache-lpe-2026.md) | 2026-06-29 | 6件 |
-| [iRhythm データ侵害（2026年6月）](./irhythm-data-breach-2026.md) | 2026-06-29 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [TheGentlemen ランサムウェアグループ（2026年）](./thegentlemen-ransomware-2026.md) | 2026-06-29 | 1件 |
+| [Synology MailPlus Server 重大脆弱性（2026年）](./synology-mailplus-server-2026.md) | 2026-06-29 | 1件 |
+| [PTC Windchill CVE-2026-12569 RCE](./ptc-windchill-cve-2026-12569.md) | 2026-06-29 | 4件 |
+| [Linuxカーネルpage cache LPE脆弱性シリーズ（CVE-2026-46331 / CVE-2026-43503）](./linux-page-cache-lpe-2026.md) | 2026-06-29 | 6件 |
+| [iRhythm データ侵害（2026年6月）](./irhythm-data-breach-2026.md) | 2026-06-29 | 1件 |
 | [Veeam Backup & Replication CVE-2026-44963 RCE 脆弱性（2026年）](./veeam-cve-2026-44963-rce.md) | 2026-06-28 | 1件 |
 | [Polymarket サードパーティ侵害・フロントエンドスクリプト注入（2026年6月）](./polymarket-supply-chain-attack-2026.md) | 2026-06-28 | 1件 |
 | [Polymarket フロントエンド侵害（2026年6月）](./polymarket-frontend-breach-2026.md) | 2026-06-27 | 1件 |
