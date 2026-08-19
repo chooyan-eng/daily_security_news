@@ -14,8 +14,15 @@ Progress Softwareが2026年7月10日、企業向けファイル共有製品Share
 - 通知日: 2026年7月10日
 - 脅威の性質: 未公表（CVE番号なし、ゼロデイの可能性含め不明）
 - 対象範囲: オンプレミスのStorage Zone Controllers稼働環境（クラウド専用環境は対象外）
+- 対象製品: Progress ShareFile Storage Zone Controller（バージョン 5.x / 6.x）
+- 脆弱性種別: パストラバーサル（認証済み管理者による任意ファイル読み書き）
+- CVE: 未公開（予約済み、2週間後に公開予定）
+- 緊急停止指示日: 2026年7月10日
+- パッチ提供・復旧日: 2026年7月14日（v5.12.5 / v6.0.2）
+- 不正アクセスの証拠: Progress は現時点で顧客アカウント・データへの不正アクセスの証拠なしと発表
 
 ## タイムライン
 
+- [2026-07-14 Progress、ShareFile Storage Zone Controller のゼロデイ脆弱性にパッチを提供し稼働停止指示を解除](../articles/2026-07-14-progress-sharefile-zero-day.md)
 - [2026-07-12 Progress、ShareFile Storage Zone Controllers 利用企業に「信頼性の高い脅威」を理由に緊急サーバー停止を要請](../articles/2026-07-12-progress-sharefile-storage-zone-shutdown.md)
 - [2026-07-11 Progress Software、ShareFile Storage Zone Controllersの「信頼性の高い脅威」を理由に緊急シャットダウンを要請](../articles/2026-07-11-progress-sharefile-storage-zone-controllers-threat.md)

@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-14
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/)
-- **トピック**: [Progress ShareFile Storage Zone Controller ゼロデイ脆弱性（2026年7月）](../topics/progress-sharefile-zero-day-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](../topics/progress-sharefile-storage-zone-controllers-2026.md)
+- **分類**: 続報
 ## 概要
 
 Progress Software は2026年7月10日、ファイル共有サービス ShareFile の「Storage Zone Controller」に対する信頼性の高い外部脅威を検知し、全顧客に稼働サーバーの緊急停止を指示した。調査の結果、5.x/6.x系全バージョンに影響するパストラバーサル脆弱性が判明。7月14日、パッチ版の提供により停止指示を解除した。
