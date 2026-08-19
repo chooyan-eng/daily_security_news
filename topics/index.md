@@ -4,11 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [WordPress CVE-2026-64638 未認証XSS（2026年8月）](./wordpress-cve-2026-64638-pre-auth-xss.md) | 2026-08-07 | 1件 |
+| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-07 | 2件 |
+| [Qilinランサムウェアグループ（2026年）](./qilin-freedom-claims-ransomware-2026.md) | 2026-08-07 | 1件 |
+| [NatJack – NAT実装の設計的脆弱性による攻撃クラス（2026年）](./natjack-nat-attack-class-2026.md) | 2026-08-07 | 1件 |
+| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-07 | 5件 |
+| [Linux カーネル SCTPhantom CVE-2026-64564（2026年8月）](./linux-sctphantom-cve-2026-64564.md) | 2026-08-07 | 1件 |
+| [講談社 社用メール不正アクセス（2026年7月〜8月）](./kodansha-phishing-email-breach-2026.md) | 2026-08-07 | 1件 |
+| [Apache Traffic Server CVE-2026-63078 HTTPデシンク脆弱性（2026年8月）](./apache-traffic-server-cve-2026-63078-http-terminator.md) | 2026-08-07 | 1件 |
 | [TP-Link Omada ZTP 脆弱性群（2026年8月）](./tp-link-omada-ztp-vulnerabilities-2026.md) | 2026-08-06 | 1件 |
 | [Samsung Members/Account エクスプロイトチェーン（Bixby悪用）](./samsung-members-account-bixby-exploit-chain-2026.md) | 2026-08-06 | 1件 |
 | [Sakura Mobile 不正アクセス事案（2026年）](./sakura-mobile-unauthorized-access-2026.md) | 2026-08-06 | 1件 |
 | [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 4件 |
-| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-06 | 4件 |
 | [リヒテンシュタイン実質的所有者登録簿 不正アクセス事案（2026年）](./liechtenstein-beneficial-owner-register-breach-2026.md) | 2026-08-06 | 1件 |
 | [ジョンズ・ホプキンス大学 myJH偽装フィッシングキャンペーン（2026年8月）](./johns-hopkins-myjh-phishing-2026.md) | 2026-08-06 | 1件 |
 | [Pass-ta-key攻撃 Google同期パスキー ハイジャック（2026年8月）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-06 | 1件 |
@@ -170,16 +177,16 @@
 | [GitHub Agentic Workflows「GitLost」プロンプトインジェクション脆弱性（2026年7月）](./github-gitlost-prompt-injection-2026.md) | 2026-07-08 | 1件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-07-08 | 2件 |
 | [AI生成ブラウザ内完結型ランサムウェア（Chromium File System Access API悪用、2026年）](./ai-browser-ransomware-chromium-2026.md) | 2026-07-08 | 2件 |
-| [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-07-07 | 4件 |
-| [Microsoft SharePoint Server CVE-2026-45659 リモートコード実行脆弱性](./sharepoint-cve-2026-45659-rce.md) | 2026-07-07 | 4件 |
-| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-07-07 | 10件 |
-| [Azure CLI パスワードスプレーキャンペーン「LSHIY」（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-07 | 4件 |
-| [AdaptHealth ソーシャルエンジニアリング侵害（2026年6月）](./adapthealth-breach-2026.md) | 2026-07-07 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [SimpleHelp RMM CVE-2026-48558 OIDC認証バイパス（2026年）](./simplehelp-cve-2026-48558-oidc-bypass.md) | 2026-07-07 | 4件 |
+| [Microsoft SharePoint Server CVE-2026-45659 リモートコード実行脆弱性](./sharepoint-cve-2026-45659-rce.md) | 2026-07-07 | 4件 |
+| [FortiBleed：Fortinet Firewall 大規模認証情報流出キャンペーン（2026年6月）](./fortibleed-fortinet-credential-harvesting.md) | 2026-07-07 | 10件 |
+| [Azure CLI パスワードスプレーキャンペーン「LSHIY」（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-07 | 4件 |
+| [AdaptHealth ソーシャルエンジニアリング侵害（2026年6月）](./adapthealth-breach-2026.md) | 2026-07-07 | 1件 |
 | [Oracle E-Business Suite CVE-2026-46817 未認証RCE（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-06 | 3件 |
 | [Operation DragonReturn – 中国系脅威アクターによるインド税務インフラ標的キャンペーン（2026年）](./operation-dragonreturn-china-india-2026.md) | 2026-07-06 | 1件 |
 | [AirDrop・Quick Share 近接ファイル共有プロトコル脆弱性（2026年）](./airdrop-quickshare-vulnerabilities-2026.md) | 2026-07-06 | 3件 |
