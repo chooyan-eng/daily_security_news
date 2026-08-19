@@ -12,7 +12,13 @@
 - 主張されている窃取データ量: 約35GB
 - 窃取データの内容: ソースコード、RSA/SSH鍵、Azure個人アクセストークン（PAT）、Azureストレージアクセスキー、設定ファイル
 - Accentureの公式見解: 業務運営・サービス提供への影響なし、原因は既に対処済み（remediated）
+- 脅威アクター: 「888」（PwnForums）
+- 主張された窃取データ量: 35GB超
+- 窃取主張データ種別: ソースコード、RSA/SSH鍵、Azure PAT、Azure Storageアクセスキー、設定ファイル
+- 公表日: 2026年7月8日
+- 過去の関連事案: 2024年6月（従業員データ32,826件、Accentureは限定的漏洩と反論）、2021年（LockBitによる侵害）
 
 ## タイムライン
 
 - [2026-07-11 Accenture、ハッカーによる35GBのソースコード・認証情報窃取主張を受け侵害を確認](../articles/2026-07-11-accenture-breach-source-code-leak-claim.md)
+- [2026-07-08 Accenture、ハッカーによる35GB分ソースコード窃取主張を受けて侵害を確認](../articles/2026-07-08-accenture-breach-source-code-35gb.md)
