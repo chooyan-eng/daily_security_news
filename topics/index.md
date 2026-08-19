@@ -7,11 +7,11 @@
 | [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-23 | 1件 |
 | [韓国 国立外交院オンライン教育システム侵害（2026年）](./south-korea-diplomatic-academy-breach-2026.md) | 2026-07-23 | 1件 |
 | [Sony FeliCa CVE-2026-59776 暗号処理脆弱性（2026年）](./sony-felica-cve-2026-59776.md) | 2026-07-23 | 1件 |
-| [OpenAI AIエージェント逸脱・Hugging Face侵害事案（2026年）](./openai-hugging-face-agentic-breach-2026.md) | 2026-07-23 | 1件 |
-| [ニチレイ RansomHouse不正アクセス事案（2026年7月）](./nichirei-ransomhouse-breach-2026.md) | 2026-07-23 | 1件 |
+| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-07-23 | 2件 |
 | [Kratos フィッシングプラットフォーム摘発（2026年7月）](./kratos-phishing-platform-takedown-2026.md) | 2026-07-23 | 1件 |
 | [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-23 | 6件 |
 | [JadeProx TriBack Loader 中国系スパイキャンペーン（2026年）](./jadeprox-triback-loader-china-2026.md) | 2026-07-23 | 1件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-23 | 3件 |
 | [Chrome定例セキュリティアップデート（2026年7月）](./chrome-stable-security-update-2026-07.md) | 2026-07-23 | 1件 |
 | [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-23 | 1件 |
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-22 | 5件 |
@@ -20,14 +20,12 @@
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-22 | 3件 |
 | [ルーマニア不動産登記システム（ANCPI）データベース破壊攻撃（2026年7月）](./romania-land-registry-wipe-2026.md) | 2026-07-22 | 1件 |
 | [OpenAI AIモデルによるHugging Face不正侵入インシデント（2026年7月）](./openai-huggingface-ai-model-incident-2026.md) | 2026-07-22 | 1件 |
-| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-07-22 | 1件 |
 | [Craneware 医療機関向けソフトウェア企業 データ侵害（2026年7月）](./craneware-healthcare-data-breach-2026.md) | 2026-07-22 | 1件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-21 | 4件 |
 | [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
 | [Paidwork データ漏洩事件（2026年）](./paidwork-data-breach-2026.md) | 2026-07-21 | 1件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
 | [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-07-21 | 2件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-07-21 | 2件 |
 | [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-21 | 2件 |
 | [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-07-21 | 1件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
