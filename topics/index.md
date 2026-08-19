@@ -4,17 +4,23 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Windows AFD.sys ゼロデイ CVE-2026-68820・Lazarus悪用（2026年8月）](./windows-afd-sys-cve-2026-68820-lazarus.md) | 2026-08-12 | 1件 |
+| [Microsoft SharePoint CVE-2026-63520 RCE 脆弱性チェーン（2026年8月）](./sharepoint-cve-2026-63520-rce.md) | 2026-08-12 | 1件 |
+| [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-12 | 2件 |
+| [N-able N-central CVE-2026-18577 認証バイパス継続悪用（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-12 | 8件 |
+| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-12 | 5件 |
+| [「New Audio MSG」偽装Google風フィッシングキャンペーン（2026年8月）](./google-themed-phishing-new-audio-msg-2026.md) | 2026-08-12 | 1件 |
+| [ショップサーブ不正アクセス事案（Eストアー、2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-12 | 3件 |
+| [ClickFix経由の新種RAT「CNCMachineRMS」配布キャンペーン（2026年8月）](./clickfix-cncmachinerms-rat-2026.md) | 2026-08-12 | 1件 |
+| [BdThemes WordPress プラグイン サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-12 | 2件 |
+| [Adobe 2026年8月定例セキュリティ更新（ColdFusion・Campaign Classic）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-12 | 10件 |
 | [Zoom 「Zoomsday」アノテーション機能RCE脆弱性（2026年8月）](./zoom-zoomsday-cve-2026-53413.md) | 2026-08-11 | 1件 |
-| [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-11 | 1件 |
 | [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-11 | 9件 |
-| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-11 | 4件 |
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-11 | 3件 |
 | [科学技術振興機構（JST）メール情報漏洩（2026年8月）](./jst-email-leak-2026.md) | 2026-08-11 | 1件 |
 | [CEVA Logistics サプライチェーン侵害の連鎖（2026年8月）](./ceva-logistics-supply-chain-breach-2026.md) | 2026-08-11 | 2件 |
 | [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-11 | 1件 |
-| [BdThemes WordPress サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-11 | 1件 |
 | [Ryde 電動スクーターアプリ データ侵害（2026年8月）](./ryde-scooter-data-breach-2026.md) | 2026-08-10 | 1件 |
-| [N-able N-central 認証バイパス脆弱性 CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-10 | 7件 |
 | [LexisNexis サービス停止インシデント（2026年8月）](./lexisnexis-service-shutdown-2026.md) | 2026-08-10 | 1件 |
 | [Google Password Manager パスキー乗っ取り「Pass-ta-key」攻撃（2026年）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-10 | 2件 |
 | [FIS Global Clopランサムウェア侵害（2026年8月）](./fis-global-clop-ransomware-2026.md) | 2026-08-10 | 1件 |
@@ -53,11 +59,9 @@
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-03 | 3件 |
 | [英国警察法務データベース（PNLD）侵害（2026年8月）](./uk-pnld-breach-2026.md) | 2026-08-03 | 1件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-08-03 | 5件 |
-| [Eストアー「ショップサーブ」不正アクセス事件（2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-03 | 2件 |
 | [EPARKリラク&エステ PeakManager 不正アクセス（2026年8月）](./epark-peakmanager-breach-2026.md) | 2026-08-03 | 2件 |
 | [DeepSeekベース自律型AIサイバー攻撃（2026年）](./deepseek-autonomous-cyberattack-2026.md) | 2026-08-03 | 1件 |
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-data-breach-2026.md) | 2026-08-03 | 1件 |
-| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-03 | 9件 |
 | [Adform 広告スクリプト サプライチェーン攻撃（2026年）](./adform-adtech-supply-chain-2026.md) | 2026-08-03 | 1件 |
 | [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 2件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
@@ -173,16 +177,16 @@
 | [Lidl オンラインショップ第三者ベンダー侵害（2026年7月）](./lidl-third-party-breach-2026.md) | 2026-07-13 | 1件 |
 | [Citrix NetScaler CVE-2026-8451 等 6件の脆弱性（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-13 | 7件 |
 | [AssuranceAmerica データ侵害（2026年）](./assuranceamerica-data-breach-2026.md) | 2026-07-13 | 2件 |
-| [WP-SHELLSTORM WordPress ウェブシェルブローカー活動（2026年）](./wp-shellstorm-webshell-brokerage-2026.md) | 2026-07-12 | 1件 |
-| [パキスタン法執行機関への中国・インド系サイバースパイ活動（2026年）](./pakistan-law-enforcement-cyber-espionage-2026.md) | 2026-07-12 | 1件 |
-| [npmサプライチェーン攻撃・暗号資産ウォレット窃取（2026年7月）](./npm-supply-chain-crypto-wallet-2026.md) | 2026-07-12 | 1件 |
-| [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-07-12 | 5件 |
-| [Accenture データ侵害・ソースコード窃取主張（2026年7月）](./accenture-breach-source-code-2026.md) | 2026-07-12 | 1件 |
 
 ## クローズ済み（30日以上更新なし）
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [WP-SHELLSTORM WordPress ウェブシェルブローカー活動（2026年）](./wp-shellstorm-webshell-brokerage-2026.md) | 2026-07-12 | 1件 |
+| [パキスタン法執行機関への中国・インド系サイバースパイ活動（2026年）](./pakistan-law-enforcement-cyber-espionage-2026.md) | 2026-07-12 | 1件 |
+| [npmサプライチェーン攻撃・暗号資産ウォレット窃取（2026年7月）](./npm-supply-chain-crypto-wallet-2026.md) | 2026-07-12 | 1件 |
+| [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-07-12 | 5件 |
+| [Accenture データ侵害・ソースコード窃取主張（2026年7月）](./accenture-breach-source-code-2026.md) | 2026-07-12 | 1件 |
 | [Odido（オランダ通信大手）不正アクセス事件（2026年）](./odido-breach-2026.md) | 2026-07-11 | 1件 |
 | [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-vulnerability-2026.md) | 2026-07-11 | 2件 |
 | [Bad Epoll Linuxカーネル脆弱性 CVE-2026-46242（2026年）](./bad-epoll-cve-2026-46242-android.md) | 2026-07-11 | 1件 |
