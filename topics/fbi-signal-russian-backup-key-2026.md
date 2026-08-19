@@ -19,8 +19,17 @@ FBI・CISAが2026年6月26日に発出した更新済み公式勧告（PSA I-062
 - 旧手口: アカウント PIN・認証コード窃取、デバイスリンク
 - 新手口（2026年6月〜）: Backup Recovery Key の窃取
 - 危険性: 窃取したキーは新アカウント作成後も有効
+- 主要脅威アクター: UNC5792、UNC4221、Star Blizzard（いずれもロシア諜報機関関連）
+- 標的: ウクライナ・欧州・米国の政府・軍関係者、政治家、ジャーナリスト
+- 主要攻撃手法: Signal サポートボットを装ったSMSフィッシング → バックアップリカバリーキー窃取
+- 最初の公表: 2026年3月（オランダ AIVD・MIVD）
+- FBI更新勧告日: 2026年6月27日
+- FBI・SBU合同発表日: 2026年6月25日
+- 攻撃対象アプリ: Signal（主）、WhatsApp
+- バックアップキー窃取の特徴: 新アカウント作成後も盗まれたキーは無効にならない
 
 ## タイムライン
 
+- [2026-06-29 FBI・SSU合同警告：ロシア諜報機関がSignalバックアップリカバリーキーを標的に大規模フィッシング](../articles/2026-06-29-russian-signal-backup-key-phishing.md)
 - [2026-06-27 FBI・CISA警告：ロシア諜報機関がSignalバックアップリカバリーキーを狙うフィッシングに手口を進化](../articles/2026-06-28-signal-backup-key-russian-phishing.md)
 - [2026-06-27 FBI/CISA：ロシア諜報機関がSignalバックアップリカバリーキーを標的にしたフィッシングを進化させる](../articles/2026-06-27-fbi-cisa-signal-backup-key-russian-phishing.md)
