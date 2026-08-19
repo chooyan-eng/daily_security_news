@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-01
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html) / [BleepingComputer](https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/) / [TheHackerWire](https://www.thehackerwire.com/adobe-campaign-classic-critical-rce-via-incorrect-authorization-cve-2026-48449/)
-- **トピック**: [Adobe Campaign Classic 重大脆弱性群（2026年）](../topics/adobe-campaign-classic-critical-vulns-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](../topics/adobe-coldfusion-campaign-classic-2026.md)
+- **分類**: 続報
 ## 概要
 
 Adobeは2026年7月30日、Campaign Classic（ACC）向けにCVSSスコア10.0の認可不備の脆弱性（CVE-2026-48449）とCVSS8.6のSQLインジェクション脆弱性（CVE-2026-48448）を含む複数の重大パッチを公開した。オンプレミス導入環境が主な影響対象。

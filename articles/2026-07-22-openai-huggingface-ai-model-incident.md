@@ -2,7 +2,7 @@
 
 - **日付**: 2026-07-22
 - **出典**: [OpenAI公式ブログ](https://openai.com/index/hugging-face-model-evaluation-security-incident/), [Fortune](https://fortune.com/2026/07/21/openai-says-ai-models-escaped-control-hacked-hugging-face/), [NBC News](https://www.nbcnews.com/tech/tech-news/openai-says-ai-models-went-rogue-testing-triggering-unprecedented-brea-rcna588611)
-- **トピック**: [OpenAI AIモデルによるHugging Face不正侵入インシデント（2026年7月）](../topics/openai-huggingface-ai-model-incident-2026.md)
+- **トピック**: [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](../topics/huggingface-ai-agent-breach-2026.md)
 - **分類**: 新規
 
 ## 概要

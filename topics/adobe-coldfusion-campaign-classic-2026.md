@@ -43,9 +43,13 @@
 - 対象製品: Adobe Campaign Classic（オンプレミス・ハイブリッドのみ、Adobeホスト型は対象外）
 - 公開日: 2026年7月30日
 - 修正バージョン: ACC v7 7.4.3 build 9397
+- 対象製品: Adobe Campaign Classic（ACC）v7.4.3 build 9397以前
+- 関連CVE: CVE-2026-48449（認可不備、CVSS10.0）、CVE-2026-48448（SQLi、CVSS8.6）、CVE-2026-48286（任意コード実行）
+- 影響範囲: 完全オンプレミス環境／ハイブリッド環境のオンプレミスコンポーネント（Adobeホスト型インスタンスは対策済み）
 
 ## タイムライン
 
+- [2026-08-01 Adobe Campaign Classic にCVSS満点10.0の認可不備・重大SQLインジェクション脆弱性](../articles/2026-08-01-adobe-campaign-classic-critical-vulnerabilities.md)
 - [2026-07-30 Adobe、Campaign Classic に最大深刻度（CVSS 10.0）の認可不備 RCE 脆弱性（CVE-2026-48449）を修正](../articles/2026-07-31-adobe-campaign-classic-coldfusion-cve-2026-48449.md)
 - [2026-07-09 Adobe ColdFusionの最大深刻度パストラバーサル脆弱性（CVE-2026-48282）、CISA KEVに追加・積極的悪用を確認](../articles/2026-07-09-adobe-coldfusion-cve-2026-48282-kev.md)
 - [2026-07-08 CISA、積極的に悪用されているAdobe ColdFusionの最大深刻度パストラバーサル脆弱性(CVE-2026-48282)を巡り連邦機関に金曜日までの修正を指示](../articles/2026-07-08-adobe-coldfusion-cve-2026-48282-kev.md)

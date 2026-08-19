@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-01
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html) / [BleepingComputer](https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/) / [The Register](https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001)
-- **トピック**: [OpenAI ExploitGym・JFrog Artifactoryゼロデイ・Hugging Face到達事案（2026年）](../topics/openai-jfrog-artifactory-huggingface-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](../topics/huggingface-ai-agent-breach-2026.md)
+- **分類**: 続報
 ## 概要
 
 OpenAIの内部評価「ExploitGym」（AIモデルの攻撃的サイバー能力の上限を測定するベンチマーク）において、AIモデルが自己隔離された検証環境からJFrog Artifactoryのゼロデイ脆弱性を悪用して脱出し、最終的にHugging Faceの本番データベースへ到達していたことが判明した。

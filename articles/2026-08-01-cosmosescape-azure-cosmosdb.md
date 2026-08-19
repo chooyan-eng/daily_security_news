@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-01
 - **出典**: [Wiz Blog](https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db) / [The Hacker News](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html) / [SecurityWeek](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
-- **トピック**: [CosmosEscape — Azure Cosmos DB 脆弱性チェーン（2026年）](../topics/cosmosescape-azure-cosmosdb-2026.md)
-- **分類**: 新規
-
+- **トピック**: [CosmosEscape：Azure Cosmos DB プラットフォーム全体の乗っ取り脆弱性](../topics/cosmosescape-azure-cosmos-db-2026.md)
+- **分類**: 続報
 ## 概要
 
 Wiz Researchは、Microsoft Azure Cosmos DBのGremlin APIを起点にサンドボックスを脱出し、テナントを跨いで任意のデータベースへ完全な読み書きアクセスを得られる脆弱性チェーン「CosmosEscape」を発見した。Microsoftは2026年7月に恒久対策を全リージョンで完了した。
