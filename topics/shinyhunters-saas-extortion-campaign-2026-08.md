@@ -10,8 +10,16 @@
 - 想定される侵入手口: ボイスフィッシング（ビッシング）、OAuth連携の悪用
 - 被害組織: Questel SAS（仏、8月2日公表）、Lumenis Ltd.（イスラエル）、Alcon 等
 - 関連するが別キャンペーン: Klue発「Icarus」OAuthキャンペーン（2026年6月、別の攻撃者）
+- 脅威アクター: ShinyHunters（データ恐喝グループ）
+- 手口: ランサムウェア／データ窃取＋恐喝（リークサイトでのデータ公開）
+- 被害企業: Carhartt, Inc.（2026年8月13日攻撃、8月14日公表）、Sharecare, Inc.（2026年8月13日攻撃、8月14日公表）
+- Carharttの身代金要求額: 330万ドル（交渉不成立によりデータ公開）
+- Sharecareの被害規模: Salesforceレコード340万件超、社内データ28GB超
+- 関連の可能性: 2026年に相次ぐSalesforce連携アプリのOAuthトークン窃取型データ恐喝キャンペーンとの関連が疑われる
 
 ## タイムライン
 
-- [2026-08-07 ShinyHunters、医療機器メーカーLumenisも被害に – 110万件超のPII・176GB超の内部データ窃取を主張](../articles/2026-08-07-shinyhunters-lumenis-breach.md)
+- [2026-08-14 ShinyHunters、ヘルスケア企業Sharecareを標的に Salesforceレコード340万件超が流出か](../articles/2026-08-16-shinyhunters-sharecare-breach.md)
+- [2026-08-14 ShinyHunters、アパレル大手Carharttへのランサムウェア攻撃を主張しデータ公開](../articles/2026-08-16-shinyhunters-carhartt-breach.md)
 - [2026-08-07 ShinyHunters、仏Questel SASを標的に – Salesforceから2,100万件超のレコードを窃取したと主張](../articles/2026-08-07-shinyhunters-questel-sas-breach.md)
+- [2026-08-07 ShinyHunters、医療機器メーカーLumenisも被害に – 110万件超のPII・176GB超の内部データ窃取を主張](../articles/2026-08-07-shinyhunters-lumenis-breach.md)

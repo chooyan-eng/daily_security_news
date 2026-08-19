@@ -13,15 +13,20 @@
 | [Chrome DevTools Protocol悪用セッションハイジャック手法（2026年）](./chrome-devtools-protocol-session-hijack-2026.md) | 2026-08-15 | 1件 |
 | [Beacon CRM データ侵害（2026年）](./beacon-crm-data-breach-2026.md) | 2026-08-15 | 1件 |
 | [Adobe 2026年8月定例セキュリティ更新](./adobe-patch-tuesday-august-2026.md) | 2026-08-15 | 2件 |
+| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-14 | 4件 |
+| [SAP Commerce Cloud CVE-2026-58231 重大脆弱性（2026年8月）](./sap-commerce-cloud-cve-2026-58231.md) | 2026-08-14 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-13 | 4件 |
 | [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-08-13 | 1件 |
+| [セゾンカードを騙るフィッシングメールキャンペーン（2026年）](./saison-card-3dsecure-phishing-2026.md) | 2026-08-13 | 1件 |
 | [北朝鮮リモートIT労働者による組織潜入問題（2026年）](./north-korea-it-worker-infiltration-2026.md) | 2026-08-13 | 1件 |
 | [Microsoft Patch Tuesday 2026年8月](./microsoft-patch-tuesday-august-2026.md) | 2026-08-13 | 1件 |
 | [Clopランサムウェアグループ、Philipsを新たな被害者として掲載（2026年8月）](./clop-ransomware-philips-2026.md) | 2026-08-13 | 1件 |
 | [Cisco Secure Firewall ASA/FTD CVE-2026-20349 積極的悪用（2026年8月）](./cisco-asa-ftd-cve-2026-20349.md) | 2026-08-13 | 1件 |
 | [中国系脅威アクターによる「準自律型」AIエージェント攻撃：台湾政府機関を標的（2026年7-8月）](./china-ai-agent-taiwan-attack-2026.md) | 2026-08-13 | 1件 |
 | [SpyNote×WindRelay：Android NFCリレー詐欺による銀行アプリ不正利用（2026年8月）](./android-spynote-windrelay-nfc-2026.md) | 2026-08-13 | 1件 |
+| [Androidバンキングマルウェアによるリアルタイム不正利用（2026年）](./android-banking-malware-realtime-fraud-2026.md) | 2026-08-13 | 1件 |
 | [Adobe Commerce / Magento CVE-2026-71362 アカウント乗っ取り脆弱性の積極的悪用（2026年8月）](./adobe-commerce-cve-2026-71362.md) | 2026-08-13 | 1件 |
+| [ヨネックス公式オンラインショップ 不正ログイン（2026年8月）](./yonex-ec-credential-stuffing-2026.md) | 2026-08-12 | 1件 |
 | [Windows AFD.sys ゼロデイ CVE-2026-68820・Lazarus悪用（2026年8月）](./windows-afd-sys-cve-2026-68820-lazarus.md) | 2026-08-12 | 1件 |
 | [Microsoft SharePoint CVE-2026-63520 RCE 脆弱性チェーン（2026年8月）](./sharepoint-cve-2026-63520-rce.md) | 2026-08-12 | 1件 |
 | [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-12 | 2件 |
@@ -30,7 +35,7 @@
 | [「New Audio MSG」偽装Google風フィッシングキャンペーン（2026年8月）](./google-themed-phishing-new-audio-msg-2026.md) | 2026-08-12 | 1件 |
 | [ショップサーブ不正アクセス事案（Eストアー、2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-12 | 3件 |
 | [ClickFix経由の新種RAT「CNCMachineRMS」配布キャンペーン（2026年8月）](./clickfix-cncmachinerms-rat-2026.md) | 2026-08-12 | 1件 |
-| [BdThemes WordPress プラグイン サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-12 | 2件 |
+| [BdThemes WordPressプラグイン サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-12 | 3件 |
 | [Adobe 2026年8月定例セキュリティ更新（ColdFusion・Campaign Classic）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-12 | 10件 |
 | [Zoom 「Zoomsday」アノテーション機能RCE脆弱性（2026年8月）](./zoom-zoomsday-cve-2026-53413.md) | 2026-08-11 | 1件 |
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-11 | 3件 |
@@ -38,6 +43,7 @@
 | [CEVA Logistics サプライチェーン侵害の連鎖（2026年8月）](./ceva-logistics-supply-chain-breach-2026.md) | 2026-08-11 | 2件 |
 | [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-11 | 1件 |
 | [Ryde 電動スクーターアプリ データ侵害（2026年8月）](./ryde-scooter-data-breach-2026.md) | 2026-08-10 | 1件 |
+| [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-10 | 1件 |
 | [LexisNexis サービス停止インシデント（2026年8月）](./lexisnexis-service-shutdown-2026.md) | 2026-08-10 | 1件 |
 | [Google Password Manager パスキー乗っ取り「Pass-ta-key」攻撃（2026年）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-10 | 2件 |
 | [FIS Global Clopランサムウェア侵害（2026年8月）](./fis-global-clop-ransomware-2026.md) | 2026-08-10 | 1件 |
@@ -45,7 +51,6 @@
 | [Atlassian Rovo プロンプトインジェクション・データ持ち出し脆弱性（2026年）](./atlassian-rovo-prompt-injection-2026.md) | 2026-08-09 | 1件 |
 | [WordPress CVE-2026-64638 未認証XSS（2026年8月）](./wordpress-cve-2026-64638-pre-auth-xss.md) | 2026-08-07 | 2件 |
 | [TrueBooker WordPress プラグイン認可バイパス（2026年8月）](./truebooker-wordpress-plugin-2026.md) | 2026-08-07 | 1件 |
-| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-07 | 2件 |
 | [Qilinランサムウェアグループ（2026年）](./qilin-freedom-claims-ransomware-2026.md) | 2026-08-07 | 1件 |
 | [NatJack – NAT実装の設計的脆弱性による攻撃クラス（2026年）](./natjack-nat-attack-class-2026.md) | 2026-08-07 | 1件 |
 | [Linux カーネル SCTPhantom CVE-2026-64564（2026年8月）](./linux-sctphantom-cve-2026-64564.md) | 2026-08-07 | 2件 |
