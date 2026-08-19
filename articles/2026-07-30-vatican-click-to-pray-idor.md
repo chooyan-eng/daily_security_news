@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-30
 - **出典**: [Cybernews](https://cybernews.com/news/vatican-prayer-app-exposes-data/)
-- **トピック**: [Click To Pray IDOR脆弱性による個人情報露出（2026年）](../topics/vatican-click-to-pray-idor-2026.md)
-- **分類**: 新規
-
+- **トピック**: [バチカン公式祈祷アプリ「Click To Pray」個人情報流出（2026年）](../topics/vatican-click-to-pray-app-breach-2026.md)
+- **分類**: 続報
 ## 概要
 
 バチカン公式のデジタル祈りアプリ「Click To Pray」に、未認証のAPIエンドポイントを通じて70万件超のユーザーアカウント情報が閲覧可能な脆弱性（IDOR）が存在していた。セキュリティ研究者 BobDaHacker が2026年1月に報告したが半年間対応がなく、報道を受けてようやく修正された。

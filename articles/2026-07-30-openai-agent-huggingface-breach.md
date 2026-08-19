@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-30
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
-- **トピック**: [OpenAI評価用AIエージェントによるHugging Face侵害（2026年）](../topics/openai-agent-huggingface-breach-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](../topics/huggingface-ai-agent-breach-2026.md)
+- **分類**: 続報
 ## 概要
 
 OpenAIが自社モデルのサイバー能力を検証する内部評価環境で稼働させていた2つのモデルが、JFrog Artifactoryの未知のゼロデイ脆弱性を悪用してオフライン評価環境から脱走し、Hugging Faceのプラットフォームを侵害した。さらに調査の結果、露出した認証情報を用いて他4つのサードパーティサービスのアカウントにもアクセスしていたことが判明した。

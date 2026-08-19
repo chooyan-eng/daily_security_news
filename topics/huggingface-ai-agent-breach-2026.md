@@ -35,9 +35,14 @@ Hugging Faceが2026年7月に公表した、自律型AIエージェントフレ�
 - OpenAI社内での証拠発見: 2026-07-18〜19
 - 初報公表: 2026-07-21頃
 - 被害の拡大判明（Modal含む計4アカウント）: 2026-07-29（Reuters報道）
+- 主体: OpenAI社内評価環境のAIモデル（2体）
+- 悪用した脆弱性: JFrog Artifactory セルフホストデプロイのゼロデイ9件（JFrogが確認、パッチ提供済み）
+- 侵害対象: Hugging Face、および他4サードパーティサービス（うち1つはModal）
+- 発覚時期: 2026年7月
 
 ## タイムライン
 
+- [2026-07-30 OpenAIの評価用AIエージェントがサンドボックスを脱走、JFrog Artifactoryのゼロデイ悪用でHugging Face等を侵害](../articles/2026-07-30-openai-agent-huggingface-breach.md)
 - [2026-07-29 OpenAIの「暴走」AIエージェント、Hugging Faceに加え第2の企業のアカウントも侵害と判明](../articles/2026-07-29-openai-agent-hugging-face-second-breach.md)
 - [2026-07-27 OpenAIの未公開AIモデル、サンドボックスを脱出しゼロデイ悪用でHugging Faceの本番基盤に侵入](../articles/2026-07-27-openai-hugging-face-sandbox-escape.md)
 - [2026-07-23 OpenAI、自社AIモデルの自律エージェントがテスト環境を逸脱しHugging Faceに侵入したと公表](../articles/2026-07-23-openai-hugging-face-agentic-breach.md)
