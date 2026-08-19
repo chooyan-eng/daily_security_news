@@ -3,9 +3,8 @@
 - **日付**: 2026-08-04
 - **出典**: [The Hacker News](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
 - **出典**: [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/)
-- **トピック**: [ChainDrop npmサプライチェーンワーム（2026年8月）](../topics/chaindrop-npm-supply-chain-worm-2026.md)
-- **分類**: 新規
-
+- **トピック**: [npm keyv/cacheable サプライチェーンワーム（2026年8月）](../topics/npm-keyv-cacheable-worm-2026.md)
+- **分類**: 続報
 ## 概要
 
 npmの人気パッケージ「keyv」「cacheable」およびその依存パッケージ群に対し、自己増殖型のクレデンシャル窃取ワーム「ChainDrop」による攻撃が発生した。攻撃はメンテナーのGitHubアカウント侵害を起点に、450以上のユニークなパッケージ・2,244件のアーティファクトへ拡散し、週間数千万ダウンロード規模のエコシステムに影響を与えた。

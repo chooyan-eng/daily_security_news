@@ -10,7 +10,15 @@
 - 侵入経路: メンテナーGitHubアカウント侵害
 - 標的: npm/GitHub/AWS/Vault/Kubernetes認証情報、暗号資産ウォレット
 - 拡散規模: 9組織・400以上のパッケージ名（2026年8月4日時点）
+- キャンペーン名: ChainDrop（別名 keyv-shai-hulud、Mini Shai-Hulud亜種を使用）
+- 起点: npmメンテナーのGitHubアカウント侵害
+- 影響パッケージ: keyv、cacheable等 約450種類、悪性バージョン約2,244件
+- 手口: npm preinstallフック → Bun難読化ペイロード → 認証情報窃取 → 自己拡散、Ethereumスマートコントラクト経由のC2デッドドロップ
+- 関連キャンペーン: Open VSX「Evil Twin」拡張機能77件（2026年7月26日〜8月1日アップロード、8月3日削除）
+- 悪用開始: 2026年8月4日UTC10:53頃
 
 ## タイムライン
 
+- [2026-08-05 Open VSXで「Evil Twin」型の悪性拡張機能77件を検出・削除、ChainDropキャンペーンの一部と判明](../articles/2026-08-05-openvsx-evil-twin-extensions.md)
 - [2026-08-04 npmサプライチェーンワーム、keyv/cacheable経由で数百パッケージに拡散し認証情報を窃取](../articles/2026-08-04-npm-keyv-cacheable-supply-chain-worm.md)
+- [2026-08-04 「ChainDrop」自己増殖型npmワーム、keyv・cacheable等450パッケージ・2,200超のバージョンに感染](../articles/2026-08-04-chaindrop-npm-worm.md)

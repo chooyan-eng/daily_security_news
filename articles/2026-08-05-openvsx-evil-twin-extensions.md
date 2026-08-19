@@ -3,7 +3,7 @@
 - **日付**: 2026-08-05
 - **出典**: [The Hacker News](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
-- **トピック**: [ChainDrop npmサプライチェーンワーム（2026年8月）](../topics/chaindrop-npm-supply-chain-worm-2026.md)
+- **トピック**: [npm keyv/cacheable サプライチェーンワーム（2026年8月）](../topics/npm-keyv-cacheable-worm-2026.md)
 - **分類**: 続報
 
 ## 概要

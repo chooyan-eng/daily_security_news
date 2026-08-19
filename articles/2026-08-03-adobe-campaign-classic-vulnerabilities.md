@@ -3,9 +3,8 @@
 - **日付**: 2026-08-03
 - **出典**: [The Hacker News](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
 - **出典**: [SecurityAffairs](https://securityaffairs.com/196429/security/adobe-fixed-a-maximum-severity-vulnerability-flaw-in-campaign-classic.html)
-- **トピック**: [Adobe Campaign Classic 重大脆弱性（2026年8月）](../topics/adobe-campaign-classic-vulnerabilities-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](../topics/adobe-coldfusion-campaign-classic-2026.md)
+- **分類**: 続報
 ## 概要
 
 Adobeはマーケティングオートメーション製品「Campaign Classic（ACC）」に対し、最優先度（Priority 1）のセキュリティアップデート「APSB26-120」を公開した。CVE-2026-48331（SSRF）、CVE-2026-48323（テンプレートエンジンインジェクション）、CVE-2026-48330（SQLインジェクション）の3件はいずれもCVSS 10.0の未認証・リモートから任意コード実行につながる脆弱性で、外部公開されたACC環境の早急なパッチ適用が求められている。
