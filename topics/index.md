@@ -6,17 +6,15 @@
 |----------|----------|--------|
 | [RevolutionParts データ漏洩事件（2026年）](./revolutionparts-data-breach-2026.md) | 2026-07-26 | 1件 |
 | [OnTrac 社内ネットワーク侵害によるデータ漏洩（2026年）](./ontrac-data-breach-2026.md) | 2026-07-26 | 1件 |
-| [LAUNDRY BEAR（Void Blizzard）Zimbraゼロクリック攻撃キャンペーン（CVE-2025-66376）](./laundrybear-zimbra-zeroclick-cve-2025-66376.md) | 2026-07-26 | 1件 |
+| [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](./laundry-bear-zimbra-cve-2025-66376.md) | 2026-07-26 | 3件 |
 | [GitLab Oj JSONパーサー認証済みRCEチェーン（2026年）](./gitlab-oj-jsonparser-rce-poc-2026.md) | 2026-07-26 | 1件 |
-| [Fastjson 1.x 未修正RCE脆弱性（CVE-2026-16723）](./fastjson-1x-unpatched-rce-cve-2026-16723.md) | 2026-07-26 | 1件 |
+| [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-26 | 2件 |
 | [Chick-fil-A ロイヤルティアプリ クレデンシャルスタッフィング被害（2026年）](./chickfila-credential-stuffing-2026.md) | 2026-07-26 | 1件 |
 | [Adobe Acrobat Chrome拡張機能 UXSS脆弱性「HermeticReader」（CVE-2026-48294）](./adobe-acrobat-extension-hermeticreader-cve-2026-48294.md) | 2026-07-26 | 1件 |
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-25 | 6件 |
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
-| [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](./laundry-bear-zimbra-cve-2025-66376.md) | 2026-07-25 | 2件 |
 | [GitLab Oj gem ヒープリーク連鎖RCE（2026年）](./gitlab-oj-heap-leak-rce-2026.md) | 2026-07-25 | 1件 |
-| [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-25 | 1件 |
 | [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 5件 |
 | [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-25 | 2件 |
 | [Certighost — AD CS ドメインコントローラーなりすまし脆弱性（CVE-2026-54121）](./certighost-cve-2026-54121-adcs.md) | 2026-07-25 | 1件 |
