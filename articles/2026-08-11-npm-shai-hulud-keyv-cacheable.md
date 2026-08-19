@@ -2,9 +2,8 @@
 
 - **日付**: 2026-08-11
 - **出典**: [Wiz Blog](https://www.wiz.io/blog/keyv-and-cacheable-npm-supply-chain-attack)
-- **トピック**: [npmサプライチェーン攻撃「Shai-Hulud」ワーム（2026年8月）](../topics/npm-shai-hulud-keyv-cacheable-2026.md)
-- **分類**: 新規
-
+- **トピック**: [npm keyv/cacheable サプライチェーンワーム（2026年8月）](../topics/npm-keyv-cacheable-worm-2026.md)
+- **分類**: 続報
 ## 概要
 
 npmレジストリの人気キャッシュ・キーバリューストレージ系パッケージ群（keyv、cacheable、flat-cache、file-entry-cache等）が、メンテナのGitHubアカウント侵害を起点としたサプライチェーン攻撃を受けた。悪意あるプリインストールフックが認証情報を窃取し自己増殖する「Shai-Hulud」ワームにより、月間ダウンロード数20億件超の規模で1,300超のパッケージバージョンが汚染された。

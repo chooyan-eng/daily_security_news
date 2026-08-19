@@ -6,19 +6,17 @@
 |----------|----------|--------|
 | [Zoom 「Zoomsday」アノテーション機能RCE脆弱性（2026年8月）](./zoom-zoomsday-cve-2026-53413.md) | 2026-08-11 | 1件 |
 | [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-11 | 1件 |
-| [npmサプライチェーン攻撃「Shai-Hulud」ワーム（2026年8月）](./npm-shai-hulud-keyv-cacheable-2026.md) | 2026-08-11 | 1件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-11 | 9件 |
 | [Metabase 認証不要SQLi ゼロデイ（CVSS 10.0）実悪用（2026年8月）](./metabase-sqli-zero-day-2026.md) | 2026-08-11 | 2件 |
-| [Progress Kemp LoadMaster CVE-2026-8037 プレ認証RCE（2026年）](./kemp-loadmaster-cve-2026-8037.md) | 2026-08-11 | 1件 |
+| [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-11 | 3件 |
 | [科学技術振興機構（JST）メール情報漏洩（2026年8月）](./jst-email-leak-2026.md) | 2026-08-11 | 1件 |
 | [CEVA Logistics 欧州事業侵害・大規模データ流出（2026年8月）](./ceva-logistics-breach-2026.md) | 2026-08-11 | 1件 |
 | [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-11 | 1件 |
 | [BdThemes WordPress サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-11 | 1件 |
 | [Ryde 電動スクーターアプリ データ侵害（2026年8月）](./ryde-scooter-data-breach-2026.md) | 2026-08-10 | 1件 |
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-10 | 8件 |
 | [N-able N-central 認証バイパス脆弱性 CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-10 | 7件 |
 | [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-10 | 2件 |
 | [LexisNexis サービス停止インシデント（2026年8月）](./lexisnexis-service-shutdown-2026.md) | 2026-08-10 | 1件 |
-| [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-10 | 2件 |
 | [Google Password Manager パスキー乗っ取り「Pass-ta-key」攻撃（2026年）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-10 | 2件 |
 | [FIS Global Clopランサムウェア侵害（2026年8月）](./fis-global-clop-ransomware-2026.md) | 2026-08-10 | 1件 |
 | [CSS属性セレクタ悪用によるWebメール攻撃チェーン（2026年）](./css-attacks-webmail-2026.md) | 2026-08-10 | 2件 |

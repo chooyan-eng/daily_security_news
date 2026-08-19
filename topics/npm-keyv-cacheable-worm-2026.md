@@ -42,9 +42,16 @@
 - 関連パッケージ: keyv, file-entry-cache, cache-manager, jaredwray/cacheable, jaredwray/ecto 等
 - 被害規模: 1,300以上のパッケージ、月間ダウンロード合計20億件超、2,000以上のアーティファクトを追跡（Socket, Microsoft）
 - 特徴: インストール実行せずともautostartフック経由で発動する可能性、インシデント対応時に発動する持続化機構
+- マルウェア名: Shai-Hulud（ワーム、認証情報窃取＋自己増殖）
+- 侵害起点: keyvメンテナのGitHubアカウント侵害
+- 影響パッケージ: keyv、cacheable、flat-cache、file-entry-cache等、汚染バージョン1,300超
+- 発覚日: 2026年8月4日
+- 手口: 悪意あるプリインストールフック（setup.mjs）→Bunランタイム経由の第2段階ペイロード→クラウド/CI認証情報窃取→他パッケージへの再感染
+- 規模: 影響パッケージの月間インストール数合計20億件超
 
 ## タイムライン
 
+- [2026-08-11 npmサプライチェーン攻撃「Shai-Hulud」ワーム — keyv/cacheable等1,300超のパッケージバージョンが汚染](../articles/2026-08-11-npm-shai-hulud-keyv-cacheable.md)
 - [2026-08-10 自己増殖型npmワーム「ChainDrop」が1,300以上のパッケージに感染、月間20億ダウンロード規模に拡大](../articles/2026-08-10-chaindrop-npm-supply-chain.md)
 - [2026-08-06 npmの人気キャッシュパッケージ keyv・cacheable がサプライチェーン攻撃で侵害、メンテナーアカウント乗っ取りから拡散](../articles/2026-08-06-npm-keyv-cacheable-mini-shai-hulud-2026.md)
 - [2026-08-05 Microsoft、自己拡散型 npm ワーム「ChainDrop」を分析 – 400超パッケージに感染拡大](../articles/2026-08-08-chaindrop-npm-worm-microsoft-analysis.md)
