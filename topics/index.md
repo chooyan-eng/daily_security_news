@@ -10,7 +10,7 @@
 | [Odido（オランダ通信大手）不正アクセス事件（2026年）](./odido-breach-2026.md) | 2026-07-11 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-07-11 | 4件 |
 | [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-2026.md) | 2026-07-11 | 1件 |
-| [Gitea Docker認証バイパス脆弱性 CVE-2026-20896（2026年）](./gitea-docker-cve-2026-20896-2026.md) | 2026-07-11 | 1件 |
+| [Gitea Docker CVE-2026-20896 認証バイパス脆弱性（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-11 | 3件 |
 | [Bad Epoll Linuxカーネル脆弱性 CVE-2026-46242（2026年）](./bad-epoll-cve-2026-46242-android.md) | 2026-07-11 | 1件 |
 | [Accenture 侵害・ソースコード流出事件（2026年7月）](./accenture-breach-2026.md) | 2026-07-11 | 2件 |
 | [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-vulnerability-2026.md) | 2026-07-10 | 1件 |
@@ -29,7 +29,6 @@
 | [JadePuffer — LLMエージェント駆動型自律ランサムウェア（2026年）](./jadepuffer-agentic-ransomware-2026.md) | 2026-07-08 | 5件 |
 | [Injective SDK npmサプライチェーン攻撃（2026年7月）](./injective-sdk-npm-supply-chain-2026.md) | 2026-07-08 | 1件 |
 | [GitHub Agentic Workflows「GitLost」プロンプトインジェクション脆弱性（2026年7月）](./github-gitlost-prompt-injection-2026.md) | 2026-07-08 | 1件 |
-| [Gitea Docker CVE-2026-20896 認証バイパス脆弱性（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-08 | 2件 |
 | [Claude Code RCE・APIキー窃取脆弱性（CVE-2025-59536/CVE-2026-21852）](./claude-code-rce-cve-2025-59536.md) | 2026-07-08 | 2件 |
 | [Citrix NetScaler CVE-2026-8451 SAMLメモリ漏洩「CitrixBleed」再来（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-08 | 6件 |
 | [AssuranceAmerica データ侵害（2026年）](./assuranceamerica-breach-2026.md) | 2026-07-08 | 1件 |
