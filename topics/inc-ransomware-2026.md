@@ -16,5 +16,6 @@
 
 ## タイムライン
 
+- [2026-08-04 INC Ransomware、SonicWall SMA1000ゼロデイ悪用で活動を加速](../articles/2026-08-04-inc-ransomware-sonicwall-sma1000.md)
 - [2026-06-24 INC Ransomware、資産運用会社 Belpointe Asset Management を標的に新規侵害](../articles/2026-06-24-inc-ransomware-belpointe-breach.md)
 - [2026-06-19 INC Ransomware - 創設から830+被害組織で2026年最大級のRaaSグループに成長](../articles/2026-06-19-inc-ransomware-830-victims-raas.md)
