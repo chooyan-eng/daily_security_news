@@ -2,7 +2,7 @@
 
 ## 概要
 
-DragonForce は 2023年後半から活動を活発化させたランサムウェア・アズ・ア・サービス（RaaS）グループ。二重恐喝（暗号化＋データ公開脅迫）を採用し、2025〜2026年にかけて教育・医療・製造・金融など多様なセクターをグローバルに標的にしている。2026年6月には、インドの名門工科大学 BITS Pilani への侵害を主張するなど、アジア太平洋地域の教育機関への攻撃を増加させている。2026年7月には豪州の建機レンタル大手 Access Group International（Access Equipment Hire）への侵害を主張し、標的地域がオセアニアにも拡大している。
+DragonForce は 2023年後半から活動を活発化させたランサムウェア・アズ・ア・サービス（RaaS）グループ。二重恐喝（暗号化＋データ公開脅迫）を採用し、2025〜2026年にかけて教育・医療・製造・金融など多様なセクターをグローバルに標的にしている。2026年6月には、インドの名門工科大学 BITS Pilani への侵害を主張するなど、アジア太平洋地域の教育機関への攻撃を増加させている。
 
 **同一性の判断に役立つ情報：**
 - グループ名: DragonForce
@@ -14,5 +14,6 @@ DragonForce は 2023年後半から活動を活発化させたランサムウェ
 
 ## タイムライン
 
+- [2026-07-14 DragonForce、中国自動運転大手Momentaへの侵害を主張、ソースコード等流出か](../articles/2026-07-15-momenta-dragonforce-breach.md)
 - [2026-07-12 DragonForce ランサムウェア、豪州の建設機械レンタル大手 Access Group International を侵害](../articles/2026-07-12-dragonforce-access-group-breach.md)
 - [2026-06-24 DragonForce ランサムウェア、インド名門工科大学 BITS Pilani に侵害を主張](../articles/2026-06-24-dragonforce-bits-pilani-breach.md)
