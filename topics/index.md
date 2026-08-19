@@ -7,15 +7,13 @@
 | [TP-Link Omada ZTP 脆弱性群（2026年8月）](./tp-link-omada-ztp-vulnerabilities-2026.md) | 2026-08-06 | 1件 |
 | [Samsung Members/Account エクスプロイトチェーン（Bixby悪用）](./samsung-members-account-bixby-exploit-chain-2026.md) | 2026-08-06 | 1件 |
 | [Sakura Mobile 不正アクセス事案（2026年）](./sakura-mobile-unauthorized-access-2026.md) | 2026-08-06 | 1件 |
-| [npm keyv/cacheable サプライチェーン攻撃「Mini Shai-Hulud」（2026年8月）](./npm-keyv-cacheable-mini-shai-hulud-2026.md) | 2026-08-06 | 1件 |
-| [N-able N-central 認証バイパス脆弱性 悪用キャンペーン（2026年8月）](./n-able-n-central-cve-2026-18577-auth-bypass.md) | 2026-08-06 | 1件 |
+| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-06 | 4件 |
+| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-06 | 4件 |
 | [リヒテンシュタイン実質的所有者登録簿 不正アクセス事案（2026年）](./liechtenstein-beneficial-owner-register-breach-2026.md) | 2026-08-06 | 1件 |
 | [ジョンズ・ホプキンス大学 myJH偽装フィッシングキャンペーン（2026年8月）](./johns-hopkins-myjh-phishing-2026.md) | 2026-08-06 | 1件 |
 | [Pass-ta-key攻撃 Google同期パスキー ハイジャック（2026年8月）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-06 | 1件 |
 | [DentaQuest データ漏洩事件（ShinyHunters、2026年）](./dentaquest-data-breach-2026.md) | 2026-08-06 | 1件 |
 | [AI自律型ハッキングキャンペーン「Hermes Agent」（2026年8月）](./ai-agent-hacking-campaign-langflow-tomcat-2026.md) | 2026-08-06 | 1件 |
-| [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-05 | 3件 |
-| [N-able N-central 認証バイパス CVE-2026-18577（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-05 | 3件 |
 | [共同通信社 業務メール環境への不正アクセス（2026年8月）](./kyodo-news-unauthorized-access-2026.md) | 2026-08-05 | 1件 |
 | [SplitVPN（旧NotVPN）データ侵害（2026年）](./splitvpn-notvpn-breach-2026.md) | 2026-08-04 | 1件 |
 | [Rails Active Storage CVE-2026-66066（KindaRails2Shell、2026年）](./rails-active-storage-cve-2026-66066.md) | 2026-08-04 | 6件 |
