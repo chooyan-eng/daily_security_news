@@ -2,9 +2,8 @@
 
 - **日付**: 2026-07-17
 - **出典**: [The Hacker News](https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html) / [Koi Security](https://www.koi.ai/blog/shadowprompt-how-any-website-could-have-hijacked-anthropic-claude-chrome-extension)
-- **トピック**: [Claude for Chrome拡張機能 ShadowPrompt脆弱性（2026年）](../topics/claude-chrome-extension-shadowprompt-2026.md)
-- **分類**: 新規
-
+- **トピック**: [Claude for Chrome ClaudeBleed脆弱性（2026年）](../topics/claude-for-chrome-claudebleed-2026.md)
+- **分類**: 続報
 ## 概要
 
 Anthropicのブラウザ拡張機能「Claude for Chrome」に、他の悪意あるブラウザ拡張機能が承認クリックを偽造できる脆弱性が発見された。研究者らは「ShadowPrompt」と命名している。Claudeのクリックハンドラがブラウザの`event.isTrusted`プロパティを検証していないため、悪意ある拡張機能が合成クリックを生成し、Claudeに事前定義されたブラウザ操作（Gmail・Google Docs・Calendarの読み取りなど）を承認済みとして実行させることが可能。2026年5月の報告から8リリース後の最新版（v1.0.80、7月7日リリース）でも未修正のままとなっている。

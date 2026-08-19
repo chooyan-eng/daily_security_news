@@ -12,7 +12,7 @@
 | [Microsoft SharePoint／AD FS ゼロデイ悪用（CVE-2026-56164・CVE-2026-56155、2026年7月）](./microsoft-sharepoint-adfs-cve-2026-56164.md) | 2026-07-17 | 1件 |
 | [Ernst & Young（EY）ITサポートシステム侵害（2026年）](./ernst-young-data-breach-2026.md) | 2026-07-17 | 1件 |
 | [コカ・コーラ Fairlife ランサムウェア攻撃（2026年7月）](./coca-cola-fairlife-ransomware-2026.md) | 2026-07-17 | 1件 |
-| [Claude for Chrome拡張機能 ShadowPrompt脆弱性（2026年）](./claude-chrome-extension-shadowprompt-2026.md) | 2026-07-17 | 1件 |
+| [Claude for Chrome ClaudeBleed脆弱性（2026年）](./claude-for-chrome-claudebleed-2026.md) | 2026-07-17 | 2件 |
 | [@asyncapi npmサプライチェーン攻撃（2026年7月）](./asyncapi-npm-supply-chain-2026.md) | 2026-07-17 | 1件 |
 | [The Gentlemen（Storm-2697）ランサムウェアグループ・国内医薬品卸への攻撃（2026年）](./the-gentlemen-storm-2697-ransomware-2026.md) | 2026-07-16 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-16 | 5件 |
@@ -21,7 +21,6 @@
 | [Media Land / ML.Cloud バレットプルーフホスティング起訴（2026年7月）](./media-land-bulletproof-hosting-indictment-2026.md) | 2026-07-16 | 1件 |
 | [Firefox・Chrome 複数重大脆弱性（2026年7月）](./firefox-chrome-critical-vulnerabilities-2026.md) | 2026-07-16 | 1件 |
 | [D1R グループによるSynopsys・Bosch侵害主張（2026年7月）](./d1r-synopsys-bosch-claim-2026.md) | 2026-07-16 | 2件 |
-| [Claude for Chrome ClaudeBleed脆弱性（2026年）](./claude-for-chrome-claudebleed-2026.md) | 2026-07-16 | 1件 |
 | [UEFIシムによるSecure Bootバイパス（CVE-2026-8863/CVE-2026-10797）](./uefi-secure-boot-bypass-shims-2026.md) | 2026-07-14 | 1件 |
 | [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-14 | 3件 |
 | [日本交通 マルウェア感染・不正アクセスによるシステム停止（2026年7月）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-14 | 1件 |
