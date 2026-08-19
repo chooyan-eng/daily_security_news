@@ -9,7 +9,7 @@
 | [関市 Webアンケートフォーム個人情報閲覧可能事案（2026年7月）](./seki-city-survey-form-leak-2026.md) | 2026-07-24 | 1件 |
 | [佐川急便「スマートクラブ」個人情報漏えい（2026年7月）](./sagawa-smartclub-leak-2026.md) | 2026-07-24 | 1件 |
 | [Origin Energy 顧客データ侵害（2026年7月）](./origin-energy-data-breach-2026.md) | 2026-07-24 | 1件 |
-| [日本交通（JapanTaxi）不正アクセス・マルウェア感染事案（2026年7月）](./nihon-kotsu-malware-unauthorized-access-2026.md) | 2026-07-24 | 1件 |
+| [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-24 | 3件 |
 | [Laundry Bear（Void Blizzard）Zimbra ゼロクリック攻撃キャンペーン（2025-2026年）](./laundry-bear-zimbra-cve-2025-66376.md) | 2026-07-24 | 1件 |
 | [Check Point SmartConsole 認証バイパス CVE-2026-16232（2026年7月）](./checkpoint-smartconsole-cve-2026-16232.md) | 2026-07-24 | 1件 |
 | [Bing画像検索 SVGコマンドインジェクションRCE（CVE-2026-32194/32191）](./bing-images-svg-rce-2026.md) | 2026-07-24 | 1件 |
@@ -46,7 +46,6 @@
 | [SharePoint CVE-2026-58644 未認証デシリアライゼーションRCE（2026年7月）](./sharepoint-cve-2026-58644-2026.md) | 2026-07-19 | 2件 |
 | [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-07-19 | 5件 |
 | [OpenSSL HollowByte メモリ枯渇 DoS 脆弱性（2026年）](./openssl-hollowbyte-dos-2026.md) | 2026-07-19 | 2件 |
-| [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-19 | 2件 |
 | [メディア4u SMS配信基盤 不正アクセス（2026年）](./media4u-sms-breach-2026.md) | 2026-07-19 | 1件 |
 | [Ernst & Young（EY）第三者 IT サポート基盤侵害（2026年）](./ey-data-breach-2026.md) | 2026-07-19 | 1件 |
 | [Ecopetrol サイバー攻撃・クラウドストレージ侵害（2026年7月）](./ecopetrol-cyberattack-2026.md) | 2026-07-19 | 1件 |
