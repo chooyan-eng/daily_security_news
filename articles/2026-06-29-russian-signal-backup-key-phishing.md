@@ -2,9 +2,8 @@
 
 - **日付**: 2026-06-29
 - **出典**: [BleepingComputer](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/) / [The Hacker News](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html) / [FBI IC3 Advisory](https://www.fbi.gov/investigate/cyber/alerts/2026/russian-intelligence-services-continue-to-target-commercial-messaging-applications) / [GlobalSecurity.org SSU発表](https://www.globalsecurity.org/intell/library/news/2026/intell-260625-ukraine-ssu01.htm)
-- **トピック**: [ロシア諜報機関によるSignal・メッセージングアプリ大規模スパイキャンペーン（2026年）](../topics/russian-signal-backup-phishing-2026.md)
-- **分類**: 新規
-
+- **トピック**: [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](../topics/fbi-signal-russian-backup-key-2026.md)
+- **分類**: 続報
 ## 概要
 
 米FBI・ウクライナSBU（保安局）は6月25〜27日にかけて合同で、ロシア連邦保安局（FSB）を含む複数のロシア諜報機関が欧米・ウクライナの政府関係者・軍人・政治家・ジャーナリストを標的に Signal などのメッセージングアプリを侵害する大規模キャンペーンを実施していると警告した。最新の手口では Signal の「バックアップリカバリーキー」を詐取することで、端末を持たなくてもメッセージ履歴全体へのアクセスが可能になる。

@@ -31,9 +31,25 @@
 - 影響OS: Linux（Debian, Ubuntu, Fedora 等）
 - 前提条件: ローカルユーザー権限 + ドメインネームスペース（デフォルト設定）
 - パッチ: Linux v7.1-rc5（コミット 48f6a5356a33、2026年5月24日）
+- 通称: DirtyClone
+- CVSSスコア: 8.8（High）
+- 脆弱性ファミリー: DirtyFrag（DirtyFrag、Fragnesia、DirtyClone）
+- PoC公開: JFrog Security Research（2026年6月25日）
+- 影響ディストリビューション: Debian、Ubuntu、Fedora（デフォルト設定で確認済み）
+- 修正済みカーネル: v7.1-rc5（コミット 9e171fc1d7d7）
+- 緩和策: CAP_NET_ADMIN ブロック、esp4/esp6/rxrpc モジュールのブラックリスト登録
+- CVE: CVE-2026-46331
+- 通称: pedit COW
+- 対象コンポーネント: Linux tc サブシステムの `act_pedit` アクション
+- 公開エクスプロイト名: packet_edit_meme（2026年6月17日登場）
+- 影響ディストリビューション: RHEL 8/9/10、Debian 11/12/13、Ubuntu 18.04〜26.04
+- 修正方法: ベンダー提供の修正済みカーネルを適用後リブート
+- 必要な権限: 非特権ユーザー名前空間内の CAP_NET_ADMIN（デフォルト設定で取得可能）
 
 ## タイムライン
 
+- [2026-06-29 Linux CVE-2026-46331 pedit COW — tc サブシステムの OOB 書き込みで非特権ユーザーがroot昇格](../articles/2026-06-29-linux-pedit-cow-cve-2026-46331.md)
+- [2026-06-29 Linux CVE-2026-43503 DirtyClone — JFrogがPoCを公開、DirtyFrag系列の新たな権限昇格脆弱性](../articles/2026-06-29-linux-dirtyclone-cve-2026-43503.md)
 - [2026-06-27 DirtyClone（CVE-2026-43503）：Linuxカーネルの特権昇格、痕跡なしでルート奪取のPoC公開](../articles/2026-06-28-dirtyclone-linux-cve-2026-43503.md)
 - [2026-06-27 Linux CVE-2026-46331「pedit COW」：ネットワーク制御サブシステムのpage cacheメモリ破壊によるroot権限昇格](../articles/2026-06-27-linux-cve-2026-46331-pedit-cow-lpe.md)
 - [2026-06-27 DirtyClone（CVE-2026-43503）：JFrogがLinuxカーネルソケットバッファLPEのエクスプロイト解析を公開](../articles/2026-06-27-linux-cve-2026-43503-dirtyclone-lpe.md)
