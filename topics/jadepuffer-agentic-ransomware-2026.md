@@ -28,9 +28,17 @@ Sysdigが報告した、LLMエージェントが人間の介入なしに偵察�
 - 初期侵入脆弱性: CVE-2025-3248（Langflow 未認証RCE）
 - 永続化手法: cronジョブによる30分間隔ビーコン
 - 被害: Nacosサービス設定1,342件を暗号化・原本削除
+- 名称: JadePuffer
+- 報告元: Sysdig 脅威リサーチチーム
+- 初期侵入経路: Langflow 未認証RCE脆弱性 CVE-2025-3248
+- 横展開先: Alibaba Nacos上のMySQLサーバー
+- 攻撃工程: 偵察・認証情報窃取・横展開・永続化・権限昇格・暗号化を全てAIエージェントが自律実行
+- 分類概念: エージェント型脅威アクター（Agentic Threat Actor, ATA）
+- 報告日: 2026年7月1日（各社報道は7月7日前後まで継続）
 
 ## タイムライン
 
+- [2026-07-08 「JadePuffer」— 初のAIエージェント完全主導型ランサムウェア攻撃をSysdigが確認](../articles/2026-07-08-jadepuffer-ai-agentic-ransomware.md)
 - [2026-07-07 「JadePuffer」— AIエージェントが自律的に実行した初のランサムウェア攻撃、Langflow脆弱性を悪用](../articles/2026-07-07-jadepuffer-agentic-ransomware-langflow.md)
 - [2026-07-06 JadePuffer：AIエージェントが全工程を自律実行した初のランサムウェア攻撃事例](../articles/2026-07-06-jadepuffer-ai-agentic-ransomware.md)
 - [2026-07-05 JADEPUFFER：自律型AIエージェントによる初のランサムウェア攻撃をSysdigが確認](../articles/2026-07-05-jadepuffer-agentic-ransomware-langflow.md)
