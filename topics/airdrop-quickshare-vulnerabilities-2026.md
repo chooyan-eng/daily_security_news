@@ -1,10 +1,16 @@
-# AirDrop・Quick Share 近接無線共有プロトコル脆弱性（2026年）
+# AirDrop・Quick Share 近接ファイル共有プロトコル脆弱性（2026年）
 
 ## 概要
 
-CISPAヘルムホルツ情報セキュリティセンターの研究者が発見した、AppleのAirDropおよびGoogle/SamsungのQuick Shareにおける6件の脆弱性群。macOS・iOS・Android・Windowsにまたがり、AirDrop側3件のサービスクラッシュ（DoS）系脆弱性、Quick Share側2件のハンドシェイクバイパス、1件のuse-after-free（RCEにつながる可能性）から成る。無線圏内の攻撃者が事前接続やタップ操作なしに攻撃可能。影響を受けるデバイス規模は合計50億台規模とされる。
+Apple AirDropとGoogle/Samsung Quick Shareの近接無線ファイル共有プロトコルに合計6件の脆弱性が発見された事案。3件はAirDropのバックグラウンドサービス「sharingd」をクラッシュさせるもの（AirPlay・Handoff・Universal Clipboard・Continuity Camera・NameDropも道連れで停止）、2件はQuick Shareのハンドシェイクをバイパスするもの。攻撃者は対象の10〜30メートル圏内にいるだけで攻撃可能で、世界で約50億台のデバイスが影響対象。
 
 **同一性の判断に役立つ情報：**
+- 対象プロトコル: Apple AirDrop（sharingdサービス）、Google/Samsung Quick Share
+- 脆弱性件数: 6件（AirDrop 3件・Quick Share 2件）
+- 攻撃距離: 約10〜30メートル
+- 影響範囲: 約50億台のiPhone・Android端末
+- 影響サービス: AirPlay、Handoff、Universal Clipboard、Continuity Camera、NameDrop（sharingd経由で連鎖停止）
+- パッチ状況: Apple側1件パッチ済み・CVE未公開、残り2件協調開示中／Google側コード修正済み・CVE未確定
 - 発見者: CISPAヘルムホルツ情報セキュリティセンター研究者
 - 対象プロトコル: Apple AirDrop（macOS/iOS）、Google/Samsung Quick Share（Android/Windows）
 - 脆弱性件数: 6件（AirDrop側3件のDoS、Quick Share側2件のハンドシェイクバイパス、1件のuse-after-free）
@@ -20,5 +26,6 @@ CISPAヘルムホルツ情報セキュリティセンターの研究者が発見
 
 ## タイムライン
 
+- [2026-07-06 AirDropとAndroid Quick Shareに6件の脆弱性 – 近接する攻撃者が数十億台のデバイスをクラッシュ・改ざん可能](../articles/2026-07-06-airdrop-quickshare-vulnerabilities.md)
 - [2026-07-04 AirDropとQuick Shareに6件の脆弱性、50億台規模のデバイスに影響——近接した攻撃者が無許可でクラッシュを誘発](../articles/2026-07-04-airdrop-quickshare-vulnerabilities.md)
 - [2026-06-30 AirDropとQuick Shareに複数の脆弱性、近接攻撃者がクラッシュやチェック回避を実行可能](../articles/2026-06-30-airdrop-quickshare-vulnerabilities.md)

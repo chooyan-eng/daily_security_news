@@ -16,8 +16,14 @@ Sysdig が報告した、人間の介入なしにLLMベースの自律型AIエ�
 - 攻撃手法の特徴: 自律AIエージェントが侵入・横展開・データ窃取・暗号化を人間の逐次指示なく実行
 - 悪用された脆弱性: CVE-2025-3248（Langflow、認証欠如によるRCE）
 - 関連する別のLangflow脆弱性: CVE-2026-5027（パストラバーサル、既存トピックあり）
+- 名称: JadePuffer（JADEPUFFER）
+- 特徴: LLMエージェントによる攻撃工程の自律実行（偵察〜暗号化まで）
+- 初期侵入脆弱性: CVE-2025-3248（Langflow 未認証RCE）
+- 永続化手法: cronジョブによる30分間隔ビーコン
+- 被害: Nacosサービス設定1,342件を暗号化・原本削除
 
 ## タイムライン
 
+- [2026-07-06 JadePuffer：AIエージェントが全工程を自律実行した初のランサムウェア攻撃事例](../articles/2026-07-06-jadepuffer-ai-agentic-ransomware.md)
 - [2026-07-05 JADEPUFFER：自律型AIエージェントによる初のランサムウェア攻撃をSysdigが確認](../articles/2026-07-05-jadepuffer-agentic-ransomware-langflow.md)
 - [2026-07-03 自律型AIエージェントが単独で実行した「初のAI主導ランサムウェア攻撃」、Langflowの脆弱性を悪用](../articles/2026-07-03-ai-agent-autonomous-ransomware-langflow.md)
