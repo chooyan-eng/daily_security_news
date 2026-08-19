@@ -11,13 +11,12 @@
 | [Citrix NetScaler CVE-2026-8451 SAMLメモリ漏洩「CitrixBleed」再来（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-07-07 | 5件 |
 | [Azure CLI パスワードスプレーキャンペーン「LSHIY」（2026年）](./azure-cli-password-spray-lshiy-2026.md) | 2026-07-07 | 4件 |
 | [AI生成ブラウザ内完結型ランサムウェア（Chromium File System Access API悪用、2026年）](./ai-browser-ransomware-chromium-2026.md) | 2026-07-07 | 1件 |
-| [Adobe ColdFusion CVE-2026-48282 パストラバーサルRCE（2026年7月）](./adobe-coldfusion-cve-2026-48282.md) | 2026-07-07 | 1件 |
+| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-07 | 3件 |
 | [AdaptHealth ソーシャルエンジニアリング侵害（2026年6月）](./adapthealth-breach-2026.md) | 2026-07-07 | 1件 |
 | [Oracle E-Business Suite CVE-2026-46817 未認証RCE（2026年）](./oracle-ebs-cve-2026-46817.md) | 2026-07-06 | 3件 |
 | [Operation DragonReturn – 中国系脅威アクターによるインド税務インフラ標的キャンペーン（2026年）](./operation-dragonreturn-china-india-2026.md) | 2026-07-06 | 1件 |
 | [Gitea Docker版 認証バイパス脆弱性 CVE-2026-20896（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-06 | 1件 |
 | [AirDrop・Quick Share 近接ファイル共有プロトコル脆弱性（2026年）](./airdrop-quickshare-vulnerabilities-2026.md) | 2026-07-06 | 3件 |
-| [Adobe ColdFusion / Campaign Classic 重大脆弱性（2026年7月）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-07-06 | 2件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-05 | 3件 |
 | [Microsoft Defender BlueHammer 特権昇格脆弱性（CVE-2026-33825）](./microsoft-defender-bluehammer-cve-2026-33825.md) | 2026-07-05 | 1件 |
 | [メール配信システム「める配くん」不正アクセス（2026年6月）](./meruhaikun-email-delivery-breach-2026.md) | 2026-07-05 | 1件 |
