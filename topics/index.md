@@ -4,14 +4,20 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [The Gentlemen（Storm-2697）ランサムウェアグループ・国内医薬品卸への攻撃（2026年）](./the-gentlemen-storm-2697-ransomware-2026.md) | 2026-07-16 | 1件 |
+| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-16 | 5件 |
+| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-16 | 2件 |
+| [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-07-16 | 4件 |
+| [Microsoft Patch Tuesday 2026年7月](./microsoft-patch-tuesday-july-2026.md) | 2026-07-16 | 2件 |
+| [Media Land / ML.Cloud バレットプルーフホスティング起訴（2026年7月）](./media-land-bulletproof-hosting-indictment-2026.md) | 2026-07-16 | 1件 |
+| [Firefox・Chrome 複数重大脆弱性（2026年7月）](./firefox-chrome-critical-vulnerabilities-2026.md) | 2026-07-16 | 1件 |
+| [D1R グループによるSynopsys・Bosch侵害主張（2026年7月）](./d1r-synopsys-bosch-claim-2026.md) | 2026-07-16 | 2件 |
+| [Claude for Chrome ClaudeBleed脆弱性（2026年）](./claude-for-chrome-claudebleed-2026.md) | 2026-07-16 | 1件 |
 | [UEFIシムによるSecure Bootバイパス（CVE-2026-8863/CVE-2026-10797）](./uefi-secure-boot-bypass-shims-2026.md) | 2026-07-14 | 1件 |
-| [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-14 | 1件 |
-| [Red Hat npmサプライチェーン攻撃（Miasma）](./redhat-npm-supply-chain-miasma.md) | 2026-07-14 | 3件 |
 | [Progress ShareFile Storage Zone Controllers 緊急セキュリティ脅威（2026年7月）](./progress-sharefile-storage-zone-controllers-2026.md) | 2026-07-14 | 3件 |
 | [日本交通 マルウェア感染・不正アクセスによるシステム停止（2026年7月）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-14 | 1件 |
 | [ニチレイ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-14 | 2件 |
 | [miniOrange WordPress OAuth SSO プラグイン 認証バイパス（CVE-2026-57807）](./miniorange-wordpress-oauth-sso-cve-2026-57807.md) | 2026-07-14 | 1件 |
-| [Microsoft Patch Tuesday 2026年7月](./microsoft-patch-tuesday-july-2026.md) | 2026-07-14 | 1件 |
 | [Lidl 通販サイト第三者ベンダー経由データ侵害（2026年7月）](./lidl-online-shop-breach-2026.md) | 2026-07-14 | 1件 |
 | [ブラウザ拡張型暗号資産ウォレットのプライバシー漏洩問題（2026年）](./ku-leuven-crypto-wallet-privacy-2026.md) | 2026-07-14 | 1件 |
 | [jscrambler npm サプライチェーン攻撃 - Rust製インフォスティーラー混入（2026年7月）](./jscrambler-npm-supply-chain-2026.md) | 2026-07-14 | 1件 |
@@ -19,7 +25,6 @@
 | [ファブリカホールディングス メディア4u 不正アクセス（2026年7月）](./fabrica-holdings-media4u-breach-2026.md) | 2026-07-14 | 1件 |
 | [DragonForce ランサムウェアグループ（2026年）](./dragonforce-ransomware-2026.md) | 2026-07-14 | 3件 |
 | [DHS Homeland Security Information Network（HSIN）侵害（2026年5-7月）](./dhs-hsin-breach-2026.md) | 2026-07-14 | 5件 |
-| [D1R グループによるSynopsys・Bosch侵害主張（2026年7月）](./d1r-synopsys-bosch-claim-2026.md) | 2026-07-14 | 1件 |
 | [AssuranceAmerica 従業員アカウント侵害によるデータ侵害（2026年3月発生・7月通知）](./assuranceamerica-breach-2026.md) | 2026-07-14 | 2件 |
 | [Samsung 2026年7月セキュリティパッチ](./samsung-july-2026-security-patch.md) | 2026-07-13 | 1件 |
 | [UNK_MassTraction Roundcube悪用キャンペーン（2026年）](./roundcube-unk-masstraction-2026.md) | 2026-07-13 | 2件 |
@@ -36,7 +41,6 @@
 | [npmサプライチェーン攻撃・暗号資産ウォレット窃取（2026年7月）](./npm-supply-chain-crypto-wallet-2026.md) | 2026-07-12 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-07-12 | 5件 |
 | [Accenture データ侵害・ソースコード窃取主張（2026年7月）](./accenture-breach-source-code-2026.md) | 2026-07-12 | 1件 |
-| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-07-11 | 4件 |
 | [Odido（オランダ通信大手）不正アクセス事件（2026年）](./odido-breach-2026.md) | 2026-07-11 | 1件 |
 | [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-vulnerability-2026.md) | 2026-07-11 | 2件 |
 | [Bad Epoll Linuxカーネル脆弱性 CVE-2026-46242（2026年）](./bad-epoll-cve-2026-46242-android.md) | 2026-07-11 | 1件 |
