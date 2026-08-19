@@ -16,4 +16,5 @@
 
 ## タイムライン
 
+- [2026-06-26 Operation Endgame 続報：326台サーバー・142ドメイン押収、€41M 暗号資産凍結の全容判明](../articles/2026-06-26-operation-endgame-full-scope-june-2026.md)
 - [2026-06-24 Operation Endgame フェーズ2：StealC・Amadey・SocGholish マルウェアネットワーク解体](../articles/2026-06-25-operation-endgame-stealc-amadey.md)
