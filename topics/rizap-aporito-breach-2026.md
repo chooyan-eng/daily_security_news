@@ -18,8 +18,10 @@ RIZAPグループが運営するECサイト「APORITOオンラインストア」
 - 攻撃手法: 不正スクリプト設置によるカード情報窃取（Webスキミング）
 - 対象期間: 2026年5月1日〜8月5日の利用者
 - 流出情報: 氏名・住所・電話番号・メールアドレス、カード番号・有効期限・セキュリティコード
+- REXT株式会社（同グループ）ランサムウェア被害の詳細: 2026年8月9日に被害確認。影響店舗は WonderGOO、WonderREX、新星堂、HAPiNS、JEANS MATE。臨時休業、営業時間変更、キャッシュレス決済の利用制限、買い取り受付・査定の停止が発生
 
 ## タイムライン
 
+- [2026-08-20 RIZAPグループ REXT へのランサムウェア攻撃、ジーンズメイト等の店舗運営に影響 ― APORITO事案と併せ続報](../articles/2026-08-20-rext-ransomware-rizap-aporito-outage.md)
 - [2026-08-17 RIZAP運営のECサイト「APORITO」に不正アクセス、カード情報含む個人情報流出の可能性](../articles/2026-08-17-rizap-aporito-ec-breach.md)
 - [2026-08-10 RIZAP運営「APORITOオンラインストア」に不正スクリプト設置、クレジットカード情報流出の可能性](../articles/2026-08-16-rizap-aporito-card-breach.md)
