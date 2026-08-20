@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-08-19 | 1件 |
+| [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-08-19 | 6件 |
+| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-19 | 2件 |
+| [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-19 | 2件 |
+| [VOISING BIツール不正アクセス事案（2026年8月）](./voising-bi-tool-breach-2026.md) | 2026-08-18 | 1件 |
+| [Forminator WordPressプラグイン CVE-2026-15748（2026年8月）](./forminator-wordpress-cve-2026-15748.md) | 2026-08-18 | 1件 |
+| [Stripe加盟店APIキー流出事案（2026年8月）](./stripe-vendor-api-key-leak-2026.md) | 2026-08-18 | 1件 |
+| [Apple ImageIOフレームワーク脆弱性 CVE-2026-65346（2026年8月）](./apple-imageio-cve-2026-65346.md) | 2026-08-18 | 1件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-18 | 5件 |
 | [SafePal 注文追跡システム データ侵害（2026年）](./safepal-data-breach-2026.md) | 2026-08-18 | 1件 |
 | [Ray フレームワーク CVE-2025-62593 悪用（2026年）](./ray-cve-2025-62593-browser-rce.md) | 2026-08-18 | 1件 |
@@ -11,7 +19,6 @@
 | [Intraverse Firebase 設定不備による情報漏洩（2026年）](./intraverse-firebase-exposure-2026.md) | 2026-08-18 | 1件 |
 | [GitLab GraphQL コードインジェクション脆弱性（CVE-2026-19478）](./gitlab-graphql-cve-2026-19478.md) | 2026-08-18 | 1件 |
 | [フランス税務当局 DGFiP データ侵害（2026年）](./france-dgfip-tax-breach-2026.md) | 2026-08-18 | 1件 |
-| [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-18 | 1件 |
 | [C2Looper GitHub悪用バックドア（2026年）](./c2looper-github-c2-backdoor-2026.md) | 2026-08-18 | 1件 |
 | [TheHatman による Azure/Entra ID 認証情報侵害キャンペーン（2026年）](./azure-entra-credential-theft-thehatman-2026.md) | 2026-08-18 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 6件 |
@@ -85,7 +92,6 @@
 | [Bonita BPM / Apache OFBiz 未認証RCE「BadBonita」（2026年8月）](./bonita-ofbiz-badbonita-cve-2026-31986.md) | 2026-08-05 | 1件 |
 | [SplitVPN（旧NotVPN）データ侵害（2026年）](./splitvpn-notvpn-breach-2026.md) | 2026-08-04 | 1件 |
 | [Rails Active Storage CVE-2026-66066（KindaRails2Shell、2026年）](./rails-active-storage-cve-2026-66066.md) | 2026-08-04 | 6件 |
-| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-04 | 1件 |
 | [PNLD（英国警察法務データベース）データ侵害（2026年）](./pnld-uk-police-database-breach-2026.md) | 2026-08-04 | 1件 |
 | [Pass-ta-key：Googleパスワードマネージャー パスキー攻撃（2026年8月）](./pass-ta-key-google-password-manager-2026.md) | 2026-08-04 | 1件 |
 | [Langflow CVE-2026-9198 未認証RCE・KEV追加（2026年8月）](./langflow-cve-2026-9198-kev-2026.md) | 2026-08-04 | 1件 |
@@ -219,7 +225,6 @@
 | [WP-SHELLSTORM WordPress ウェブシェルブローカー活動（2026年）](./wp-shellstorm-webshell-brokerage-2026.md) | 2026-07-12 | 1件 |
 | [パキスタン法執行機関への中国・インド系サイバースパイ活動（2026年）](./pakistan-law-enforcement-cyber-espionage-2026.md) | 2026-07-12 | 1件 |
 | [npmサプライチェーン攻撃・暗号資産ウォレット窃取（2026年7月）](./npm-supply-chain-crypto-wallet-2026.md) | 2026-07-12 | 1件 |
-| [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-07-12 | 5件 |
 | [Accenture データ侵害・ソースコード窃取主張（2026年7月）](./accenture-breach-source-code-2026.md) | 2026-07-12 | 1件 |
 | [Odido（オランダ通信大手）不正アクセス事件（2026年）](./odido-breach-2026.md) | 2026-07-11 | 1件 |
 | [Ill Bloom 暗号資産ウォレット脆弱性（2026年）](./ill-bloom-crypto-wallet-vulnerability-2026.md) | 2026-07-11 | 2件 |
