@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Elementor Pro CVE-2026-32475 未認証RCE（2026年8月）](./elementor-pro-cve-2026-32475.md) | 2026-08-20 | 1件 |
+| [CareCloud データ侵害（2026年）](./carecloud-data-breach-2026.md) | 2026-08-20 | 1件 |
+| [Microsoft Copilot Personal「CoSnitch」脆弱性（CVE-2026-24301、2026年）](./microsoft-copilot-cosnitch-cve-2026-24301.md) | 2026-08-20 | 1件 |
+| [Microsoft Defender ShieldBreak ゼロデイ（CVE-2026-69414、2026年8月）](./shieldbreak-defender-cve-2026-69414.md) | 2026-08-20 | 1件 |
+| [MLflow SSRF 脆弱性 CVE-2026-64849 悪用（2026年8月）](./mlflow-ssrf-cve-2026-64849.md) | 2026-08-20 | 1件 |
+| [TrueConf Server 連鎖脆弱性 CVE-2026-72529/72530（2026年）](./trueconf-cve-2026-72529-head-mare.md) | 2026-08-20 | 1件 |
+| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-20 | 5件 |
+| [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-08-20 | 6件 |
+| [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-20 | 2件 |
+| [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-20 | 3件 |
 | [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-08-19 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-08-19 | 6件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-19 | 2件 |
@@ -23,7 +33,6 @@
 | [TheHatman による Azure/Entra ID 認証情報侵害キャンペーン（2026年）](./azure-entra-credential-theft-thehatman-2026.md) | 2026-08-18 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 6件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
-| [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-17 | 2件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
 | [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-17 | 6件 |
 | [GeoServer 未認証SQLインジェクション ゼロデイ（2026年8月）](./geoserver-sqli-zero-day-2026.md) | 2026-08-17 | 1件 |
@@ -41,7 +50,6 @@
 | [Adobe 2026年8月定例セキュリティ更新](./adobe-patch-tuesday-august-2026.md) | 2026-08-15 | 2件 |
 | [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-14 | 4件 |
 | [SAP Commerce Cloud CVE-2026-58231 重大脆弱性（2026年8月）](./sap-commerce-cloud-cve-2026-58231.md) | 2026-08-14 | 1件 |
-| [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-13 | 4件 |
 | [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-08-13 | 1件 |
 | [セゾンカードを騙るフィッシングメールキャンペーン（2026年）](./saison-card-3dsecure-phishing-2026.md) | 2026-08-13 | 1件 |
 | [北朝鮮リモートIT労働者による組織潜入問題（2026年）](./north-korea-it-worker-infiltration-2026.md) | 2026-08-13 | 1件 |
@@ -65,7 +73,6 @@
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-11 | 3件 |
 | [科学技術振興機構（JST）メール情報漏洩（2026年8月）](./jst-email-leak-2026.md) | 2026-08-11 | 1件 |
 | [CEVA Logistics サプライチェーン侵害の連鎖（2026年8月）](./ceva-logistics-supply-chain-breach-2026.md) | 2026-08-11 | 2件 |
-| [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-11 | 1件 |
 | [Ryde 電動スクーターアプリ データ侵害（2026年8月）](./ryde-scooter-data-breach-2026.md) | 2026-08-10 | 1件 |
 | [LexisNexis サービス停止インシデント（2026年8月）](./lexisnexis-service-shutdown-2026.md) | 2026-08-10 | 1件 |
 | [Google Password Manager パスキー乗っ取り「Pass-ta-key」攻撃（2026年）](./google-passkey-pass-ta-key-attack-2026.md) | 2026-08-10 | 2件 |
@@ -255,7 +262,6 @@
 | [メール配信システム「める配くん」不正アクセス（2026年6月）](./meruhaikun-email-delivery-breach-2026.md) | 2026-07-05 | 1件 |
 | [Kubota North America 従業員データ侵害（2026年）](./kubota-north-america-breach-2026.md) | 2026-07-05 | 1件 |
 | [Cisco Unified CM CVE-2026-20230 SSRF 積極的悪用（2026年6月）](./cisco-ucm-cve-2026-20230-ssrf.md) | 2026-07-05 | 5件 |
-| [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-07-05 | 5件 |
 | [WatchGuard Firebox CVE-2026-13368 VPN認証脆弱性（2026年）](./watchguard-firebox-cve-2026-13368.md) | 2026-07-04 | 1件 |
 | [NetNut レジデンシャルプロキシ悪用ボットネット摘発（2026年）](./netnut-residential-proxy-takedown-2026.md) | 2026-07-04 | 1件 |
 | [ToddyCat APT「Umbrij」マルウェア・OAuthトークン窃取キャンペーン（2026年）](./toddycat-umbrij-oauth-malware-2026.md) | 2026-07-03 | 1件 |

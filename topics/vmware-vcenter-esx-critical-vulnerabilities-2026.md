@@ -27,9 +27,14 @@ BroadcomがVMware Security Advisory VMSA-2026-0006にて修正した、vCenter S
 - 悪用規模: 361台の被害IPアドレスを47カ国で観測、うち343台（約95%）が既に侵害済み（2026年8月5日時点）
 - 永続化手法: 悪意あるcronジョブ設置＋reverse_sshによるC2接続
 - 緩和策: 暫定回避策なし。即時パッチ適用が必須とBroadcomが表明
+- 攻撃者の推定: 中国語話者とみられる脅威アクター（スクリプト内の中国語痕跡、中国語圏ツールの使用、中国本土に被害者なし）
+- 侵害後の活動: `/etc/cron.d` への不正cron設置 → reverse_ssh による永続化 → JSPウェブシェル `vmware-perf-update.jsp` 設置 → vCenterマシン認証情報の窃取 → ESXi への Babuk 派生ランサムウェア展開（`.babyk` 拡張子）
+- 検知回避: User-Agent `GoodMoodle-VCFleet/1.0` 等でVMware正規ツールを偽装
+- CISA KEV 追加: 2026年8月18日（連邦機関の是正期限 2026年8月21日）
 
 ## タイムライン
 
+- [2026-08-20 VMware vCenter の CVE-2026-59310 悪用、中国系アクターによるBabuk派生ランサムウェア展開が判明](../articles/2026-08-20-vmware-vcenter-china-nexus-babuk-ransomware.md)
 - [2026-08-13 VMware vCenter脆弱性CVE-2026-59310、47カ国で積極的悪用を確認——リバースSSHで永続化](../articles/2026-08-13-vmware-vcenter-cve-2026-59310-exploited.md)
 - [2026-08-03 VMware vCenter Serverに認証バイパス・RCEの重大脆弱性2件（CVE-2026-59309/CVE-2026-59310、CVSS 9.8）](../articles/2026-08-03-vmware-vcenter-auth-bypass-rce.md)
 - [2026-07-30 VMware vCenterに認証バイパス等の重大脆弱性3件（CVE-2026-59309/59310ほか）、ブロードコムが修正](../articles/2026-07-30-vmware-vcenter-cve-2026-59309.md)
