@@ -16,4 +16,5 @@
 
 ## タイムライン
 
+- [2026-08-19 Stripe加盟店APIキー5万件超が公開コード上に流出 ― 研究チームが大規模調査で判明](../articles/2026-08-19-stripe-50000-keys-leaked-research.md)
 - [2026-08-18 脅威アクター「Satanic」、Stripe加盟店API鍵1,000件超を流出 ― 69万件近い顧客レコードが露出](../articles/2026-08-18-stripe-vendor-api-key-leak-satanic.md)
