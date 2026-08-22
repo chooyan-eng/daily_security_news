@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Microsoft Entra ID CVE-2026-69836 実悪用RCE（2026年8月）](./entra-id-cve-2026-69836-rce-2026.md) | 2026-08-21 | 1件 |
+| [GitLab GraphQL コードインジェクション脆弱性（CVE-2026-19478）](./gitlab-graphql-cve-2026-19478.md) | 2026-08-21 | 2件 |
+| [Rust クレート arrayref サプライチェーン攻撃（2026年）](./rust-arrayref-supply-chain-attack-2026.md) | 2026-08-20 | 1件 |
+| [2025年日本国際博覧会協会 再委託先フィッシング経由M365不正アクセス（2026年）](./expo2025-m365-subcontractor-phishing-2026.md) | 2026-08-20 | 1件 |
+| [Operation Asterix AI支援型暗号資産フィッシングキャンペーン（2026年）](./operation-asterix-ai-crypto-phishing-2026.md) | 2026-08-20 | 1件 |
+| [Zimbra Collaboration Suite SNMP RCE脆弱性 CVE-2026-73570（2026年8月）](./zimbra-snmp-cve-2026-73570-rce-2026.md) | 2026-08-20 | 1件 |
+| [MANIC Androidマルウェア（2026年）](./manic-android-malware-2026.md) | 2026-08-20 | 1件 |
+| [Cisco Crosswork/Secure Workload 最大深刻度脆弱性群（2026年8月）](./cisco-crosswork-max-severity-cve-2026.md) | 2026-08-20 | 1件 |
+| [T-Mobile Salt Typhoon侵入排除ケーブル切断事案（2026年）](./tmobile-salt-typhoon-cable-cut-2026.md) | 2026-08-19 | 1件 |
 | [Elementor Pro CVE-2026-32475 未認証RCE（2026年8月）](./elementor-pro-cve-2026-32475.md) | 2026-08-20 | 1件 |
 | [CareCloud データ侵害（2026年）](./carecloud-data-breach-2026.md) | 2026-08-20 | 1件 |
 | [Microsoft Copilot Personal「CoSnitch」脆弱性（CVE-2026-24301、2026年）](./microsoft-copilot-cosnitch-cve-2026-24301.md) | 2026-08-20 | 1件 |
@@ -20,14 +29,13 @@
 | [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-19 | 2件 |
 | [VOISING BIツール不正アクセス事案（2026年8月）](./voising-bi-tool-breach-2026.md) | 2026-08-18 | 1件 |
 | [Forminator WordPressプラグイン CVE-2026-15748（2026年8月）](./forminator-wordpress-cve-2026-15748.md) | 2026-08-18 | 1件 |
-| [Stripe加盟店APIキー流出事案（2026年8月）](./stripe-vendor-api-key-leak-2026.md) | 2026-08-18 | 1件 |
+| [Stripe加盟店APIキー流出事案（2026年8月）](./stripe-vendor-api-key-leak-2026.md) | 2026-08-19 | 2件 |
 | [Apple ImageIOフレームワーク脆弱性 CVE-2026-65346（2026年8月）](./apple-imageio-cve-2026-65346.md) | 2026-08-18 | 1件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-18 | 5件 |
 | [SafePal 注文追跡システム データ侵害（2026年）](./safepal-data-breach-2026.md) | 2026-08-18 | 1件 |
 | [Ray フレームワーク CVE-2025-62593 悪用（2026年）](./ray-cve-2025-62593-browser-rce.md) | 2026-08-18 | 1件 |
 | [Octagon Android バンキング／クリプトボット（2026年）](./octagon-android-banking-trojan-2026.md) | 2026-08-18 | 1件 |
 | [Intraverse Firebase 設定不備による情報漏洩（2026年）](./intraverse-firebase-exposure-2026.md) | 2026-08-18 | 1件 |
-| [GitLab GraphQL コードインジェクション脆弱性（CVE-2026-19478）](./gitlab-graphql-cve-2026-19478.md) | 2026-08-18 | 1件 |
 | [フランス税務当局 DGFiP データ侵害（2026年）](./france-dgfip-tax-breach-2026.md) | 2026-08-18 | 1件 |
 | [C2Looper GitHub悪用バックドア（2026年）](./c2looper-github-c2-backdoor-2026.md) | 2026-08-18 | 1件 |
 | [TheHatman による Azure/Entra ID 認証情報侵害キャンペーン（2026年）](./azure-entra-credential-theft-thehatman-2026.md) | 2026-08-18 | 1件 |
