@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [公開AWSアクセスキー放置問題（Truffle Security調査、2026年）](./aws-exposed-access-keys-truffle-2026.md) | 2026-08-22 | 1件 |
+| [Microsoft Defender BTR.sys 起動時修復ドライバ悪用手法（2026年8月）](./checkpoint-btr-sys-defender-weaponization-2026.md) | 2026-08-22 | 1件 |
+| [Citrix NetScaler ADC/Gateway CVE-2026-19490 認証バイパス（2026年8月）](./citrix-netscaler-cve-2026-19490.md) | 2026-08-22 | 1件 |
+| [xAI Grok「Cryptographic Context Injection」攻撃（2026年）](./xai-grok-cryptographic-context-injection-2026.md) | 2026-08-22 | 1件 |
+| [LockBitランサムウェアによるUS Bank攻撃主張（2026年8月）](./lockbit-us-bank-ransomware-2026.md) | 2026-08-22 | 1件 |
+| [Spring for GraphQL CVE-2026-59285 デシリアライゼーション脆弱性（2026年8月）](./spring-graphql-cve-2026-59285.md) | 2026-08-22 | 1件 |
+| [ClarityCheck 顔写真データベース公開事案（2026年）](./claritycheck-face-database-exposure-2026.md) | 2026-08-22 | 1件 |
+| [VOISING BIツール不正アクセス事案（2026年8月）](./voising-bi-tool-breach-2026.md) | 2026-08-22 | 2件 |
 | [Microsoft Entra ID CVE-2026-69836 実悪用RCE（2026年8月）](./entra-id-cve-2026-69836-rce-2026.md) | 2026-08-21 | 1件 |
 | [GitLab GraphQL コードインジェクション脆弱性（CVE-2026-19478）](./gitlab-graphql-cve-2026-19478.md) | 2026-08-21 | 2件 |
 | [Rust クレート arrayref サプライチェーン攻撃（2026年）](./rust-arrayref-supply-chain-attack-2026.md) | 2026-08-20 | 1件 |
@@ -27,7 +35,6 @@
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-08-19 | 6件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-19 | 2件 |
 | [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-19 | 2件 |
-| [VOISING BIツール不正アクセス事案（2026年8月）](./voising-bi-tool-breach-2026.md) | 2026-08-18 | 1件 |
 | [Forminator WordPressプラグイン CVE-2026-15748（2026年8月）](./forminator-wordpress-cve-2026-15748.md) | 2026-08-18 | 1件 |
 | [Stripe加盟店APIキー流出事案（2026年8月）](./stripe-vendor-api-key-leak-2026.md) | 2026-08-19 | 2件 |
 | [Apple ImageIOフレームワーク脆弱性 CVE-2026-65346（2026年8月）](./apple-imageio-cve-2026-65346.md) | 2026-08-18 | 1件 |
