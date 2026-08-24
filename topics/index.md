@@ -4,6 +4,12 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ToxicPanda 2.0 Androidバンキングトロジャン（2026年）](./toxicpanda-2-android-banking-trojan-2026.md) | 2026-08-23 | 1件 |
+| [RedC2 npmサプライチェーン攻撃（2026年8月）](./redc2-npm-supply-chain-2026.md) | 2026-08-23 | 1件 |
+| [ロシア系脅威アクターによるOAuth/WhatsAppアカウント乗っ取りキャンペーン（2026年）](./russian-oauth-whatsapp-hijack-2026.md) | 2026-08-23 | 1件 |
+| [Akiraランサムウェア Safe Mode EDR回避手法（2026年8月）](./akira-ransomware-safe-mode-edr-bypass-2026.md) | 2026-08-23 | 1件 |
+| [Baylor Genetics データ侵害（2026年）](./baylor-genetics-data-breach-2026.md) | 2026-08-23 | 1件 |
+| [RecruitTrap 求人偽装BitBフィッシングキャンペーン（2026年）](./recruittrap-bitb-recruitment-phishing-2026.md) | 2026-08-23 | 1件 |
 | [公開AWSアクセスキー放置問題（Truffle Security調査、2026年）](./aws-exposed-access-keys-truffle-2026.md) | 2026-08-22 | 1件 |
 | [Microsoft Defender BTR.sys 起動時修復ドライバ悪用手法（2026年8月）](./checkpoint-btr-sys-defender-weaponization-2026.md) | 2026-08-22 | 1件 |
 | [Citrix NetScaler ADC/Gateway CVE-2026-19490 認証バイパス（2026年8月）](./citrix-netscaler-cve-2026-19490.md) | 2026-08-22 | 1件 |
