@@ -16,9 +16,12 @@
 - Carharttの身代金要求額: 330万ドル（交渉不成立によりデータ公開）
 - Sharecareの被害規模: Salesforceレコード340万件超、社内データ28GB超
 - 関連の可能性: 2026年に相次ぐSalesforce連携アプリのOAuthトークン窃取型データ恐喝キャンペーンとの関連が疑われる
+- 新たな標的: セキュリティ企業ReliaQuest（2026年8月23日、リークサイトに掲載）― 同社は「閲覧のみ」の限定的アクセスと反論、顧客データの窃取・公開は確認されず
+- ReliaQuest事案の手口: 偽Okta SSOページ＋なりすまし電話によるMFAプッシュ通知の誤承認誘導
 
 ## タイムライン
 
+- [2026-08-24 ShinyHunters、セキュリティ企業ReliaQuestへの侵害を主張も同社は限定的な社会工学攻撃と説明](../articles/2026-08-24-shinyhunters-reliaquest-breach-claim.md)
 - [2026-08-14 ShinyHunters、ヘルスケア企業Sharecareを標的に Salesforceレコード340万件超が流出か](../articles/2026-08-16-shinyhunters-sharecare-breach.md)
 - [2026-08-14 ShinyHunters、アパレル大手Carharttへのランサムウェア攻撃を主張しデータ公開](../articles/2026-08-16-shinyhunters-carhartt-breach.md)
 - [2026-08-07 ShinyHunters、仏Questel SASを標的に – Salesforceから2,100万件超のレコードを窃取したと主張](../articles/2026-08-07-shinyhunters-questel-sas-breach.md)
