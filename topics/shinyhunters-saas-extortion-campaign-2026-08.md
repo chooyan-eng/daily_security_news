@@ -19,6 +19,7 @@
 
 ## タイムライン
 
+- [2026-08-26 ShinyHunters、セキュリティ企業ReliaQuestへのビッシング攻撃を主張も同社は「被害は限定的」と反論](../articles/2026-08-26-shinyhunters-reliaquest-social-engineering.md)
 - [2026-08-14 ShinyHunters、ヘルスケア企業Sharecareを標的に Salesforceレコード340万件超が流出か](../articles/2026-08-16-shinyhunters-sharecare-breach.md)
 - [2026-08-14 ShinyHunters、アパレル大手Carharttへのランサムウェア攻撃を主張しデータ公開](../articles/2026-08-16-shinyhunters-carhartt-breach.md)
 - [2026-08-07 ShinyHunters、仏Questel SASを標的に – Salesforceから2,100万件超のレコードを窃取したと主張](../articles/2026-08-07-shinyhunters-questel-sas-breach.md)
