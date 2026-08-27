@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Boston Scientific サイバー攻撃による世界的業務停止（2026年8月）](./boston-scientific-cyberattack-2026.md) | 2026-08-26 | 1件 |
+| [Gitea CVE-2026-60004 コードインジェクション脆弱性の実悪用（2026年8月）](./gitea-cve-2026-60004-rce-2026.md) | 2026-08-26 | 1件 |
+| [Nutex Health データ侵害（2026年8月）](./nutex-health-data-breach-2026.md) | 2026-08-26 | 1件 |
+| [Everest Forms（WordPress）CVE-2026-19598 未認証ファイルアップロード脆弱性（2026年8月）](./everest-forms-wordpress-cve-2026-19598.md) | 2026-08-26 | 1件 |
+| [ノルウェー政府デジタル基盤への連続DDoS攻撃（2026年）](./norway-digdir-ddos-2026.md) | 2026-08-26 | 1件 |
+| [OpenSSL 2026年8月25日セキュリティアドバイザリ](./openssl-security-advisory-august-2026.md) | 2026-08-26 | 1件 |
+| [楽天モバイル eSIM不正契約・匿名流動型犯罪グループへの転売事案（2026年）](./rakuten-mobile-esim-fraud-2026.md) | 2026-08-26 | 1件 |
+| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-26 | 3件 |
+| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-26 | 8件 |
+| [Zimbra Collaboration Suite SNMP RCE脆弱性 CVE-2026-73570（2026年8月）](./zimbra-snmp-cve-2026-73570-rce-2026.md) | 2026-08-26 | 3件 |
 | [Marimo ノートブック CVE-2026-75149 MCPコマンド実行脆弱性（2026年）](./marimo-notebook-cve-2026-75149.md) | 2026-08-25 | 1件 |
 | [Mirage2FA フィッシングキット AiTM攻撃キャンペーン（2026年）](./mirage2fa-phishing-m365-2026.md) | 2026-08-25 | 1件 |
 | [E4del／PINHOLE RAT – FTPバナー悪用C2キャンペーン（2026年）](./e4del-pinhole-rat-ftp-banner-2026.md) | 2026-08-25 | 1件 |
@@ -16,11 +26,9 @@
 | [MacSync Stealer macOS情報窃取マルウェア（2026年）](./macsync-stealer-infrastructure-2026.md) | 2026-08-24 | 1件 |
 | [Oracle HTTP Server／WebLogic Server Proxy Plug-in CVE-2026-21962 積極的悪用（2026年）](./oracle-weblogic-cve-2026-21962.md) | 2026-08-24 | 1件 |
 | [全日空商事「選べるe-GIFT」不正アクセス事案（2026年）](./ana-trading-e-gift-breach-2026.md) | 2026-08-24 | 1件 |
-| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-24 | 7件 |
 | [Apollo Global Management データ侵害（2026年）](./apollo-global-management-breach-2026.md) | 2026-08-24 | 1件 |
 | [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-08-24 | 7件 |
 | [StackGres CVE-2026-78155 権限昇格脆弱性（2026年）](./stackgres-cve-2026-78155.md) | 2026-08-24 | 1件 |
-| [Zimbra Collaboration Suite SNMP RCE脆弱性 CVE-2026-73570（2026年8月）](./zimbra-snmp-cve-2026-73570-rce-2026.md) | 2026-08-24 | 2件 |
 | [ToxicPanda 2.0 Androidバンキングトロジャン（2026年）](./toxicpanda-2-android-banking-trojan-2026.md) | 2026-08-23 | 1件 |
 | [RedC2 npmサプライチェーン攻撃（2026年8月）](./redc2-npm-supply-chain-2026.md) | 2026-08-23 | 1件 |
 | [ロシア系脅威アクターによるOAuth/WhatsAppアカウント乗っ取りキャンペーン（2026年）](./russian-oauth-whatsapp-hijack-2026.md) | 2026-08-23 | 1件 |
@@ -54,7 +62,6 @@
 | [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-20 | 3件 |
 | [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-08-19 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-08-19 | 6件 |
-| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-19 | 2件 |
 | [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-19 | 2件 |
 | [Forminator WordPressプラグイン CVE-2026-15748（2026年8月）](./forminator-wordpress-cve-2026-15748.md) | 2026-08-18 | 1件 |
 | [Stripe加盟店APIキー流出事案（2026年8月）](./stripe-vendor-api-key-leak-2026.md) | 2026-08-19 | 2件 |
@@ -172,6 +179,11 @@
 | [サーバーBMC/IPMI 認証情報漏えい問題（CVE-2013-4786）](./bmc-ipmi-password-hash-leak-2026.md) | 2026-07-28 | 2件 |
 | [Arista VeloCloud Orchestrator コマンドインジェクション（CVE-2026-16812）](./arista-velocloud-cve-2026-16812.md) | 2026-07-28 | 1件 |
 | [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-07-28 | 2件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-27 | 7件 |
 | [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-27 | 2件 |
 | [Paidwork（マイクロタスクアプリ）データ侵害（2026年）](./paidwork-mobile-app-data-breach-2026.md) | 2026-07-27 | 1件 |
