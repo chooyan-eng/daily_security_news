@@ -4,13 +4,22 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Marimo ノートブック CVE-2026-75149 MCPコマンド実行脆弱性（2026年）](./marimo-notebook-cve-2026-75149.md) | 2026-08-25 | 1件 |
+| [Mirage2FA フィッシングキット AiTM攻撃キャンペーン（2026年）](./mirage2fa-phishing-m365-2026.md) | 2026-08-25 | 1件 |
+| [E4del／PINHOLE RAT – FTPバナー悪用C2キャンペーン（2026年）](./e4del-pinhole-rat-ftp-banner-2026.md) | 2026-08-25 | 1件 |
+| [TheHatman による Azure/Entra ID 認証情報侵害キャンペーン（2026年）](./azure-entra-credential-theft-thehatman-2026.md) | 2026-08-25 | 2件 |
 | [Keycloak パスワードリセットバイパス脆弱性 CVE-2026-18963（2026年8月）](./keycloak-cve-2026-18963-password-reset-bypass-2026.md) | 2026-08-24 | 1件 |
 | [StopAndProtect WordPressサイト悪用マルウェア配布網（2026年）](./stopandprotect-wordpress-malware-network-2026.md) | 2026-08-24 | 1件 |
 | [iAuthFlow v2 パスキー悪用フィッシングツールキット（2026年）](./iauthflow-v2-passkey-phishing-toolkit-2026.md) | 2026-08-24 | 1件 |
 | [車載Android用ヘッドユニット BADBOXマルウェア感染（2026年）](./android-car-head-units-badbox-malware-2026.md) | 2026-08-24 | 1件 |
 | [ソディック 不正アクセス事案（2026年）](./sodick-unauthorized-access-2026.md) | 2026-08-24 | 1件 |
 | [MacSync Stealer macOS情報窃取マルウェア（2026年）](./macsync-stealer-infrastructure-2026.md) | 2026-08-24 | 1件 |
-| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-24 | 6件 |
+| [Oracle HTTP Server／WebLogic Server Proxy Plug-in CVE-2026-21962 積極的悪用（2026年）](./oracle-weblogic-cve-2026-21962.md) | 2026-08-24 | 1件 |
+| [全日空商事「選べるe-GIFT」不正アクセス事案（2026年）](./ana-trading-e-gift-breach-2026.md) | 2026-08-24 | 1件 |
+| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-24 | 7件 |
+| [Apollo Global Management データ侵害（2026年）](./apollo-global-management-breach-2026.md) | 2026-08-24 | 1件 |
+| [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-08-24 | 7件 |
+| [StackGres CVE-2026-78155 権限昇格脆弱性（2026年）](./stackgres-cve-2026-78155.md) | 2026-08-24 | 1件 |
 | [Zimbra Collaboration Suite SNMP RCE脆弱性 CVE-2026-73570（2026年8月）](./zimbra-snmp-cve-2026-73570-rce-2026.md) | 2026-08-24 | 2件 |
 | [ToxicPanda 2.0 Androidバンキングトロジャン（2026年）](./toxicpanda-2-android-banking-trojan-2026.md) | 2026-08-23 | 1件 |
 | [RedC2 npmサプライチェーン攻撃（2026年8月）](./redc2-npm-supply-chain-2026.md) | 2026-08-23 | 1件 |
@@ -41,7 +50,6 @@
 | [MLflow SSRF 脆弱性 CVE-2026-64849 悪用（2026年8月）](./mlflow-ssrf-cve-2026-64849.md) | 2026-08-20 | 1件 |
 | [TrueConf Server 連鎖脆弱性 CVE-2026-72529/72530（2026年）](./trueconf-cve-2026-72529-head-mare.md) | 2026-08-20 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-20 | 5件 |
-| [Aflac データ漏洩事件（2026年6月）](./aflac-data-breach-2026.md) | 2026-08-20 | 6件 |
 | [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-20 | 2件 |
 | [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-20 | 3件 |
 | [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-08-19 | 1件 |
@@ -58,7 +66,6 @@
 | [Intraverse Firebase 設定不備による情報漏洩（2026年）](./intraverse-firebase-exposure-2026.md) | 2026-08-18 | 1件 |
 | [フランス税務当局 DGFiP データ侵害（2026年）](./france-dgfip-tax-breach-2026.md) | 2026-08-18 | 1件 |
 | [C2Looper GitHub悪用バックドア（2026年）](./c2looper-github-c2-backdoor-2026.md) | 2026-08-18 | 1件 |
-| [TheHatman による Azure/Entra ID 認証情報侵害キャンペーン（2026年）](./azure-entra-credential-theft-thehatman-2026.md) | 2026-08-18 | 1件 |
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 6件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
@@ -182,6 +189,11 @@
 | [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-26 | 2件 |
 | [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-26 | 3件 |
 | [Adobe Acrobat Chrome拡張機能 UXSS脆弱性「HermeticReader」（CVE-2026-48294）](./adobe-acrobat-extension-hermeticreader-cve-2026-48294.md) | 2026-07-26 | 1件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
 | [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 5件 |
@@ -219,11 +231,6 @@
 | [メディア4u SMS配信基盤 不正アクセス（2026年）](./media4u-sms-breach-2026.md) | 2026-07-19 | 1件 |
 | [Ernst & Young（EY）第三者 IT サポート基盤侵害（2026年）](./ey-data-breach-2026.md) | 2026-07-19 | 1件 |
 | [Ecopetrol サイバー攻撃・クラウドストレージ侵害（2026年7月）](./ecopetrol-cyberattack-2026.md) | 2026-07-19 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
 | [Windows LegacyHive 特権昇格ゼロデイ（2026年7月）](./windows-legacyhive-zero-day-2026.md) | 2026-07-18 | 1件 |
 | [ニチレイグループ 不正アクセスによるシステム障害（2026年7月）](./nichirei-unauthorized-access-2026.md) | 2026-07-18 | 3件 |
 | [Fortinet FortiSandbox 脆弱性の積極的悪用（2026年6月）](./fortinet-fortisandbox-cve-2026.md) | 2026-07-18 | 3件 |

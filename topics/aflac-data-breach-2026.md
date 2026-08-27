@@ -36,6 +36,7 @@
 
 ## タイムライン
 
+- [2026-08-24 アフラック生命保険、漏えいした保険料振替口座情報について関係金融機関への通知を開始](../articles/2026-08-24-aflac-japan-bank-notification.md)
 - [2026-08-20 アフラック生命保険の不正アクセス、短時間の大量データ照会を監視・制御する機能の不足が原因と判明](../articles/2026-08-20-aflac-japan-investigation-monitoring-gap.md)
 - [2026-07-05 アフラック生命保険（日本法人）が不正アクセスを正式発表、約438万人分の情報漏えい](../articles/2026-07-05-aflac-life-insurance-japan-subsidiary-breach.md)
 - [2026-07-04 アフラック生命保険の不正アクセス、約23万人分の保険料振替口座情報含む漏洩と金融庁への報告徴求命令が判明](../articles/2026-07-04-aflac-breach-update-230k-bank-accounts.md)
