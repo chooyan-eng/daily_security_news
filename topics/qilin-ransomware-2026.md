@@ -12,6 +12,7 @@ Qilinは2026年第1四半期時点で最も活発なランサムウェアグル�
 
 ## タイムライン
 
+- [2026-08-28 米ATF、Qilinの被害主張後に「重大インシデント」を確認 独立系システムの侵害と発表](../articles/2026-08-28-atf-confirms-qilin-major-incident.md)
 - [2026-08-26 Qilinランサムウェア、米ATF（アルコール・タバコ・firearms局）を被害者として掲載も証拠は未提示](../articles/2026-08-26-qilin-ransomware-atf-claim.md)
 - [2026-08-19 Qilinランサムウェア、英InVentryと仏Smart Energiesをリークサイトに新たに掲載](../articles/2026-08-19-qilin-inventry-smart-energies-victims.md)
 - [2026-08-04 Qilinランサムウェア、米保険サービス企業Freedom Claims Managementへの侵害を主張](../articles/2026-08-04-qilin-freedom-claims-management-ransomware.md)

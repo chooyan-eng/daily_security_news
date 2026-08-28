@@ -17,9 +17,11 @@
 - LiteLLM経由の窃取マルウェア: SANDCLOCK Stealer（PyPI版 1.82.7/1.82.8 に混入）
 - LiteLLM侵害規模: 153GBの認証情報アーカイブ（433,909ファイル）、118,829件のCI/CDランナーダンプ、2,488法人ドメインに波及（Hudson Rock調べ、2026年8月時点）
 - 影響が確認された/推測される組織例: AWS・Cisco・Samsung・Salesforce・Nvidia・ServiceNow・Siemens・FedEx・Volkswagen等（CloudSEK集計、要検証）
+- 摘発状況: 2026年8月、豪州連邦警察がRuben Ian Thomson（21歳）・Louis Michael Gaebler（23歳）の2容疑者を逮捕・起訴（計14件の容疑、最大禁錮20年）
 
 ## タイムライン
 
+- [2026-08-28 TeamPCPサプライチェーン攻撃、豪州で首謀者とされる男2人を逮捕・起訴](../articles/2026-08-28-teampcp-australia-arrests.md)
 - [2026-08-18 TeamPCPサプライチェーン攻撃の全容判明 ― LiteLLM経由で2,500社超・43.4万件のCI/CDパイプラインに影響](../articles/2026-08-18-litellm-supply-chain-teampcp-followup.md)
 - [2026-08-15 TeamPCPサプライチェーン攻撃、LiteLLM経由で2,500社・43.4万件のCI/CDパイプラインに影響と判明](../articles/2026-08-15-litellm-teampcp-434k-pipelines-exposed.md)
 - [2026-08-13 LiteLLM侵害の全容：153GBの認証情報アーカイブが流出、2,500社超に影響か](../articles/2026-08-13-litellm-teampcp-credential-leak-153gb.md)

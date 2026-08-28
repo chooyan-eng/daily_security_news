@@ -16,5 +16,6 @@
 
 ## タイムライン
 
+- [2026-08-28 DireWolfランサムウェア、臓器移植支援団体National Kidney Registryの253GBデータ窃取を主張](../articles/2026-08-28-national-kidney-registry-direwolf-breach.md)
 - [2026-08-19 Direwolfランサムウェア、スウェーデンの健康管理アプリ企業Lifesumをリークサイトに掲載](../articles/2026-08-19-direwolf-lifesum-victim.md)
 - [2026-08-18 ランサムウェアグループ Direwolf、AIコンパニオンアプリ運営元 Eva AI Limited をリークサイトに掲載](../articles/2026-08-18-eva-ai-direwolf-ransomware.md)
