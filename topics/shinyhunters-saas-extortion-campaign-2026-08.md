@@ -20,8 +20,13 @@
 - セキュリティ企業自体が標的になった事例: ReliaQuest（2026年8月22日ビッシング攻撃、8月23日リークサイト掲載）。ReliaQuest側は閲覧限定ID1件の一時露出のみで侵害は未遂と主張し、ShinyHuntersの掲載内容と食い違いあり
 - ReliaQuest事案の手口: 偽Okta SSOページ＋なりすまし電話によるMFAプッシュ通知の誤承認誘導
 
+- 被害企業（追加）: Optimizely（米アドテク大手、2026年2月11日接触・8月下旬公表、ビッシング経由で基本的な事業連絡先情報を窃取）
+- Carharttの実被害規模検証: 第三者研究者による検証で実際の影響アカウントは1,293万3,413件と判明（ShinyHunters主張の約半分、合成データの混入が判明）
+
 ## タイムライン
 
+- [2026-08-27 アドテク大手Optimizely、ビッシング攻撃によるデータ侵害を公表 ― ShinyHuntersの関与か](../articles/2026-08-27-optimizely-vishing-data-breach.md)
+- [2026-08-27 Carharttのデータ侵害、実被害は1,290万件超とShinyHunters主張の約半分と判明](../articles/2026-08-27-carhartt-breach-scope-confirmed-129m.md)
 - [2026-08-26 ShinyHunters、セキュリティ企業ReliaQuestへのビッシング攻撃を主張も同社は「被害は限定的」と反論](../articles/2026-08-26-shinyhunters-reliaquest-social-engineering.md)
 - [2026-08-24 米金融大手BOK Financial、ShinyHuntersが恐喝の最終期限を8月24日に設定](../articles/2026-08-24-bok-financial-shinyhunters-ransom-deadline.md)
 - [2026-08-24 セキュリティ企業ReliaQuest、ShinyHuntersのリークサイト掲載を否定 – ビッシング攻撃は「未遂」と説明](../articles/2026-08-24-reliaquest-shinyhunters-disputed-breach.md)
