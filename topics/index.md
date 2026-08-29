@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [OpenAI自律エージェント群によるHugging Face侵害事案（2026年）](./openai-agents-hugging-face-breach-2026.md) | 2026-08-29 | 1件 |
+| [PaperCut NG/MF ゼロデイ脆弱性チェーン（CVE-2026-81578/82078、2026年8月）](./papercut-ng-mf-cve-2026-81578-82078.md) | 2026-08-29 | 1件 |
+| [cPanel/WHM ドメインパーキング機能 root権限奪取脆弱性 CVE-2026-65643（2026年8月）](./cpanel-whm-cve-2026-65643-domain-parking-rce.md) | 2026-08-29 | 1件 |
+| [Next.js 未認証RCE脆弱性2件（AVIF画像処理／Windowsパストラバーサル、2026年8月）](./nextjs-avif-windows-path-traversal-rce-2026.md) | 2026-08-29 | 1件 |
+| [AnonyMousKIT AI音声悪用フィッシング・Apple Activation Lock解除サービス（2026年）](./anonymouskit-phaas-apple-activation-lock-2026.md) | 2026-08-29 | 1件 |
+| [WordlistLoader・SynkLoader 新種マルウェアローダー（2026年8月）](./wordlistloader-synkloader-malware-2026.md) | 2026-08-29 | 1件 |
+| [Projextor トロイの木馬化Electronアプリキャンペーン（2026年）](./projextor-electron-trojanized-apps-2026.md) | 2026-08-29 | 1件 |
+| [トレジャー・ファクトリー子会社「カインドオル」ECサイト不正アクセス事案（2026年8月）](./kindal-treasure-factory-ec-breach-2026.md) | 2026-08-29 | 1件 |
 | [Manchester Airports Group データ侵害（2026年8月）](./manchester-airports-group-breach-2026.md) | 2026-08-28 | 1件 |
 | [WatchGuard Agent for Windows 権限昇格・RCE脆弱性群（2026年8月）](./watchguard-agent-cve-2026-57909-2026.md) | 2026-08-28 | 1件 |
 | [ServiceNow Now Platform CVSS10.0級脆弱性群（2026年8月）](./servicenow-graphql-composite-api-cve-2026-18885.md) | 2026-08-28 | 1件 |
@@ -20,7 +28,7 @@
 | [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-27 | 10件 |
 | [Citrix NetScaler CVE-2026-8451 等 6件の脆弱性（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-08-27 | 8件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-28 | 7件 |
-| [Gitea CVE-2026-60004 コードインジェクション脆弱性の実悪用（2026年8月）](./gitea-cve-2026-60004-rce-2026.md) | 2026-08-26 | 1件 |
+| [Gitea CVE-2026-60004 コードインジェクション脆弱性の実悪用（2026年8月）](./gitea-cve-2026-60004-rce-2026.md) | 2026-08-29 | 2件 |
 | [Nutex Health データ侵害（2026年8月）](./nutex-health-data-breach-2026.md) | 2026-08-26 | 1件 |
 | [Everest Forms（WordPress）CVE-2026-19598 未認証ファイルアップロード脆弱性（2026年8月）](./everest-forms-wordpress-cve-2026-19598.md) | 2026-08-26 | 1件 |
 | [ノルウェー政府デジタル基盤への連続DDoS攻撃（2026年）](./norway-digdir-ddos-2026.md) | 2026-08-26 | 1件 |
