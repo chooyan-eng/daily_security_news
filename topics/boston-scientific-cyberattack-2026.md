@@ -10,7 +10,9 @@
 - 影響: 受注処理・出荷業務を含む情報システム／業務アプリケーションへのアクセス障害、世界規模の業務混乱
 - 犯行声明: 発表時点で無し（ランサムウェア／データ窃取の主張なし）
 - 株価: 発表後に一時約6%下落
+- 復旧見通し: アナリスト（Piper Sandler）予測で最長3週間程度（8月27日時点、公式な復旧時期は未発表）
 
 ## タイムライン
 
+- [2026-08-28 Boston Scientific、業務停止が長期化の見通し 復旧に最大3週間の予測も](../articles/2026-08-28-boston-scientific-disruption-continues.md)
 - [2026-08-26 Boston Scientific、サイバー攻撃により全世界で業務が停止](../articles/2026-08-26-boston-scientific-cyberattack-global-disruption.md)

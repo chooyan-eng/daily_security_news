@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Manchester Airports Group データ侵害（2026年8月）](./manchester-airports-group-breach-2026.md) | 2026-08-28 | 1件 |
+| [WatchGuard Agent for Windows 権限昇格・RCE脆弱性群（2026年8月）](./watchguard-agent-cve-2026-57909-2026.md) | 2026-08-28 | 1件 |
+| [ServiceNow Now Platform CVSS10.0級脆弱性群（2026年8月）](./servicenow-graphql-composite-api-cve-2026-18885.md) | 2026-08-28 | 1件 |
+| [チューリッヒ保険会社「Z-Dash」不正アクセス事案（2026年）](./zurich-japan-zdash-breach-2026.md) | 2026-08-28 | 1件 |
+| [イエローハット Web作業予約システム不正アクセス事案（2026年8月）](./yellowhat-unauthorized-access-2026.md) | 2026-08-28 | 1件 |
+| [SVGスマグリング型ボイスメール偽装フィッシングキャンペーン（2026年）](./svg-smuggling-voicemail-phishing-2026.md) | 2026-08-28 | 1件 |
+| [Boston Scientific サイバー攻撃による世界的業務停止（2026年8月）](./boston-scientific-cyberattack-2026.md) | 2026-08-28 | 2件 |
 | [Manchester Airports Group サイバー攻撃・大規模データ侵害（2026年8月）](./manchester-airports-group-data-breach-2026.md) | 2026-08-27 | 1件 |
 | [Microsoft SharePoint CVE-2026-55040 JWT認証バイパス脆弱性（2026年8月）](./sharepoint-cve-2026-55040-jwt-bypass.md) | 2026-08-27 | 1件 |
 | [macOS画面共有デーモン 認証バイパス脆弱性 CVE-2026-65400（2026年8月）](./macos-screensharingd-cve-2026-65400.md) | 2026-08-27 | 1件 |
@@ -12,15 +19,14 @@
 | [楽天ブックスネットワーク 不正アクセス事案（2026年）](./rakuten-books-network-unauthorized-access-2026.md) | 2026-08-27 | 1件 |
 | [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-27 | 10件 |
 | [Citrix NetScaler CVE-2026-8451 等 6件の脆弱性（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-08-27 | 8件 |
-| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-27 | 6件 |
-| [Boston Scientific サイバー攻撃による世界的業務停止（2026年8月）](./boston-scientific-cyberattack-2026.md) | 2026-08-26 | 1件 |
+| [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-28 | 7件 |
 | [Gitea CVE-2026-60004 コードインジェクション脆弱性の実悪用（2026年8月）](./gitea-cve-2026-60004-rce-2026.md) | 2026-08-26 | 1件 |
 | [Nutex Health データ侵害（2026年8月）](./nutex-health-data-breach-2026.md) | 2026-08-26 | 1件 |
 | [Everest Forms（WordPress）CVE-2026-19598 未認証ファイルアップロード脆弱性（2026年8月）](./everest-forms-wordpress-cve-2026-19598.md) | 2026-08-26 | 1件 |
 | [ノルウェー政府デジタル基盤への連続DDoS攻撃（2026年）](./norway-digdir-ddos-2026.md) | 2026-08-26 | 1件 |
 | [OpenSSL 2026年8月25日セキュリティアドバイザリ](./openssl-security-advisory-august-2026.md) | 2026-08-26 | 1件 |
 | [楽天モバイル eSIM不正契約・匿名流動型犯罪グループへの転売事案（2026年）](./rakuten-mobile-esim-fraud-2026.md) | 2026-08-26 | 1件 |
-| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-26 | 3件 |
+| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-08-28 | 4件 |
 | [Zimbra Collaboration Suite SNMP RCE脆弱性 CVE-2026-73570（2026年8月）](./zimbra-snmp-cve-2026-73570-rce-2026.md) | 2026-08-26 | 3件 |
 | [Marimo ノートブック CVE-2026-75149 MCPコマンド実行脆弱性（2026年）](./marimo-notebook-cve-2026-75149.md) | 2026-08-25 | 1件 |
 | [Mirage2FA フィッシングキット AiTM攻撃キャンペーン（2026年）](./mirage2fa-phishing-m365-2026.md) | 2026-08-25 | 1件 |
@@ -70,10 +76,11 @@
 | [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-20 | 3件 |
 | [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-08-19 | 1件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-08-19 | 6件 |
-| [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-19 | 2件 |
+| [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-28 | 3件 |
 | [Forminator WordPressプラグイン CVE-2026-15748（2026年8月）](./forminator-wordpress-cve-2026-15748.md) | 2026-08-18 | 1件 |
 | [Stripe加盟店APIキー流出事案（2026年8月）](./stripe-vendor-api-key-leak-2026.md) | 2026-08-19 | 2件 |
 | [Apple ImageIOフレームワーク脆弱性 CVE-2026-65346（2026年8月）](./apple-imageio-cve-2026-65346.md) | 2026-08-18 | 1件 |
+
 | [SafePal 注文追跡システム データ侵害（2026年）](./safepal-data-breach-2026.md) | 2026-08-18 | 1件 |
 | [Ray フレームワーク CVE-2025-62593 悪用（2026年）](./ray-cve-2025-62593-browser-rce.md) | 2026-08-18 | 1件 |
 | [Octagon Android バンキング／クリプトボット（2026年）](./octagon-android-banking-trojan-2026.md) | 2026-08-18 | 1件 |
