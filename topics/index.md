@@ -4,7 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [Manchester Airports Group データ侵害（2026年8月）](./manchester-airports-group-breach-2026.md) | 2026-08-28 | 1件 |
+| [PaperCut NG/MF ゼロデイ脆弱性 CVE-2026-82078／CVE-2026-81578（2026年8月）](./papercut-ng-mf-zero-day-2026.md) | 2026-08-30 | 1件 |
+| [ownCloud CVE-2023-49105 WebDAV認証バイパス脆弱性の悪用（2026年8月）](./owncloud-cve-2023-49105-philippines-2026.md) | 2026-08-30 | 1件 |
+| [Next.js CVE-2026-75604 等 重大RCE脆弱性（2026年8月）](./nextjs-cve-2026-75604-critical-rce-2026.md) | 2026-08-30 | 1件 |
+| [ベルリン市 州行政ネットワーク Rhysidaランサムウェア侵害事案（2026年8月）](./berlin-rhysida-ransomware-2026.md) | 2026-08-30 | 1件 |
+| [Android「マイナポイント」アプリ アクセス制限不備脆弱性 CVE-2026-73335（2026年8月）](./mynapoint-android-cve-2026-73335-2026.md) | 2026-08-30 | 1件 |
+| [「Superior」暗号資産ウォレット窃取ブラウザ拡張機能キャンペーン（2026年）](./chrome-edge-extensions-superior-wallet-stealer-2026.md) | 2026-08-30 | 1件 |
+| [Manchester Airports Group データ侵害（2026年8月）](./manchester-airports-group-breach-2026.md) | 2026-08-30 | 2件 |
 | [WatchGuard Agent for Windows 権限昇格・RCE脆弱性群（2026年8月）](./watchguard-agent-cve-2026-57909-2026.md) | 2026-08-28 | 1件 |
 | [ServiceNow Now Platform CVSS10.0級脆弱性群（2026年8月）](./servicenow-graphql-composite-api-cve-2026-18885.md) | 2026-08-28 | 1件 |
 | [チューリッヒ保険会社「Z-Dash」不正アクセス事案（2026年）](./zurich-japan-zdash-breach-2026.md) | 2026-08-28 | 1件 |
@@ -99,7 +105,7 @@
 | [Presentations.AI ランサムウェア被害（Unsafeグループ、2026年）](./presentations-ai-unsafe-ransomware-2026.md) | 2026-08-15 | 1件 |
 | [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-15 | 10件 |
 | [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-08-15 | 3件 |
-| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-15 | 11件 |
+| [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-30 | 12件 |
 | [GeoServer ゼロデイ SQLインジェクション→RCE（2026年）](./geoserver-zeroday-sqli-rce-2026.md) | 2026-08-15 | 1件 |
 | [Chrome DevTools Protocol悪用セッションハイジャック手法（2026年）](./chrome-devtools-protocol-session-hijack-2026.md) | 2026-08-15 | 1件 |
 | [Beacon CRM データ侵害（2026年）](./beacon-crm-data-breach-2026.md) | 2026-08-15 | 1件 |
