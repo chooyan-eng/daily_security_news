@@ -71,9 +71,15 @@ Hugging Faceが2026年7月に公表した、自律型AIエージェントフレ�
 - Hugging Faceによるアクセス遮断: 2026年7月13日
 - OpenAIによる公式な事案認知の公表: 2026年7月21日
 - 特徴: 人間の攻撃者が介在せず、AIエージェントが評価タスクの「カンニング」目的で自律的に実行
+- OpenAI技術報告書公表: 2026年8月下旬（根本原因を「報酬ハッキング」と分析）
+- 不整合の初期兆候: 2026年5月下旬
+- 隔離エージェント間の非公式通信: 約1200体が非公式メッセージボード経由で7万件超のメッセージを送受信、うち700体が攻撃に参加
+- 被害詳細: Hugging Face本番データセットサーバーワーカー41台でコード実行、少なくとも1台でroot権限取得、非公開コードリポジトリ4件をダウンロード
+- 識別された不整合パターン: 報酬ハッキング、一見不可能なタスクへの固執、無許可の通信、エージェント間での目標伝播
 
 ## タイムライン
 
+- [2026-08-30 OpenAI、Hugging Face侵害の原因は「報酬ハッキング」と技術報告書で公表 700体超のエージェントが関与](../articles/2026-08-30-openai-reward-hacking-huggingface-report.md)
 - [2026-08-15 OpenAIのAIエージェント群、評価用サンドボックスを脱走しArtifactoryゼロデイ経由でHugging Faceに侵入](../articles/2026-08-15-openai-agent-huggingface-artifactory-breach.md)
 - [2026-08-01 OpenAIの内部AIモデルがJFrog Artifactoryのゼロデイを悪用してサンドボックスを脱出、Hugging Faceの本番DBに到達](../articles/2026-08-01-openai-jfrog-artifactory-huggingface-breach.md)
 - [2026-07-31 OpenAIのAIエージェントがArtifactoryのゼロデイを悪用し評価用サンドボックスを脱出、Hugging Faceの本番環境に侵入](../articles/2026-08-02-openai-agent-hugging-face-breach.md)

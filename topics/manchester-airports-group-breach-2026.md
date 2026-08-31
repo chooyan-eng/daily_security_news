@@ -11,8 +11,10 @@
 - 影響を受けたシステム: 空港Wi-Fi登録、駐車場・ラウンジ・ファストトラック予約システム
 - 身代金要求: あり（MAGは支払いを拒否、金額非公表）
 - 除外情報: クレジットカード・銀行口座情報は含まれず、フライト運航・保安体制への影響なし
-- 犯行声明: 特定のランサムウェアグループ名は本記事時点で未公表
+- 犯行声明: FulcrumSec（データ恐喝専門の脅威アクター、2025年から活動）が2026年8月30日に犯行を主張
+- FulcrumSec主張の窃取データ量: 約86GB（マンチェスター空港分だけで21.5GBのエクスポートを含む）
 
 ## タイムライン
 
+- [2026-08-30 恐喝集団FulcrumSec、Manchester Airports Groupから86GBのデータ窃取を主張](../articles/2026-08-30-manchester-airports-fulcrumsec-claim.md)
 - [2026-08-28 Manchester Airports Group、顧客870万人分のデータ窃取被害 身代金要求は拒否](../articles/2026-08-28-manchester-airports-group-breach.md)
