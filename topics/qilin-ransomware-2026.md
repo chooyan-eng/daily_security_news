@@ -9,9 +9,13 @@ Qilinは2026年第1四半期時点で最も活発なランサムウェアグル�
 - 業態: ランサムウェア・アズ・ア・サービス（RaaS）、二重恐喝
 - 主な標的セクター: 保険・金融サービス等、多業種
 - 手法: データ暗号化 + ダークウェブリークサイトへのデータ公開脅迫
+- ATF事案の侵害システム名: CALEAシステム（通信傍受関連法に基づく電子監視業務用のレガシー・独立系システム）
+- ATF事案のデータ公開: 2026年9月1日、身代金支払い期限（72時間）超過後に約6.3GBを公開
+- ATF事案の漏えいデータ内容: 捜査対象者の氏名・電話番号・IPアドレス・iCloudデータ・Cellebriteによる端末フォレンジックデータ等
 
 ## タイムライン
 
+- [2026-09-01 Qilin、米ATFの「CALEA」システムから窃取したとするデータ約6.3GBをリークサイトに公開](../articles/2026-09-01-qilin-atf-calea-data-leak.md)
 - [2026-08-28 米ATF、Qilinの被害主張後に「重大インシデント」を確認 独立系システムの侵害と発表](../articles/2026-08-28-atf-confirms-qilin-major-incident.md)
 - [2026-08-26 Qilinランサムウェア、米ATF（アルコール・タバコ・firearms局）を被害者として掲載も証拠は未提示](../articles/2026-08-26-qilin-ransomware-atf-claim.md)
 - [2026-08-19 Qilinランサムウェア、英InVentryと仏Smart Energiesをリークサイトに新たに掲載](../articles/2026-08-19-qilin-inventry-smart-energies-victims.md)
