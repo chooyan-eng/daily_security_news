@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [中国系「Fire Ant」Cisco IOS XR／TACACSサーバー侵害キャンペーン（2026年8月）](./fire-ant-cisco-iosxr-tacacs-espionage-2026.md) | 2026-08-31 | 1件 |
+| [Aurora（Aur0ra）ランサムウェアによるAIコーディングエージェント「Cursor」悪用（2026年）](./aurora-ransomware-cursor-ai-abuse-2026.md) | 2026-08-31 | 1件 |
+| [Hasbro 従業員データ侵害（2026年8月）](./hasbro-employee-data-breach-2026.md) | 2026-08-31 | 1件 |
+| [GiveWP WordPress プラグイン CVE-2026-82222 未認証RCE脆弱性（2026年8月）](./givewp-wordpress-cve-2026-82222.md) | 2026-08-31 | 1件 |
+| [コープやまぐち「LINEミニアプリ」不正アクセス事案（2026年8月）](./coop-yamaguchi-line-miniapp-breach-2026.md) | 2026-08-31 | 1件 |
+| [シンカ「kaiwa.cloud」不正プログラム設置事案（2026年8月）](./shinka-kaiwacloud-malware-2026.md) | 2026-08-31 | 1件 |
+| [アンビションDXホールディングス ファイルサーバー不正アクセス事案（2026年8月）](./ambition-dx-holdings-file-server-breach-2026.md) | 2026-08-31 | 1件 |
+| [SickKids（トロント小児病院）データ侵害事案（2026年）](./sickkids-hospital-data-breach-2026.md) | 2026-08-31 | 1件 |
+| [中国系ハッカー集団「QTFY」による米政府機関標的化事案（2026年8月）](./qtfy-china-us-agencies-espionage-2026.md) | 2026-08-31 | 1件 |
 | [PaperCut NG/MF ゼロデイ脆弱性 CVE-2026-82078／CVE-2026-81578（2026年8月）](./papercut-ng-mf-zero-day-2026.md) | 2026-08-30 | 1件 |
 | [ownCloud CVE-2023-49105 WebDAV認証バイパス脆弱性の悪用（2026年8月）](./owncloud-cve-2023-49105-philippines-2026.md) | 2026-08-30 | 1件 |
 | [Next.js CVE-2026-75604 等 重大RCE脆弱性（2026年8月）](./nextjs-cve-2026-75604-critical-rce-2026.md) | 2026-08-30 | 1件 |
@@ -31,7 +40,7 @@
 | [Windows IKE Service Extensions ワーム化可能RCE脆弱性 CVE-2026-33824（2026年）](./windows-ike-cve-2026-33824-wormable-rce.md) | 2026-08-27 | 1件 |
 | [Microsoft Teamsビッシング経由Chaosランサムウェアキャンペーン「STAC4749」（2026年）](./chaos-ransomware-teams-vishing-stac4749.md) | 2026-08-27 | 1件 |
 | [楽天ブックスネットワーク 不正アクセス事案（2026年）](./rakuten-books-network-unauthorized-access-2026.md) | 2026-08-27 | 1件 |
-| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-27 | 10件 |
+| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-31 | 11件 |
 | [Citrix NetScaler CVE-2026-8451 等 6件の脆弱性（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-08-27 | 8件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-28 | 7件 |
 | [Gitea CVE-2026-60004 コードインジェクション脆弱性の実悪用（2026年8月）](./gitea-cve-2026-60004-rce-2026.md) | 2026-08-29 | 2件 |

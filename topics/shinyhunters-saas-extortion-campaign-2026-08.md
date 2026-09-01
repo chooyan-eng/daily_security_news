@@ -22,9 +22,11 @@
 
 - 被害企業（追加）: Optimizely（米アドテク大手、2026年2月11日接触・8月下旬公表、ビッシング経由で基本的な事業連絡先情報を窃取）
 - Carharttの実被害規模検証: 第三者研究者による検証で実際の影響アカウントは1,293万3,413件と判明（ShinyHunters主張の約半分、合成データの混入が判明）
+- 被害企業（追加）: McKesson Corporation（米医薬品卸最大手、2026年8月21〜25日にビッシング経由でOktaアカウントを乗っ取りSalesforce/Snowflakeから約1TB窃取、身代金要求額 約5,523万ドル）
 
 ## タイムライン
 
+- [2026-08-31 医薬品卸大手McKesson、ShinyHuntersのビッシング攻撃でSalesforce/Snowflake侵害 約5,500万ドルの身代金要求](../articles/2026-08-31-mckesson-shinyhunters-breach.md)
 - [2026-08-27 アドテク大手Optimizely、ビッシング攻撃によるデータ侵害を公表 ― ShinyHuntersの関与か](../articles/2026-08-27-optimizely-vishing-data-breach.md)
 - [2026-08-27 Carharttのデータ侵害、実被害は1,290万件超とShinyHunters主張の約半分と判明](../articles/2026-08-27-carhartt-breach-scope-confirmed-129m.md)
 - [2026-08-26 ShinyHunters、セキュリティ企業ReliaQuestへのビッシング攻撃を主張も同社は「被害は限定的」と反論](../articles/2026-08-26-shinyhunters-reliaquest-social-engineering.md)
