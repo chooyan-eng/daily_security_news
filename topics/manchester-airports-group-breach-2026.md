@@ -13,8 +13,11 @@
 - 除外情報: クレジットカード・銀行口座情報は含まれず、フライト運航・保安体制への影響なし
 - 犯行声明: FulcrumSec（データ恐喝専門の脅威アクター、2025年から活動）が2026年8月30日に犯行を主張
 - FulcrumSec主張の窃取データ量: 約86GB（マンチェスター空港分だけで21.5GBのエクスポートを含む）
+- 侵入経路: 空港専用のIterable（メール配信サービス）API認証情報がWebサイトのクライアント側JavaScriptに露出していたことを悪用
+- 追加判明した窃取データ内容: 2026年内の今後の渡航予定に関する予約情報 約20万件
 
 ## タイムライン
 
+- [2026-09-01 Manchester Airports Group侵害、原因はクライアント側JavaScriptに露出したIterable APIキーと判明](../articles/2026-09-01-manchester-airports-iterable-api-key.md)
 - [2026-08-30 恐喝集団FulcrumSec、Manchester Airports Groupから86GBのデータ窃取を主張](../articles/2026-08-30-manchester-airports-fulcrumsec-claim.md)
 - [2026-08-28 Manchester Airports Group、顧客870万人分のデータ窃取被害 身代金要求は拒否](../articles/2026-08-28-manchester-airports-group-breach.md)
