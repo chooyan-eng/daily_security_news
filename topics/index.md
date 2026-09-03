@@ -4,9 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Sangoma Switchvox CVE-2026-9586 未認証SQLインジェクション脆弱性（2026年）](./sangoma-switchvox-cve-2026-9586.md) | 2026-09-03 | 1件 |
+| [All-in-One WP Migration and Backup CVE-2026-19949 SQLインジェクション脆弱性（2026年）](./aio-wp-migration-cve-2026-19949.md) | 2026-09-03 | 1件 |
+| [METR APIキー窃取・AIクレジット不正消費事案（2026年）](./metr-api-key-theft-2026.md) | 2026-09-03 | 1件 |
+| [BraZetsu マルウェア・Infected Marketplace 初期アクセス売買事案（2026年）](./brazetsu-malware-infected-marketplace-2026.md) | 2026-09-03 | 1件 |
+| [Novocure データ侵害事案（2026年8月）](./novocure-data-breach-2026.md) | 2026-09-03 | 1件 |
+| [ペーパーロジック クラウドサーバー不正アクセス事案（2026年8月〜9月）](./paperlogic-unauthorized-access-2026.md) | 2026-09-03 | 1件 |
+| [Cisco Nexus 9000シリーズ CVE-2026-20212 未認証RCE脆弱性（2026年9月）](./cisco-nexus-9000-cve-2026-20212.md) | 2026-09-03 | 1件 |
 | [三井不動産 不正アクセス事案（2026年8月〜9月）](./mitsui-fudosan-unauthorized-access-2026.md) | 2026-09-01 | 1件 |
 | [千葉県生物多様性センター ウェブサイト不正アクセス事案（2026年）](./chiba-biodiversity-center-breach-2026.md) | 2026-09-01 | 1件 |
-| [JFrog Artifactory CVE-2026-82329 認証バイパス脆弱性（2026年）](./jfrog-artifactory-cve-2026-82329.md) | 2026-09-01 | 1件 |
+| [JFrog Artifactory CVE-2026-82329 認証バイパス脆弱性（2026年）](./jfrog-artifactory-cve-2026-82329.md) | 2026-09-03 | 2件 |
 | [Dropbox Lenovo ID連携認証不備によるアカウント侵害（2026年）](./dropbox-lenovo-id-breach-2026.md) | 2026-09-02 | 1件 |
 | [Virtualizor BGPハイジャックによる悪意ある更新配信事案（2026年）](./virtualizor-bgp-hijack-2026.md) | 2026-09-02 | 1件 |
 | [Gambling Goblin ブラジル政府サイト悪用キャンペーン（2026年）](./gambling-goblin-apache-modules-brazil-2026.md) | 2026-09-02 | 1件 |
@@ -436,7 +443,7 @@
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [OnlyFans 3億4000万件データクレーム（2026年）](./onlyfans-340m-claim.md) | 2026-06-16 | 1件 |
-| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-06-16 | 1件 |
+| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-09-03 | 2件 |
 | [Langflow RCE脆弱性（CVE-2026-5027）](./langflow-rce-cve-2026-5027.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
 | [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
