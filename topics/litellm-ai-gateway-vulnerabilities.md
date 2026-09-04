@@ -12,7 +12,11 @@
 - CVE-2026-48710: StarletteのHTTPホストヘッダーバイパス（未認証RCEに連鎖）
 - パッチ済みバージョン: 1.83.14-stable以降
 - CISA KEV修正期限: 2026-06-22
+- CVE-2026-35029: 管理API（`/config/update`）の権限チェック不備による権限昇格・RCE（要有効APIキー、パッチ版1.83.0〜）
+- CVE-2026-59822: MCP Streamable HTTPエンドポイントの認証バイパス（OAuth2パススルーのフォールバック不備、パッチ版1.84.0〜）
+- CVE-2026-35029／CVE-2026-59822 CISA KEV追加日: 2026-09-02（CVE-2026-59822の連邦機関対応期限は2026-09-16）
 
 ## タイムライン
 
+- [2026-09-03 LiteLLMに新たな脆弱性2件、CISAがKEVカタログに追加 管理API権限昇格とMCP認証バイパスが実悪用中](../articles/2026-09-03-litellm-cve-2026-35029-59822-kev.md)
 - [2026-06-16 LiteLLM AIゲートウェイ脆弱性チェーン：低権限ユーザーから管理者権限＆RCEが可能](../articles/2026-06-16-litellm-ai-gateway-vulnerability-chain.md)
