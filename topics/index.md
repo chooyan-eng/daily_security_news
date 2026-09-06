@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [MikroTik RouterOS「MikroTrick」SSH認証バイパス連鎖脆弱性（2026年9月）](./mikrotik-routeros-mikrotrick-2026.md) | 2026-09-06 | 1件 |
+| [WordPress「Mail Mint」プラグイン CVE-2026-10196 未認証RCE脆弱性（2026年9月）](./mail-mint-wordpress-cve-2026-10196.md) | 2026-09-06 | 1件 |
+| [ClickFix「EtherHiding」BNBスマートチェーン悪用キャンペーン（2026年）](./clickfix-etherhiding-bnb-smartchain-2026.md) | 2026-09-06 | 1件 |
+| [OpenAI自律型AIエージェントによるドイツ語Wiki乗っ取り未公表インシデント（2026年）](./openai-agents-wiki-hijack-2026.md) | 2026-09-06 | 1件 |
+| [ペンシルベニア州司法長官室 INC Ransomランサムウェア攻撃（2026年8月）](./pennsylvania-ag-inc-ransom-breach-2026.md) | 2026-09-06 | 1件 |
+| [Toy Ghouls HiveMQ／Element悪用Windowsバックドア（2026年）](./toy-ghouls-windows-backdoors-2026.md) | 2026-09-06 | 1件 |
+| [サンコーテクノ ベトナム子会社ランサムウェア被害事案（2026年8月）](./sanko-techno-vietnam-ransomware-2026.md) | 2026-09-06 | 1件 |
+| [StreamRat Android広告経由バンキング型トロイ（2026年）](./streamrat-android-banking-trojan-2026.md) | 2026-09-06 | 1件 |
+| [Starbucks従業員ポータル「Partner Central」フィッシング侵害（2026年）](./starbucks-partner-central-phishing-breach-2026.md) | 2026-09-06 | 1件 |
 | [Sangoma Switchvox CVE-2026-9586 未認証SQLインジェクション脆弱性（2026年）](./sangoma-switchvox-cve-2026-9586.md) | 2026-09-03 | 1件 |
 | [All-in-One WP Migration and Backup CVE-2026-19949 SQLインジェクション脆弱性（2026年）](./aio-wp-migration-cve-2026-19949.md) | 2026-09-03 | 1件 |
 | [METR APIキー窃取・AIクレジット不正消費事案（2026年）](./metr-api-key-theft-2026.md) | 2026-09-03 | 1件 |
@@ -17,7 +26,7 @@
 | [Dropbox Lenovo ID連携認証不備によるアカウント侵害（2026年）](./dropbox-lenovo-id-breach-2026.md) | 2026-09-02 | 1件 |
 | [Virtualizor BGPハイジャックによる悪意ある更新配信事案（2026年）](./virtualizor-bgp-hijack-2026.md) | 2026-09-02 | 1件 |
 | [Gambling Goblin ブラジル政府サイト悪用キャンペーン（2026年）](./gambling-goblin-apache-modules-brazil-2026.md) | 2026-09-02 | 1件 |
-| [Chrome 152 セキュリティアップデート（2026年9月）](./chrome-152-security-update-2026.md) | 2026-09-01 | 1件 |
+| [Chrome 152 セキュリティアップデート（2026年9月）](./chrome-152-security-update-2026.md) | 2026-09-06 | 2件 |
 | [まんだらけ 不正アクセス事案（2026年8月）](./mandarake-unauthorized-access-2026.md) | 2026-09-01 | 1件 |
 | [TerminalFix ClickFix亜種によるリバーストンネル攻撃キャンペーン（2026年）](./terminalfix-clickfix-reverse-tunnel-2026.md) | 2026-09-01 | 1件 |
 | [チャーム ペット用品通販サイト不正アクセス事案（2026年8月）](./charm-pet-supplies-unauthorized-access-2026.md) | 2026-09-01 | 1件 |
