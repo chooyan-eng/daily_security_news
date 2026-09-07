@@ -1,18 +1,19 @@
-# StreamRat Android型トロイの木馬・Meta/TikTok広告悪用キャンペーン（2026年）
+# StreamRat Androidバンキング型トロイの木馬・広告配信キャンペーン（2026年）
 
 ## 概要
 
-無料動画配信アプリを装うMeta（Facebook/Instagram）およびTikTok広告を通じて配布される新種のAndroidバンキング型トロイの木馬「StreamRat」に関するキャンペーン。スペイン語圏ユーザー（主にスペイン）を標的とし、Accessibility ServiceやMediaProjection APIを悪用して端末を遠隔から完全に制御可能にする。
+無料動画配信サービスを装ったMeta（Facebook・Instagram）・TikTok広告を通じて拡散するAndroidバンキング型マルウェア「StreamRat」。Accessibility ServiceとMediaProjection APIを悪用し、VNCによる遠隔操作、キーロギング、偽ログイン画面によるクレデンシャル窃取など、感染端末をほぼ完全に制御できる。スペイン語圏ユーザーが主な標的。
 
 **同一性の判断に役立つ情報：**
-- マルウェア名: StreamRat（Android型バンキング/RATトロイの木馬、MaaS＝Malware-as-a-Serviceとして提供）
-- 配布経路: Meta広告・TikTok広告（無料動画配信サービスを偽装したバナー広告）
-- 標的: スペイン語圏ユーザー（観測された被害者の大半はスペイン）
-- 想定潜在被害者数: 約57万人（広告到達数ベース）
-- 主要な悪用手口: Accessibility Service・MediaProjection API・HVNC（Hidden VNC）による画面監視・キーロギング・偽オーバーレイでの認証情報窃取・遠隔操作
-- 観測期間例: Meta広告キャンペーンの一つは2026年6月11日〜7月3日に実施
-- 発見: ThreatFabric、Malwarebytes等が分析・報告
+- マルウェア名: StreamRat
+- 拡散経路: Meta（Facebook/Instagram）・TikTok広告、無料ストリーミングアプリを装ったランディングページ
+- 主な標的地域: スペイン（スペイン語圏ユーザー）
+- 悪用機能: Android Accessibility Service、MediaProjection API
+- 攻撃能力: VNC遠隔操作、Hidden Screen、UIツリー収集、キーロギング、オーバーレイによるクレデンシャル窃取
+- 観測されたキャンペーン期間: 2026年6月11日〜7月3日（Meta）、同時期にTikTokでも同一バナー使用
+- 広告リーチ: 単一Metaキャンペーンで約57万人
 
 ## タイムライン
 
+- [2026-09-05 Meta・TikTok広告経由で拡散するAndroidバンキング型トロイの木馬「StreamRat」](../articles/2026-09-05-streamrat-android-trojan-meta-tiktok-ads.md)
 - [2026-09-04 Meta・TikTok広告経由で拡散するAndroidトロイの木馬「StreamRat」 Accessibility悪用で端末を完全掌握](../articles/2026-09-04-streamrat-android-trojan-meta-tiktok-ads.md)

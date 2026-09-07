@@ -13,5 +13,6 @@ Google Chrome 152（2026年9月公開）に関する一連のセキュリティ�
 
 ## タイムライン
 
+- [2026-09-05 Google、Chromeで実悪用中のV8ゼロデイ脆弱性CVE-2026-85046を緊急パッチ](../articles/2026-09-05-chrome-v8-zeroday-cve-2026-85046.md)
 - [2026-09-04 Chrome、実悪用中のV8ゼロデイCVE-2026-85046を修正 2026年6件目のゼロデイ対応](../articles/2026-09-04-chrome-cve-2026-85046-zeroday.md)
 - [2026-09-01 Google、Chrome 152で26件の脆弱性を修正 Shared Tab Groups・WebGLに致命的なUse-After-Free](../articles/2026-09-01-chrome-152-security-update.md)
