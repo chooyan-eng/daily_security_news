@@ -4,6 +4,11 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Magento/Adobe Commerce ゼロデイ「StyleSmuggler」未認証RCE（2026年9月）](./adobe-commerce-magento-stylesmuggler-2026.md) | 2026-09-07 | 1件 |
+| [JSCealマルウェア コンパイル済みV8バイトコードによる認証情報窃取（2026年）](./jsceal-v8-bytecode-malware-2026.md) | 2026-09-07 | 1件 |
+| [Chrome拡張機能悪用の侵害後バックドア「PEEP」（2026年）](./peep-chrome-extension-backdoor-2026.md) | 2026-09-07 | 1件 |
+| [ASUS Control Center Enterprise CVE-2026-75754 root権限奪取脆弱性（2026年9月）](./asus-control-center-enterprise-cve-2026-75754.md) | 2026-09-07 | 1件 |
+| [Roundcube Webmail セキュリティアップデート（2026年9月）](./roundcube-security-update-2026-09.md) | 2026-09-07 | 1件 |
 | [MikroTik RouterOS「MikroTrick」SSH認証バイパス連鎖脆弱性（2026年9月）](./mikrotik-routeros-mikrotrick-2026.md) | 2026-09-06 | 1件 |
 | [WordPress「Mail Mint」プラグイン CVE-2026-10196 未認証RCE脆弱性（2026年9月）](./mail-mint-wordpress-cve-2026-10196.md) | 2026-09-06 | 1件 |
 | [ClickFix「EtherHiding」BNBスマートチェーン悪用キャンペーン（2026年）](./clickfix-etherhiding-bnb-smartchain-2026.md) | 2026-09-06 | 1件 |
@@ -151,7 +156,7 @@
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 6件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
-| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-08-17 | 6件 |
+| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-09-07 | 7件 |
 | [GeoServer 未認証SQLインジェクション ゼロデイ（2026年8月）](./geoserver-sqli-zero-day-2026.md) | 2026-08-17 | 1件 |
 | [悪意あるChrome拡張機能によるAIチャット窃取キャンペーン（2026年）](./chrome-extension-ai-sidebar-data-theft-2026.md) | 2026-08-17 | 1件 |
 | [Azure Logic Apps CVE-2026-56161 情報漏洩脆弱性（2026年8月）](./azure-logic-apps-cve-2026-56161.md) | 2026-08-17 | 1件 |
@@ -166,7 +171,7 @@
 | [Beacon CRM データ侵害（2026年）](./beacon-crm-data-breach-2026.md) | 2026-08-15 | 1件 |
 | [Adobe 2026年8月定例セキュリティ更新](./adobe-patch-tuesday-august-2026.md) | 2026-08-15 | 2件 |
 | [SAP Commerce Cloud CVE-2026-58231 重大脆弱性（2026年8月）](./sap-commerce-cloud-cve-2026-58231.md) | 2026-08-14 | 1件 |
-| [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-08-13 | 1件 |
+| [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-09-07 | 2件 |
 | [セゾンカードを騙るフィッシングメールキャンペーン（2026年）](./saison-card-3dsecure-phishing-2026.md) | 2026-08-13 | 1件 |
 | [北朝鮮リモートIT労働者による組織潜入問題（2026年）](./north-korea-it-worker-infiltration-2026.md) | 2026-08-13 | 1件 |
 | [Microsoft Patch Tuesday 2026年8月](./microsoft-patch-tuesday-august-2026.md) | 2026-08-13 | 1件 |
