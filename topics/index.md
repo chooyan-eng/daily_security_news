@@ -13,6 +13,19 @@
 | [サンコーテクノ ベトナム子会社ランサムウェア被害事案（2026年8月）](./sanko-techno-vietnam-ransomware-2026.md) | 2026-09-06 | 1件 |
 | [StreamRat Android広告経由バンキング型トロイ（2026年）](./streamrat-android-banking-trojan-2026.md) | 2026-09-06 | 1件 |
 | [Starbucks従業員ポータル「Partner Central」フィッシング侵害（2026年）](./starbucks-partner-central-phishing-breach-2026.md) | 2026-09-06 | 1件 |
+| [Chrome 152 セキュリティアップデート（2026年9月）](./chrome-152-security-update-2026.md) | 2026-09-06 | 4件 |
+| [「ASCIIスマグリング」不可視Unicode悪用フィッシングキャンペーン（2026年）](./microsoft-ascii-smuggling-phishing-2026.md) | 2026-09-05 | 1件 |
+| [Divi Ajax Filter CVE-2026-11613 未認証ローカルファイルインクルード/RCE脆弱性（2026年）](./divi-ajax-filter-cve-2026-11613.md) | 2026-09-05 | 1件 |
+| [WPFunnels「Mail Mint」PHPオブジェクトインジェクション脆弱性群（2026年）](./wpfunnels-mail-mint-object-injection-2026.md) | 2026-09-05 | 1件 |
+| [StreamRat Androidバンキング型トロイの木馬・広告配信キャンペーン（2026年）](./streamrat-android-trojan-2026.md) | 2026-09-05 | 2件 |
+| [SonicWall Network Security Manager (NSM) On-Prem 重大脆弱性群（2026年9月）](./sonicwall-nsm-onprem-cve-2026-78327.md) | 2026-09-05 | 1件 |
+| [Packagist悪意あるComposerテーマパッケージ・iOSスパイウェア配信事案（2026年）](./packagist-ios-spyware-crypto-theft-2026.md) | 2026-09-05 | 1件 |
+| [Cisco IOS XR 2026年9月セキュリティハードニングリリース](./cisco-iosxr-hardening-2026-09.md) | 2026-09-05 | 1件 |
+| [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-09-05 | 4件 |
+| [Thomson Reuters C-Track裁判所ソフトウェア侵害事案（2026年）](./thomson-reuters-ctrack-breach-2026.md) | 2026-09-04 | 1件 |
+| [不可視Unicodeタグ悪用フィッシングキャンペーン（2026年）](./invisible-unicode-tag-phishing-2026.md) | 2026-09-04 | 1件 |
+| [IDScan.net 身分証明書データ大量流出事案（2026年）](./idscan-net-data-breach-2026.md) | 2026-09-04 | 1件 |
+| [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-09-04 | 3件 |
 | [Sangoma Switchvox CVE-2026-9586 未認証SQLインジェクション脆弱性（2026年）](./sangoma-switchvox-cve-2026-9586.md) | 2026-09-03 | 1件 |
 | [All-in-One WP Migration and Backup CVE-2026-19949 SQLインジェクション脆弱性（2026年）](./aio-wp-migration-cve-2026-19949.md) | 2026-09-03 | 1件 |
 | [METR APIキー窃取・AIクレジット不正消費事案（2026年）](./metr-api-key-theft-2026.md) | 2026-09-03 | 1件 |
@@ -26,7 +39,6 @@
 | [Dropbox Lenovo ID連携認証不備によるアカウント侵害（2026年）](./dropbox-lenovo-id-breach-2026.md) | 2026-09-02 | 1件 |
 | [Virtualizor BGPハイジャックによる悪意ある更新配信事案（2026年）](./virtualizor-bgp-hijack-2026.md) | 2026-09-02 | 1件 |
 | [Gambling Goblin ブラジル政府サイト悪用キャンペーン（2026年）](./gambling-goblin-apache-modules-brazil-2026.md) | 2026-09-02 | 1件 |
-| [Chrome 152 セキュリティアップデート（2026年9月）](./chrome-152-security-update-2026.md) | 2026-09-06 | 2件 |
 | [まんだらけ 不正アクセス事案（2026年8月）](./mandarake-unauthorized-access-2026.md) | 2026-09-01 | 1件 |
 | [TerminalFix ClickFix亜種によるリバーストンネル攻撃キャンペーン（2026年）](./terminalfix-clickfix-reverse-tunnel-2026.md) | 2026-09-01 | 1件 |
 | [チャーム ペット用品通販サイト不正アクセス事案（2026年8月）](./charm-pet-supplies-unauthorized-access-2026.md) | 2026-09-01 | 1件 |
@@ -76,7 +88,7 @@
 | [ノルウェー政府デジタル基盤への連続DDoS攻撃（2026年）](./norway-digdir-ddos-2026.md) | 2026-08-26 | 1件 |
 | [OpenSSL 2026年8月25日セキュリティアドバイザリ](./openssl-security-advisory-august-2026.md) | 2026-08-26 | 1件 |
 | [楽天モバイル eSIM不正契約・匿名流動型犯罪グループへの転売事案（2026年）](./rakuten-mobile-esim-fraud-2026.md) | 2026-08-26 | 1件 |
-| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-09-01 | 5件 |
+| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-09-05 | 6件 |
 | [Zimbra Collaboration Suite SNMP RCE脆弱性 CVE-2026-73570（2026年8月）](./zimbra-snmp-cve-2026-73570-rce-2026.md) | 2026-08-26 | 3件 |
 | [Marimo ノートブック CVE-2026-75149 MCPコマンド実行脆弱性（2026年）](./marimo-notebook-cve-2026-75149.md) | 2026-08-25 | 1件 |
 | [Mirage2FA フィッシングキット AiTM攻撃キャンペーン（2026年）](./mirage2fa-phishing-m365-2026.md) | 2026-08-25 | 1件 |
@@ -122,7 +134,6 @@
 | [MLflow SSRF 脆弱性 CVE-2026-64849 悪用（2026年8月）](./mlflow-ssrf-cve-2026-64849.md) | 2026-08-20 | 1件 |
 | [TrueConf Server 連鎖脆弱性 CVE-2026-72529/72530（2026年）](./trueconf-cve-2026-72529-head-mare.md) | 2026-08-20 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-20 | 5件 |
-| [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-20 | 2件 |
 | [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-20 | 3件 |
 | [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-09-01 | 2件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-08-19 | 6件 |
@@ -278,7 +289,6 @@
 | [Microsoft SharePoint Server CVE-2026-50522 マシンキー窃取キャンペーン（2026年7月）](./sharepoint-cve-2026-50522-machine-key-theft.md) | 2026-07-24 | 1件 |
 | [関市 Webアンケートフォーム個人情報閲覧可能事案（2026年7月）](./seki-city-survey-form-leak-2026.md) | 2026-07-24 | 1件 |
 | [佐川急便「スマートクラブ」個人情報漏えい（2026年7月）](./sagawa-smartclub-leak-2026.md) | 2026-07-24 | 1件 |
-| [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-07-24 | 3件 |
 | [AWS Kiro エージェント型IDE 設定書き換えRCE（2026年）](./aws-kiro-mcp-config-rce-2026.md) | 2026-07-24 | 1件 |
 | [韓国 国立外交院オンライン教育システム侵害（2026年）](./south-korea-diplomatic-academy-breach-2026.md) | 2026-07-23 | 1件 |
 | [Sony FeliCa CVE-2026-59776 暗号処理脆弱性（2026年）](./sony-felica-cve-2026-59776.md) | 2026-07-23 | 1件 |
