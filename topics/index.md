@@ -4,6 +4,12 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Thomson Reuters C-Track裁判所ソフトウェア侵害事案（2026年）](./thomson-reuters-ctrack-breach-2026.md) | 2026-09-04 | 1件 |
+| [不可視Unicodeタグ悪用フィッシングキャンペーン（2026年）](./invisible-unicode-tag-phishing-2026.md) | 2026-09-04 | 1件 |
+| [IDScan.net 身分証明書データ大量流出事案（2026年）](./idscan-net-data-breach-2026.md) | 2026-09-04 | 1件 |
+| [StreamRat Android型トロイの木馬・Meta/TikTok広告悪用キャンペーン（2026年）](./streamrat-android-trojan-2026.md) | 2026-09-04 | 1件 |
+| [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-09-04 | 3件 |
+| [Chrome 152 セキュリティアップデート（2026年9月）](./chrome-152-security-update-2026.md) | 2026-09-04 | 2件 |
 | [Sangoma Switchvox CVE-2026-9586 未認証SQLインジェクション脆弱性（2026年）](./sangoma-switchvox-cve-2026-9586.md) | 2026-09-03 | 1件 |
 | [All-in-One WP Migration and Backup CVE-2026-19949 SQLインジェクション脆弱性（2026年）](./aio-wp-migration-cve-2026-19949.md) | 2026-09-03 | 1件 |
 | [METR APIキー窃取・AIクレジット不正消費事案（2026年）](./metr-api-key-theft-2026.md) | 2026-09-03 | 1件 |
@@ -17,7 +23,6 @@
 | [Dropbox Lenovo ID連携認証不備によるアカウント侵害（2026年）](./dropbox-lenovo-id-breach-2026.md) | 2026-09-02 | 1件 |
 | [Virtualizor BGPハイジャックによる悪意ある更新配信事案（2026年）](./virtualizor-bgp-hijack-2026.md) | 2026-09-02 | 1件 |
 | [Gambling Goblin ブラジル政府サイト悪用キャンペーン（2026年）](./gambling-goblin-apache-modules-brazil-2026.md) | 2026-09-02 | 1件 |
-| [Chrome 152 セキュリティアップデート（2026年9月）](./chrome-152-security-update-2026.md) | 2026-09-01 | 1件 |
 | [まんだらけ 不正アクセス事案（2026年8月）](./mandarake-unauthorized-access-2026.md) | 2026-09-01 | 1件 |
 | [TerminalFix ClickFix亜種によるリバーストンネル攻撃キャンペーン（2026年）](./terminalfix-clickfix-reverse-tunnel-2026.md) | 2026-09-01 | 1件 |
 | [チャーム ペット用品通販サイト不正アクセス事案（2026年8月）](./charm-pet-supplies-unauthorized-access-2026.md) | 2026-09-01 | 1件 |
@@ -113,7 +118,6 @@
 | [MLflow SSRF 脆弱性 CVE-2026-64849 悪用（2026年8月）](./mlflow-ssrf-cve-2026-64849.md) | 2026-08-20 | 1件 |
 | [TrueConf Server 連鎖脆弱性 CVE-2026-72529/72530（2026年）](./trueconf-cve-2026-72529-head-mare.md) | 2026-08-20 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-20 | 5件 |
-| [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-08-20 | 2件 |
 | [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-20 | 3件 |
 | [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-09-01 | 2件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-08-19 | 6件 |
