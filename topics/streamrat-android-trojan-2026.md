@@ -16,3 +16,4 @@
 ## タイムライン
 
 - [2026-09-05 Meta・TikTok広告経由で拡散するAndroidバンキング型トロイの木馬「StreamRat」](../articles/2026-09-05-streamrat-android-trojan-meta-tiktok-ads.md)
+- [2026-09-04 Meta・TikTok広告経由で拡散するAndroidトロイの木馬「StreamRat」 Accessibility悪用で端末を完全掌握](../articles/2026-09-04-streamrat-android-trojan-meta-tiktok-ads.md)
