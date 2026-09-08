@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Microsoft Patch Tuesday 2026年9月](./microsoft-patch-tuesday-september-2026.md) | 2026-09-08 | 1件 |
+| [WeChat「WeWorm」ゼロクリックワーム型アカウント乗っ取り（2026年）](./wechat-weworm-zero-click-worm-2026.md) | 2026-09-08 | 1件 |
+| [「PREY-0058」ITヘルプデスク偽装ビッシングによるMicrosoft 365侵害（2026年）](./prey-0058-helpdesk-vishing-m365-2026.md) | 2026-09-08 | 1件 |
+| [Jellyfin 12.0 セキュリティアップデート（2026年9月）](./jellyfin-12-security-fixes-2026.md) | 2026-09-08 | 1件 |
+| [N-able N-central CVE-2026-86218 静的コードインジェクション脆弱性（2026年9月）](./n-able-n-central-cve-2026-86218-kev-2026.md) | 2026-09-08 | 1件 |
+| [ベトナム関連APIS（乗客事前情報システム）データベース公開事案（2026年）](./vietnam-apis-leak-2026.md) | 2026-09-08 | 1件 |
+| [SAP 2026年9月セキュリティパッチデー](./sap-security-patch-day-september-2026.md) | 2026-09-08 | 1件 |
 | [Magento/Adobe Commerce ゼロデイ「StyleSmuggler」未認証RCE（2026年9月）](./adobe-commerce-magento-stylesmuggler-2026.md) | 2026-09-07 | 1件 |
 | [JSCealマルウェア コンパイル済みV8バイトコードによる認証情報窃取（2026年）](./jsceal-v8-bytecode-malware-2026.md) | 2026-09-07 | 1件 |
 | [Chrome拡張機能悪用の侵害後バックドア「PEEP」（2026年）](./peep-chrome-extension-backdoor-2026.md) | 2026-09-07 | 1件 |
@@ -171,7 +178,7 @@
 | [Beacon CRM データ侵害（2026年）](./beacon-crm-data-breach-2026.md) | 2026-08-15 | 1件 |
 | [Adobe 2026年8月定例セキュリティ更新](./adobe-patch-tuesday-august-2026.md) | 2026-08-15 | 2件 |
 | [SAP Commerce Cloud CVE-2026-58231 重大脆弱性（2026年8月）](./sap-commerce-cloud-cve-2026-58231.md) | 2026-08-14 | 1件 |
-| [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-09-07 | 2件 |
+| [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-09-08 | 3件 |
 | [セゾンカードを騙るフィッシングメールキャンペーン（2026年）](./saison-card-3dsecure-phishing-2026.md) | 2026-08-13 | 1件 |
 | [北朝鮮リモートIT労働者による組織潜入問題（2026年）](./north-korea-it-worker-infiltration-2026.md) | 2026-08-13 | 1件 |
 | [Microsoft Patch Tuesday 2026年8月](./microsoft-patch-tuesday-august-2026.md) | 2026-08-13 | 1件 |
