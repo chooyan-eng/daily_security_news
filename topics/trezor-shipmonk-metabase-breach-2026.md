@@ -15,5 +15,6 @@
 
 ## タイムライン
 
+- [2026-09-08 Trezor顧客、ShipMonk漏洩データを悪用したフィッシング電話・郵便物の被害が顕在化](../articles/2026-09-08-trezor-shipmonk-phishing-calls-letters.md)
 - [2026-09-07 Trezor、ShipMonk経由の情報漏洩が想定より大規模と判明 「削除済み」のはずの6.7万件が新たに流出](../articles/2026-09-07-trezor-shipmonk-breach-expanded.md)
 - [2026-08-13 Trezor、物流委託先ShipMonkのMetabase脆弱性悪用で約14,000件の顧客データ流出を公表](../articles/2026-08-13-trezor-shipmonk-metabase-breach.md)
