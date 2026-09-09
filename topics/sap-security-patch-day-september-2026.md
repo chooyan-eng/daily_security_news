@@ -9,7 +9,10 @@ SAPが2026年9月8日に公開した月例セキュリティパッチデー。�
 - 修正件数: 新規19件＋更新1件＝計20件
 - 最重要脆弱性: CVE-2026-44756（SAP Extended Passport Processing、メモリ破損、CVSS 10.0）
 - 対象製品: SAP NetWeaver、SAP Extended Passport Processing、SAP Cloud Application Programming Model、SAP S/4HANA、SAP Integration Suite、SAP Commerce Cloud等
+- CVE-2026-44756の通称: 「OVERPASS」（Onapsis命名）。SAPカーネルのExtended Passport Protocol（EPP）処理ライブラリにおける古典的バッファオーバーフロー
+- CVE-2026-58240の通称: 「S4GET」（Onapsis Research Labs命名）。SAP NetWeaver Message Serverにおける認証欠如（Critical）
 
 ## タイムライン
 
+- [2026-09-09 SAP 2026年9月パッチデーの最重要脆弱性「OVERPASS」（CVE-2026-44756）、詳細技術分析が明らかに](../articles/2026-09-09-sap-overpass-cve-2026-44756-kernel.md)
 - [2026-09-08 SAP、2026年9月セキュリティパッチデーでCVSS10.0の最高深刻度脆弱性を含む20件を修正](../articles/2026-09-08-sap-security-patch-day-september-2026.md)
