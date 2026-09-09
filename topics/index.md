@@ -4,13 +4,20 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Chrome V8 ゼロデイ CVE-2026-87491（2026年9月）](./chrome-v8-cve-2026-87491-zero-day-2026.md) | 2026-09-09 | 1件 |
+| [Alby Hub 重大脆弱性 インターネット公開ウォレット乗っ取り（2026年）](./alby-hub-critical-flaw-bitcoin-wallet-2026.md) | 2026-09-09 | 1件 |
+| [DeepSeek Harness CVE-2026-82533 サンドボックスエスケープ脆弱性（2026年）](./deepseek-harness-cve-2026-82533-sandbox-escape-2026.md) | 2026-09-09 | 1件 |
+| [PoisonedRefresh F5 BIG-IP APM ファイルレスルートキット（2026年）](./poisonedrefresh-f5-bigip-apm-rootkit-2026.md) | 2026-09-09 | 1件 |
+| [インフォスティーラー由来のAIサービス認証トークン窃取・不正転売事案（2026年）](./infostealer-ai-token-theft-anthropic-2026.md) | 2026-09-09 | 1件 |
+| [Plex Media Server 未パッチ大量露出事案（2026年）](./plex-media-server-unpatched-exposure-2026.md) | 2026-09-09 | 1件 |
+| [京都サンガF.C. ファンクラブ会員情報誤送信事案（2026年）](./kyoto-sanga-fanclub-misdelivery-2026.md) | 2026-09-09 | 1件 |
 | [Microsoft Patch Tuesday 2026年9月](./microsoft-patch-tuesday-september-2026.md) | 2026-09-08 | 1件 |
 | [WeChat「WeWorm」ゼロクリックワーム型アカウント乗っ取り（2026年）](./wechat-weworm-zero-click-worm-2026.md) | 2026-09-08 | 1件 |
 | [「PREY-0058」ITヘルプデスク偽装ビッシングによるMicrosoft 365侵害（2026年）](./prey-0058-helpdesk-vishing-m365-2026.md) | 2026-09-08 | 1件 |
 | [Jellyfin 12.0 セキュリティアップデート（2026年9月）](./jellyfin-12-security-fixes-2026.md) | 2026-09-08 | 1件 |
 | [N-able N-central CVE-2026-86218 静的コードインジェクション脆弱性（2026年9月）](./n-able-n-central-cve-2026-86218-kev-2026.md) | 2026-09-08 | 1件 |
 | [ベトナム関連APIS（乗客事前情報システム）データベース公開事案（2026年）](./vietnam-apis-leak-2026.md) | 2026-09-08 | 1件 |
-| [SAP 2026年9月セキュリティパッチデー](./sap-security-patch-day-september-2026.md) | 2026-09-08 | 1件 |
+| [SAP 2026年9月セキュリティパッチデー](./sap-security-patch-day-september-2026.md) | 2026-09-09 | 2件 |
 | [Magento/Adobe Commerce ゼロデイ「StyleSmuggler」未認証RCE（2026年9月）](./adobe-commerce-magento-stylesmuggler-2026.md) | 2026-09-07 | 1件 |
 | [JSCealマルウェア コンパイル済みV8バイトコードによる認証情報窃取（2026年）](./jsceal-v8-bytecode-malware-2026.md) | 2026-09-07 | 1件 |
 | [Chrome拡張機能悪用の侵害後バックドア「PEEP」（2026年）](./peep-chrome-extension-backdoor-2026.md) | 2026-09-07 | 1件 |
@@ -411,7 +418,7 @@
 | [Mustang Panda：Zoho WorkDrive 悪用 ZOHOMURK・MINIRECON キャンペーン（2026年）](./mustang-panda-zohomurk-minirecon-2026.md) | 2026-06-30 | 1件 |
 | [Lantronix EDS5000 CVE-2025-67038 産業用IoTシリアルサーバー重大脆弱性（2026年）](./lantronix-eds5000-cve-2025-67038.md) | 2026-06-30 | 2件 |
 | [FBI/CISA：ロシア諜報機関によるSignalバックアップリカバリーキー窃取フィッシング（2026年6月）](./fbi-signal-russian-backup-key-2026.md) | 2026-06-30 | 4件 |
-| [TheGentlemen ランサムウェアグループ（2026年）](./thegentlemen-ransomware-2026.md) | 2026-06-29 | 1件 |
+| [TheGentlemen ランサムウェアグループ（2026年）](./thegentlemen-ransomware-2026.md) | 2026-09-09 | 2件 |
 | [Synology MailPlus Server 重大脆弱性（2026年）](./synology-mailplus-server-2026.md) | 2026-06-29 | 1件 |
 | [PTC Windchill CVE-2026-12569 RCE](./ptc-windchill-cve-2026-12569.md) | 2026-06-29 | 4件 |
 | [Linuxカーネルpage cache LPE脆弱性シリーズ（CVE-2026-46331 / CVE-2026-43503）](./linux-page-cache-lpe-2026.md) | 2026-06-29 | 6件 |

@@ -12,7 +12,9 @@
 - 身代金規模: $500k〜$5M（被害者収益に応じて変動）
 - 特化セクター: 製造・エネルギー・防衛
 - ビジネスモデル: ダブルエクスポージョン（データ窃取＋暗号化）
+- 被害企業（追加）: Veradigm Inc.（米医療IT大手、2026年9月8日公表。委託ベンダー経由の認証情報窃取によりAPI不正アクセス、患者記録約350万件の窃取を主張。臨床データは対象外）
 
 ## タイムライン
 
+- [2026-09-09 米医療IT大手Veradigm、委託ベンダー経由の侵害で患者データ流出 The Gentlemenが犯行主張](../articles/2026-09-09-veradigm-gentlemen-ransomware-breach.md)
 - [2026-06-29 Atlas Elektronik — TheGentlemen ランサムウェアが欧州防衛技術企業を侵害](../articles/2026-06-29-atlas-elektronik-thegentlemen-breach.md)
