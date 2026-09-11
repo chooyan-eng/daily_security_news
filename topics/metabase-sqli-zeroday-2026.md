@@ -35,6 +35,7 @@
 
 ## タイムライン
 
+- [2026-09-11 Mathspace侵害、ShinyHuntersが犯行声明 パッチ適用の遅れが被害拡大の一因に](../articles/2026-09-11-mathspace-shinyhunters-claim.md)
 - [2026-09-07 豪教育アプリMathspace、未パッチのMetabase脆弱性悪用で108万人分の生徒・保護者データが流出](../articles/2026-09-07-mathspace-metabase-breach.md)
 - [2026-08-17 Metabase CVE-2026-72898：未認証SQLインジェクションで管理者権限奪取、CISA KEVに追加](../articles/2026-08-17-metabase-cve-2026-72898-sqli-kev.md)
 - [2026-08-12 Metabase SQL インジェクション（CVE-2026-72898、CVSS 10.0）で少なくとも5社が侵害 – 接続先データベースの認証情報が根こそぎ流出](../articles/2026-08-12-metabase-cve-2026-72898-sqli.md)
