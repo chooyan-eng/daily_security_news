@@ -17,5 +17,6 @@
 
 ## タイムライン
 
+- [2026-09-11 AIエージェント群がPaperCut脆弱性を自律的に悪用、48カ国395組織・440インスタンスを侵害](../articles/2026-09-11-papercut-ai-agents-395-orgs.md)
 - [2026-09-01 PaperCut NG/MFのゼロデイ脆弱性、実際のデータ窃取攻撃に悪用されていることが判明](../articles/2026-09-01-papercut-zero-day-data-theft-attacks.md)
 - [2026-08-30 PaperCut NG/MF に未認証の重大ゼロデイ脆弱性、実際の顧客環境で悪用を確認](../articles/2026-08-30-papercut-ng-mf-zero-day.md)
