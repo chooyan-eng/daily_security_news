@@ -9,6 +9,11 @@
 | [Apache ActiveMQ Artemis CVE-2026-57967 セッション乗っ取り脆弱性（2026年9月）](./apache-activemq-artemis-cve-2026-57967.md) | 2026-09-11 | 1件 |
 | [国内地方銀行アプリ スマートフォンウイルス感染による不正送金注意喚起（2026年9月）](./japan-bank-apps-smartphone-virus-warning-2026.md) | 2026-09-11 | 1件 |
 | [Gigabud Androidバンキング型トロイ ワークプロファイル悪用アプリ複製キャンペーン（2026年）](./gigabud-android-work-profile-clone-2026.md) | 2026-09-11 | 1件 |
+| [cPanel EmailTrack CVE-2026-67401 SQLインジェクション→root権限奪取脆弱性（2026年9月）](./cpanel-emailtrack-cve-2026-67401-2026.md) | 2026-09-10 | 1件 |
+| [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-10 | 1件 |
+| [Kestra OSS CVE-2026-49869 認証バイパス→root権限RCE脆弱性（2026年）](./kestra-oss-cve-2026-49869-rce-2026.md) | 2026-09-10 | 1件 |
+| [AdaptHealth データ侵害（2026年6月）](./adapthealth-data-breach-2026.md) | 2026-09-10 | 1件 |
+| [Google Play「早期アクセス」機能悪用の欺瞞的Androidアプリ配布問題（2026年）](./google-play-early-access-deceptive-apps-2026.md) | 2026-09-10 | 1件 |
 | [Chrome V8 ゼロデイ CVE-2026-87491（2026年9月）](./chrome-v8-cve-2026-87491-zero-day-2026.md) | 2026-09-09 | 1件 |
 | [Alby Hub 重大脆弱性 インターネット公開ウォレット乗っ取り（2026年）](./alby-hub-critical-flaw-bitcoin-wallet-2026.md) | 2026-09-09 | 1件 |
 | [DeepSeek Harness CVE-2026-82533 サンドボックスエスケープ脆弱性（2026年）](./deepseek-harness-cve-2026-82533-sandbox-escape-2026.md) | 2026-09-09 | 1件 |
@@ -48,7 +53,7 @@
 | [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-09-05 | 4件 |
 | [Thomson Reuters C-Track裁判所ソフトウェア侵害事案（2026年）](./thomson-reuters-ctrack-breach-2026.md) | 2026-09-04 | 1件 |
 | [不可視Unicodeタグ悪用フィッシングキャンペーン（2026年）](./invisible-unicode-tag-phishing-2026.md) | 2026-09-04 | 1件 |
-| [IDScan.net 身分証明書データ大量流出事案（2026年）](./idscan-net-data-breach-2026.md) | 2026-09-04 | 1件 |
+| [IDScan.net 身分証明書データ大量流出事案（2026年）](./idscan-net-data-breach-2026.md) | 2026-09-10 | 2件 |
 | [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-09-04 | 3件 |
 | [Sangoma Switchvox CVE-2026-9586 未認証SQLインジェクション脆弱性（2026年）](./sangoma-switchvox-cve-2026-9586.md) | 2026-09-03 | 1件 |
 | [All-in-One WP Migration and Backup CVE-2026-19949 SQLインジェクション脆弱性（2026年）](./aio-wp-migration-cve-2026-19949.md) | 2026-09-03 | 1件 |
@@ -76,7 +81,7 @@
 | [アンビションDXホールディングス ファイルサーバー不正アクセス事案（2026年8月）](./ambition-dx-holdings-file-server-breach-2026.md) | 2026-08-31 | 1件 |
 | [SickKids（トロント小児病院）データ侵害事案（2026年）](./sickkids-hospital-data-breach-2026.md) | 2026-08-31 | 1件 |
 | [中国系ハッカー集団「QTFY」による米政府機関標的化事案（2026年8月）](./qtfy-china-us-agencies-espionage-2026.md) | 2026-08-31 | 1件 |
-| [PaperCut NG/MF ゼロデイ脆弱性 CVE-2026-82078／CVE-2026-81578（2026年8月）](./papercut-ng-mf-zero-day-2026.md) | 2026-09-11 | 3件 |
+| [PaperCut NG/MF ゼロデイ脆弱性 CVE-2026-82078／CVE-2026-81578（2026年8月）](./papercut-ng-mf-zero-day-2026.md) | 2026-09-11 | 4件 |
 | [ownCloud CVE-2023-49105 WebDAV認証バイパス脆弱性の悪用（2026年8月）](./owncloud-cve-2023-49105-philippines-2026.md) | 2026-08-30 | 1件 |
 | [Next.js CVE-2026-75604 等 重大RCE脆弱性（2026年8月）](./nextjs-cve-2026-75604-critical-rce-2026.md) | 2026-08-30 | 1件 |
 | [ベルリン市 州行政ネットワーク Rhysidaランサムウェア侵害事案（2026年8月）](./berlin-rhysida-ransomware-2026.md) | 2026-08-30 | 1件 |
@@ -159,7 +164,7 @@
 | [TrueConf Server 連鎖脆弱性 CVE-2026-72529/72530（2026年）](./trueconf-cve-2026-72529-head-mare.md) | 2026-08-20 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-20 | 5件 |
 | [RIZAPグループ ECサイト不正アクセス（2026年8月）](./rizap-aporito-breach-2026.md) | 2026-08-20 | 3件 |
-| [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-09-11 | 3件 |
+| [さくらインターネット 不正アクセス事案（2026年8月）](./sakura-internet-breach-2026.md) | 2026-09-11 | 4件 |
 | [KDDI ISPメールシステム不正アクセス（2026年6月）](./kddi-isp-email-breach-2026.md) | 2026-08-19 | 6件 |
 | [Direwolf ランサムウェアグループ（2026年）](./direwolf-ransomware-2026.md) | 2026-08-28 | 3件 |
 | [Forminator WordPressプラグイン CVE-2026-15748（2026年8月）](./forminator-wordpress-cve-2026-15748.md) | 2026-08-18 | 1件 |
@@ -258,7 +263,7 @@
 | [CosmosEscape：Azure Cosmos DB プラットフォーム全体キー露出脆弱性（2026年）](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 3件 |
 | [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
 | [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
-| [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-08-01 | 2件 |
+| [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-09-10 | 3件 |
 | [Adform 広告スクリプト サプライチェーン攻撃・暗号資産ウォレットすり替え（2026年）](./adform-crypto-wallet-swap-supply-chain-2026.md) | 2026-08-01 | 1件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 認証脆弱性（2026年）](./takara-tomy-duelmasters-app-vulnerability-2026.md) | 2026-07-31 | 1件 |
 | [Gitea Docker CVE-2026-20896 認証バイパス（2026年）](./gitea-docker-cve-2026-20896.md) | 2026-07-31 | 6件 |
