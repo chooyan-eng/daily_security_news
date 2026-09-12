@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [GitLab CVE-2026-85706 コミットAPI パストラバーサル脆弱性（2026年9月）](./gitlab-cve-2026-85706-path-traversal-2026.md) | 2026-09-12 | 1件 |
+| [Apache ActiveMQ Artemis CVE-2026-57967 セッション乗っ取り脆弱性（2026年）](./apache-activemq-artemis-cve-2026-57967-2026.md) | 2026-09-12 | 1件 |
+| [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-09-12 | 3件 |
+| [Citrix NetScaler ADC/Gateway CVE-2026-19490 認証バイパス（2026年8月）](./citrix-netscaler-cve-2026-19490.md) | 2026-09-12 | 2件 |
+| [Mantax Otax Android ランサムウェア＋スパイウェア統合マルウェア（2026年）](./mantax-otax-android-ransomware-spyware-2026.md) | 2026-09-12 | 1件 |
+| [JFrog Artifactory CVE-2026-82329 認証バイパス脆弱性（2026年）](./jfrog-artifactory-cve-2026-82329.md) | 2026-09-12 | 3件 |
+| [claude.ai「共有チャット」機能悪用によるClickFix型マルウェア配布（2026年）](./claude-ai-shared-chat-clickfix-2026.md) | 2026-09-12 | 1件 |
+| [Android 2026年9月セキュリティ公報](./android-security-bulletin-september-2026.md) | 2026-09-12 | 1件 |
+| [Revolut 顧客データ侵害事案（偽政府機関要求、2026年9月）](./revolut-data-breach-2026.md) | 2026-09-12 | 1件 |
 | [cPanel EmailTrack CVE-2026-67401 SQLインジェクション→root権限奪取脆弱性（2026年9月）](./cpanel-emailtrack-cve-2026-67401-2026.md) | 2026-09-10 | 1件 |
 | [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-10 | 1件 |
 | [Kestra OSS CVE-2026-49869 認証バイパス→root権限RCE脆弱性（2026年）](./kestra-oss-cve-2026-49869-rce-2026.md) | 2026-09-10 | 1件 |
@@ -59,7 +68,6 @@
 | [Cisco Nexus 9000シリーズ CVE-2026-20212 未認証RCE脆弱性（2026年9月）](./cisco-nexus-9000-cve-2026-20212.md) | 2026-09-03 | 1件 |
 | [三井不動産 不正アクセス事案（2026年8月〜9月）](./mitsui-fudosan-unauthorized-access-2026.md) | 2026-09-01 | 1件 |
 | [千葉県生物多様性センター ウェブサイト不正アクセス事案（2026年）](./chiba-biodiversity-center-breach-2026.md) | 2026-09-01 | 1件 |
-| [JFrog Artifactory CVE-2026-82329 認証バイパス脆弱性（2026年）](./jfrog-artifactory-cve-2026-82329.md) | 2026-09-03 | 2件 |
 | [Dropbox Lenovo ID連携認証不備によるアカウント侵害（2026年）](./dropbox-lenovo-id-breach-2026.md) | 2026-09-02 | 1件 |
 | [Virtualizor BGPハイジャックによる悪意ある更新配信事案（2026年）](./virtualizor-bgp-hijack-2026.md) | 2026-09-02 | 1件 |
 | [Gambling Goblin ブラジル政府サイト悪用キャンペーン（2026年）](./gambling-goblin-apache-modules-brazil-2026.md) | 2026-09-02 | 1件 |
@@ -137,7 +145,6 @@
 | [RecruitTrap 求人偽装BitBフィッシングキャンペーン（2026年）](./recruittrap-bitb-recruitment-phishing-2026.md) | 2026-08-23 | 1件 |
 | [公開AWSアクセスキー放置問題（Truffle Security調査、2026年）](./aws-exposed-access-keys-truffle-2026.md) | 2026-08-22 | 1件 |
 | [Microsoft Defender BTR.sys 起動時修復ドライバ悪用手法（2026年8月）](./checkpoint-btr-sys-defender-weaponization-2026.md) | 2026-08-22 | 1件 |
-| [Citrix NetScaler ADC/Gateway CVE-2026-19490 認証バイパス（2026年8月）](./citrix-netscaler-cve-2026-19490.md) | 2026-08-22 | 1件 |
 | [xAI Grok「Cryptographic Context Injection」攻撃（2026年）](./xai-grok-cryptographic-context-injection-2026.md) | 2026-08-22 | 1件 |
 | [LockBitランサムウェアによるUS Bank攻撃主張（2026年8月）](./lockbit-us-bank-ransomware-2026.md) | 2026-08-22 | 1件 |
 | [Spring for GraphQL CVE-2026-59285 デシリアライゼーション脆弱性（2026年8月）](./spring-graphql-cve-2026-59285.md) | 2026-08-22 | 1件 |
@@ -256,7 +263,6 @@
 | [WordPress ARVEプラグイン バックドア混入 CVE-2026-18072（2026年）](./wordpress-arve-plugin-backdoor-cve-2026-18072.md) | 2026-08-01 | 2件 |
 | [タカラトミー デュエル・マスターズ サポートアプリ 個人情報漏洩（2026年）](./takaratomy-duel-masters-app-leak-2026.md) | 2026-08-01 | 1件 |
 | [CosmosEscape：Azure Cosmos DB プラットフォーム全体キー露出脆弱性（2026年）](./cosmosescape-azure-cosmos-db-2026.md) | 2026-08-01 | 3件 |
-| [Cisco Secure FMC CVE-2026-20316 静的認証情報脆弱性](./cisco-fmc-cve-2026-20316.md) | 2026-08-01 | 2件 |
 | [Brinks Home ShinyHuntersビッシング侵害（2026年7月）](./brinks-home-shinyhunters-breach-2026.md) | 2026-08-01 | 1件 |
 | [Anthropic Claude セキュリティ評価インシデント（2026年）](./anthropic-claude-cybersecurity-eval-incidents-2026.md) | 2026-09-10 | 3件 |
 | [Adform 広告スクリプト サプライチェーン攻撃・暗号資産ウォレットすり替え（2026年）](./adform-crypto-wallet-swap-supply-chain-2026.md) | 2026-08-01 | 1件 |
