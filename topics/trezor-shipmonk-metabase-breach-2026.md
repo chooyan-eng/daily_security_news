@@ -2,7 +2,7 @@
 
 ## 概要
 
-ハードウェア暗号資産ウォレットメーカー Trezor が、配送・物流委託先である ShipMonk への不正アクセスにより、約14,000件の顧客データが流出したと公表。攻撃者は ShipMonk が利用するサードパーティ分析基盤 Metabase の脆弱性を悪用してデータへアクセスした。Trezor自体のシステム・ハードウェアウォレットは侵害されていないとされる。
+ハードウェア暗号資産ウォレットメーカー Trezor が、配送・物流委託先である ShipMonk への不正アクセスにより、約14,000件の顧客データが流出したと公表。攻撃者は ShipMonk が利用するサードパーティ分析基盤 Metabase の脆弱性を悪用してデータへアクセスした。Trezor自体のシステム・ハードウェアウォレットは侵害されていないとされる。2026年9月には、別のサードパーティであるメール配信基盤Brevoの侵害を通じたフィッシング拡散被害も新たに発生している。
 
 **同一性の判断に役立つ情報：**
 - 影響組織: Trezor（顧客データ）、ShipMonk（委託先、直接の侵害元）
@@ -15,6 +15,7 @@
 
 ## タイムライン
 
+- [2026-09-11 Trezor、メール配信基盤Brevoが侵害されフィッシング拡散 34.7万件のメールアドレスに影響](../articles/2026-09-11-trezor-brevo-phishing-breach.md)
 - [2026-09-08 Trezor顧客、ShipMonk漏洩データを悪用したフィッシング電話・郵便物の被害が顕在化](../articles/2026-09-08-trezor-shipmonk-phishing-calls-letters.md)
 - [2026-09-07 Trezor、ShipMonk経由の情報漏洩が想定より大規模と判明 「削除済み」のはずの6.7万件が新たに流出](../articles/2026-09-07-trezor-shipmonk-breach-expanded.md)
 - [2026-08-13 Trezor、物流委託先ShipMonkのMetabase脆弱性悪用で約14,000件の顧客データ流出を公表](../articles/2026-08-13-trezor-shipmonk-metabase-breach.md)
