@@ -4,6 +4,11 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [GitLab CVE-2026-85706 パストラバーサル脆弱性（2026年9月）](./gitlab-cve-2026-85706-path-traversal.md) | 2026-09-13 | 1件 |
+| [Cisco Secure Firewall Management Center CVE-2026-20079 認証バイパス脆弱性（2026年9月）](./cisco-fmc-cve-2026-20079-sandworm-qilin.md) | 2026-09-13 | 1件 |
+| [Surfshark VPN 内部テストサーバー不正アクセス事案（2026年）](./surfshark-vpn-internal-server-breach-2026.md) | 2026-09-13 | 1件 |
+| [Palo Alto Networks PAN-OS CVE-2026-0310 バッファオーバーフロー脆弱性（2026年9月）](./paloalto-panos-cve-2026-0310-buffer-overflow.md) | 2026-09-13 | 1件 |
+| [熊本県「ワンストップジョブサイトくまもと」不正アクセス改ざん事案（2026年9月）](./kumamoto-job-site-defacement-2026.md) | 2026-09-13 | 1件 |
 | [デジタル庁 GSS 不正アクセス事案（2026年9月）](./digital-agency-gss-breach-2026.md) | 2026-09-11 | 1件 |
 | [WooCommerce「MIPL Grouped Checkout Fields」プラグイン CVE-2026-8778 未認証ファイルアップロード脆弱性（2026年9月）](./woocommerce-mipl-checkout-cve-2026-8778.md) | 2026-09-11 | 1件 |
 | [Apache ActiveMQ Artemis CVE-2026-57967 セッション乗っ取り脆弱性（2026年9月）](./apache-activemq-artemis-cve-2026-57967.md) | 2026-09-11 | 1件 |
@@ -159,7 +164,7 @@
 | [Elementor Pro CVE-2026-32475 未認証RCE（2026年8月）](./elementor-pro-cve-2026-32475.md) | 2026-08-20 | 1件 |
 | [CareCloud データ侵害（2026年）](./carecloud-data-breach-2026.md) | 2026-08-20 | 1件 |
 | [Microsoft Copilot Personal「CoSnitch」脆弱性（CVE-2026-24301、2026年）](./microsoft-copilot-cosnitch-cve-2026-24301.md) | 2026-08-20 | 1件 |
-| [Microsoft Defender ShieldBreak ゼロデイ（CVE-2026-69414、2026年8月）](./shieldbreak-defender-cve-2026-69414.md) | 2026-08-20 | 1件 |
+| [Microsoft Defender ShieldBreak ゼロデイ（CVE-2026-69414、2026年8月）](./shieldbreak-defender-cve-2026-69414.md) | 2026-09-13 | 2件 |
 | [MLflow SSRF 脆弱性 CVE-2026-64849 悪用（2026年8月）](./mlflow-ssrf-cve-2026-64849.md) | 2026-08-20 | 1件 |
 | [TrueConf Server 連鎖脆弱性 CVE-2026-72529/72530（2026年）](./trueconf-cve-2026-72529-head-mare.md) | 2026-08-20 | 1件 |
 | [VMware vCenter/ESX 重大脆弱性 VMSA-2026-0006（2026年）](./vmware-vcenter-esx-critical-vulnerabilities-2026.md) | 2026-08-20 | 5件 |
