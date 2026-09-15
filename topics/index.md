@@ -4,14 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Cisco Secure Email Gateway CVE-2026-76461 ルート権限奪取脆弱性（2026年9月）](./cisco-secure-email-gateway-cve-2026-76461.md) | 2026-09-15 | 1件 |
 | [ConnectWise ScreenConnect CVE-2026-84869 権限管理不備脆弱性（2026年9月）](./connectwise-screenconnect-cve-2026-84869.md) | 2026-09-14 | 1件 |
 | [Tencent「搜狗输入法（Sogou IME）」CVE-2026-51990 ワンクリックRCE脆弱性・GrayRabbitバックドア（2026年）](./tencent-sogou-cve-2026-51990-grayrabbit.md) | 2026-09-14 | 1件 |
 | [Chess.com データスクレイピング流出事案（HIBP登録、2026年）](./chess-com-hibp-data-exposure-2026.md) | 2026-09-14 | 1件 |
 | [採用管理SaaS「ApplyNow」データ分析ツール脆弱性悪用によるマイナンバー等流出事案（2026年9月）](./applynow-kichiri-mynumber-leak-2026.md) | 2026-09-14 | 1件 |
-| [mogilyデジタル整理券システム不正アクセス・円谷プロ「ULTRA MART」抽選結果改ざん事案（2026年9月）](./mogily-ultramart-lottery-tampering-2026.md) | 2026-09-14 | 1件 |
+| [mogilyデジタル整理券システム不正アクセス・円谷プロ「ULTRA MART」抽選結果改ざん事案（2026年9月）](./mogily-ultramart-lottery-tampering-2026.md) | 2026-09-15 | 2件 |
 | [日本トレクス（極東開発工業子会社）不正アクセス事案（2026年9月）](./nihon-trex-kyokuto-kaihatsu-breach-2026.md) | 2026-09-14 | 1件 |
 | [GitLab CVE-2026-85706 パストラバーサル脆弱性（2026年9月）](./gitlab-cve-2026-85706-path-traversal.md) | 2026-09-14 | 2件 |
-| [Cisco Secure Firewall Management Center CVE-2026-20079 認証バイパス脆弱性（2026年9月）](./cisco-fmc-cve-2026-20079-sandworm-qilin.md) | 2026-09-13 | 1件 |
+| [Cisco Secure Firewall Management Center CVE-2026-20079 認証バイパス脆弱性（2026年9月）](./cisco-fmc-cve-2026-20079-sandworm-qilin.md) | 2026-09-15 | 2件 |
 | [Surfshark VPN 内部テストサーバー不正アクセス事案（2026年）](./surfshark-vpn-internal-server-breach-2026.md) | 2026-09-13 | 1件 |
 | [Palo Alto Networks PAN-OS CVE-2026-0310 バッファオーバーフロー脆弱性（2026年9月）](./paloalto-panos-cve-2026-0310-buffer-overflow.md) | 2026-09-13 | 1件 |
 | [熊本県「ワンストップジョブサイトくまもと」不正アクセス改ざん事案（2026年9月）](./kumamoto-job-site-defacement-2026.md) | 2026-09-13 | 1件 |
@@ -23,8 +24,8 @@
 | [JFrog Artifactory CVE-2026-82329 認証バイパス脆弱性（2026年）](./jfrog-artifactory-cve-2026-82329.md) | 2026-09-12 | 3件 |
 | [claude.ai「共有チャット」機能悪用によるClickFix型マルウェア配布（2026年）](./claude-ai-shared-chat-clickfix-2026.md) | 2026-09-12 | 1件 |
 | [Android 2026年9月セキュリティ公報](./android-security-bulletin-september-2026.md) | 2026-09-12 | 1件 |
-| [Revolut 顧客データ侵害事案（偽政府機関要求、2026年9月）](./revolut-data-breach-2026.md) | 2026-09-14 | 2件 |
-| [デジタル庁 GSS 不正アクセス事案（2026年9月）](./digital-agency-gss-breach-2026.md) | 2026-09-11 | 1件 |
+| [Revolut 顧客データ侵害事案（偽政府機関要求、2026年9月）](./revolut-data-breach-2026.md) | 2026-09-15 | 3件 |
+| [デジタル庁 GSS 不正アクセス事案（2026年9月）](./digital-agency-gss-breach-2026.md) | 2026-09-15 | 2件 |
 | [WooCommerce「MIPL Grouped Checkout Fields」プラグイン CVE-2026-8778 未認証ファイルアップロード脆弱性（2026年9月）](./woocommerce-mipl-checkout-cve-2026-8778.md) | 2026-09-11 | 1件 |
 | [Apache ActiveMQ Artemis CVE-2026-57967 セッション乗っ取り脆弱性（2026年9月）](./apache-activemq-artemis-cve-2026-57967.md) | 2026-09-11 | 1件 |
 | [国内地方銀行アプリ スマートフォンウイルス感染による不正送金注意喚起（2026年9月）](./japan-bank-apps-smartphone-virus-warning-2026.md) | 2026-09-11 | 1件 |
@@ -73,7 +74,7 @@
 | [日本交通 不正アクセス・マルウェア感染（2026年）](./nihon-kotsu-malware-breach-2026.md) | 2026-09-05 | 4件 |
 | [Thomson Reuters C-Track裁判所ソフトウェア侵害事案（2026年）](./thomson-reuters-ctrack-breach-2026.md) | 2026-09-04 | 1件 |
 | [不可視Unicodeタグ悪用フィッシングキャンペーン（2026年）](./invisible-unicode-tag-phishing-2026.md) | 2026-09-04 | 1件 |
-| [IDScan.net 身分証明書データ大量流出事案（2026年）](./idscan-net-data-breach-2026.md) | 2026-09-10 | 2件 |
+| [IDScan.net 身分証明書データ大量流出事案（2026年）](./idscan-net-data-breach-2026.md) | 2026-09-15 | 3件 |
 | [シーイーシー データセンターサービス ランサムウェア攻撃（2026年8月）](./cec-datacenter-ransomware-2026.md) | 2026-09-04 | 3件 |
 | [Sangoma Switchvox CVE-2026-9586 未認証SQLインジェクション脆弱性（2026年）](./sangoma-switchvox-cve-2026-9586.md) | 2026-09-03 | 1件 |
 | [All-in-One WP Migration and Backup CVE-2026-19949 SQLインジェクション脆弱性（2026年）](./aio-wp-migration-cve-2026-19949.md) | 2026-09-03 | 1件 |
@@ -95,7 +96,7 @@
 | [Aurora（Aur0ra）ランサムウェアによるAIコーディングエージェント「Cursor」悪用（2026年）](./aurora-ransomware-cursor-ai-abuse-2026.md) | 2026-08-31 | 1件 |
 | [Hasbro 従業員データ侵害（2026年8月）](./hasbro-employee-data-breach-2026.md) | 2026-08-31 | 1件 |
 | [GiveWP WordPress プラグイン CVE-2026-82222 未認証RCE脆弱性（2026年8月）](./givewp-wordpress-cve-2026-82222.md) | 2026-08-31 | 1件 |
-| [コープやまぐち「LINEミニアプリ」不正アクセス事案（2026年8月）](./coop-yamaguchi-line-miniapp-breach-2026.md) | 2026-08-31 | 1件 |
+| [コープやまぐち「LINEミニアプリ」不正アクセス事案（2026年8月）](./coop-yamaguchi-line-miniapp-breach-2026.md) | 2026-09-15 | 2件 |
 | [シンカ「kaiwa.cloud」不正プログラム設置事案（2026年8月）](./shinka-kaiwacloud-malware-2026.md) | 2026-08-31 | 1件 |
 | [アンビションDXホールディングス ファイルサーバー不正アクセス事案（2026年8月）](./ambition-dx-holdings-file-server-breach-2026.md) | 2026-08-31 | 1件 |
 | [SickKids（トロント小児病院）データ侵害事案（2026年）](./sickkids-hospital-data-breach-2026.md) | 2026-08-31 | 1件 |
