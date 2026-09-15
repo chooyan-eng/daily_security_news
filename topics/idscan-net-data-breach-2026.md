@@ -13,8 +13,10 @@
 - 捜査状況: FBIニューオーリンズ支局が捜査開始。IDScan.net COOのJillian Kossman氏が調査中であることを認める発言
 - 未確定事項: 侵害の具体的な原因・侵入経路・正確な侵害期間はIDScan.net側の調査完了までは未確定
 - 2026年9月10日: IDScan.netがクラウド基盤への不正アクセスと顧客データ窃取を正式確認、被害規模は運転免許証データ等少なくとも1億5,300万件
+- 2026年9月2〜4日: ルイジアナ州東部地区連邦地裁に集団訴訟9件が提起。FBIが正式に捜査を開始（Krebs on Security報道、2026年9月15日時点）
 
 ## タイムライン
 
+- [2026-09-15 IDScan.net身分証流出事案、集団訴訟が9件に拡大 FBIが正式に捜査開始](../articles/2026-09-15-idscan-net-lawsuits-fbi-probe.md)
 - [2026-09-10 IDScan.net、運転免許証等1億5,300万件超のデータ流出に絡む侵害を正式確認](../articles/2026-09-10-idscan-net-breach-confirmed.md)
 - [2026-09-04 IDScan.net由来とみられる運転免許証データ流出、被害者訴訟の準備で弁護士が調査開始](../articles/2026-09-04-idscan-net-drivers-license-breach.md)
