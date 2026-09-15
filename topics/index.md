@@ -4,7 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [GitLab CVE-2026-85706 パストラバーサル脆弱性（2026年9月）](./gitlab-cve-2026-85706-path-traversal.md) | 2026-09-13 | 1件 |
+| [ConnectWise ScreenConnect CVE-2026-84869 権限管理不備脆弱性（2026年9月）](./connectwise-screenconnect-cve-2026-84869.md) | 2026-09-14 | 1件 |
+| [Tencent「搜狗输入法（Sogou IME）」CVE-2026-51990 ワンクリックRCE脆弱性・GrayRabbitバックドア（2026年）](./tencent-sogou-cve-2026-51990-grayrabbit.md) | 2026-09-14 | 1件 |
+| [Chess.com データスクレイピング流出事案（HIBP登録、2026年）](./chess-com-hibp-data-exposure-2026.md) | 2026-09-14 | 1件 |
+| [採用管理SaaS「ApplyNow」データ分析ツール脆弱性悪用によるマイナンバー等流出事案（2026年9月）](./applynow-kichiri-mynumber-leak-2026.md) | 2026-09-14 | 1件 |
+| [mogilyデジタル整理券システム不正アクセス・円谷プロ「ULTRA MART」抽選結果改ざん事案（2026年9月）](./mogily-ultramart-lottery-tampering-2026.md) | 2026-09-14 | 1件 |
+| [日本トレクス（極東開発工業子会社）不正アクセス事案（2026年9月）](./nihon-trex-kyokuto-kaihatsu-breach-2026.md) | 2026-09-14 | 1件 |
+| [GitLab CVE-2026-85706 パストラバーサル脆弱性（2026年9月）](./gitlab-cve-2026-85706-path-traversal.md) | 2026-09-14 | 2件 |
 | [Cisco Secure Firewall Management Center CVE-2026-20079 認証バイパス脆弱性（2026年9月）](./cisco-fmc-cve-2026-20079-sandworm-qilin.md) | 2026-09-13 | 1件 |
 | [Surfshark VPN 内部テストサーバー不正アクセス事案（2026年）](./surfshark-vpn-internal-server-breach-2026.md) | 2026-09-13 | 1件 |
 | [Palo Alto Networks PAN-OS CVE-2026-0310 バッファオーバーフロー脆弱性（2026年9月）](./paloalto-panos-cve-2026-0310-buffer-overflow.md) | 2026-09-13 | 1件 |
@@ -17,7 +23,7 @@
 | [JFrog Artifactory CVE-2026-82329 認証バイパス脆弱性（2026年）](./jfrog-artifactory-cve-2026-82329.md) | 2026-09-12 | 3件 |
 | [claude.ai「共有チャット」機能悪用によるClickFix型マルウェア配布（2026年）](./claude-ai-shared-chat-clickfix-2026.md) | 2026-09-12 | 1件 |
 | [Android 2026年9月セキュリティ公報](./android-security-bulletin-september-2026.md) | 2026-09-12 | 1件 |
-| [Revolut 顧客データ侵害事案（偽政府機関要求、2026年9月）](./revolut-data-breach-2026.md) | 2026-09-12 | 1件 |
+| [Revolut 顧客データ侵害事案（偽政府機関要求、2026年9月）](./revolut-data-breach-2026.md) | 2026-09-14 | 2件 |
 | [デジタル庁 GSS 不正アクセス事案（2026年9月）](./digital-agency-gss-breach-2026.md) | 2026-09-11 | 1件 |
 | [WooCommerce「MIPL Grouped Checkout Fields」プラグイン CVE-2026-8778 未認証ファイルアップロード脆弱性（2026年9月）](./woocommerce-mipl-checkout-cve-2026-8778.md) | 2026-09-11 | 1件 |
 | [Apache ActiveMQ Artemis CVE-2026-57967 セッション乗っ取り脆弱性（2026年9月）](./apache-activemq-artemis-cve-2026-57967.md) | 2026-09-11 | 1件 |
@@ -28,7 +34,7 @@
 | [Kestra OSS CVE-2026-49869 認証バイパス→root権限RCE脆弱性（2026年）](./kestra-oss-cve-2026-49869-rce-2026.md) | 2026-09-10 | 1件 |
 | [AdaptHealth データ侵害（2026年6月）](./adapthealth-data-breach-2026.md) | 2026-09-10 | 1件 |
 | [Google Play「早期アクセス」機能悪用の欺瞞的Androidアプリ配布問題（2026年）](./google-play-early-access-deceptive-apps-2026.md) | 2026-09-10 | 1件 |
-| [Chrome V8 ゼロデイ CVE-2026-87491（2026年9月）](./chrome-v8-cve-2026-87491-zero-day-2026.md) | 2026-09-09 | 1件 |
+| [Chrome V8 ゼロデイ CVE-2026-87491（2026年9月）](./chrome-v8-cve-2026-87491-zero-day-2026.md) | 2026-09-14 | 2件 |
 | [Alby Hub 重大脆弱性 インターネット公開ウォレット乗っ取り（2026年）](./alby-hub-critical-flaw-bitcoin-wallet-2026.md) | 2026-09-09 | 1件 |
 | [DeepSeek Harness CVE-2026-82533 サンドボックスエスケープ脆弱性（2026年）](./deepseek-harness-cve-2026-82533-sandbox-escape-2026.md) | 2026-09-09 | 1件 |
 | [PoisonedRefresh F5 BIG-IP APM ファイルレスルートキット（2026年）](./poisonedrefresh-f5-bigip-apm-rootkit-2026.md) | 2026-09-09 | 1件 |
@@ -121,7 +127,7 @@
 | [Windows IKE Service Extensions ワーム化可能RCE脆弱性 CVE-2026-33824（2026年）](./windows-ike-cve-2026-33824-wormable-rce.md) | 2026-08-27 | 1件 |
 | [Microsoft Teamsビッシング経由Chaosランサムウェアキャンペーン「STAC4749」（2026年）](./chaos-ransomware-teams-vishing-stac4749.md) | 2026-08-27 | 1件 |
 | [楽天ブックスネットワーク 不正アクセス事案（2026年）](./rakuten-books-network-unauthorized-access-2026.md) | 2026-08-27 | 1件 |
-| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-08-31 | 11件 |
+| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-09-14 | 13件 |
 | [Citrix NetScaler CVE-2026-8451 等 6件の脆弱性（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-08-27 | 8件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-28 | 7件 |
 | [Gitea CVE-2026-60004 コードインジェクション脆弱性の実悪用（2026年8月）](./gitea-cve-2026-60004-rce-2026.md) | 2026-08-29 | 2件 |
