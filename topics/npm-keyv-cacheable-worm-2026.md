@@ -57,6 +57,7 @@
 
 ## タイムライン
 
+- [2026-09-16 AIコーディングアシスタントのセッション乗っ取りからShai-Hulud系ワームが社内リポジトリ約100件に拡散（Mandiant報告、関連事案）](../articles/2026-09-16-shai-hulud-ai-coding-assistant-hijack.md)
 - [2026-08-15 npmパッケージ keyv/cacheable が乗っ取り被害 – ワーム化し868超のパッケージに拡散](../articles/2026-08-15-keyv-cacheable-npm-supply-chain.md)
 - [2026-08-11 npmサプライチェーン攻撃「Shai-Hulud」ワーム — keyv/cacheable等1,300超のパッケージバージョンが汚染](../articles/2026-08-11-npm-shai-hulud-keyv-cacheable.md)
 - [2026-08-10 自己増殖型npmワーム「ChainDrop」が1,300以上のパッケージに感染、月間20億ダウンロード規模に拡大](../articles/2026-08-10-chaindrop-npm-supply-chain.md)
