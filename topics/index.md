@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [画像共有サービス「Gyazo」不正アクセス・大規模情報漏えい事案（2026年9月）](./gyazo-helpfeel-breach-2026.md) | 2026-09-16 | 1件 |
+| [WSO2 API Manager CVE-2026-5430 JWT認証バイパス脆弱性（2026年9月）](./wso2-api-manager-cve-2026-5430-jwt-bypass.md) | 2026-09-16 | 1件 |
+| [Google Pixel セルularモデム 権限昇格ゼロデイ CVE-2026-58704（2026年9月）](./google-pixel-modem-cve-2026-58704.md) | 2026-09-16 | 1件 |
+| [新型フィッシングキット「N0va」デバイスコード／AiTM認証悪用キャンペーン（2026年9月）](./n0va-phishkit-device-code-phishing-2026.md) | 2026-09-16 | 1件 |
+| [BragJack：ブラウザ拡張機能によるAIアシスタント乗っ取り手法（2026年9月）](./bragjack-ai-browser-extension-hijack-2026.md) | 2026-09-16 | 1件 |
+| [ムラウチドットコム 不正アクセスによる情報漏えい事案（2026年7月発生・9月確定）](./murauchi-com-data-breach-2026.md) | 2026-09-16 | 1件 |
+| [Oracle Critical Patch Update 2026年9月](./oracle-cpu-september-2026.md) | 2026-09-16 | 1件 |
 | [Cisco Secure Email Gateway CVE-2026-76461 ルート権限奪取脆弱性（2026年9月）](./cisco-secure-email-gateway-cve-2026-76461.md) | 2026-09-15 | 1件 |
 | [ConnectWise ScreenConnect CVE-2026-84869 権限管理不備脆弱性（2026年9月）](./connectwise-screenconnect-cve-2026-84869.md) | 2026-09-14 | 1件 |
 | [Tencent「搜狗输入法（Sogou IME）」CVE-2026-51990 ワンクリックRCE脆弱性・GrayRabbitバックドア（2026年）](./tencent-sogou-cve-2026-51990-grayrabbit.md) | 2026-09-14 | 1件 |
