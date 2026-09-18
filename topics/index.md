@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [WooCommerce「Wholesale Lead Capture」プラグイン CVE-2026-27540 未認証ファイルアップロード脆弱性（2026年9月）](./woocommerce-wholesale-lead-capture-cve-2026-27540.md) | 2026-09-17 | 1件 |
+| [CenterPoint Energy 顧客データ侵害事案（2026年9月）](./centerpoint-energy-data-breach-2026.md) | 2026-09-17 | 1件 |
+| [ロート製薬 通販システム不正アクセス事案（2026年9月）](./rohto-pharmaceutical-ec-breach-2026.md) | 2026-09-17 | 1件 |
+| [CINRA JOB 不正アクセス事案（2026年9月）](./cinra-job-unauthorized-access-2026.md) | 2026-09-17 | 1件 |
+| [Cisco Identity Services Engine (ISE) CVE-2026-76460 認証バイパスゼロデイ（2026年9月）](./cisco-ise-cve-2026-76460.md) | 2026-09-17 | 1件 |
+| [NightmareStresser DDoS代行サービス摘発（2026年9月）](./nightmarestresser-ddos-takedown-2026.md) | 2026-09-17 | 1件 |
+| [Acronis Backupプラグイン CVE-2026-87886 権限昇格脆弱性（2026年9月）](./acronis-backup-plugin-cve-2026-87886.md) | 2026-09-17 | 1件 |
 | [画像共有サービス「Gyazo」不正アクセス・大規模情報漏えい事案（2026年9月）](./gyazo-helpfeel-breach-2026.md) | 2026-09-16 | 1件 |
 | [WSO2 API Manager CVE-2026-5430 JWT認証バイパス脆弱性（2026年9月）](./wso2-api-manager-cve-2026-5430-jwt-bypass.md) | 2026-09-16 | 1件 |
 | [Google Pixel セルularモデム 権限昇格ゼロデイ CVE-2026-58704（2026年9月）](./google-pixel-modem-cve-2026-58704.md) | 2026-09-16 | 1件 |
