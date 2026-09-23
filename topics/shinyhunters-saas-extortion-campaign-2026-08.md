@@ -24,9 +24,11 @@
 - Carharttの実被害規模検証: 第三者研究者による検証で実際の影響アカウントは1,293万3,413件と判明（ShinyHunters主張の約半分、合成データの混入が判明）
 - 被害企業（追加）: McKesson Corporation（米医薬品卸最大手、2026年8月21〜25日にビッシング経由でOktaアカウントを乗っ取りSalesforce/Snowflakeから約1TB窃取、身代金要求額 約5,523万ドル）
 - 被害組織（追加）: フロリダ州DMV「DAVID」データベース（州政府Webシステムのパスワードリセット機能悪用、20万件超のレコード窃取を主張。根本原因はプラントシティ警察署職員1名の私用端末上の認証情報漏えいと2026年9月14日に確認）
+- 標的の拡大（追加）: 民間企業のSaaSではなく米連邦捜査局（FBI）を標的化（2026年9月22日主張）。FBIのCJ・HR・Medlink等の内部システム侵害、捜査官・採用応募者の機微データ窃取を主張。2026年5月のFBI公表PSA（Canvas攻撃に関する注意喚起）への報復と説明
 
 ## タイムライン
 
+- [2026-09-23 ShinyHunters、米FBIへの侵害と職員・応募者データ窃取を主張](../articles/2026-09-23-shinyhunters-fbi-breach-claim.md)
 - [2026-09-14 フロリダ州DMV侵害、原因は警察官個人端末に保存されていた認証情報の窃取と判明](../articles/2026-09-14-florida-dmv-officer-device-root-cause.md)
 - [2026-09-13 ShinyHunters、フロリダ州運転免許管理システム「DAVID」侵害を主張 20万件超のレコード窃取か](../articles/2026-09-13-shinyhunters-florida-dmv-david-breach.md)
 - [2026-08-31 医薬品卸大手McKesson、ShinyHuntersのビッシング攻撃でSalesforce/Snowflake侵害 約5,500万ドルの身代金要求](../articles/2026-08-31-mckesson-shinyhunters-breach.md)
