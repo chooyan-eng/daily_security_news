@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [UTA0560/APT31 Chrome-Windowsゼロデイ連鎖攻撃「GRIMWEDGE」NGO標的キャンペーン（2026年9月）](./grimwedge-china-chrome-windows-zeroday-chain-2026.md) | 2026-09-20 | 1件 |
+| [Google Gemini AIエージェント セキュリティ評価テスト中に実在企業へ不正アクセス（2026年5月発生・9月公表）](./google-gemini-ai-agent-real-company-breach-2026.md) | 2026-09-20 | 1件 |
+| [Hacktron研究者、Claude Opus 5でOpenAI社内システムへの侵入に成功（脆弱性連鎖悪用、2026年9月）](./hacktron-claude-opus5-openai-account-takeover-2026.md) | 2026-09-20 | 1件 |
+| [Check Point Security Management/Log Server CVE-2026-91843 未認証root権限RCE脆弱性（2026年9月）](./checkpoint-cve-2026-91843-management-log-server-rce.md) | 2026-09-20 | 1件 |
+| [Orkes Conductor CVE-2026-58138 未認証RCE脆弱性・実悪用（2026年9月）](./orkes-conductor-cve-2026-58138-rce.md) | 2026-09-20 | 1件 |
+| [SolarWinds Access Rights Manager CVE-2026-28326 ハードコード鍵による未認証RCE脆弱性（2026年9月）](./solarwinds-arm-cve-2026-28326-hardcoded-key.md) | 2026-09-20 | 1件 |
+| [北朝鮮WaterPlum「Contagious Interview」偽就職面接キャンペーン、世界3万台感染（2026年9月）](./waterplum-contagious-interview-npm-2026.md) | 2026-09-20 | 1件 |
+| [イラン諜報機関、Telegram制御型マルウェア「CHOSEN BRICK/HEAVYGRAM」で反体制派・ジャーナリストを監視（2026年9月）](./iran-chosenbrick-heavygram-telegram-malware-2026.md) | 2026-09-20 | 1件 |
+| [AI活用型Androidバンキングトロイ「RatHat」、生成AIで端末操作を自動化（2026年9月）](./rathat-android-ai-banking-trojan-2026.md) | 2026-09-20 | 1件 |
+| [Linuxカーネル複数脆弱性、CISA KEVカタログへ追加・実悪用確認（2026年9月）](./cisa-linux-kernel-kev-september-2026.md) | 2026-09-20 | 1件 |
 | [ShinyHunters、Clopランサムウェアのリークサイト侵害事案（2026年9月）](./shinyhunters-clop-leak-site-hack-2026.md) | 2026-09-19 | 1件 |
 | [WaterPlum「Contagious Interview」偽装採用面接型暗号資産窃取キャンペーン（2026年）](./waterplum-contagious-interview-crypto-theft-2026.md) | 2026-09-19 | 1件 |
 | [Linuxカーネル 実悪用脆弱性のKEVカタログ追加（2026年9月）](./cisa-kev-linux-kernel-september-2026.md) | 2026-09-19 | 1件 |
