@@ -4,6 +4,11 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [メール配信SaaS「Brevo」Cloudflare APIキー窃取サプライチェーン攻撃（2026年9月）](./brevo-cloudflare-clickfix-supply-chain-2026.md) | 2026-09-18 | 1件 |
+| [Docker Sandboxes CVE-2026-77179 macOSホストファイル書き換え脆弱性（2026年9月）](./docker-sandboxes-cve-2026-77179.md) | 2026-09-18 | 1件 |
+| [Linuxカーネル ローカルroot権限奪取 公開エクスプロイト群（2026年9月）](./linux-kernel-local-root-exploits-september-2026.md) | 2026-09-18 | 1件 |
+| [DNSリゾルバ「Unbound」CVE-2026-81642 DNSKEYヒープオーバーフロー脆弱性（2026年9月）](./unbound-cve-2026-81642-rce.md) | 2026-09-18 | 1件 |
+| [カルビー「PhotoGoods」不正アクセス事案（2026年9月）](./calbee-photogoods-breach-2026.md) | 2026-09-18 | 1件 |
 | [WooCommerce「Wholesale Lead Capture」プラグイン CVE-2026-27540 未認証ファイルアップロード脆弱性（2026年9月）](./woocommerce-wholesale-lead-capture-cve-2026-27540.md) | 2026-09-17 | 1件 |
 | [CenterPoint Energy 顧客データ侵害事案（2026年9月）](./centerpoint-energy-data-breach-2026.md) | 2026-09-17 | 1件 |
 | [ロート製薬 通販システム不正アクセス事案（2026年9月）](./rohto-pharmaceutical-ec-breach-2026.md) | 2026-09-17 | 1件 |
@@ -221,7 +226,7 @@
 | [SpyNote×WindRelay：Android NFCリレー詐欺による銀行アプリ不正利用（2026年8月）](./android-spynote-windrelay-nfc-2026.md) | 2026-08-17 | 2件 |
 | [Presentations.AI ランサムウェア被害（Unsafeグループ、2026年）](./presentations-ai-unsafe-ransomware-2026.md) | 2026-08-15 | 1件 |
 | [npm keyv/cacheable サプライチェーンワーム（2026年8月）](./npm-keyv-cacheable-worm-2026.md) | 2026-08-15 | 10件 |
-| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-08-15 | 3件 |
+| [ニチレイ サイバー攻撃・システム障害（RansomHouse犯行声明、2026年7月）](./nichirei-ransomhouse-ransomware-2026.md) | 2026-09-18 | 4件 |
 | [Hugging Face 自律型AIエージェントによるインフラ侵害（2026年7月）](./huggingface-ai-agent-breach-2026.md) | 2026-08-30 | 12件 |
 | [GeoServer ゼロデイ SQLインジェクション→RCE（2026年）](./geoserver-zeroday-sqli-rce-2026.md) | 2026-08-15 | 1件 |
 | [Chrome DevTools Protocol悪用セッションハイジャック手法（2026年）](./chrome-devtools-protocol-session-hijack-2026.md) | 2026-08-15 | 1件 |
