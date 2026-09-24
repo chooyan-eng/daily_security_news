@@ -12,7 +12,10 @@ Group-IBが2026年9月23日に報告した、欧州・中東・カナダの銀�
 - ボットネットタグ: UNKK（類似マルウェアMedusaのUNKNと1文字違い）
 - 初観測: サンプル2026年7月、インフラ稼働2026年5月頃
 - 報告元: Group-IB（2026年9月23日）
+- 追加機能: 画面リアルタイムストリーミング、キーロガー、画面ロックPIN/パターン再構成用情報収集、アンインストール妨害（設定画面から強制排除）
+- 侵入時の回避策: インストール時にVPNサービス起動許可を要求しGoogle Playのネットワーク通信を遮断、Play Protectのスキャンを無効化した上でアクセシビリティ権限を要求
 
 ## タイムライン
 
+- [2026-09-24 RemControl詳細判明、30行以上の銀行を標的にAI生成フィッシングオーバーレイでPIN窃取](../articles/2026-09-24-remcontrol-android-banking-trojan-details.md)
 - [2026-09-23 AIが構築したC2基盤で稼働する新種Androidバンキング型トロイ「RemControl」を確認](../articles/2026-09-23-remcontrol-android-banking-trojan.md)
