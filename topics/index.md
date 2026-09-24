@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Zyxel GS1900シリーズスイッチ CVE-2026-7273 未認証コマンドインジェクション脆弱性（2026年9月）](./zyxel-gs1900-cve-2026-7273-2026.md) | 2026-09-22 | 1件 |
+| [npmパッケージ「indexed-btree」サプライチェーン攻撃（2026年）](./npm-indexed-btree-supply-chain-2026.md) | 2026-09-22 | 1件 |
+| [Apache Airflow CVE-2026-86473 ログアウト時セッション失効不備脆弱性（2026年9月）](./apache-airflow-cve-2026-86473-2026.md) | 2026-09-22 | 1件 |
+| [Apache MINA CVE-2026-94301 許可リストバイパス脆弱性（2026年9月）](./apache-mina-cve-2026-94301-2026.md) | 2026-09-22 | 1件 |
+| [ネパール証券取引所（NEPSE）関連データセンター「Data Hub」ランサムウェア攻撃（2026年9月）](./nepal-nepse-datahub-ransomware-2026.md) | 2026-09-22 | 1件 |
+| [FinSoft「Kolibri」ランサムウェアグループ「N0n」による侵害主張（2026年9月）](./finsoft-kolibri-n0n-ransomware-2026.md) | 2026-09-22 | 1件 |
+| [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-09-22 | 6件 |
 | [新種RAT「ChainScript」Polygonブロックチェーン悪用C2キャンペーン（2026年9月）](./chainscript-rat-clickfix-polygon-2026.md) | 2026-09-21 | 1件 |
 | [Linuxカーネル「DirtyAH6」等4件のローカルroot権限奪取脆弱性（2026年9月）](./linux-kernel-dirtyah6-tunderflow-pppoeject-diagspill-2026.md) | 2026-09-21 | 1件 |
 | [Microsoft Azure AI Foundry CVE-2026-85889 認証チェック欠如脆弱性（2026年9月）](./azure-ai-foundry-cve-2026-85889.md) | 2026-09-21 | 1件 |
@@ -272,7 +279,7 @@
 | [ショップサーブ不正アクセス事案（Eストアー、2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-12 | 3件 |
 | [ClickFix経由の新種RAT「CNCMachineRMS」配布キャンペーン（2026年8月）](./clickfix-cncmachinerms-rat-2026.md) | 2026-08-12 | 1件 |
 | [BdThemes WordPressプラグイン サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-12 | 3件 |
-| [Adobe 2026年8月定例セキュリティ更新（ColdFusion・Campaign Classic）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-08-12 | 10件 |
+| [Adobe 2026年8月定例セキュリティ更新（ColdFusion・Campaign Classic）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-09-22 | 11件 |
 | [Zoom 「Zoomsday」アノテーション機能RCE脆弱性（2026年8月）](./zoom-zoomsday-cve-2026-53413.md) | 2026-08-11 | 1件 |
 | [Progress Kemp LoadMaster 認証前RCE（CVE-2026-8037）](./kemp-loadmaster-cve-2026-8037-rce.md) | 2026-08-11 | 3件 |
 | [科学技術振興機構（JST）メール情報漏洩（2026年8月）](./jst-email-leak-2026.md) | 2026-08-11 | 1件 |
@@ -370,7 +377,6 @@
 |----------|----------|--------|
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
-| [デバイスコードフィッシング / AiTM セッショントークン窃取（2026年）](./device-code-phishing-aitm-2026.md) | 2026-07-25 | 5件 |
 | [Certighost — AD CS ドメインコントローラーなりすまし脆弱性（CVE-2026-54121）](./certighost-cve-2026-54121-adcs.md) | 2026-07-25 | 1件 |
 | [Windmill CVE-2026-29059 未認証パストラバーサル悪用（2026年）](./windmill-cve-2026-29059-path-traversal.md) | 2026-07-24 | 1件 |
 | [Microsoft SharePoint Server CVE-2026-50522 マシンキー窃取キャンペーン（2026年7月）](./sharepoint-cve-2026-50522-machine-key-theft.md) | 2026-07-24 | 1件 |

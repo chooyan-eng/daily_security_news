@@ -2,9 +2,10 @@
 
 ## 概要
 
-Adobe が2026年8月11日（8月定例パッチ）に公開した、ColdFusion・Commerce・Lightroom Classic・Content Credentials SDK・Campaign Classic の5製品向けセキュリティ更新。合計51件の脆弱性を修正し、うち33件がクリティカル。ColdFusion（CVE-2026-48362 CVSS10.0のOSコマンドインジェクション等）とCampaign Classic（CVE-2026-71398/CVE-2026-27302 CVSS10.0の不適切な認可等）は最優先度「Priority 1」に指定。
+Adobe が2026年8月11日（8月定例パッチ）に公開した、ColdFusion・Commerce・Lightroom Classic・Content Credentials SDK・Campaign Classic の5製品向けセキュリティ更新。合計51件の脆弱性を修正し、うち33件がクリティカル。ColdFusion（CVE-2026-48362 CVSS10.0のOSコマンドインジェクション等）とCampaign Classic（CVE-2026-71398/CVE-2026-27302 CVSS10.0の不適切な認可等）は最優先度「Priority 1」に指定。2026年9月22日には、Campaign Classicに新たにCVSS10.0のコード注入脆弱性CVE-2026-89275とCVSS9.9のSQLインジェクション脆弱性CVE-2026-82010が追加公開されており、同製品の重大脆弱性が継続的に発見されている。
 
 **同一性の判断に役立つ情報：**
+- 2026年9月22日追加CVE: CVE-2026-89275（Campaign Classic、コード注入、CVSS10.0）、CVE-2026-82010（Campaign Classic、SQLインジェクション、CVSS9.9）。いずれもユーザー操作不要、2026年9月22日時点で実悪用の公開証拠なし
 - 対象製品: ColdFusion、Adobe Commerce、Lightroom Classic、Content Credentials SDK、Campaign Classic
 - 主要CVE: CVE-2026-48362（ColdFusion, CVSS10.0）、CVE-2026-48273（ColdFusion, CVSS9.9）、CVE-2026-71384（ColdFusion, CVSS9.6）、CVE-2026-71398／CVE-2026-27302（Campaign Classic, CVSS10.0）、CVE-2026-48381（Campaign Classic, CVSS9.0）、CVE-2026-71362（Commerce, CVSS9.1）
 - 公開日: 2026-08-11（8月定例パッチ）
@@ -59,6 +60,7 @@ Adobe が2026年8月11日（8月定例パッチ）に公開した、ColdFusion�
 
 ## タイムライン
 
+- [2026-09-22 Adobe Campaign Classicに最大深刻度のコード注入・SQLインジェクション脆弱性2件、未認証での任意コード実行が可能に](../articles/2026-09-22-adobe-campaign-classic-cve-2026-89275-82010.md)
 - [2026-08-12 Adobe、ColdFusion・Campaign Classic 等5製品で51件の脆弱性を修正 – CVSS10.0のコマンドインジェクション等、最優先パッチ指定](../articles/2026-08-12-adobe-coldfusion-campaign-classic.md)
 - [2026-08-03 Adobe Campaign Classicに最大深刻度（CVSS 10.0）の脆弱性3件、未認証でのコード実行が可能に](../articles/2026-08-03-adobe-campaign-classic-vulnerabilities.md)
 - [2026-08-01 Adobe Campaign Classic にCVSS満点10.0の認可不備・重大SQLインジェクション脆弱性](../articles/2026-08-01-adobe-campaign-classic-critical-vulnerabilities.md)
