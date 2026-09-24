@@ -4,6 +4,10 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [新種RAT「ChainScript」Polygonブロックチェーン悪用C2キャンペーン（2026年9月）](./chainscript-rat-clickfix-polygon-2026.md) | 2026-09-21 | 1件 |
+| [Linuxカーネル「DirtyAH6」等4件のローカルroot権限奪取脆弱性（2026年9月）](./linux-kernel-dirtyah6-tunderflow-pppoeject-diagspill-2026.md) | 2026-09-21 | 1件 |
+| [Microsoft Azure AI Foundry CVE-2026-85889 認証チェック欠如脆弱性（2026年9月）](./azure-ai-foundry-cve-2026-85889.md) | 2026-09-21 | 1件 |
+| [Haruko 標的型サイバー攻撃によるAPI情報・取引データ流出事案（2026年9月）](./haruko-crypto-tech-breach-2026.md) | 2026-09-21 | 1件 |
 | [UTA0560/APT31 Chrome-Windowsゼロデイ連鎖攻撃「GRIMWEDGE」NGO標的キャンペーン（2026年9月）](./grimwedge-china-chrome-windows-zeroday-chain-2026.md) | 2026-09-20 | 1件 |
 | [Google Gemini AIエージェント セキュリティ評価テスト中に実在企業へ不正アクセス（2026年5月発生・9月公表）](./google-gemini-ai-agent-real-company-breach-2026.md) | 2026-09-20 | 1件 |
 | [Hacktron研究者、Claude Opus 5でOpenAI社内システムへの侵入に成功（脆弱性連鎖悪用、2026年9月）](./hacktron-claude-opus5-openai-account-takeover-2026.md) | 2026-09-20 | 1件 |
@@ -60,7 +64,7 @@
 | [JFrog Artifactory CVE-2026-82329 認証バイパス脆弱性（2026年）](./jfrog-artifactory-cve-2026-82329.md) | 2026-09-12 | 3件 |
 | [claude.ai「共有チャット」機能悪用によるClickFix型マルウェア配布（2026年）](./claude-ai-shared-chat-clickfix-2026.md) | 2026-09-12 | 1件 |
 | [Android 2026年9月セキュリティ公報](./android-security-bulletin-september-2026.md) | 2026-09-12 | 1件 |
-| [Revolut 顧客データ侵害事案（偽政府機関要求、2026年9月）](./revolut-data-breach-2026.md) | 2026-09-15 | 3件 |
+| [Revolut 顧客データ侵害事案（偽政府機関要求、2026年9月）](./revolut-data-breach-2026.md) | 2026-09-21 | 4件 |
 | [デジタル庁 GSS 不正アクセス事案（2026年9月）](./digital-agency-gss-breach-2026.md) | 2026-09-15 | 2件 |
 | [WooCommerce「MIPL Grouped Checkout Fields」プラグイン CVE-2026-8778 未認証ファイルアップロード脆弱性（2026年9月）](./woocommerce-mipl-checkout-cve-2026-8778.md) | 2026-09-11 | 1件 |
 | [Apache ActiveMQ Artemis CVE-2026-57967 セッション乗っ取り脆弱性（2026年9月）](./apache-activemq-artemis-cve-2026-57967.md) | 2026-09-11 | 1件 |
@@ -173,7 +177,7 @@
 | [ノルウェー政府デジタル基盤への連続DDoS攻撃（2026年）](./norway-digdir-ddos-2026.md) | 2026-08-26 | 1件 |
 | [OpenSSL 2026年8月25日セキュリティアドバイザリ](./openssl-security-advisory-august-2026.md) | 2026-08-26 | 1件 |
 | [楽天モバイル eSIM不正契約・匿名流動型犯罪グループへの転売事案（2026年）](./rakuten-mobile-esim-fraud-2026.md) | 2026-08-26 | 1件 |
-| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-09-05 | 6件 |
+| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-09-21 | 7件 |
 | [Zimbra Collaboration Suite SNMP RCE脆弱性 CVE-2026-73570（2026年8月）](./zimbra-snmp-cve-2026-73570-rce-2026.md) | 2026-08-26 | 3件 |
 | [Marimo ノートブック CVE-2026-75149 MCPコマンド実行脆弱性（2026年）](./marimo-notebook-cve-2026-75149.md) | 2026-08-25 | 1件 |
 | [Mirage2FA フィッシングキット AiTM攻撃キャンペーン（2026年）](./mirage2fa-phishing-m365-2026.md) | 2026-08-25 | 1件 |
