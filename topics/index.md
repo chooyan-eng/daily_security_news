@@ -4,6 +4,12 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Check Point Management Server CVE-2026-93616 未認証パストラバーサル/RCEゼロデイ（2026年9月）](./checkpoint-management-server-cve-2026-93616.md) | 2026-09-23 | 1件 |
+| [F5 BIG-IP APM CVE-2026-94127 OAuth ヒープオーバーフローRCE（2026年9月）](./f5-bigip-apm-cve-2026-94127.md) | 2026-09-23 | 1件 |
+| [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-23 | 1件 |
+| [ランサムウェアグループ「Termite」（2026年）](./termite-ransomware-2026.md) | 2026-09-23 | 1件 |
+| [RemControl Androidバンキング型トロイ（AI構築C2基盤、2026年）](./remcontrol-android-banking-trojan-2026.md) | 2026-09-23 | 1件 |
+| [愛知県「あいこんナビ」個人情報誤掲載事案（2026年9月）](./aichi-aiconnavi-data-exposure-2026.md) | 2026-09-23 | 1件 |
 | [Zyxel GS1900シリーズスイッチ CVE-2026-7273 未認証コマンドインジェクション脆弱性（2026年9月）](./zyxel-gs1900-cve-2026-7273-2026.md) | 2026-09-22 | 1件 |
 | [npmパッケージ「indexed-btree」サプライチェーン攻撃（2026年）](./npm-indexed-btree-supply-chain-2026.md) | 2026-09-22 | 1件 |
 | [Apache Airflow CVE-2026-86473 ログアウト時セッション失効不備脆弱性（2026年9月）](./apache-airflow-cve-2026-86473-2026.md) | 2026-09-22 | 1件 |
@@ -175,7 +181,7 @@
 | [Windows IKE Service Extensions ワーム化可能RCE脆弱性 CVE-2026-33824（2026年）](./windows-ike-cve-2026-33824-wormable-rce.md) | 2026-08-27 | 1件 |
 | [Microsoft Teamsビッシング経由Chaosランサムウェアキャンペーン「STAC4749」（2026年）](./chaos-ransomware-teams-vishing-stac4749.md) | 2026-08-27 | 1件 |
 | [楽天ブックスネットワーク 不正アクセス事案（2026年）](./rakuten-books-network-unauthorized-access-2026.md) | 2026-08-27 | 1件 |
-| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-09-14 | 13件 |
+| [ShinyHunters SaaS恐喝キャンペーン（2026年8月）](./shinyhunters-saas-extortion-campaign-2026-08.md) | 2026-09-23 | 14件 |
 | [Citrix NetScaler CVE-2026-8451 等 6件の脆弱性（2026年7月）](./citrix-netscaler-cve-2026-8451.md) | 2026-08-27 | 8件 |
 | [TeamPCPサプライチェーン攻撃（Trivy/Bitwarden/Checkmarx）（2026年）](./teampcp-supply-chain-2026.md) | 2026-08-28 | 7件 |
 | [Gitea CVE-2026-60004 コードインジェクション脆弱性の実悪用（2026年8月）](./gitea-cve-2026-60004-rce-2026.md) | 2026-08-29 | 2件 |
