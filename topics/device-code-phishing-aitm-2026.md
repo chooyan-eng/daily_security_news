@@ -14,9 +14,11 @@ OAuth 2.0 デバイス認証フロー（Device Authorization Grant）を悪用�
 - 主要ツール/フレームワーク: AiTM キット各種（名称非公開）
 - 効果のない防御: パスワード強化・TOTP MFA・SMS MFA・パスキー
 - 新キャンペーン: EvilTokens（2026年7月、AES-GCM暗号化によるブラウザ内復号型「ゴーストフィッシング」、標的はMicrosoft 365）
+- EvilTokens被害規模: 全世界1万組織超・受信箱1万2000件超を侵害（2026年9月22日Microsoft詳細分析レポートより）
 
 ## タイムライン
 
+- [2026-09-22 Microsoft、デバイスコードフィッシング「EvilTokens」の内部構造を詳細分析したレポートを公開](../articles/2026-09-22-microsoft-eviltokens-device-code-phishing.md)
 - [2026-07-25 ホテルWi-FiのDNSハイジャックでMicrosoft 365アカウントを乗っ取るキャンペーンが拡大](../articles/2026-07-25-hotel-wifi-dns-device-code-m365.md)
 - [2026-07-13 新PhaaS「Forg365」、デバイスコードフィッシングとAiTMでMicrosoft 365アカウントを標的に](../articles/2026-07-13-forg365-phaas-device-code-aitm.md)
 - [2026-07-09 「EvilTokens」：ブラウザ内復号で正体を隠す新型「ゴーストフィッシング」がMicrosoft 365を標的に](../articles/2026-07-09-eviltokens-ghost-phishing-device-code.md)
