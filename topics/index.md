@@ -4,11 +4,17 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-24 | 2件 |
+| [RemControl Androidバンキング型トロイ（AI構築C2基盤、2026年）](./remcontrol-android-banking-trojan-2026.md) | 2026-09-24 | 2件 |
+| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-09-24 | 6件 |
+| [Roundcube Webmail CVE-2026-48842 認証前SQLインジェクション脆弱性（2026年）](./roundcube-cve-2026-48842-sqli.md) | 2026-09-24 | 1件 |
+| [GitLab CVE-2026-93577／CVE-2026-89078 CI/CD正規表現パーサー・コンパイラRCE脆弱性（2026年9月）](./gitlab-cve-2026-93577-regex-rce.md) | 2026-09-24 | 1件 |
+| [悪意あるTerraformプロバイダーによるGo製マルウェア配布キャンペーン（2026年9月）](./terraform-providers-go-malware-2026.md) | 2026-09-24 | 1件 |
+| [Veeam Agent for Windows CVE-2026-32996 ローカル権限昇格脆弱性（2026年9月）](./veeam-agent-cve-2026-32996.md) | 2026-09-24 | 1件 |
+| [TeamFiltration悪用「UNK_CondorFiltration」M365パスワードスプレーキャンペーン（2026年）](./teamfiltration-m365-default-passwords-2026.md) | 2026-09-24 | 1件 |
 | [Check Point Management Server CVE-2026-93616 未認証パストラバーサル/RCEゼロデイ（2026年9月）](./checkpoint-management-server-cve-2026-93616.md) | 2026-09-23 | 1件 |
 | [F5 BIG-IP APM CVE-2026-94127 OAuth ヒープオーバーフローRCE（2026年9月）](./f5-bigip-apm-cve-2026-94127.md) | 2026-09-23 | 1件 |
-| [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-23 | 1件 |
 | [ランサムウェアグループ「Termite」（2026年）](./termite-ransomware-2026.md) | 2026-09-23 | 1件 |
-| [RemControl Androidバンキング型トロイ（AI構築C2基盤、2026年）](./remcontrol-android-banking-trojan-2026.md) | 2026-09-23 | 1件 |
 | [愛知県「あいこんナビ」個人情報誤掲載事案（2026年9月）](./aichi-aiconnavi-data-exposure-2026.md) | 2026-09-23 | 1件 |
 | [Zyxel GS1900シリーズスイッチ CVE-2026-7273 未認証コマンドインジェクション脆弱性（2026年9月）](./zyxel-gs1900-cve-2026-7273-2026.md) | 2026-09-22 | 1件 |
 | [npmパッケージ「indexed-btree」サプライチェーン攻撃（2026年）](./npm-indexed-btree-supply-chain-2026.md) | 2026-09-22 | 1件 |
@@ -325,7 +331,6 @@
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-breach-2026.md) | 2026-08-04 | 1件 |
 | [Adform サプライチェーン攻撃・暗号資産アドレス改ざん（2026年）](./adform-supply-chain-crypto-stealer-2026.md) | 2026-08-04 | 1件 |
 | [英国警察法務データベース（PNLD）侵害（2026年8月）](./uk-pnld-breach-2026.md) | 2026-08-03 | 1件 |
-| [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-08-03 | 5件 |
 | [EPARKリラク&エステ PeakManager 不正アクセス（2026年8月）](./epark-peakmanager-breach-2026.md) | 2026-08-03 | 2件 |
 | [DeepSeekベース自律型AIサイバー攻撃（2026年）](./deepseek-autonomous-cyberattack-2026.md) | 2026-08-03 | 1件 |
 | [Amgen クラウドデータ侵害（2026年）](./amgen-cloud-data-breach-2026.md) | 2026-08-03 | 1件 |
