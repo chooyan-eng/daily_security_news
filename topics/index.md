@@ -4,6 +4,11 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Chrome 154 セキュリティアップデート（2026年9月）](./chrome-154-security-update-2026.md) | 2026-09-28 | 1件 |
+| [Next.js 2026年9月30日セキュリティリリース（9件の脆弱性）](./nextjs-security-release-2026-09-30.md) | 2026-09-28 | 1件 |
+| [京王電鉄グループ ランサムウェア攻撃（2026年9月）](./keio-group-ransomware-2026.md) | 2026-09-28 | 1件 |
+| [オズモール（スターツ出版）不正アクセス・会員情報漏えい事案（2026年9月）](./ozmall-unauthorized-access-2026.md) | 2026-09-28 | 1件 |
+| [Citrix NetScaler ADC/Gateway CVE-2026-88771／CVE-2026-88772 RCEゼロデイ（2026年9月）](./citrix-netscaler-cve-2026-88771-88772-zero-day.md) | 2026-09-28 | 1件 |
 | [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-24 | 2件 |
 | [RemControl Androidバンキング型トロイ（AI構築C2基盤、2026年）](./remcontrol-android-banking-trojan-2026.md) | 2026-09-24 | 2件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-09-24 | 6件 |
@@ -57,7 +62,7 @@
 | [NightmareStresser DDoS代行サービス摘発（2026年9月）](./nightmarestresser-ddos-takedown-2026.md) | 2026-09-17 | 1件 |
 | [Acronis Backupプラグイン CVE-2026-87886 権限昇格脆弱性（2026年9月）](./acronis-backup-plugin-cve-2026-87886.md) | 2026-09-17 | 1件 |
 | [画像共有サービス「Gyazo」不正アクセス・大規模情報漏えい事案（2026年9月）](./gyazo-helpfeel-breach-2026.md) | 2026-09-16 | 1件 |
-| [WSO2 API Manager CVE-2026-5430 JWT認証バイパス脆弱性（2026年9月）](./wso2-api-manager-cve-2026-5430-jwt-bypass.md) | 2026-09-16 | 1件 |
+| [WSO2 API Manager CVE-2026-5430 JWT認証バイパス脆弱性（2026年9月）](./wso2-api-manager-cve-2026-5430-jwt-bypass.md) | 2026-09-28 | 2件 |
 | [Google Pixel セルularモデム 権限昇格ゼロデイ CVE-2026-58704（2026年9月）](./google-pixel-modem-cve-2026-58704.md) | 2026-09-16 | 1件 |
 | [新型フィッシングキット「N0va」デバイスコード／AiTM認証悪用キャンペーン（2026年9月）](./n0va-phishkit-device-code-phishing-2026.md) | 2026-09-16 | 1件 |
 | [BragJack：ブラウザ拡張機能によるAIアシスタント乗っ取り手法（2026年9月）](./bragjack-ai-browser-extension-hijack-2026.md) | 2026-09-16 | 1件 |
@@ -90,7 +95,7 @@
 | [国内地方銀行アプリ スマートフォンウイルス感染による不正送金注意喚起（2026年9月）](./japan-bank-apps-smartphone-virus-warning-2026.md) | 2026-09-11 | 1件 |
 | [Gigabud Androidバンキング型トロイ ワークプロファイル悪用アプリ複製キャンペーン（2026年）](./gigabud-android-work-profile-clone-2026.md) | 2026-09-11 | 1件 |
 | [cPanel EmailTrack CVE-2026-67401 SQLインジェクション→root権限奪取脆弱性（2026年9月）](./cpanel-emailtrack-cve-2026-67401-2026.md) | 2026-09-10 | 1件 |
-| [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-10 | 1件 |
+| [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-28 | 2件 |
 | [Kestra OSS CVE-2026-49869 認証バイパス→root権限RCE脆弱性（2026年）](./kestra-oss-cve-2026-49869-rce-2026.md) | 2026-09-10 | 1件 |
 | [AdaptHealth データ侵害（2026年6月）](./adapthealth-data-breach-2026.md) | 2026-09-10 | 1件 |
 | [Google Play「早期アクセス」機能悪用の欺瞞的Androidアプリ配布問題（2026年）](./google-play-early-access-deceptive-apps-2026.md) | 2026-09-10 | 1件 |
