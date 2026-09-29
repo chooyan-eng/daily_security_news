@@ -13,6 +13,17 @@
 | [Adobe Commerce / Magento CVE-2026-71362 アカウント乗っ取り脆弱性の積極的悪用（2026年8月）](./adobe-commerce-cve-2026-71362.md) | 2026-09-27 | 2件 |
 | [MikroTik RouterOS「MikroTrick」SSH認証バイパス連鎖脆弱性（2026年9月）](./mikrotik-routeros-mikrotrick-2026.md) | 2026-09-27 | 2件 |
 | [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-27 | 3件 |
+| [Arista VeloCloud Orchestrator CVE-2026-93952 認証バイパス/RCEゼロデイ（2026年9月）](./arista-velocloud-cve-2026-93952.md) | 2026-09-25 | 1件 |
+| [WordPress Visual Composer Website Builder CVE-2026-12227 未認証LFI/RCE脆弱性（2026年9月）](./wordpress-visual-composer-cve-2026-12227.md) | 2026-09-25 | 1件 |
+| [暗号資産取引所Bitget 3.5億ドル超不正流出事案（2026年9月）](./bitget-hack-2026.md) | 2026-09-25 | 1件 |
+| [サイバー犯罪マーケットプレイス「Rydox」運営者 有罪答弁（2026年9月）](./rydox-marketplace-guilty-plea-2026.md) | 2026-09-25 | 1件 |
+| [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-25 | 2件 |
+| [Microsoft SharePoint Server CVE-2026-65660 SafeControlsバイパスによる認証済みRCE脆弱性（2026年9月）](./sharepoint-cve-2026-65660-code-injection.md) | 2026-09-25 | 1件 |
+| [Piwigo CVE-2026-42322／CVE-2026-62262 ファイルアップロードRCE・未認証SQLインジェクション脆弱性（2026年9月）](./piwigo-cve-2026-42322-62262.md) | 2026-09-25 | 1件 |
+| [InvoicePlane CVE-2026-39353 公開請求書テンプレート経由のRCE脆弱性（2026年9月）](./invoiceplane-cve-2026-39353.md) | 2026-09-25 | 1件 |
+| [WordPress「Visual Composer Website Builder」CVE-2026-12227 未認証ローカルファイルインクルード/RCE脆弱性（2026年9月）](./visual-composer-cve-2026-12227.md) | 2026-09-25 | 1件 |
+| [Android MaaS型バンキング／暗号資産窃取マルウェア「Albiriox」（2026年）](./albiriox-android-maas-banking-trojan-2026.md) | 2026-09-25 | 1件 |
+| [米国防総省 人事データセンター（DMDC）ファイル共有システム個人情報露出事案（2026年）](./dmdc-military-personnel-data-exposure-2026.md) | 2026-09-25 | 1件 |
 | [RemControl Androidバンキング型トロイ（AI構築C2基盤、2026年）](./remcontrol-android-banking-trojan-2026.md) | 2026-09-24 | 2件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-09-24 | 6件 |
 | [Roundcube Webmail CVE-2026-48842 認証前SQLインジェクション脆弱性（2026年）](./roundcube-cve-2026-48842-sqli.md) | 2026-09-24 | 1件 |
@@ -97,7 +108,6 @@
 | [国内地方銀行アプリ スマートフォンウイルス感染による不正送金注意喚起（2026年9月）](./japan-bank-apps-smartphone-virus-warning-2026.md) | 2026-09-11 | 1件 |
 | [Gigabud Androidバンキング型トロイ ワークプロファイル悪用アプリ複製キャンペーン（2026年）](./gigabud-android-work-profile-clone-2026.md) | 2026-09-11 | 1件 |
 | [cPanel EmailTrack CVE-2026-67401 SQLインジェクション→root権限奪取脆弱性（2026年9月）](./cpanel-emailtrack-cve-2026-67401-2026.md) | 2026-09-10 | 1件 |
-| [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-10 | 1件 |
 | [Kestra OSS CVE-2026-49869 認証バイパス→root権限RCE脆弱性（2026年）](./kestra-oss-cve-2026-49869-rce-2026.md) | 2026-09-10 | 1件 |
 | [AdaptHealth データ侵害（2026年6月）](./adapthealth-data-breach-2026.md) | 2026-09-10 | 1件 |
 | [Google Play「早期アクセス」機能悪用の欺瞞的Androidアプリ配布問題（2026年）](./google-play-early-access-deceptive-apps-2026.md) | 2026-09-10 | 1件 |
@@ -132,7 +142,7 @@
 | [「ASCIIスマグリング」不可視Unicode悪用フィッシングキャンペーン（2026年）](./microsoft-ascii-smuggling-phishing-2026.md) | 2026-09-05 | 1件 |
 | [Divi Ajax Filter CVE-2026-11613 未認証ローカルファイルインクルード/RCE脆弱性（2026年）](./divi-ajax-filter-cve-2026-11613.md) | 2026-09-05 | 1件 |
 | [WPFunnels「Mail Mint」PHPオブジェクトインジェクション脆弱性群（2026年）](./wpfunnels-mail-mint-object-injection-2026.md) | 2026-09-05 | 1件 |
-| [StreamRat Androidバンキング型トロイの木馬・広告配信キャンペーン（2026年）](./streamrat-android-trojan-2026.md) | 2026-09-05 | 2件 |
+| [StreamRat Androidバンキング型トロイの木馬・広告配信キャンペーン（2026年）](./streamrat-android-trojan-2026.md) | 2026-09-25 | 3件 |
 | [SonicWall Network Security Manager (NSM) On-Prem 重大脆弱性群（2026年9月）](./sonicwall-nsm-onprem-cve-2026-78327.md) | 2026-09-05 | 1件 |
 | [Packagist悪意あるComposerテーマパッケージ・iOSスパイウェア配信事案（2026年）](./packagist-ios-spyware-crypto-theft-2026.md) | 2026-09-05 | 1件 |
 | [Cisco IOS XR 2026年9月セキュリティハードニングリリース](./cisco-iosxr-hardening-2026-09.md) | 2026-09-05 | 1件 |
