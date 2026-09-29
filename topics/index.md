@@ -4,9 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [タイムズカー Webサイト不正アクセス・約660万アカウント漏えい事案（2026年9月）](./times-car-web-breach-2026.md) | 2026-09-29 | 1件 |
+| [セイコーマートアプリ不正アクセス・約57万アカウント漏えい事案（2026年9月）](./seicomart-app-breach-2026.md) | 2026-09-29 | 1件 |
+| [Supabase上のデータベース大量露出（RLS不備、2026年9月）](./supabase-exposed-databases-2026.md) | 2026-09-29 | 1件 |
+| [Windowsボットネット「x47.c」AI API枯渇（denial of wallet）攻撃（2026年）](./x47c-botnet-ai-api-drain-2026.md) | 2026-09-29 | 1件 |
 | [Arista VeloCloud Orchestrator CVE-2026-93952 認証バイパス/RCEゼロデイ（2026年9月）](./arista-velocloud-cve-2026-93952.md) | 2026-09-25 | 1件 |
 | [WordPress Visual Composer Website Builder CVE-2026-12227 未認証LFI/RCE脆弱性（2026年9月）](./wordpress-visual-composer-cve-2026-12227.md) | 2026-09-25 | 1件 |
-| [暗号資産取引所Bitget 3.5億ドル超不正流出事案（2026年9月）](./bitget-hack-2026.md) | 2026-09-25 | 1件 |
+| [暗号資産取引所Bitget 3.5億ドル超不正流出事案（2026年9月）](./bitget-hack-2026.md) | 2026-09-29 | 2件 |
 | [サイバー犯罪マーケットプレイス「Rydox」運営者 有罪答弁（2026年9月）](./rydox-marketplace-guilty-plea-2026.md) | 2026-09-25 | 1件 |
 | [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-25 | 2件 |
 | [Microsoft SharePoint Server CVE-2026-65660 SafeControlsバイパスによる認証済みRCE脆弱性（2026年9月）](./sharepoint-cve-2026-65660-code-injection.md) | 2026-09-25 | 1件 |
