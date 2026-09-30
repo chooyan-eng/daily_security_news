@@ -10,8 +10,10 @@ CERT PolskaがMikroTik RouterOSに発見した複数脆弱性のうち、CVE-202
 - 修正版: RouterOS 7.25 beta3、7.24.2、7.23.4、6.49.21
 - 悪用状況: SSHサービスを外部公開した機器に対する実悪用をCERT Polskaが確認
 - 報告元: CERT Polska、MikroTik公式セキュリティアドバイザリ
+- CISA KEVカタログ追加日: 2026年9月25日（CVE-2026-67279、連邦機関対応期限: 9月28日）
 
 ## タイムライン
 
+- [2026-09-27 CISA、MikroTik RouterOSの実悪用脆弱性CVE-2026-67279をKEVに追加　「MikroTrick」連鎖で管理者権限奪取も](../articles/2026-09-27-cisa-kev-mikrotik-cve-2026-67279.md)
 - [2026-09-25 MikroTik RouterOSの認証前SSHバイパス脆弱性CVE-2026-67279、CISA KEVに追加](../articles/2026-09-25-mikrotik-cve-2026-67279-kev.md)
 - [2026-09-06 MikroTik RouterOS「MikroTrick」攻撃チェーン、SSH経由の未認証RCEが実悪用中](../articles/2026-09-06-mikrotik-routeros-mikrotrick-rce.md)
