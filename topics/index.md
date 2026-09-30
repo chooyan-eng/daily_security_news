@@ -4,12 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Chrome 154 セキュリティアップデート（2026年9月）](./chrome-154-security-update-2026.md) | 2026-09-28 | 1件 |
+| [Next.js 2026年9月30日セキュリティリリース（9件の脆弱性）](./nextjs-security-release-2026-09-30.md) | 2026-09-28 | 1件 |
+| [京王電鉄グループ ランサムウェア攻撃（2026年9月）](./keio-group-ransomware-2026.md) | 2026-09-28 | 1件 |
+| [オズモール（スターツ出版）不正アクセス・会員情報漏えい事案（2026年9月）](./ozmall-unauthorized-access-2026.md) | 2026-09-28 | 1件 |
+| [Citrix NetScaler ADC/Gateway CVE-2026-88771／CVE-2026-88772 RCEゼロデイ（2026年9月）](./citrix-netscaler-cve-2026-88771-88772-zero-day.md) | 2026-09-28 | 1件 |
 | [暗号資産取引所Bitgetホットウォレット侵害事件（2026年9月）](./bitget-hack-north-korea-2026.md) | 2026-09-27 | 1件 |
 | [京王電鉄グループ ランサムウェア攻撃・システム障害事案（2026年9月）](./keio-dentetsu-ransomware-2026.md) | 2026-09-27 | 1件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-09-27 | 5件 |
 | [Microsoft SharePoint Server CVE-2026-65660 コードインジェクション脆弱性（2026年9月）](./sharepoint-cve-2026-65660.md) | 2026-09-27 | 1件 |
 | [Kiteworksファイル共有プラットフォーム 予防的システム停止事案（2026年9月）](./kiteworks-precautionary-shutdown-2026.md) | 2026-09-27 | 1件 |
-| [WSO2 API Manager CVE-2026-5430 JWT認証バイパス脆弱性（2026年9月）](./wso2-api-manager-cve-2026-5430-jwt-bypass.md) | 2026-09-27 | 2件 |
 | [Adobe Commerce / Magento CVE-2026-71362 アカウント乗っ取り脆弱性の積極的悪用（2026年8月）](./adobe-commerce-cve-2026-71362.md) | 2026-09-27 | 2件 |
 | [MikroTik RouterOS「MikroTrick」SSH認証バイパス連鎖脆弱性（2026年9月）](./mikrotik-routeros-mikrotrick-2026.md) | 2026-09-27 | 2件 |
 | [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-27 | 3件 |
@@ -17,7 +21,6 @@
 | [WordPress Visual Composer Website Builder CVE-2026-12227 未認証LFI/RCE脆弱性（2026年9月）](./wordpress-visual-composer-cve-2026-12227.md) | 2026-09-25 | 1件 |
 | [暗号資産取引所Bitget 3.5億ドル超不正流出事案（2026年9月）](./bitget-hack-2026.md) | 2026-09-25 | 1件 |
 | [サイバー犯罪マーケットプレイス「Rydox」運営者 有罪答弁（2026年9月）](./rydox-marketplace-guilty-plea-2026.md) | 2026-09-25 | 1件 |
-| [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-25 | 2件 |
 | [Microsoft SharePoint Server CVE-2026-65660 SafeControlsバイパスによる認証済みRCE脆弱性（2026年9月）](./sharepoint-cve-2026-65660-code-injection.md) | 2026-09-25 | 1件 |
 | [Piwigo CVE-2026-42322／CVE-2026-62262 ファイルアップロードRCE・未認証SQLインジェクション脆弱性（2026年9月）](./piwigo-cve-2026-42322-62262.md) | 2026-09-25 | 1件 |
 | [InvoicePlane CVE-2026-39353 公開請求書テンプレート経由のRCE脆弱性（2026年9月）](./invoiceplane-cve-2026-39353.md) | 2026-09-25 | 1件 |
@@ -76,6 +79,7 @@
 | [NightmareStresser DDoS代行サービス摘発（2026年9月）](./nightmarestresser-ddos-takedown-2026.md) | 2026-09-17 | 1件 |
 | [Acronis Backupプラグイン CVE-2026-87886 権限昇格脆弱性（2026年9月）](./acronis-backup-plugin-cve-2026-87886.md) | 2026-09-17 | 1件 |
 | [画像共有サービス「Gyazo」不正アクセス・大規模情報漏えい事案（2026年9月）](./gyazo-helpfeel-breach-2026.md) | 2026-09-16 | 1件 |
+| [WSO2 API Manager CVE-2026-5430 JWT認証バイパス脆弱性（2026年9月）](./wso2-api-manager-cve-2026-5430-jwt-bypass.md) | 2026-09-28 | 4件 |
 | [Google Pixel セルularモデム 権限昇格ゼロデイ CVE-2026-58704（2026年9月）](./google-pixel-modem-cve-2026-58704.md) | 2026-09-16 | 1件 |
 | [新型フィッシングキット「N0va」デバイスコード／AiTM認証悪用キャンペーン（2026年9月）](./n0va-phishkit-device-code-phishing-2026.md) | 2026-09-16 | 1件 |
 | [BragJack：ブラウザ拡張機能によるAIアシスタント乗っ取り手法（2026年9月）](./bragjack-ai-browser-extension-hijack-2026.md) | 2026-09-16 | 1件 |
@@ -108,6 +112,7 @@
 | [国内地方銀行アプリ スマートフォンウイルス感染による不正送金注意喚起（2026年9月）](./japan-bank-apps-smartphone-virus-warning-2026.md) | 2026-09-11 | 1件 |
 | [Gigabud Androidバンキング型トロイ ワークプロファイル悪用アプリ複製キャンペーン（2026年）](./gigabud-android-work-profile-clone-2026.md) | 2026-09-11 | 1件 |
 | [cPanel EmailTrack CVE-2026-67401 SQLインジェクション→root権限奪取脆弱性（2026年9月）](./cpanel-emailtrack-cve-2026-67401-2026.md) | 2026-09-10 | 1件 |
+| [Check Point VPN証明書処理 重大脆弱性 CVE-2026-85102／CVE-2026-85103（2026年9月）](./checkpoint-vpn-certificate-cve-2026-85102-2026.md) | 2026-09-28 | 3件 |
 | [Kestra OSS CVE-2026-49869 認証バイパス→root権限RCE脆弱性（2026年）](./kestra-oss-cve-2026-49869-rce-2026.md) | 2026-09-10 | 1件 |
 | [AdaptHealth データ侵害（2026年6月）](./adapthealth-data-breach-2026.md) | 2026-09-10 | 1件 |
 | [Google Play「早期アクセス」機能悪用の欺瞞的Androidアプリ配布問題（2026年）](./google-play-early-access-deceptive-apps-2026.md) | 2026-09-10 | 1件 |
