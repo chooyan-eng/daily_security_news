@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [暗号資産取引所Bitgetホットウォレット侵害事件（2026年9月）](./bitget-hack-north-korea-2026.md) | 2026-09-27 | 1件 |
+| [京王電鉄グループ ランサムウェア攻撃・システム障害事案（2026年9月）](./keio-dentetsu-ransomware-2026.md) | 2026-09-27 | 1件 |
+| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-09-27 | 5件 |
+| [Microsoft SharePoint Server CVE-2026-65660 コードインジェクション脆弱性（2026年9月）](./sharepoint-cve-2026-65660.md) | 2026-09-27 | 1件 |
+| [Kiteworksファイル共有プラットフォーム 予防的システム停止事案（2026年9月）](./kiteworks-precautionary-shutdown-2026.md) | 2026-09-27 | 1件 |
+| [WSO2 API Manager CVE-2026-5430 JWT認証バイパス脆弱性（2026年9月）](./wso2-api-manager-cve-2026-5430-jwt-bypass.md) | 2026-09-27 | 2件 |
+| [Adobe Commerce / Magento CVE-2026-71362 アカウント乗っ取り脆弱性の積極的悪用（2026年8月）](./adobe-commerce-cve-2026-71362.md) | 2026-09-27 | 2件 |
+| [MikroTik RouterOS「MikroTrick」SSH認証バイパス連鎖脆弱性（2026年9月）](./mikrotik-routeros-mikrotrick-2026.md) | 2026-09-27 | 2件 |
+| [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-27 | 3件 |
 | [Arista VeloCloud Orchestrator CVE-2026-93952 認証バイパス/RCEゼロデイ（2026年9月）](./arista-velocloud-cve-2026-93952.md) | 2026-09-25 | 1件 |
 | [WordPress Visual Composer Website Builder CVE-2026-12227 未認証LFI/RCE脆弱性（2026年9月）](./wordpress-visual-composer-cve-2026-12227.md) | 2026-09-25 | 1件 |
 | [暗号資産取引所Bitget 3.5億ドル超不正流出事案（2026年9月）](./bitget-hack-2026.md) | 2026-09-25 | 1件 |
@@ -15,7 +24,6 @@
 | [WordPress「Visual Composer Website Builder」CVE-2026-12227 未認証ローカルファイルインクルード/RCE脆弱性（2026年9月）](./visual-composer-cve-2026-12227.md) | 2026-09-25 | 1件 |
 | [Android MaaS型バンキング／暗号資産窃取マルウェア「Albiriox」（2026年）](./albiriox-android-maas-banking-trojan-2026.md) | 2026-09-25 | 1件 |
 | [米国防総省 人事データセンター（DMDC）ファイル共有システム個人情報露出事案（2026年）](./dmdc-military-personnel-data-exposure-2026.md) | 2026-09-25 | 1件 |
-| [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-24 | 2件 |
 | [RemControl Androidバンキング型トロイ（AI構築C2基盤、2026年）](./remcontrol-android-banking-trojan-2026.md) | 2026-09-24 | 2件 |
 | [JetBrains TeamCity CVE-2026-63077 未認証RCE（2026年7月）](./teamcity-cve-2026-63077-rce.md) | 2026-09-24 | 6件 |
 | [Roundcube Webmail CVE-2026-48842 認証前SQLインジェクション脆弱性（2026年）](./roundcube-cve-2026-48842-sqli.md) | 2026-09-24 | 1件 |
@@ -68,7 +76,6 @@
 | [NightmareStresser DDoS代行サービス摘発（2026年9月）](./nightmarestresser-ddos-takedown-2026.md) | 2026-09-17 | 1件 |
 | [Acronis Backupプラグイン CVE-2026-87886 権限昇格脆弱性（2026年9月）](./acronis-backup-plugin-cve-2026-87886.md) | 2026-09-17 | 1件 |
 | [画像共有サービス「Gyazo」不正アクセス・大規模情報漏えい事案（2026年9月）](./gyazo-helpfeel-breach-2026.md) | 2026-09-16 | 1件 |
-| [WSO2 API Manager CVE-2026-5430 JWT認証バイパス脆弱性（2026年9月）](./wso2-api-manager-cve-2026-5430-jwt-bypass.md) | 2026-09-25 | 2件 |
 | [Google Pixel セルularモデム 権限昇格ゼロデイ CVE-2026-58704（2026年9月）](./google-pixel-modem-cve-2026-58704.md) | 2026-09-16 | 1件 |
 | [新型フィッシングキット「N0va」デバイスコード／AiTM認証悪用キャンペーン（2026年9月）](./n0va-phishkit-device-code-phishing-2026.md) | 2026-09-16 | 1件 |
 | [BragJack：ブラウザ拡張機能によるAIアシスタント乗っ取り手法（2026年9月）](./bragjack-ai-browser-extension-hijack-2026.md) | 2026-09-16 | 1件 |
@@ -123,7 +130,6 @@
 | [Chrome拡張機能悪用の侵害後バックドア「PEEP」（2026年）](./peep-chrome-extension-backdoor-2026.md) | 2026-09-07 | 1件 |
 | [ASUS Control Center Enterprise CVE-2026-75754 root権限奪取脆弱性（2026年9月）](./asus-control-center-enterprise-cve-2026-75754.md) | 2026-09-07 | 1件 |
 | [Roundcube Webmail セキュリティアップデート（2026年9月）](./roundcube-security-update-2026-09.md) | 2026-09-07 | 1件 |
-| [MikroTik RouterOS「MikroTrick」SSH認証バイパス連鎖脆弱性（2026年9月）](./mikrotik-routeros-mikrotrick-2026.md) | 2026-09-25 | 2件 |
 | [WordPress「Mail Mint」プラグイン CVE-2026-10196 未認証RCE脆弱性（2026年9月）](./mail-mint-wordpress-cve-2026-10196.md) | 2026-09-06 | 1件 |
 | [ClickFix「EtherHiding」BNBスマートチェーン悪用キャンペーン（2026年）](./clickfix-etherhiding-bnb-smartchain-2026.md) | 2026-09-06 | 1件 |
 | [OpenAI自律型AIエージェントによるドイツ語Wiki乗っ取り未公表インシデント（2026年）](./openai-agents-wiki-hijack-2026.md) | 2026-09-06 | 1件 |
@@ -291,7 +297,6 @@
 | [Cisco Secure Firewall ASA/FTD CVE-2026-20349 積極的悪用（2026年8月）](./cisco-asa-ftd-cve-2026-20349.md) | 2026-08-13 | 1件 |
 | [中国系脅威アクターによる「準自律型」AIエージェント攻撃：台湾政府機関を標的（2026年7-8月）](./china-ai-agent-taiwan-attack-2026.md) | 2026-08-13 | 1件 |
 | [Androidバンキングマルウェアによるリアルタイム不正利用（2026年）](./android-banking-malware-realtime-fraud-2026.md) | 2026-08-13 | 1件 |
-| [Adobe Commerce / Magento CVE-2026-71362 アカウント乗っ取り脆弱性の積極的悪用（2026年8月）](./adobe-commerce-cve-2026-71362.md) | 2026-09-25 | 2件 |
 | [ヨネックス公式オンラインショップ 不正ログイン（2026年8月）](./yonex-ec-credential-stuffing-2026.md) | 2026-08-12 | 1件 |
 | [Windows AFD.sys ゼロデイ CVE-2026-68820・Lazarus悪用（2026年8月）](./windows-afd-sys-cve-2026-68820-lazarus.md) | 2026-08-12 | 1件 |
 | [Microsoft SharePoint CVE-2026-63520 RCE 脆弱性チェーン（2026年8月）](./sharepoint-cve-2026-63520-rce.md) | 2026-08-12 | 1件 |
@@ -414,7 +419,6 @@
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-22 | 5件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-22 | 3件 |
 | [ルーマニア不動産登記システム（ANCPI）データベース破壊攻撃（2026年7月）](./romania-land-registry-wipe-2026.md) | 2026-07-22 | 1件 |
-| [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-07-21 | 4件 |
 | [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
 | [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-07-21 | 2件 |
