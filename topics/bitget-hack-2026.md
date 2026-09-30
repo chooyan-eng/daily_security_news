@@ -15,4 +15,5 @@
 
 ## タイムライン
 
+- [2026-09-29 Bitget、3.875億ドル流出後にビットコイン出金を再開](../articles/2026-09-29-bitget-withdrawals-resume.md)
 - [2026-09-25 Bitget、バックエンドなりすまし手口で3億5,000万ドル超が不正流出、北朝鮮関与の可能性](../articles/2026-09-25-bitget-hack-350-million.md)
