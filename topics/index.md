@@ -4,6 +4,8 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Apple CoreGraphics CVE-2026-86950 境界外書き込み脆弱性（2026年）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-01 | 1件 |
+| [Fortinet FortiMail CVE-2026-104286 ゼロデイ悪用（2026年10月）](./fortimail-cve-2026-104286-zero-day.md) | 2026-10-01 | 1件 |
 | [郵便局アプリ不正アクセス・顧客情報不正取得事案（2026年9月）](./japan-post-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
@@ -26,7 +28,7 @@
 | [WordPress CVE-2026-87902 未認証ファイルインクルード/RCE脆弱性（2026年9月）](./wordpress-cve-2026-87902.md) | 2026-09-27 | 3件 |
 | [Arista VeloCloud Orchestrator CVE-2026-93952 認証バイパス/RCEゼロデイ（2026年9月）](./arista-velocloud-cve-2026-93952.md) | 2026-09-25 | 1件 |
 | [WordPress Visual Composer Website Builder CVE-2026-12227 未認証LFI/RCE脆弱性（2026年9月）](./wordpress-visual-composer-cve-2026-12227.md) | 2026-09-25 | 1件 |
-| [暗号資産取引所Bitget 3.5億ドル超不正流出事案（2026年9月）](./bitget-hack-2026.md) | 2026-09-29 | 2件 |
+| [暗号資産取引所Bitget 3.5億ドル超不正流出事案（2026年9月）](./bitget-hack-2026.md) | 2026-10-01 | 3件 |
 | [サイバー犯罪マーケットプレイス「Rydox」運営者 有罪答弁（2026年9月）](./rydox-marketplace-guilty-plea-2026.md) | 2026-09-25 | 1件 |
 | [Microsoft SharePoint Server CVE-2026-65660 SafeControlsバイパスによる認証済みRCE脆弱性（2026年9月）](./sharepoint-cve-2026-65660-code-injection.md) | 2026-09-25 | 1件 |
 | [Piwigo CVE-2026-42322／CVE-2026-62262 ファイルアップロードRCE・未認証SQLインジェクション脆弱性（2026年9月）](./piwigo-cve-2026-42322-62262.md) | 2026-09-25 | 1件 |
