@@ -4,6 +4,12 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Zammad CVE-2026-102489／CVE-2026-102490 ゼロデイ連鎖（DIVD侵害、2026年9月）](./zammad-cve-2026-102489-102490-zero-days.md) | 2026-10-02 | 1件 |
+| [Fortinet FortiMail CVE-2026-104286 パストラバーサル・ゼロデイ（2026年10月）](./fortimail-cve-2026-104286-zero-day.md) | 2026-10-02 | 1件 |
+| [Cisco Catalyst SD-WAN Manager CVE-2026-76504 API認証バイパス・ゼロデイ（2026年10月）](./cisco-sdwan-manager-cve-2026-76504-zero-day.md) | 2026-10-02 | 1件 |
+| [佐川急便「お荷物問い合わせサービス」不正アクセス事案（2026年9〜10月）](./sagawa-tracking-service-unauthorized-access-2026.md) | 2026-10-02 | 1件 |
+| [日本原子力研究開発機構 JRR-3研究支援サイト不正アクセス事案（2026年10月）](./jaea-jrr3-support-site-breach-2026.md) | 2026-10-02 | 1件 |
+| [らしんばん 不正アクセス・個人情報漏えい事案（2026年9月）](./rashinban-unauthorized-access-2026.md) | 2026-10-02 | 1件 |
 | [郵便局アプリ不正アクセス・顧客情報不正取得事案（2026年9月）](./japan-post-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
@@ -14,7 +20,7 @@
 | [Chrome 154 セキュリティアップデート（2026年9月）](./chrome-154-security-update-2026.md) | 2026-09-28 | 1件 |
 | [Next.js 2026年9月30日セキュリティリリース（9件の脆弱性）](./nextjs-security-release-2026-09-30.md) | 2026-09-28 | 1件 |
 | [京王電鉄グループ ランサムウェア攻撃（2026年9月）](./keio-group-ransomware-2026.md) | 2026-09-28 | 1件 |
-| [オズモール（スターツ出版）不正アクセス・会員情報漏えい事案（2026年9月）](./ozmall-unauthorized-access-2026.md) | 2026-09-28 | 1件 |
+| [オズモール（スターツ出版）不正アクセス・会員情報漏えい事案（2026年9月）](./ozmall-unauthorized-access-2026.md) | 2026-10-02 | 2件 |
 | [Citrix NetScaler ADC/Gateway CVE-2026-88771／CVE-2026-88772 RCEゼロデイ（2026年9月）](./citrix-netscaler-cve-2026-88771-88772-zero-day.md) | 2026-09-30 | 2件 |
 | [暗号資産取引所Bitgetホットウォレット侵害事件（2026年9月）](./bitget-hack-north-korea-2026.md) | 2026-09-27 | 1件 |
 | [京王電鉄グループ ランサムウェア攻撃・システム障害事案（2026年9月）](./keio-dentetsu-ransomware-2026.md) | 2026-09-27 | 1件 |
