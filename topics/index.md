@@ -4,6 +4,9 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [佐川急便「お荷物問い合わせサービス」不正アクセス事案（2026年10月）](./sagawa-parcel-inquiry-unauthorized-access-2026.md) | 2026-10-04 | 1件 |
+| [Dell Container Storage Modules DSA-2026-448 重大脆弱性（2026年10月）](./dell-container-storage-modules-dsa-2026-448.md) | 2026-10-04 | 1件 |
+| [Fortinet FortiMail 未認証任意ファイル書き込みゼロデイの悪用（2026年10月）](./fortimail-zero-day-file-write-2026.md) | 2026-10-04 | 1件 |
 | [郵便局アプリ不正アクセス・顧客情報不正取得事案（2026年9月）](./japan-post-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
@@ -283,7 +286,7 @@
 | [Intraverse Firebase 設定不備による情報漏洩（2026年）](./intraverse-firebase-exposure-2026.md) | 2026-08-18 | 1件 |
 | [フランス税務当局 DGFiP データ侵害（2026年）](./france-dgfip-tax-breach-2026.md) | 2026-08-18 | 1件 |
 | [C2Looper GitHub悪用バックドア（2026年）](./c2looper-github-c2-backdoor-2026.md) | 2026-08-18 | 1件 |
-| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 6件 |
+| [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-10-04 | 7件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
 | [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-09-11 | 8件 |
