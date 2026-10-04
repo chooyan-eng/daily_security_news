@@ -23,6 +23,7 @@
 
 ## タイムライン
 
+- [2026-10-04 Warlock（Storm-2603関連）、ポルトガル語・スペイン語圏の重要インフラ等へSharePoint攻撃を継続](../articles/2026-10-04-warlock-sharepoint-latam.md)
 - [2026-08-17 AI支援研究でSharePointの未認証RCEに繋がる新たな脆弱性チェーンが判明（CVE-2026-55040/CVE-2026-63520、Storm-2603とは別チェーン）](../articles/2026-08-17-sharepoint-ai-assisted-exploit-chain.md)
 - [2026-07-16 SharePoint RCE脆弱性CVE-2026-45659がCISA KEVに追加、Storm-2603による悪用が確認](../articles/2026-07-16-sharepoint-cve-2026-45659-storm2603.md)
 - [2026-07-11 SharePoint RCE脆弱性CVE-2026-45659がCISA KEVに追加、Storm-2603によるWarlockランサムウェア展開に悪用](../articles/2026-07-11-sharepoint-cve-2026-45659-storm-2603-warlock-kev.md)
