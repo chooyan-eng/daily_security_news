@@ -4,6 +4,11 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [焼肉きんぐ公式アプリ会員管理システムへの不正アクセス（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-05 | 1件 |
+| [大起水産アプリ不正アクセス事案（2026年10月）](./daiki-suisan-app-breach-2026.md) | 2026-10-05 | 1件 |
+| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-05 | 1件 |
+| [MetaMask インフラ侵害・バリデータ退出（2026年9〜10月）](./metamask-infrastructure-incident-2026.md) | 2026-10-05 | 1件 |
+| [The Japan Times Eclipseランサムウェア被害主張事案（2026年9月〜10月）](./japan-times-eclipse-ransomware-2026.md) | 2026-10-05 | 1件 |
 | [郵便局アプリ不正アクセス・顧客情報不正取得事案（2026年9月）](./japan-post-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
@@ -15,7 +20,7 @@
 | [Next.js 2026年9月30日セキュリティリリース（9件の脆弱性）](./nextjs-security-release-2026-09-30.md) | 2026-09-28 | 1件 |
 | [京王電鉄グループ ランサムウェア攻撃（2026年9月）](./keio-group-ransomware-2026.md) | 2026-09-28 | 1件 |
 | [オズモール（スターツ出版）不正アクセス・会員情報漏えい事案（2026年9月）](./ozmall-unauthorized-access-2026.md) | 2026-09-28 | 1件 |
-| [Citrix NetScaler ADC/Gateway CVE-2026-88771／CVE-2026-88772 RCEゼロデイ（2026年9月）](./citrix-netscaler-cve-2026-88771-88772-zero-day.md) | 2026-09-30 | 2件 |
+| [Citrix NetScaler ADC/Gateway CVE-2026-88771／CVE-2026-88772 RCEゼロデイ（2026年9月）](./citrix-netscaler-cve-2026-88771-88772-zero-day.md) | 2026-10-05 | 3件 |
 | [暗号資産取引所Bitgetホットウォレット侵害事件（2026年9月）](./bitget-hack-north-korea-2026.md) | 2026-09-27 | 1件 |
 | [京王電鉄グループ ランサムウェア攻撃・システム障害事案（2026年9月）](./keio-dentetsu-ransomware-2026.md) | 2026-09-27 | 1件 |
 | [ShinyHunters による Oracle PeopleSoft 攻撃キャンペーン](./shinyhunters-oracle-peoplesoft.md) | 2026-09-27 | 5件 |
