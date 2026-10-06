@@ -4,6 +4,10 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [焼肉きんぐ公式アプリ会員管理システムへの不正アクセス（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-06 | 1件 |
+| [ASOS公式アプリ不正プッシュ通知・Snowflake侵害主張（2026年10月）](./asos-app-push-extortion-2026.md) | 2026-10-06 | 1件 |
+| [Trump Mobile顧客データ漏えい（BYODランサムウェアグループ、2026年10月）](./trump-mobile-byod-breach-2026.md) | 2026-10-06 | 1件 |
+| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-10-06 | 8件 |
 | [郵便局アプリ不正アクセス・顧客情報不正取得事案（2026年9月）](./japan-post-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
@@ -224,7 +228,6 @@
 | [ノルウェー政府デジタル基盤への連続DDoS攻撃（2026年）](./norway-digdir-ddos-2026.md) | 2026-08-26 | 1件 |
 | [OpenSSL 2026年8月25日セキュリティアドバイザリ](./openssl-security-advisory-august-2026.md) | 2026-08-26 | 1件 |
 | [楽天モバイル eSIM不正契約・匿名流動型犯罪グループへの転売事案（2026年）](./rakuten-mobile-esim-fraud-2026.md) | 2026-08-26 | 1件 |
-| [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-09-21 | 7件 |
 | [Zimbra Collaboration Suite SNMP RCE脆弱性 CVE-2026-73570（2026年8月）](./zimbra-snmp-cve-2026-73570-rce-2026.md) | 2026-08-26 | 3件 |
 | [Marimo ノートブック CVE-2026-75149 MCPコマンド実行脆弱性（2026年）](./marimo-notebook-cve-2026-75149.md) | 2026-08-25 | 1件 |
 | [Mirage2FA フィッシングキット AiTM攻撃キャンペーン（2026年）](./mirage2fa-phishing-m365-2026.md) | 2026-08-25 | 1件 |
