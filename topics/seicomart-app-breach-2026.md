@@ -6,4 +6,5 @@
 
 ## タイムライン
 
+- [2026-10-07 「セイコーマートアプリ」に不正アクセス、約57万アカウントの会員情報が漏えいした可能性（続報）](../articles/2026-10-07-seicomart-app-breach-scannet-report.md)
 - [2026-09-29 セイコーマートアプリ経由で会員情報サーバーに不正アクセス、約57万アカウントに漏えいの可能性](../articles/2026-09-29-seicomart-app-unauthorized-access.md)
