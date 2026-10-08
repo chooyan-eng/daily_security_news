@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ASOS アプリ「ハッキング」プッシュ通知・Snowflake侵害主張（2026年10月）](./asos-app-push-snowflake.md) | 2026-10-07 | 1件 |
+| [ミスターマックス アプリ・オンラインストア不正アクセス（最大173万人、2026年10月）](./mrmax-app-online-store-breach.md) | 2026-10-06 | 1件 |
+| [焼肉きんぐ公式アプリ不正アクセス（約1,079万件、2026年10月）](./yakiniku-king-app-breach.md) | 2026-10-05 | 1件 |
+| [Fortinet FortiMail CVE-2026-104286 未認証任意ファイル書き込みゼロデイ（2026年10月）](./fortimail-cve-2026-104286.md) | 2026-10-02 | 1件 |
+| [Citrix NetScaler ADC/Gateway CVE-2026-88779 ゼロデイ悪用（2026年10月）](./citrix-netscaler-cve-2026-88779.md) | 2026-10-04 | 1件 |
+| [Rejetto HTTP File Server (HFS) 重大脆弱性の悪用試行（2026年10月）](./rejetto-hfs-exploitation.md) | 2026-10-05 | 1件 |
+| [China系脅威アクター「Warlock」によるSharePoint攻撃（中南米、2026年10月）](./warlock-sharepoint-latam.md) | 2026-10-03 | 1件 |
+| [Zammad CVE-2026-102489／CVE-2026-102490 実悪用（2026年10月）](./zammad-cve-2026-102489-102490.md) | 2026-10-08 | 1件 |
+| [Atlassian Jira/Confluence/Bitbucket CVE-2026-21589 PoC公開・未認証攻撃（2026年10月）](./atlassian-cve-2026-21589.md) | 2026-10-07 | 1件 |
+| [Android 2026年10月セキュリティ速報](./android-security-bulletin-october-2026.md) | 2026-10-06 | 1件 |
 | [郵便局アプリ不正アクセス・顧客情報不正取得事案（2026年9月）](./japan-post-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
