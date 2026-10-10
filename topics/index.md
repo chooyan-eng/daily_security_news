@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [焼肉きんぐ公式アプリ不正アクセス・約1,078万件漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-05 | 1件 |
+| [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-06 | 1件 |
+| [ローソンID・ローソンアプリ予約 不正アクセス事案（2026年10月）](./lawson-id-app-breach-2026.md) | 2026-10-08 | 1件 |
+| [大起水産 公式アプリ不正アクセス事案（2026年10月）](./daikisuisan-app-breach-2026.md) | 2026-10-05 | 1件 |
+| [楽天ドライブ不正アクセス事案（2026年10月）](./rakuten-drive-breach-2026.md) | 2026-10-06 | 1件 |
+| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月）](./apple-coregraphics-cve-2026-86950.md) | 2026-09-28 | 1件 |
+| [ASOS アプリ不正プッシュ通知・顧客データ侵害事案（2026年10月）](./asos-app-push-notification-breach-2026.md) | 2026-10-08 | 1件 |
 | [郵便局アプリ不正アクセス・顧客情報不正取得事案（2026年9月）](./japan-post-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
@@ -286,7 +293,7 @@
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-08-17 | 6件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
-| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-09-11 | 8件 |
+| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-10-08 | 9件 |
 | [GeoServer 未認証SQLインジェクション ゼロデイ（2026年8月）](./geoserver-sqli-zero-day-2026.md) | 2026-08-17 | 1件 |
 | [悪意あるChrome拡張機能によるAIチャット窃取キャンペーン（2026年）](./chrome-extension-ai-sidebar-data-theft-2026.md) | 2026-08-17 | 1件 |
 | [Azure Logic Apps CVE-2026-56161 情報漏洩脆弱性（2026年8月）](./azure-logic-apps-cve-2026-56161.md) | 2026-08-17 | 1件 |
