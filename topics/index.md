@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Nextcloud Collabora CODE（richdocumentscode）CVE-2026-110447 未認証RCE脆弱性の悪用（2026年10月）](./nextcloud-collabora-cve-2026-110447.md) | 2026-10-16 | 1件 |
+| [Ivanti Connect Secure CVE-2026-104935 認証バイパスゼロデイ（2026年10月）](./ivanti-connect-secure-cve-2026-104935.md) | 2026-10-16 | 1件 |
+| [ローソンID・ローソンアプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-16 | 1件 |
+| [くふう Zaim 不正アクセス・登録情報書き換え事案（2026年9月）](./zaim-unauthorized-write-2026.md) | 2026-10-16 | 1件 |
+| [サンポー食品 Webサイト不正アクセス・改ざん事案（2026年9月）](./sanpo-foods-website-breach-2026.md) | 2026-10-16 | 1件 |
+| [フクビ化学工業 英語版Webサイト不正アクセス事案（2026年9月）](./fukuvi-english-site-breach-2026.md) | 2026-10-16 | 1件 |
+| [Trump Mobile 顧客情報流出（BYOD主張、2026年10月）](./trump-mobile-data-leak-2026.md) | 2026-10-16 | 1件 |
 | [郵便局アプリ不正アクセス・顧客情報不正取得事案（2026年9月）](./japan-post-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
