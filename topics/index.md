@@ -4,9 +4,12 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-09 | 1件 |
+| [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-09 | 2件 |
 | [らしんばん 不正アクセス・個人情報漏えい事案（2026年10月）](./rasinban-unauthorized-access-2026.md) | 2026-10-09 | 1件 |
-| [大起水産 公式アプリ不正アクセス事案（2026年10月）](./daikisuisan-app-breach-2026.md) | 2026-10-09 | 1件 |
+| [大起水産 公式アプリ不正アクセス事案（2026年10月）](./daikisuisan-app-breach-2026.md) | 2026-10-09 | 2件 |
+| [ローソンID・ローソンアプリ予約 不正アクセス事案（2026年10月）](./lawson-id-app-breach-2026.md) | 2026-10-08 | 1件 |
+| [ASOS アプリ不正プッシュ通知・顧客データ侵害事案（2026年10月）](./asos-app-push-notification-breach-2026.md) | 2026-10-08 | 1件 |
+| [楽天ドライブ不正アクセス事案（2026年10月）](./rakuten-drive-breach-2026.md) | 2026-10-06 | 1件 |
 | [ASOS アプリ「ハッキング」プッシュ通知・Snowflake侵害主張（2026年10月）](./asos-app-push-snowflake.md) | 2026-10-07 | 1件 |
 | [ミスターマックス アプリ・オンラインストア不正アクセス（最大173万人、2026年10月）](./mrmax-app-online-store-breach.md) | 2026-10-06 | 1件 |
 | [焼肉きんぐ公式アプリ不正アクセス（約1,079万件、2026年10月）](./yakiniku-king-app-breach.md) | 2026-10-05 | 1件 |
@@ -17,7 +20,7 @@
 | [Zammad CVE-2026-102489／CVE-2026-102490 実悪用（2026年10月）](./zammad-cve-2026-102489-102490.md) | 2026-10-08 | 1件 |
 | [Atlassian Jira/Confluence/Bitbucket CVE-2026-21589 PoC公開・未認証攻撃（2026年10月）](./atlassian-cve-2026-21589.md) | 2026-10-07 | 1件 |
 | [Android 2026年10月セキュリティ速報](./android-security-bulletin-october-2026.md) | 2026-10-06 | 1件 |
-| [焼肉きんぐ公式アプリ不正アクセス・約1,079万件漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-09 | 4件 |
+| [焼肉きんぐ公式アプリ不正アクセス・約1,079万件漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-09 | 5件 |
 | [大起水産公式アプリ不正アクセス事案（2026年10月）](./taiki-suisan-app-breach-2026.md) | 2026-10-07 | 1件 |
 | [ASOSアプリ不正プッシュ通知インシデント（2026年10月）](./asos-app-notification-incident-2026.md) | 2026-10-07 | 1件 |
 | [Lunex Stealer／ClickFixキャンペーン（2026年9月〜10月）](./lunex-stealer-clickfix-2026.md) | 2026-10-07 | 1件 |
@@ -25,7 +28,7 @@
 | [Trump Mobile顧客データ漏えい（BYODランサムウェアグループ、2026年10月）](./trump-mobile-byod-breach-2026.md) | 2026-10-06 | 1件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-10-06 | 8件 |
 | [大起水産アプリ不正アクセス事案（2026年10月）](./daiki-suisan-app-breach-2026.md) | 2026-10-05 | 1件 |
-| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-05 | 2件 |
+| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-05 | 3件 |
 | [MetaMask インフラ侵害・バリデータ退出（2026年9〜10月）](./metamask-infrastructure-incident-2026.md) | 2026-10-05 | 1件 |
 | [The Japan Times Eclipseランサムウェア被害主張事案（2026年9月〜10月）](./japan-times-eclipse-ransomware-2026.md) | 2026-10-05 | 1件 |
 | [佐川急便「お荷物問い合わせサービス」不正アクセス事案（2026年10月）](./sagawa-parcel-inquiry-unauthorized-access-2026.md) | 2026-10-04 | 1件 |
@@ -318,7 +321,7 @@
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-10-04 | 7件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
-| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-09-11 | 8件 |
+| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-10-08 | 9件 |
 | [GeoServer 未認証SQLインジェクション ゼロデイ（2026年8月）](./geoserver-sqli-zero-day-2026.md) | 2026-08-17 | 1件 |
 | [悪意あるChrome拡張機能によるAIチャット窃取キャンペーン（2026年）](./chrome-extension-ai-sidebar-data-theft-2026.md) | 2026-08-17 | 1件 |
 | [Azure Logic Apps CVE-2026-56161 情報漏洩脆弱性（2026年8月）](./azure-logic-apps-cve-2026-56161.md) | 2026-08-17 | 1件 |

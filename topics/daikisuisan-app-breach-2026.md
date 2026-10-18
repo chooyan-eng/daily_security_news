@@ -7,3 +7,4 @@
 ## タイムライン
 
 - [2026-10-05 大起水産の公式アプリに不正アクセス、17万4,933人分の個人情報が漏えいのおそれ](../articles/2026-10-09-daikisuisan-app-unauthorized-access.md)
+- [2026-10-05 大起水産の公式アプリに不正アクセス、17万4,933人分の個人情報が漏えいのおそれ](../articles/2026-10-10-daikisuisan-app-unauthorized-access.md)
