@@ -8,7 +8,7 @@
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
 | [タイムズカー Webサイト不正アクセス・約660万アカウント漏えい事案（2026年9月）](./times-car-web-breach-2026.md) | 2026-09-29 | 1件 |
-| [セイコーマートアプリ不正アクセス・約57万アカウント漏えい事案（2026年9月）](./seicomart-app-breach-2026.md) | 2026-09-29 | 1件 |
+| [セイコーマートアプリ不正アクセス・約57万アカウント漏えい事案（2026年9月）](./seicomart-app-breach-2026.md) | 2026-10-01 | 2件 |
 | [Supabase上のデータベース大量露出（RLS不備、2026年9月）](./supabase-exposed-databases-2026.md) | 2026-09-29 | 1件 |
 | [Windowsボットネット「x47.c」AI API枯渇（denial of wallet）攻撃（2026年）](./x47c-botnet-ai-api-drain-2026.md) | 2026-09-29 | 1件 |
 | [Chrome 154 セキュリティアップデート（2026年9月）](./chrome-154-security-update-2026.md) | 2026-09-28 | 1件 |
