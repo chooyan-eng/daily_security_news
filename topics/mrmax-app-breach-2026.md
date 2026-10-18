@@ -9,3 +9,4 @@
 - [2026-10-06 ミスターマックス「MrMaxアプリ」とオンラインストアに不正アクセス、最大約173万人の会員情報が流出のおそれ](../articles/2026-10-09-mrmax-app-online-store-breach.md)
 - [2026-10-06 ミスターマックスのアプリ・オンラインストアに不正アクセス、最大173万件の会員情報が流出のおそれ](../articles/2026-10-10-mrmax-app-unauthorized-access.md)
 - [2026-10-06 ミスターマックスのアプリ・オンラインストアに不正アクセス、最大約173万人の会員情報が流出](../articles/2026-10-06-mrmax-app-online-store-breach.md)
+- [2026-10-17 ミスターマックス、MrMaxアプリ・オンラインストアへの不正アクセスで最大173万人の会員情報が漏えいの可能性](../articles/2026-10-17-mrmax-app-unauthorized-access.md)

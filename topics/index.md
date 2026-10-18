@@ -4,15 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [Nextcloud Collabora CODE（richdocumentscode）CVE-2026-110447 未認証RCE脆弱性の悪用（2026年10月）](./nextcloud-collabora-cve-2026-110447.md) | 2026-10-16 | 1件 |
+| [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-17 | 9件 |
+| [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
+| [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
+| [国内アプリ・Webシステム情報漏えい多発とA2B攻撃（2026年）](./a2b-attack-japan-app-leaks-2026.md) | 2026-10-17 | 1件 |
+| [Nextcloud Collabora Online Built-in CODE Server CVE-2026-110447 未認証コマンドインジェクション（2026年）](./nextcloud-collabora-cve-2026-110447.md) | 2026-10-17 | 2件 |
+| [Android 2026年10月セキュリティ公報](./android-security-bulletin-october-2026.md) | 2026-10-17 | 2件 |
 | [Ivanti Connect Secure CVE-2026-104935 認証バイパスゼロデイ（2026年10月）](./ivanti-connect-secure-cve-2026-104935.md) | 2026-10-16 | 1件 |
-| [ローソンID・ローソンアプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-16 | 3件 |
 | [くふう Zaim 不正アクセス・登録情報書き換え事案（2026年9月）](./zaim-unauthorized-write-2026.md) | 2026-10-16 | 1件 |
 | [サンポー食品 Webサイト不正アクセス・改ざん事案（2026年9月）](./sanpo-foods-website-breach-2026.md) | 2026-10-16 | 1件 |
 | [フクビ化学工業 英語版Webサイト不正アクセス事案（2026年9月）](./fukuvi-english-site-breach-2026.md) | 2026-10-16 | 1件 |
 | [Trump Mobile 顧客情報流出（BYOD主張、2026年10月）](./trump-mobile-data-leak-2026.md) | 2026-10-16 | 1件 |
 | [国内Webサービス・アプリを狙う相次ぐ不正アクセスとJPCERT/CC・内閣サイバー注意喚起（2026年9〜10月）](./jpcert-domestic-app-api-attacks-2026.md) | 2026-10-14 | 2件 |
-| [焼肉きんぐ公式アプリ不正アクセス・約1,078万件会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-14 | 8件 |
 | [ASOS モバイルアプリ不正プッシュ通知・顧客データ侵害事案（2026年10月）](./asos-app-push-notification-breach-2026.md) | 2026-10-14 | 2件 |
 | [アエナECアプリ不正アクセス・最大81万人情報漏えいのおそれ（2026年10月）](./aena-ec-app-breach-2026.md) | 2026-10-14 | 1件 |
 | [ASOSアプリ不正プッシュ通知・顧客情報漏えい事案（2026年10月）](./asos-app-breach-2026.md) | 2026-10-14 | 1件 |
@@ -28,7 +31,6 @@
 | [Atlassian Data Center製品 CVE-2026-21589 任意ファイルアクセス脆弱性（2026年10月）](./atlassian-cve-2026-21589-2026.md) | 2026-10-11 | 1件 |
 | [Pwn2Own Ireland 2026（Pixel 10突破・98件のゼロデイ）](./pwn2own-ireland-2026.md) | 2026-10-11 | 1件 |
 | [ASOS 顧客データ侵害（従業員認証情報窃取、2026年10月）](./asos-breach-2026.md) | 2026-10-11 | 1件 |
-| [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-09 | 2件 |
 | [らしんばん 不正アクセス・個人情報漏えい事案（2026年10月）](./rasinban-unauthorized-access-2026.md) | 2026-10-09 | 1件 |
 | [大起水産 公式アプリ不正アクセス事案（2026年10月）](./daikisuisan-app-breach-2026.md) | 2026-10-09 | 2件 |
 | [スカイチケット（アドベンチャー）顧客情報流出事案（2026年10月）](./skyticket-data-breach-2026.md) | 2026-10-09 | 1件 |
@@ -46,7 +48,6 @@
 | [China系脅威アクター「Warlock」によるSharePoint攻撃（中南米、2026年10月）](./warlock-sharepoint-latam.md) | 2026-10-03 | 1件 |
 | [Zammad CVE-2026-102489／CVE-2026-102490 実悪用（2026年10月）](./zammad-cve-2026-102489-102490.md) | 2026-10-08 | 1件 |
 | [Atlassian Jira/Confluence/Bitbucket CVE-2026-21589 PoC公開・未認証攻撃（2026年10月）](./atlassian-cve-2026-21589.md) | 2026-10-07 | 1件 |
-| [Android 2026年10月セキュリティ速報](./android-security-bulletin-october-2026.md) | 2026-10-06 | 1件 |
 | [大起水産公式アプリ不正アクセス事案（2026年10月）](./taiki-suisan-app-breach-2026.md) | 2026-10-07 | 1件 |
 | [ASOSアプリ不正プッシュ通知インシデント（2026年10月）](./asos-app-notification-incident-2026.md) | 2026-10-07 | 1件 |
 | [Lunex Stealer／ClickFixキャンペーン（2026年9月〜10月）](./lunex-stealer-clickfix-2026.md) | 2026-10-07 | 1件 |
