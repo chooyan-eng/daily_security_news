@@ -4,7 +4,10 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [焼肉きんぐ公式アプリ会員管理システムへの不正アクセス（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-06 | 2件 |
+| [焼肉きんぐ公式アプリ不正アクセス・約1,079万件漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-07 | 3件 |
+| [大起水産公式アプリ不正アクセス事案（2026年10月）](./taiki-suisan-app-breach-2026.md) | 2026-10-07 | 1件 |
+| [ASOSアプリ不正プッシュ通知インシデント（2026年10月）](./asos-app-notification-incident-2026.md) | 2026-10-07 | 1件 |
+| [Lunex Stealer／ClickFixキャンペーン（2026年9月〜10月）](./lunex-stealer-clickfix-2026.md) | 2026-10-07 | 1件 |
 | [ASOS公式アプリ不正プッシュ通知・Snowflake侵害主張（2026年10月）](./asos-app-push-extortion-2026.md) | 2026-10-06 | 1件 |
 | [Trump Mobile顧客データ漏えい（BYODランサムウェアグループ、2026年10月）](./trump-mobile-byod-breach-2026.md) | 2026-10-06 | 1件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-10-06 | 8件 |
@@ -25,7 +28,7 @@
 | [ニッポンレンタカーアプリ不正アクセス事案（2026年9月）](./nippon-rentacar-app-breach-2026.md) | 2026-09-30 | 1件 |
 | [イープラス払戻し申請者情報漏えい事案（2026年9月）](./eplus-refund-data-leak-2026.md) | 2026-09-30 | 1件 |
 | [タイムズカー Webサイト不正アクセス・約660万アカウント漏えい事案（2026年9月）](./times-car-web-breach-2026.md) | 2026-09-29 | 1件 |
-| [セイコーマートアプリ不正アクセス・約57万アカウント漏えい事案（2026年9月）](./seicomart-app-breach-2026.md) | 2026-10-01 | 2件 |
+| [セイコーマートアプリ不正アクセス・約57万アカウント漏えい事案（2026年9月）](./seicomart-app-breach-2026.md) | 2026-10-07 | 3件 |
 | [Supabase上のデータベース大量露出（RLS不備、2026年9月）](./supabase-exposed-databases-2026.md) | 2026-09-29 | 1件 |
 | [Windowsボットネット「x47.c」AI API枯渇（denial of wallet）攻撃（2026年）](./x47c-botnet-ai-api-drain-2026.md) | 2026-09-29 | 1件 |
 | [Chrome 154 セキュリティアップデート（2026年9月）](./chrome-154-security-update-2026.md) | 2026-09-28 | 1件 |
