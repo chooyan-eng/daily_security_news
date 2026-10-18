@@ -7,11 +7,17 @@
 | [国内Webサービス・アプリを狙う相次ぐ不正アクセスとJPCERT/CC・内閣サイバー注意喚起（2026年9〜10月）](./jpcert-domestic-app-api-attacks-2026.md) | 2026-10-14 | 2件 |
 | [焼肉きんぐ公式アプリ不正アクセス・約1,078万件会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-14 | 8件 |
 | [ASOS モバイルアプリ不正プッシュ通知・顧客データ侵害事案（2026年10月）](./asos-app-push-notification-breach-2026.md) | 2026-10-14 | 2件 |
+| [アエナECアプリ不正アクセス・最大81万人情報漏えいのおそれ（2026年10月）](./aena-ec-app-breach-2026.md) | 2026-10-14 | 1件 |
+| [ASOSアプリ不正プッシュ通知・顧客情報漏えい事案（2026年10月）](./asos-app-breach-2026.md) | 2026-10-14 | 1件 |
+| [Hannaford／Ahold Delhaize ネットワークセキュリティインシデント・システム停止（2026年10月）](./hannaford-ahold-delhaize-incident-2026.md) | 2026-10-14 | 1件 |
 | [国内で相次ぐアプリ・API経由の不正アクセスと情報漏えい（2026年10月）](./japan-app-api-attack-wave-2026.md) | 2026-10-13 | 2件 |
 | [ローソンID・アプリ予約不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-13 | 2件 |
 | [SonicWall SMA1000 CVE-2026-102255 事前認証SSRF（2026年10月）](./sonicwall-sma1000-cve-2026-102255.md) | 2026-10-13 | 1件 |
 | [WordPress Bricksforge CVE-2026-85097 未認証ファイルアップロードRCE（2026年10月）](./bricksforge-cve-2026-85097.md) | 2026-10-13 | 1件 |
 | [Pwn2Own Ireland 2026 Pixel 10リモート攻略（2026年10月）](./pixel-10-pwn2own-ireland-2026.md) | 2026-10-13 | 1件 |
+| [ライドオンエクスプレス（銀のさら等）サーバーへのランサムウェア攻撃・最大650万件情報漏えいのおそれ（2026年10月）](./rideon-express-ginnosara-ransomware-2026.md) | 2026-10-13 | 1件 |
+| [NICT『A2B攻撃』（公開アプリ解析によるバックエンド攻撃）注意喚起（2026年10月）](./nict-a2b-app-to-backend-attack-2026.md) | 2026-10-13 | 1件 |
+| [npm Trusted Publishing「SlugFest」検証不備（1,500超パッケージ、2026年10月）](./npm-slugfest-trusted-publishing-2026.md) | 2026-10-13 | 1件 |
 | [JPCERT/CC 国内大量情報漏えい注意喚起（JPCERT-AT-2026-0030、2026年10月）](./jpcert-mass-leak-alert-2026-10.md) | 2026-10-11 | 1件 |
 | [Atlassian Data Center製品 CVE-2026-21589 任意ファイルアクセス脆弱性（2026年10月）](./atlassian-cve-2026-21589-2026.md) | 2026-10-11 | 1件 |
 | [Pwn2Own Ireland 2026（Pixel 10突破・98件のゼロデイ）](./pwn2own-ireland-2026.md) | 2026-10-11 | 1件 |
@@ -23,6 +29,7 @@
 | [ローソンID・ローソンアプリ予約 不正アクセス事案（2026年10月）](./lawson-id-app-breach-2026.md) | 2026-10-08 | 1件 |
 | [第一興商 委託先マルウェア感染・個人情報漏えいのおそれ（2026年10月）](./daiichikosho-vendor-malware-2026.md) | 2026-10-08 | 1件 |
 | [ASOS アプリ不正プッシュ通知・顧客データ侵害事案（2026年10月）](./asos-app-push-breach-2026.md) | 2026-10-08 | 1件 |
+| [Trump Mobile顧客データ流出疑い（Liberty Mobile経由、2026年10月）](./trump-mobile-liberty-mobile-leak-2026.md) | 2026-10-08 | 1件 |
 | [楽天ドライブ不正アクセス事案（2026年10月）](./rakuten-drive-breach-2026.md) | 2026-10-06 | 1件 |
 | [ASOS アプリ「ハッキング」プッシュ通知・Snowflake侵害主張（2026年10月）](./asos-app-push-snowflake.md) | 2026-10-07 | 1件 |
 | [ミスターマックス アプリ・オンラインストア不正アクセス（最大173万人、2026年10月）](./mrmax-app-online-store-breach.md) | 2026-10-06 | 1件 |
