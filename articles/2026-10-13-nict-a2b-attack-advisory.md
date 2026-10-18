@@ -1,7 +1,7 @@
 # NICT、公開Androidアプリを解析してサーバーを攻撃する「A2B攻撃」を国内の相次ぐ情報漏えいの一因として注意喚起
 
 - **日付**: 2026-10-13
-- **出典**: [共同通信PRワイヤー（NICT発表）](https://kyodonewsprwire.jp/release/202610137756)
+- **出典**: [NICT（情報通信研究機構）](https://www.nict.go.jp/press/2026/10/13-1.html)
 - **トピック**: [NICT『A2B攻撃』（公開アプリ解析によるバックエンド攻撃）注意喚起（2026年10月）](../topics/nict-a2b-app-to-backend-attack-2026.md)
 - **分類**: 新規
 
@@ -26,3 +26,5 @@ NICTの脅威情報分析チームLETTICEは10月13日、公開Androidアプリ�
 - [郵便局アプリに不正アクセス、ゆうID関連の顧客情報69件（19名分）が不正取得](../articles/2026-09-30-japan-post-app-unauthorized-access.md) - アプリ関連の不正アクセスとして関連
 - [ニッポンレンタカーのアプリに不正アクセス、会員41名の個人情報（免許証情報含む）が閲覧されたおそれ](../articles/2026-09-30-nippon-rentacar-app-unauthorized-access.md) - アプリ関連の不正アクセスとして関連
 - [アエナ、ECアプリへの不正アクセスで最大81万7,215人のマイページ情報が閲覧されたおそれ](../articles/2026-10-14-aena-ec-app-unauthorized-access.md) - 同時期のアプリ系事案
+- [JPCERT/CC、国内組織で相次ぐ不正アクセスに注意喚起](../articles/2026-10-13-jpcert-domestic-unauthorized-access-alert.md) - 同じ事象に対する公的機関の注意喚起
+- [セイコーマートアプリ経由で会員情報サーバーに不正アクセス](../articles/2026-09-29-seicomart-app-unauthorized-access.md) - アプリ経由の漏えい事案
