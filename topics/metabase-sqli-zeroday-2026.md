@@ -35,6 +35,7 @@
 
 ## タイムライン
 
+- [2026-10-08 JPCERT/CC、国内で相次ぐ個人情報漏えいに注意喚起：モバイルアプリAPI悪用とMetabase脆弱性](../articles/2026-10-10-jpcert-alert-domestic-leaks-api-metabase.md)
 - [2026-09-11 Mathspace侵害、ShinyHuntersが犯行声明 パッチ適用の遅れが被害拡大の一因に](../articles/2026-09-11-mathspace-shinyhunters-claim.md)
 - [2026-09-07 豪教育アプリMathspace、未パッチのMetabase脆弱性悪用で108万人分の生徒・保護者データが流出](../articles/2026-09-07-mathspace-metabase-breach.md)
 - [2026-08-17 Metabase CVE-2026-72898：未認証SQLインジェクションで管理者権限奪取、CISA KEVに追加](../articles/2026-08-17-metabase-cve-2026-72898-sqli-kev.md)
