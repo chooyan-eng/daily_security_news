@@ -4,6 +4,8 @@
 
 オープンソースBIツールMetabase（1.58以降）に存在する未認証SQLインジェクションの脆弱性（CVSS 10.0、開示時点で正式CVE番号未採番）がゼロデイ攻撃で悪用され、Framework・Tallyなど複数企業のMetabaseインスタンスが侵害され顧客データが窃取された事案。Metabase Cloudはパッチ済みだが、自己ホスト型インスタンスは管理者による手動アップデートが必要。
 
+**追記**: 後にCVE-2026-72898（パスワードリセットEP、CVSS 10.0）として報じられ、Mathspace（約108万人）が被害を公表。
+
 **同一性の判断に役立つ情報：**
 - 対象製品: Metabase（オープンソースBIツール）バージョン1.58以降
 - 脆弱性種別: 未認証SQLインジェクション → 管理者権限奪取（CVSS 10.0）
@@ -37,6 +39,7 @@
 
 ## タイムライン
 
+- [2026-10-14 教育プラットフォームMathspace、未パッチのMetabase脆弱性（CVE-2026-72898）で約108万人分のデータ漏えい](../articles/2026-10-14-mathspace-metabase-breach.md)
 - [2026-10-08 JPCERT/CC、国内で相次ぐ不正アクセスに注意喚起（Metabase CVE-2026-72898など4つの手口）](../articles/2026-10-08-jpcert-domestic-breach-alert.md)
 - [2026-10-07 Discordボット「Double Counter」、廃止サーバー上の脆弱なMetabase経由で侵害、約12GBを窃取](../articles/2026-10-07-double-counter-discord-bot-breach.md)
 - [2026-10-08 JPCERT/CC、国内で相次ぐ個人情報漏えいに注意喚起：モバイルアプリAPI悪用とMetabase脆弱性](../articles/2026-10-10-jpcert-alert-domestic-leaks-api-metabase.md)
