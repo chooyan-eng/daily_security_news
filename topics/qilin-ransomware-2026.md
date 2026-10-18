@@ -8,6 +8,7 @@ Qilinは2026年第1四半期時点で最も活発なランサムウェアグル�
 - グループ名: Qilin
 - 業態: ランサムウェア・アズ・ア・サービス（RaaS）、二重恐喝
 - 主な標的セクター: 保険・金融サービス等、多業種
+- 2026-10-02: タイの航空会社Thai Lion Airへの攻撃を主張
 - 手法: データ暗号化 + ダークウェブリークサイトへのデータ公開脅迫
 - ATF事案の侵害システム名: CALEAシステム（通信傍受関連法に基づく電子監視業務用のレガシー・独立系システム）
 - ATF事案のデータ公開: 2026年9月1日、身代金支払い期限（72時間）超過後に約6.3GBを公開
@@ -15,6 +16,7 @@ Qilinは2026年第1四半期時点で最も活発なランサムウェアグル�
 
 ## タイムライン
 
+- [2026-10-06 Qilinランサムウェア、タイ・ライオン・エアへの攻撃を主張](../articles/2026-10-06-qilin-thai-lion-air.md)
 - [2026-09-21 Qilinランサムウェア、スイスTouring Club Suisseとトルコ財閥Zorlu Holdingを新たな被害者として掲載](../articles/2026-09-21-qilin-touring-club-suisse-zorlu-holding.md)
 - [2026-09-05 Qilinランサムウェア、Airbus・Boeing向け部品大手LISIグループへの侵害を主張](../articles/2026-09-05-qilin-lisi-group-boeing-airbus-supplier.md)
 - [2026-09-01 Qilin、米ATFの「CALEA」システムから窃取したとするデータ約6.3GBをリークサイトに公開](../articles/2026-09-01-qilin-atf-calea-data-leak.md)
