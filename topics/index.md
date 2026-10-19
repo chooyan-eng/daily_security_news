@@ -4,6 +4,9 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
+| [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
+| [ゲオアプリ 複数の脆弱性（JVN、2026年10月）](./geo-app-vulnerabilities-2026.md) | 2026-10-19 | 1件 |
 | [ヤマト運輸 クロネコ代金後払いサービス不正アクセス事案（2026年9〜10月）](./yamato-kuroneko-postpay-breach-2026.md) | 2026-10-18 | 1件 |
 | [日本経済新聞社 開発用クラウド不正アクセス事案（2026年10月）](./nikkei-dev-cloud-breach-2026.md) | 2026-10-18 | 1件 |
 | [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-18 | 1件 |
@@ -64,7 +67,7 @@
 | [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-05 | 3件 |
 | [MetaMask インフラ侵害・バリデータ退出（2026年9〜10月）](./metamask-infrastructure-incident-2026.md) | 2026-10-05 | 1件 |
 | [The Japan Times Eclipseランサムウェア被害主張事案（2026年9月〜10月）](./japan-times-eclipse-ransomware-2026.md) | 2026-10-05 | 1件 |
-| [佐川急便「お荷物問い合わせサービス」不正アクセス事案（2026年10月）](./sagawa-parcel-inquiry-unauthorized-access-2026.md) | 2026-10-04 | 1件 |
+| [佐川急便「お荷物問い合わせサービス」不正アクセス事案（2026年10月）](./sagawa-parcel-inquiry-unauthorized-access-2026.md) | 2026-10-19 | 2件 |
 | [Dell Container Storage Modules DSA-2026-448 重大脆弱性（2026年10月）](./dell-container-storage-modules-dsa-2026-448.md) | 2026-10-04 | 1件 |
 | [Fortinet FortiMail 未認証任意ファイル書き込みゼロデイの悪用（2026年10月）](./fortimail-zero-day-file-write-2026.md) | 2026-10-04 | 1件 |
 | [Zammad CVE-2026-102489／CVE-2026-102490 ゼロデイ連鎖（DIVD侵害、2026年9月）](./zammad-cve-2026-102489-102490-zero-days.md) | 2026-10-02 | 1件 |
