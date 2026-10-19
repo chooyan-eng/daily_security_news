@@ -4,6 +4,12 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ヤマト運輸 クロネコ代金後払いサービス不正アクセス事案（2026年9〜10月）](./yamato-kuroneko-postpay-breach-2026.md) | 2026-10-18 | 1件 |
+| [日本経済新聞社 開発用クラウド不正アクセス事案（2026年10月）](./nikkei-dev-cloud-breach-2026.md) | 2026-10-18 | 1件 |
+| [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-18 | 1件 |
+| [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-18 | 1件 |
+| [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
+| [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-18 | 1件 |
 | [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-17 | 9件 |
 | [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
@@ -377,7 +383,7 @@
 | [Samsungプリインストールアプリ176件の脆弱性（2026年、Oversecured）](./samsung-oversecured-176-vulnerabilities-2026.md) | 2026-08-12 | 2件 |
 | [N-able N-central CVE-2026-18577 認証バイパス継続悪用（2026年8月）](./n-able-n-central-cve-2026-18577.md) | 2026-08-12 | 8件 |
 | [「New Audio MSG」偽装Google風フィッシングキャンペーン（2026年8月）](./google-themed-phishing-new-audio-msg-2026.md) | 2026-08-12 | 1件 |
-| [ショップサーブ不正アクセス事案（Eストアー、2026年8月）](./estore-shopserve-breach-2026.md) | 2026-08-12 | 3件 |
+| [ショップサーブ不正アクセス事案（Eストアー、2026年8月）](./estore-shopserve-breach-2026.md) | 2026-10-18 | 4件 |
 | [ClickFix経由の新種RAT「CNCMachineRMS」配布キャンペーン（2026年8月）](./clickfix-cncmachinerms-rat-2026.md) | 2026-08-12 | 1件 |
 | [BdThemes WordPressプラグイン サプライチェーン攻撃（2026年8月）](./bdthemes-wordpress-supply-chain-2026.md) | 2026-08-12 | 3件 |
 | [Adobe 2026年8月定例セキュリティ更新（ColdFusion・Campaign Classic）](./adobe-coldfusion-campaign-classic-2026.md) | 2026-09-22 | 11件 |
