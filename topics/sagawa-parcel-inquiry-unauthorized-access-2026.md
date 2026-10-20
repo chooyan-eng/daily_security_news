@@ -6,4 +6,5 @@
 
 ## タイムライン
 
+- [2026-10-19 佐川急便「お荷物問い合わせサービス」不正アクセス、第4報が公表](../articles/2026-10-19-sagawa-parcel-inquiry-report4.md)
 - [2026-10-04 佐川急便「お荷物問い合わせサービス」への不正アクセス](../articles/2026-10-04-sagawa-parcel-inquiry-unauthorized-access.md)
