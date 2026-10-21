@@ -4,6 +4,7 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
 | [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
 | [ゲオアプリ 複数の脆弱性（JVN、2026年10月）](./geo-app-vulnerabilities-2026.md) | 2026-10-19 | 1件 |
@@ -12,7 +13,7 @@
 | [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-18 | 1件 |
 | [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-18 | 1件 |
 | [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
-| [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-18 | 1件 |
+| [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-20 | 2件 |
 | [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-17 | 9件 |
 | [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
@@ -37,7 +38,7 @@
 | [NICT『A2B攻撃』（公開アプリ解析によるバックエンド攻撃）注意喚起（2026年10月）](./nict-a2b-app-to-backend-attack-2026.md) | 2026-10-13 | 1件 |
 | [npm Trusted Publishing「SlugFest」検証不備（1,500超パッケージ、2026年10月）](./npm-slugfest-trusted-publishing-2026.md) | 2026-10-13 | 1件 |
 | [JPCERT/CC 国内大量情報漏えい注意喚起（JPCERT-AT-2026-0030、2026年10月）](./jpcert-mass-leak-alert-2026-10.md) | 2026-10-11 | 1件 |
-| [Atlassian Data Center製品 CVE-2026-21589 任意ファイルアクセス脆弱性（2026年10月）](./atlassian-cve-2026-21589-2026.md) | 2026-10-11 | 1件 |
+| [Atlassian Data Center製品 CVE-2026-21589 任意ファイルアクセス脆弱性（2026年10月）](./atlassian-cve-2026-21589-2026.md) | 2026-10-20 | 2件 |
 | [Pwn2Own Ireland 2026（Pixel 10突破・98件のゼロデイ）](./pwn2own-ireland-2026.md) | 2026-10-11 | 1件 |
 | [ASOS 顧客データ侵害（従業員認証情報窃取、2026年10月）](./asos-breach-2026.md) | 2026-10-11 | 1件 |
 | [らしんばん 不正アクセス・個人情報漏えい事案（2026年10月）](./rasinban-unauthorized-access-2026.md) | 2026-10-09 | 1件 |
