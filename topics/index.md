@@ -4,13 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [JFA Passport 不正アクセス事案（2026年10月）](./jfa-passport-breach-2026.md) | 2026-10-22 | 1件 |
+| [富士急ハイランド CLUB フジQ 不正ログイン事案（2026年10月）](./fujiq-credential-stuffing-2026.md) | 2026-10-22 | 1件 |
 | [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
-| [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
+| [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-22 | 2件 |
 | [ゲオアプリ 複数の脆弱性（JVN、2026年10月）](./geo-app-vulnerabilities-2026.md) | 2026-10-19 | 1件 |
 | [ヤマト運輸 クロネコ代金後払いサービス不正アクセス事案（2026年9〜10月）](./yamato-kuroneko-postpay-breach-2026.md) | 2026-10-18 | 1件 |
 | [日本経済新聞社 開発用クラウド不正アクセス事案（2026年10月）](./nikkei-dev-cloud-breach-2026.md) | 2026-10-18 | 1件 |
-| [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-18 | 1件 |
+| [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-22 | 2件 |
 | [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-18 | 1件 |
 | [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
 | [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-20 | 2件 |
