@@ -4,6 +4,7 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [PHP2Shell PHP本体の未認証RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-21 | 1件 |
 | [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
 | [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
@@ -664,7 +665,7 @@
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [OnlyFans 3億4000万件データクレーム（2026年）](./onlyfans-340m-claim.md) | 2026-06-16 | 1件 |
-| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-09-03 | 2件 |
+| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-10-21 | 3件 |
 | [Langflow RCE脆弱性（CVE-2026-5027）](./langflow-rce-cve-2026-5027.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
 | [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
