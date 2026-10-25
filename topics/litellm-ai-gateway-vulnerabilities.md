@@ -18,5 +18,6 @@
 
 ## タイムライン
 
+- [2026-10-21 LiteLLM 1.107.0が窃取されたGitHubトークン経由で汚染、PyPI・Dockerで約2時間配布（関連）](../articles/2026-10-21-litellm-1-107-0-supply-chain-compromise.md)
 - [2026-09-03 LiteLLMに新たな脆弱性2件、CISAがKEVカタログに追加 管理API権限昇格とMCP認証バイパスが実悪用中](../articles/2026-09-03-litellm-cve-2026-35029-59822-kev.md)
 - [2026-06-16 LiteLLM AIゲートウェイ脆弱性チェーン：低権限ユーザーから管理者権限＆RCEが可能](../articles/2026-06-16-litellm-ai-gateway-vulnerability-chain.md)
