@@ -4,6 +4,11 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-26 | 1件 |
+| [LiteLLM 1.107.0 サプライチェーン侵害（2026年10月）](./litellm-1-107-0-supply-chain-compromise-2026.md) | 2026-10-26 | 1件 |
+| [Fortinet FortiSIEM CVE-2026-106173 未認証ファイル上書き→RCE（2026年10月）](./fortisiem-cve-2026-106173.md) | 2026-10-26 | 1件 |
+| [Node.js 2026年10月定例セキュリティリリース（Brotli CVE-2026-111497）](./nodejs-october-2026-security-release.md) | 2026-10-26 | 1件 |
+| [チャリロト（チャリカ会員）不正アクセス・情報漏えい事案（2026年10月）](./chariloto-breach-2026.md) | 2026-10-26 | 1件 |
 | [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
 | [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
@@ -14,7 +19,7 @@
 | [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-18 | 1件 |
 | [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
 | [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-20 | 2件 |
-| [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-17 | 9件 |
+| [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-26 | 10件 |
 | [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
 | [国内アプリ・Webシステム情報漏えい多発とA2B攻撃（2026年）](./a2b-attack-japan-app-leaks-2026.md) | 2026-10-17 | 1件 |
