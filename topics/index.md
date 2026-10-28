@@ -4,6 +4,9 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 1件 |
+| [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-10-28 | 1件 |
+| [Arista VeloCloud Orchestrator CVE-2026-114625 SQLインジェクション・ゼロデイ（2026年10月）](./arista-velocloud-cve-2026-114625.md) | 2026-10-28 | 1件 |
 | [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
 | [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
