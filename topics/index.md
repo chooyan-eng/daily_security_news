@@ -4,6 +4,8 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ガンダムベース会員情報漏えい（メール配信委託先ユミルリンク経由、2026年10月）](./gundam-base-members-leak-2026.md) | 2026-10-29 | 1件 |
+| [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-29 | 1件 |
 | [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
 | [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
@@ -65,7 +67,7 @@
 | [Trump Mobile顧客データ漏えい（BYODランサムウェアグループ、2026年10月）](./trump-mobile-byod-breach-2026.md) | 2026-10-06 | 1件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-10-06 | 8件 |
 | [大起水産アプリ不正アクセス事案（2026年10月）](./daiki-suisan-app-breach-2026.md) | 2026-10-05 | 1件 |
-| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-05 | 3件 |
+| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-29 | 4件 |
 | [MetaMask インフラ侵害・バリデータ退出（2026年9〜10月）](./metamask-infrastructure-incident-2026.md) | 2026-10-05 | 1件 |
 | [The Japan Times Eclipseランサムウェア被害主張事案（2026年9月〜10月）](./japan-times-eclipse-ransomware-2026.md) | 2026-10-05 | 1件 |
 | [佐川急便「お荷物問い合わせサービス」不正アクセス事案（2026年10月）](./sagawa-parcel-inquiry-unauthorized-access-2026.md) | 2026-10-19 | 2件 |
