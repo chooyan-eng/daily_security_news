@@ -4,6 +4,11 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [PHP「PHP2Shell」CVE-2026-109618／CVE-2026-109619 重大RCE脆弱性（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-21 | 1件 |
+| [ソフトバンク My SoftBank／My Y!mobile／My Menu 不正アクセス試行・Web版停止（2026年10月）](./softbank-my-softbank-unauthorized-access-attempt-2026.md) | 2026-10-21 | 1件 |
+| [リクルート カーセンサーnet 不正アクセス・サービス停止事案（2026年10月）](./carsensor-recruit-unauthorized-access-2026.md) | 2026-10-21 | 1件 |
+| [フジテレビ 番組宣伝システム不正アクセス事案（2026年10月）](./fujitv-promo-system-breach-2026.md) | 2026-10-21 | 1件 |
+| [GMO系サービス 不正アクセス・不正プログラム設置事案（2026年10月）](./gmo-service-unauthorized-access-2026-10.md) | 2026-10-21 | 1件 |
 | [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
 | [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
@@ -503,11 +508,11 @@
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-22 | 5件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-22 | 3件 |
 | [ルーマニア不動産登記システム（ANCPI）データベース破壊攻撃（2026年7月）](./romania-land-registry-wipe-2026.md) | 2026-07-22 | 1件 |
-| [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
+| [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-10-21 | 2件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
 | [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-07-21 | 2件 |
 | [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-21 | 2件 |
-| [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-07-21 | 1件 |
+| [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-10-21 | 2件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
 | [Craneware ヘルスケア請求ソフトウェアデータ侵害（2026年7月）](./craneware-data-breach-2026.md) | 2026-07-20 | 1件 |
 | [ViteVenom npm サプライチェーン攻撃（2026年7月）](./vitevenom-npm-supply-chain-2026.md) | 2026-07-19 | 2件 |
