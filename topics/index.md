@@ -4,7 +4,9 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [PHP2Shell PHP未認証RCE（CVE-2026-109618／109619、2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-27 | 1件 |
+| [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 2件 |
+| [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-10-28 | 1件 |
+| [Arista VeloCloud Orchestrator CVE-2026-114625 SQLインジェクション・ゼロデイ（2026年10月）](./arista-velocloud-cve-2026-114625.md) | 2026-10-28 | 1件 |
 | [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-service-breach-2026.md) | 2026-10-27 | 2件 |
 | [OpenCode Console侵害・AI APIキー流出の恐れ（2026年10月）](./opencode-console-breach-2026.md) | 2026-10-27 | 2件 |
 | [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-26 | 3件 |
