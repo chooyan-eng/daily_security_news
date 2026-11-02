@@ -11,5 +11,6 @@
 
 ## タイムライン
 
+- [2026-10-27 日本でWeb経由の情報漏えいが急増、モバイルAPI悪用とMetabase攻撃（The Hacker News）](../articles/2026-10-27-thn-japan-web-leaks-api-metabase.md)
 - [2026-10-14 内閣サイバー、「アプリ解析からのサーバ攻撃」として注意喚起](../articles/2026-10-14-nisc-app-analysis-server-attack-notice.md)
 - [2026-10-14 JPCERT/CC、国内で相次ぐ不正アクセスで注意喚起（JPCERT-AT-2026-0030）](../articles/2026-10-14-jpcert-at-2026-0030-domestic-unauthorized-access.md)

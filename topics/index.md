@@ -4,20 +4,40 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-| [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 1件 |
+| [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 2件 |
 | [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-10-28 | 1件 |
 | [Arista VeloCloud Orchestrator CVE-2026-114625 SQLインジェクション・ゼロデイ（2026年10月）](./arista-velocloud-cve-2026-114625.md) | 2026-10-28 | 1件 |
+| [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-service-breach-2026.md) | 2026-10-27 | 2件 |
+| [OpenCode Console侵害・AI APIキー流出の恐れ（2026年10月）](./opencode-console-breach-2026.md) | 2026-10-27 | 2件 |
+| [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-26 | 3件 |
+| [LiteLLM 1.107.0 サプライチェーン侵害（2026年10月）](./litellm-1-107-0-supply-chain-compromise-2026.md) | 2026-10-26 | 1件 |
+| [Fortinet FortiSIEM CVE-2026-106173 未認証ファイル上書き→RCE（2026年10月）](./fortisiem-cve-2026-106173.md) | 2026-10-26 | 1件 |
+| [Node.js 2026年10月定例セキュリティリリース（Brotli CVE-2026-111497）](./nodejs-october-2026-security-release.md) | 2026-10-26 | 1件 |
+| [チャリロト（チャリカ会員）不正アクセス・情報漏えい事案（2026年10月）](./chariloto-breach-2026.md) | 2026-10-26 | 1件 |
+| [PHP の重大脆弱性（AI支援で発見、2026年10月）](./php-critical-flaw-ai-detected-2026.md) | 2026-10-24 | 1件 |
+| [Laravel TokenGuard 認証バイパス（GHSA-f9x3-7vq9-cph6、2026年10月）](./laravel-tokenguard-auth-bypass-2026.md) | 2026-10-24 | 1件 |
+| [ふるさと納税サイト「ふるさとチョイス」不正アクセス・会員情報445万件流出事案（2026年10月）](./furusato-choice-breach-2026.md) | 2026-10-23 | 1件 |
+| [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-delivery-breach-2026.md) | 2026-10-23 | 1件 |
+| [カーセンサーnet（リクルート）不正アクセス・サービス停止事案（2026年10月）](./carsensor-recruit-breach-2026.md) | 2026-10-23 | 1件 |
+| [ブラストメール（ラクス）不正アクセス・サービス緊急停止事案（2026年10月）](./blastmail-rakus-breach-2026.md) | 2026-10-23 | 1件 |
+| [ムーンスター オンラインストア不正アクセス事案（2026年10月）](./moonstar-online-store-breach-2026.md) | 2026-10-23 | 1件 |
+| [JFA Passport 不正アクセス事案（2026年10月）](./jfa-passport-breach-2026.md) | 2026-10-22 | 1件 |
+| [富士急ハイランド CLUB フジQ 不正ログイン事案（2026年10月）](./fujiq-credential-stuffing-2026.md) | 2026-10-22 | 1件 |
+| [ソフトバンク My SoftBank／My Y!mobile／My Menu 不正アクセス試行・Web版停止（2026年10月）](./softbank-my-softbank-unauthorized-access-attempt-2026.md) | 2026-10-21 | 1件 |
+| [リクルート カーセンサーnet 不正アクセス・サービス停止事案（2026年10月）](./carsensor-recruit-unauthorized-access-2026.md) | 2026-10-21 | 1件 |
+| [フジテレビ 番組宣伝システム不正アクセス事案（2026年10月）](./fujitv-promo-system-breach-2026.md) | 2026-10-21 | 1件 |
+| [GMO系サービス 不正アクセス・不正プログラム設置事案（2026年10月）](./gmo-service-unauthorized-access-2026-10.md) | 2026-10-21 | 1件 |
 | [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
-| [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-19 | 1件 |
+| [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-22 | 2件 |
 | [ゲオアプリ 複数の脆弱性（JVN、2026年10月）](./geo-app-vulnerabilities-2026.md) | 2026-10-19 | 1件 |
 | [ヤマト運輸 クロネコ代金後払いサービス不正アクセス事案（2026年9〜10月）](./yamato-kuroneko-postpay-breach-2026.md) | 2026-10-18 | 1件 |
 | [日本経済新聞社 開発用クラウド不正アクセス事案（2026年10月）](./nikkei-dev-cloud-breach-2026.md) | 2026-10-18 | 1件 |
-| [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-18 | 1件 |
-| [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-18 | 1件 |
+| [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-22 | 2件 |
+| [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-24 | 2件 |
 | [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
 | [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-20 | 2件 |
-| [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-17 | 9件 |
+| [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-26 | 10件 |
 | [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
 | [国内アプリ・Webシステム情報漏えい多発とA2B攻撃（2026年）](./a2b-attack-japan-app-leaks-2026.md) | 2026-10-17 | 1件 |
@@ -28,7 +48,7 @@
 | [サンポー食品 Webサイト不正アクセス・改ざん事案（2026年9月）](./sanpo-foods-website-breach-2026.md) | 2026-10-16 | 1件 |
 | [フクビ化学工業 英語版Webサイト不正アクセス事案（2026年9月）](./fukuvi-english-site-breach-2026.md) | 2026-10-16 | 1件 |
 | [Trump Mobile 顧客情報流出（BYOD主張、2026年10月）](./trump-mobile-data-leak-2026.md) | 2026-10-16 | 1件 |
-| [国内Webサービス・アプリを狙う相次ぐ不正アクセスとJPCERT/CC・内閣サイバー注意喚起（2026年9〜10月）](./jpcert-domestic-app-api-attacks-2026.md) | 2026-10-14 | 2件 |
+| [国内Webサービス・アプリを狙う相次ぐ不正アクセスとJPCERT/CC・内閣サイバー注意喚起（2026年9〜10月）](./jpcert-domestic-app-api-attacks-2026.md) | 2026-10-27 | 3件 |
 | [ASOS モバイルアプリ不正プッシュ通知・顧客データ侵害事案（2026年10月）](./asos-app-push-notification-breach-2026.md) | 2026-10-14 | 2件 |
 | [アエナECアプリ不正アクセス・最大81万人情報漏えいのおそれ（2026年10月）](./aena-ec-app-breach-2026.md) | 2026-10-14 | 1件 |
 | [ASOSアプリ不正プッシュ通知・顧客情報漏えい事案（2026年10月）](./asos-app-breach-2026.md) | 2026-10-14 | 1件 |
@@ -506,11 +526,11 @@
 | [SonicWall SMA1000 ゼロデイ悪用（CVE-2026-15409/15410）](./sonicwall-sma1000-cve-2026-15409.md) | 2026-07-22 | 5件 |
 | [ServiceNow AI Platform CVE-2026-6875 サンドボックスエスケープ（2026年7月）](./servicenow-cve-2026-6875-sandbox-escape.md) | 2026-07-22 | 3件 |
 | [ルーマニア不動産登記システム（ANCPI）データベース破壊攻撃（2026年7月）](./romania-land-registry-wipe-2026.md) | 2026-07-22 | 1件 |
-| [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-07-21 | 1件 |
+| [Qilinランサムウェア・Palo Alto GlobalProtect CVE-2026-0257悪用キャンペーン（2026年）](./qilin-paloalto-globalprotect-cve-2026-0257.md) | 2026-10-21 | 2件 |
 | [SHADOWBYT3$ ランサムウェアグループ・Nintendo 侵害（2026年6月）](./nintendo-shadowbyt3-breach-2026.md) | 2026-07-21 | 2件 |
 | [iOS AIアプリ LLM APIキー漏洩問題（2026年）](./ios-ai-apps-llm-key-leak-2026.md) | 2026-07-21 | 2件 |
 | [bandcampro：Gemini CLI悪用ボットネット制御（2026年）](./bandcampro-gemini-cli-botnet-2026.md) | 2026-07-21 | 2件 |
-| [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-07-21 | 1件 |
+| [AI生成フィッシングツールキット・WebDAVマルウェア配信基盤の発見（2026年）](./ai-phishing-webdav-toolkit-exposed.md) | 2026-10-21 | 2件 |
 | [SleeperGem RubyGemsサプライチェーン攻撃（2026年7月）](./sleepergem-rubygems-supply-chain-2026.md) | 2026-07-20 | 1件 |
 | [Craneware ヘルスケア請求ソフトウェアデータ侵害（2026年7月）](./craneware-data-breach-2026.md) | 2026-07-20 | 1件 |
 | [ViteVenom npm サプライチェーン攻撃（2026年7月）](./vitevenom-npm-supply-chain-2026.md) | 2026-07-19 | 2件 |
@@ -667,7 +687,7 @@
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [OnlyFans 3億4000万件データクレーム（2026年）](./onlyfans-340m-claim.md) | 2026-06-16 | 1件 |
-| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-09-03 | 2件 |
+| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-10-21 | 3件 |
 | [Langflow RCE脆弱性（CVE-2026-5027）](./langflow-rce-cve-2026-5027.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
 | [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
