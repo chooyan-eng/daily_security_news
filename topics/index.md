@@ -4,12 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ガンダムベース会員情報漏えい（メール配信委託先ユミルリンク経由、2026年10月）](./gundam-base-members-leak-2026.md) | 2026-10-29 | 1件 |
+| [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-29 | 4件 |
 | [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 2件 |
 | [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-10-28 | 1件 |
 | [Arista VeloCloud Orchestrator CVE-2026-114625 SQLインジェクション・ゼロデイ（2026年10月）](./arista-velocloud-cve-2026-114625.md) | 2026-10-28 | 1件 |
 | [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-service-breach-2026.md) | 2026-10-27 | 2件 |
 | [OpenCode Console侵害・AI APIキー流出の恐れ（2026年10月）](./opencode-console-breach-2026.md) | 2026-10-27 | 2件 |
-| [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-26 | 3件 |
 | [LiteLLM 1.107.0 サプライチェーン侵害（2026年10月）](./litellm-1-107-0-supply-chain-compromise-2026.md) | 2026-10-26 | 1件 |
 | [Fortinet FortiSIEM CVE-2026-106173 未認証ファイル上書き→RCE（2026年10月）](./fortisiem-cve-2026-106173.md) | 2026-10-26 | 1件 |
 | [Node.js 2026年10月定例セキュリティリリース（Brotli CVE-2026-111497）](./nodejs-october-2026-security-release.md) | 2026-10-26 | 1件 |
@@ -88,7 +89,7 @@
 | [Trump Mobile顧客データ漏えい（BYODランサムウェアグループ、2026年10月）](./trump-mobile-byod-breach-2026.md) | 2026-10-06 | 1件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-10-06 | 8件 |
 | [大起水産アプリ不正アクセス事案（2026年10月）](./daiki-suisan-app-breach-2026.md) | 2026-10-05 | 1件 |
-| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-05 | 3件 |
+| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-29 | 4件 |
 | [MetaMask インフラ侵害・バリデータ退出（2026年9〜10月）](./metamask-infrastructure-incident-2026.md) | 2026-10-05 | 1件 |
 | [The Japan Times Eclipseランサムウェア被害主張事案（2026年9月〜10月）](./japan-times-eclipse-ransomware-2026.md) | 2026-10-05 | 1件 |
 | [佐川急便「お荷物問い合わせサービス」不正アクセス事案（2026年10月）](./sagawa-parcel-inquiry-unauthorized-access-2026.md) | 2026-10-19 | 2件 |
