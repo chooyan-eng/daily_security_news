@@ -4,6 +4,9 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [PHP の重大脆弱性（AI支援で発見、2026年10月）](./php-critical-flaw-ai-detected-2026.md) | 2026-10-24 | 1件 |
+| [OpenCode Console 侵害・連携AIプロバイダAPIキー露出（2026年10月）](./opencode-console-breach-2026.md) | 2026-10-24 | 1件 |
+| [Laravel TokenGuard 認証バイパス（GHSA-f9x3-7vq9-cph6、2026年10月）](./laravel-tokenguard-auth-bypass-2026.md) | 2026-10-24 | 1件 |
 | [ふるさと納税サイト「ふるさとチョイス」不正アクセス・会員情報445万件流出事案（2026年10月）](./furusato-choice-breach-2026.md) | 2026-10-23 | 1件 |
 | [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-delivery-breach-2026.md) | 2026-10-23 | 1件 |
 | [カーセンサーnet（リクルート）不正アクセス・サービス停止事案（2026年10月）](./carsensor-recruit-breach-2026.md) | 2026-10-23 | 1件 |
@@ -23,7 +26,7 @@
 | [ヤマト運輸 クロネコ代金後払いサービス不正アクセス事案（2026年9〜10月）](./yamato-kuroneko-postpay-breach-2026.md) | 2026-10-18 | 1件 |
 | [日本経済新聞社 開発用クラウド不正アクセス事案（2026年10月）](./nikkei-dev-cloud-breach-2026.md) | 2026-10-18 | 1件 |
 | [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-22 | 2件 |
-| [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-18 | 1件 |
+| [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-24 | 2件 |
 | [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
 | [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-20 | 2件 |
 | [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-17 | 9件 |
