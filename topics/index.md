@@ -4,13 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [PHP2Shell PHP未認証RCE（CVE-2026-109618／109619、2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-27 | 1件 |
+| [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-service-breach-2026.md) | 2026-10-27 | 2件 |
+| [OpenCode Console侵害・AI APIキー流出の恐れ（2026年10月）](./opencode-console-breach-2026.md) | 2026-10-27 | 2件 |
 | [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-26 | 3件 |
 | [LiteLLM 1.107.0 サプライチェーン侵害（2026年10月）](./litellm-1-107-0-supply-chain-compromise-2026.md) | 2026-10-26 | 1件 |
 | [Fortinet FortiSIEM CVE-2026-106173 未認証ファイル上書き→RCE（2026年10月）](./fortisiem-cve-2026-106173.md) | 2026-10-26 | 1件 |
 | [Node.js 2026年10月定例セキュリティリリース（Brotli CVE-2026-111497）](./nodejs-october-2026-security-release.md) | 2026-10-26 | 1件 |
 | [チャリロト（チャリカ会員）不正アクセス・情報漏えい事案（2026年10月）](./chariloto-breach-2026.md) | 2026-10-26 | 1件 |
 | [PHP の重大脆弱性（AI支援で発見、2026年10月）](./php-critical-flaw-ai-detected-2026.md) | 2026-10-24 | 1件 |
-| [OpenCode Console 侵害・連携AIプロバイダAPIキー露出（2026年10月）](./opencode-console-breach-2026.md) | 2026-10-24 | 1件 |
 | [Laravel TokenGuard 認証バイパス（GHSA-f9x3-7vq9-cph6、2026年10月）](./laravel-tokenguard-auth-bypass-2026.md) | 2026-10-24 | 1件 |
 | [ふるさと納税サイト「ふるさとチョイス」不正アクセス・会員情報445万件流出事案（2026年10月）](./furusato-choice-breach-2026.md) | 2026-10-23 | 1件 |
 | [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-delivery-breach-2026.md) | 2026-10-23 | 1件 |
@@ -44,7 +46,7 @@
 | [サンポー食品 Webサイト不正アクセス・改ざん事案（2026年9月）](./sanpo-foods-website-breach-2026.md) | 2026-10-16 | 1件 |
 | [フクビ化学工業 英語版Webサイト不正アクセス事案（2026年9月）](./fukuvi-english-site-breach-2026.md) | 2026-10-16 | 1件 |
 | [Trump Mobile 顧客情報流出（BYOD主張、2026年10月）](./trump-mobile-data-leak-2026.md) | 2026-10-16 | 1件 |
-| [国内Webサービス・アプリを狙う相次ぐ不正アクセスとJPCERT/CC・内閣サイバー注意喚起（2026年9〜10月）](./jpcert-domestic-app-api-attacks-2026.md) | 2026-10-14 | 2件 |
+| [国内Webサービス・アプリを狙う相次ぐ不正アクセスとJPCERT/CC・内閣サイバー注意喚起（2026年9〜10月）](./jpcert-domestic-app-api-attacks-2026.md) | 2026-10-27 | 3件 |
 | [ASOS モバイルアプリ不正プッシュ通知・顧客データ侵害事案（2026年10月）](./asos-app-push-notification-breach-2026.md) | 2026-10-14 | 2件 |
 | [アエナECアプリ不正アクセス・最大81万人情報漏えいのおそれ（2026年10月）](./aena-ec-app-breach-2026.md) | 2026-10-14 | 1件 |
 | [ASOSアプリ不正プッシュ通知・顧客情報漏えい事案（2026年10月）](./asos-app-breach-2026.md) | 2026-10-14 | 1件 |
