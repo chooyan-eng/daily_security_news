@@ -4,12 +4,18 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ノジマオンライン 会員管理システム不正アクセス事案（2026年11月）](./nojima-online-breach-2026.md) | 2026-11-02 | 1件 |
+| [ライフ公式アプリ不正アクセス事案（2026年11月）](./life-official-app-breach-2026.md) | 2026-11-02 | 1件 |
+| [SmartNews ポイント・特典システム不正アクセス事案（2026年11月）](./smartnews-points-system-incident-2026.md) | 2026-11-01 | 1件 |
+| [松屋フーズ 公式アプリ個人情報漏えい事案（2026年10月）](./matsuya-official-app-breach-2026.md) | 2026-10-30 | 1件 |
+| [ママワークス（アイドマ・ホールディングス）不正アクセス事案（2026年10〜11月）](./mamaworks-breach-2026.md) | 2026-11-02 | 1件 |
+| [GETTIIS（リンクステーション）会員情報流出事案（2026年10月）](./gettiis-linkstation-breach-2026.md) | 2026-10-30 | 1件 |
 | [ニフティ 回線申込・受付管理システム不正アクセス事案（2026年10月）](./nifty-line-application-system-breach-2026.md) | 2026-10-30 | 1件 |
 | [NP後払い 請求書再発行システム不正アクセス事案（2026年10月）](./np-atobarai-invoice-reissue-breach-2026.md) | 2026-10-30 | 1件 |
 | [ガンダムベース会員情報漏えい（メール配信委託先ユミルリンク経由、2026年10月）](./gundam-base-members-leak-2026.md) | 2026-10-29 | 1件 |
 | [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-29 | 4件 |
 | [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 2件 |
-| [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-10-28 | 1件 |
+| [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-11-02 | 2件 |
 | [Arista VeloCloud Orchestrator CVE-2026-114625 SQLインジェクション・ゼロデイ（2026年10月）](./arista-velocloud-cve-2026-114625.md) | 2026-10-28 | 1件 |
 | [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-service-breach-2026.md) | 2026-10-27 | 2件 |
 | [OpenCode Console侵害・AI APIキー流出の恐れ（2026年10月）](./opencode-console-breach-2026.md) | 2026-10-27 | 2件 |
