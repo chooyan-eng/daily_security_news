@@ -10,6 +10,11 @@
 | [松屋フーズ 公式アプリ個人情報漏えい事案（2026年10月）](./matsuya-official-app-breach-2026.md) | 2026-10-30 | 1件 |
 | [ママワークス（アイドマ・ホールディングス）不正アクセス事案（2026年10〜11月）](./mamaworks-breach-2026.md) | 2026-11-02 | 1件 |
 | [GETTIIS（リンクステーション）会員情報流出事案（2026年10月）](./gettiis-linkstation-breach-2026.md) | 2026-10-30 | 1件 |
+| [無印良品（良品計画）MUJIアプリ不正アクセス事案（2026年10月）](./muji-app-breach-2026.md) | 2026-10-31 | 1件 |
+| [松屋フーズHD 不正アクセス・顧客情報237万件流出事案（2026年10月）](./matsuya-app-breach-2026.md) | 2026-10-31 | 1件 |
+| [SHOGUN BURGER 公式アプリ不正アクセス事案（2026年10月）](./shogun-burger-app-breach-2026.md) | 2026-10-31 | 1件 |
+| [ANA予約客アカウント不正アクセス事案（2026年10月）](./ana-reservation-unauthorized-access-2026.md) | 2026-10-31 | 1件 |
+| [Microsoft Authenticator（Android）CVE-2026-80097 トークン窃取脆弱性（2026年10月）](./microsoft-authenticator-cve-2026-80097.md) | 2026-10-31 | 1件 |
 | [ニフティ 回線申込・受付管理システム不正アクセス事案（2026年10月）](./nifty-line-application-system-breach-2026.md) | 2026-10-30 | 1件 |
 | [NP後払い 請求書再発行システム不正アクセス事案（2026年10月）](./np-atobarai-invoice-reissue-breach-2026.md) | 2026-10-30 | 1件 |
 | [ガンダムベース会員情報漏えい（メール配信委託先ユミルリンク経由、2026年10月）](./gundam-base-members-leak-2026.md) | 2026-10-29 | 1件 |
@@ -49,7 +54,7 @@
 | [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-26 | 10件 |
 | [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
-| [国内アプリ・Webシステム情報漏えい多発とA2B攻撃（2026年）](./a2b-attack-japan-app-leaks-2026.md) | 2026-10-17 | 1件 |
+| [国内アプリ・Webシステム情報漏えい多発とA2B攻撃（2026年）](./a2b-attack-japan-app-leaks-2026.md) | 2026-10-31 | 2件 |
 | [Nextcloud Collabora Online Built-in CODE Server CVE-2026-110447 未認証コマンドインジェクション（2026年）](./nextcloud-collabora-cve-2026-110447.md) | 2026-10-17 | 2件 |
 | [Android 2026年10月セキュリティ公報](./android-security-bulletin-october-2026.md) | 2026-10-17 | 2件 |
 | [Ivanti Connect Secure CVE-2026-104935 認証バイパスゼロデイ（2026年10月）](./ivanti-connect-secure-cve-2026-104935.md) | 2026-10-16 | 1件 |
