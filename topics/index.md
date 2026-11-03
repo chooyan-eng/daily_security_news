@@ -4,13 +4,11 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
-<<<<<<< HEAD
 | [無印良品（良品計画）MUJIアプリ不正アクセス事案（2026年10月）](./muji-app-breach-2026.md) | 2026-10-31 | 1件 |
 | [松屋フーズHD 不正アクセス・顧客情報237万件流出事案（2026年10月）](./matsuya-app-breach-2026.md) | 2026-10-31 | 1件 |
 | [SHOGUN BURGER 公式アプリ不正アクセス事案（2026年10月）](./shogun-burger-app-breach-2026.md) | 2026-10-31 | 1件 |
 | [ANA予約客アカウント不正アクセス事案（2026年10月）](./ana-reservation-unauthorized-access-2026.md) | 2026-10-31 | 1件 |
 | [Microsoft Authenticator（Android）CVE-2026-80097 トークン窃取脆弱性（2026年10月）](./microsoft-authenticator-cve-2026-80097.md) | 2026-10-31 | 1件 |
-=======
 | [ニフティ 回線申込・受付管理システム不正アクセス事案（2026年10月）](./nifty-line-application-system-breach-2026.md) | 2026-10-30 | 1件 |
 | [NP後払い 請求書再発行システム不正アクセス事案（2026年10月）](./np-atobarai-invoice-reissue-breach-2026.md) | 2026-10-30 | 1件 |
 | [ガンダムベース会員情報漏えい（メール配信委託先ユミルリンク経由、2026年10月）](./gundam-base-members-leak-2026.md) | 2026-10-29 | 1件 |
@@ -37,7 +35,6 @@
 | [リクルート カーセンサーnet 不正アクセス・サービス停止事案（2026年10月）](./carsensor-recruit-unauthorized-access-2026.md) | 2026-10-21 | 1件 |
 | [フジテレビ 番組宣伝システム不正アクセス事案（2026年10月）](./fujitv-promo-system-breach-2026.md) | 2026-10-21 | 1件 |
 | [GMO系サービス 不正アクセス・不正プログラム設置事案（2026年10月）](./gmo-service-unauthorized-access-2026-10.md) | 2026-10-21 | 1件 |
->>>>>>> origin/main
 | [WordPress 10Web Booster CVE-2026-108587 未認証任意ファイルアップロード（2026年10月）](./10web-booster-cve-2026-108587.md) | 2026-10-20 | 1件 |
 | [バーガーキング（ビーケー・ジャパン）公式アプリ不正アクセス事案（2026年10月）](./burgerking-japan-app-breach-2026.md) | 2026-10-19 | 1件 |
 | [SiteGuard WAF CVE-2026-106931 OSコマンドインジェクション悪用（2026年10月）](./siteguard-waf-cve-2026-106931.md) | 2026-10-22 | 2件 |
