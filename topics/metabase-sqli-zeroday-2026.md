@@ -39,6 +39,7 @@
 
 ## タイムライン
 
+- [2026-11-04 シンガポールCSA、Metabase CVE-2026-72898の悪用継続について再警告](../articles/2026-11-04-metabase-cve-2026-72898-csa-advisory.md)
 - [2026-10-14 教育プラットフォームMathspace、未パッチのMetabase脆弱性（CVE-2026-72898）で約108万人分のデータ漏えい](../articles/2026-10-14-mathspace-metabase-breach.md)
 - [2026-10-08 JPCERT/CC、国内で相次ぐ不正アクセスに注意喚起（Metabase CVE-2026-72898など4つの手口）](../articles/2026-10-08-jpcert-domestic-breach-alert.md)
 - [2026-10-07 Discordボット「Double Counter」、廃止サーバー上の脆弱なMetabase経由で侵害、約12GBを窃取](../articles/2026-10-07-double-counter-discord-bot-breach.md)
