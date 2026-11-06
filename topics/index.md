@@ -4,6 +4,10 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
+| [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
+| [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
+| [Midnight Blizzard モバイル水飲み場攻撃（2026年11月）](./midnight-blizzard-mobile-watering-hole-2026.md) | 2026-11-05 | 1件 |
 | [Chainalysis 顧客データ流出事案（2026年10〜11月）](./chainalysis-breach-2026.md) | 2026-11-04 | 1件 |
 | [クラブツーリズム 会員情報流出事案（2026年10〜11月）](./club-tourism-breach-2026.md) | 2026-11-01 | 1件 |
 | [アララ「アララメッセージ」不正アクセス事案（2026年10月）](./arara-message-breach-2026.md) | 2026-10-29 | 1件 |
@@ -61,7 +65,7 @@
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
 | [国内アプリ・Webシステム情報漏えい多発とA2B攻撃（2026年）](./a2b-attack-japan-app-leaks-2026.md) | 2026-10-31 | 2件 |
 | [Nextcloud Collabora Online Built-in CODE Server CVE-2026-110447 未認証コマンドインジェクション（2026年）](./nextcloud-collabora-cve-2026-110447.md) | 2026-10-17 | 2件 |
-| [Android 2026年10月セキュリティ公報](./android-security-bulletin-october-2026.md) | 2026-10-17 | 2件 |
+| [Android 2026年10月セキュリティ公報](./android-security-bulletin-october-2026.md) | 2026-11-05 | 3件 |
 | [Ivanti Connect Secure CVE-2026-104935 認証バイパスゼロデイ（2026年10月）](./ivanti-connect-secure-cve-2026-104935.md) | 2026-10-16 | 1件 |
 | [くふう Zaim 不正アクセス・登録情報書き換え事案（2026年9月）](./zaim-unauthorized-write-2026.md) | 2026-10-16 | 1件 |
 | [サンポー食品 Webサイト不正アクセス・改ざん事案（2026年9月）](./sanpo-foods-website-breach-2026.md) | 2026-10-16 | 1件 |
