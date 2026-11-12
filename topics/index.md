@@ -4,13 +4,21 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [KEYUCA 名入れ・刺繍受注システム不正アクセス事案（2026年10〜11月）](./keyuca-order-system-breach-2026.md) | 2026-11-12 | 1件 |
+| [オープンロジ 出荷データ流出事案（2026年11月）](./openlogi-breach-2026.md) | 2026-11-12 | 1件 |
+| [靖國神社 オンライン授与品サイト不正アクセス事案（2026年10〜11月）](./yasukuni-shrine-online-site-breach-2026.md) | 2026-11-12 | 1件 |
+| [サイバーセキュリティクラウド GitHub認証情報流出事案（2026年11月）](./cyber-security-cloud-github-credential-leak-2026.md) | 2026-11-12 | 1件 |
+| [SMBC日興証券 持株会事務システム不正アクセス事案（2026年11月）](./smbc-nikko-mochikabukai-system-breach-2026.md) | 2026-11-12 | 1件 |
+| [Microsoft Patch Tuesday 2026年11月](./microsoft-patch-tuesday-november-2026.md) | 2026-11-12 | 1件 |
+| [Chrome XSLT ゼロデイ CVE-2026-125350（2026年11月）](./chrome-xslt-cve-2026-125350-zero-day-2026.md) | 2026-11-12 | 1件 |
+| [Wyndham Android アプリ ハードコード認証情報による顧客データ露出（2026年11月）](./wyndham-android-app-hardcoded-credentials-2026.md) | 2026-11-12 | 1件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
 | [Midnight Blizzard モバイル水飲み場攻撃（2026年11月）](./midnight-blizzard-mobile-watering-hole-2026.md) | 2026-11-05 | 1件 |
 | [Chainalysis 顧客データ流出事案（2026年10〜11月）](./chainalysis-breach-2026.md) | 2026-11-04 | 1件 |
 | [クラブツーリズム 会員情報流出事案（2026年10〜11月）](./club-tourism-breach-2026.md) | 2026-11-01 | 1件 |
-| [アララ「アララメッセージ」不正アクセス事案（2026年10月）](./arara-message-breach-2026.md) | 2026-10-29 | 1件 |
+| [アララ「アララメッセージ」不正アクセス事案（2026年10月）](./arara-message-breach-2026.md) | 2026-11-12 | 2件 |
 | [Northflank セキュリティインシデント（2026年10〜11月）](./northflank-incident-2026.md) | 2026-10-30 | 1件 |
 | [Revolve Group 顧客・決済情報流出事案（2026年11月）](./revolve-group-breach-2026.md) | 2026-11-02 | 1件 |
 | [ノジマオンライン 会員管理システム不正アクセス事案（2026年11月）](./nojima-online-breach-2026.md) | 2026-11-02 | 1件 |
@@ -19,7 +27,7 @@
 | [松屋フーズ 公式アプリ個人情報漏えい事案（2026年10月）](./matsuya-official-app-breach-2026.md) | 2026-10-30 | 1件 |
 | [ママワークス（アイドマ・ホールディングス）不正アクセス事案（2026年10〜11月）](./mamaworks-breach-2026.md) | 2026-11-02 | 1件 |
 | [GETTIIS（リンクステーション）会員情報流出事案（2026年10月）](./gettiis-linkstation-breach-2026.md) | 2026-10-30 | 1件 |
-| [無印良品（良品計画）MUJIアプリ不正アクセス事案（2026年10月）](./muji-app-breach-2026.md) | 2026-10-31 | 1件 |
+| [無印良品（良品計画）MUJIアプリ不正アクセス事案（2026年10月）](./muji-app-breach-2026.md) | 2026-11-12 | 2件 |
 | [松屋フーズHD 不正アクセス・顧客情報237万件流出事案（2026年10月）](./matsuya-app-breach-2026.md) | 2026-10-31 | 1件 |
 | [SHOGUN BURGER 公式アプリ不正アクセス事案（2026年10月）](./shogun-burger-app-breach-2026.md) | 2026-10-31 | 1件 |
 | [ANA予約客アカウント不正アクセス事案（2026年10月）](./ana-reservation-unauthorized-access-2026.md) | 2026-10-31 | 1件 |
