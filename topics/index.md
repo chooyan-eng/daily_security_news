@@ -4,13 +4,22 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Yeny「ultra pay」等 会員情報漏えい事案（2026年11月）](./yeny-ultra-pay-breach-2026.md) | 2026-11-13 | 1件 |
+| [Qoo10 不正アクセス・個人情報閲覧事案（2026年11月）](./qoo10-unauthorized-access-2026.md) | 2026-11-13 | 1件 |
+| [U.S.M.H「Scan＆Go ignica」不正アクセス事案（2026年10〜11月）](./usmh-scan-go-ignica-breach-2026.md) | 2026-11-13 | 1件 |
+| [サイバーセキュリティクラウド GitHub認証情報流出事案（2026年11月）](./cyber-security-cloud-github-breach-2026.md) | 2026-11-13 | 1件 |
+| [Fireworks AI侵害・Notion AIチャット記録流出（2026年11月）](./fireworks-ai-notion-breach-2026.md) | 2026-11-13 | 1件 |
+| [wfx-loot GitHub CIシークレット窃取キャンペーン（2026年11月）](./wfx-loot-github-ci-secret-stealer-2026.md) | 2026-11-13 | 1件 |
+| [iOS「worse_query」サンドボックスバイパス（2026年11月）](./ios-worse-query-sandbox-bypass-2026.md) | 2026-11-13 | 1件 |
+| [Chrome XML ゼロデイ CVE-2026-125350（2026年11月）](./chrome-cve-2026-125350-xml-zero-day.md) | 2026-11-13 | 1件 |
+| [WordPressコア CVE-2026-119977 アップグレード時TOCTOU RCE（2026年10〜11月）](./wordpress-cve-2026-119977-upgrade-race.md) | 2026-11-13 | 1件 |
+| [アララ「アララメッセージ」不正アクセス事案（2026年10月）](./arara-message-breach-2026.md) | 2026-11-13 | 2件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
 | [Midnight Blizzard モバイル水飲み場攻撃（2026年11月）](./midnight-blizzard-mobile-watering-hole-2026.md) | 2026-11-05 | 1件 |
 | [Chainalysis 顧客データ流出事案（2026年10〜11月）](./chainalysis-breach-2026.md) | 2026-11-04 | 1件 |
 | [クラブツーリズム 会員情報流出事案（2026年10〜11月）](./club-tourism-breach-2026.md) | 2026-11-01 | 1件 |
-| [アララ「アララメッセージ」不正アクセス事案（2026年10月）](./arara-message-breach-2026.md) | 2026-10-29 | 1件 |
 | [Northflank セキュリティインシデント（2026年10〜11月）](./northflank-incident-2026.md) | 2026-10-30 | 1件 |
 | [Revolve Group 顧客・決済情報流出事案（2026年11月）](./revolve-group-breach-2026.md) | 2026-11-02 | 1件 |
 | [ノジマオンライン 会員管理システム不正アクセス事案（2026年11月）](./nojima-online-breach-2026.md) | 2026-11-02 | 1件 |
