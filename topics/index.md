@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ヤマダデンキ リフォーム管理システム不正アクセス事案（2026年11月）](./yamada-denki-reform-breach-2026.md) | 2026-11-15 | 1件 |
+| [京成電鉄 スカイライナー座席予約システム不正アクセス事案（2026年11月）](./keisei-skyliner-reservation-breach-2026.md) | 2026-11-15 | 1件 |
+| [ソニックムーブ LINE連携サービス「COMSBI」不正アクセス事案（2026年10〜11月）](./sonicmoov-comsbi-breach-2026.md) | 2026-11-15 | 1件 |
+| [大阪公立大学 NEC管理クラウド経由の個人情報漏えい事案（2026年10〜11月）](./osaka-metropolitan-university-nec-breach-2026.md) | 2026-11-15 | 1件 |
+| [マネックス証券 口座開設システム不正アクセス事案（2026年10〜11月）](./monex-account-opening-breach-2026.md) | 2026-11-15 | 1件 |
+| [Uber ドライバー情報流出／Fireworks AI 侵害（2026年10〜11月）](./uber-fireworks-ai-breach-2026.md) | 2026-11-15 | 1件 |
+| [Coinone 顧客サポート委託先MetaM侵害事案（2026年11月）](./coinone-metam-breach-2026.md) | 2026-11-15 | 1件 |
+| [WordPressコア CVE-2026-119977 アップデート時レースコンディションRCE（2026年10〜11月）](./wordpress-core-cve-2026-119977.md) | 2026-11-15 | 1件 |
+| [Control Web Panel（CWP）CVE-2026-124020 Hostヘッダーインジェクション（2026年11月）](./cwp-cve-2026-124020.md) | 2026-11-15 | 1件 |
+| [iOS サンドボックス脱出「worse_query」（2026年11月）](./ios-worse-query-sandbox-escape-2026.md) | 2026-11-15 | 1件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
