@@ -2,6 +2,7 @@
 
 - **日付**: 2026-10-29
 - **出典**: [検索結果（バンダイナムコHD発表の報道）](https://news.denfaminicogamer.jp/news/2610273f)
+- **トピック**: [バンダイロジパル 物流システム不正アクセス・「一番くじONLINE」配送情報漏えい事案（2026年10〜11月）](../topics/bandai-logipal-ichiban-kuji-breach-2026.md)
 - **分類**: 関連
 
 ## 概要
