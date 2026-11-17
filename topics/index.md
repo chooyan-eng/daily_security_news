@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [プレイド「KARTE」不正アクセス・利用企業への波及（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-17 | 2件 |
+| [楽天証券 テスト環境不正アクセス事案（2026年11月）](./rakuten-securities-breach-2026.md) | 2026-11-17 | 1件 |
+| [Optimizely Web Experimentation スクリプト改ざん「OPTIMJACK」（2026年11月）](./optimizely-optimjack-supply-chain-2026.md) | 2026-11-17 | 1件 |
+| [Apache Axis 1.x CVE-2026-90436 安全でないリフレクション（2026年11月）](./apache-axis-cve-2026-90436.md) | 2026-11-17 | 1件 |
+| [iOSエクスプロイトキット「Coruna」／DarkSword 大規模配信（2026年）](./coruna-ios-exploit-kit-2026.md) | 2026-11-17 | 1件 |
+| [Coinone サポート委託先MetaM侵害事案（2026年11月）](./coinone-metam-breach-2026.md) | 2026-11-17 | 1件 |
+| [Fandango 決済ページ カード情報漏えい事案（2026年10〜11月）](./fandango-payment-card-breach-2026.md) | 2026-11-17 | 1件 |
+| [カレル大学 学務情報システム（SIS）侵害事案（2026年11月）](./charles-university-sis-breach-2026.md) | 2026-11-17 | 1件 |
+| [Infoblox SharePoint移行ベンダー経由侵害事案（2026年11月）](./infoblox-vendor-breach-2026.md) | 2026-11-17 | 1件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
