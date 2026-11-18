@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [プレイド「KARTE」不正アクセスと導入企業の顧客情報漏えい（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-18 | 1件 |
+| [楽天証券 テスト環境不正アクセス・顧客情報漏えい事案（2026年11月）](./rakuten-securities-test-environment-breach-2026.md) | 2026-11-18 | 1件 |
+| [Optimizely Web Experimentation 侵害によるWebサプライチェーン攻撃（2026年11月）](./optimizely-web-experimentation-supply-chain-2026.md) | 2026-11-18 | 1件 |
+| [Microsoft agent-framework PyPIパッケージ侵害（2026年11月）](./microsoft-agent-framework-pypi-compromise-2026.md) | 2026-11-18 | 1件 |
+| [Apache HTTP Server mod_http2 RCE脆弱性（CVE-2026-119618）](./apache-httpd-mod-http2-cve-2026-119618.md) | 2026-11-18 | 1件 |
+| [Apache Roller XML-RPC 未認証RCE（CVE-2026-129448）](./apache-roller-cve-2026-129448.md) | 2026-11-18 | 1件 |
+| [Qubole AWSクロスアカウントアクセス悪用による顧客環境侵害（2026年10〜11月）](./qubole-aws-cross-account-abuse-2026.md) | 2026-11-18 | 1件 |
+| [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-11-18 | 5件 |
+| [COLD RELIC（Star Blizzard）によるクラウドID連鎖侵害（2026年11月公表）](./cold-relic-google-workspace-chained-intrusion-2026.md) | 2026-11-18 | 1件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
@@ -419,7 +428,6 @@
 | [Beacon CRM データ侵害（2026年）](./beacon-crm-data-breach-2026.md) | 2026-08-15 | 1件 |
 | [Adobe 2026年8月定例セキュリティ更新](./adobe-patch-tuesday-august-2026.md) | 2026-08-15 | 2件 |
 | [SAP Commerce Cloud CVE-2026-58231 重大脆弱性（2026年8月）](./sap-commerce-cloud-cve-2026-58231.md) | 2026-08-14 | 1件 |
-| [Trezor顧客データ漏洩：物流委託先ShipMonkのMetabase脆弱性悪用（2026年8月）](./trezor-shipmonk-metabase-breach-2026.md) | 2026-09-11 | 4件 |
 | [セゾンカードを騙るフィッシングメールキャンペーン（2026年）](./saison-card-3dsecure-phishing-2026.md) | 2026-08-13 | 1件 |
 | [北朝鮮リモートIT労働者による組織潜入問題（2026年）](./north-korea-it-worker-infiltration-2026.md) | 2026-08-13 | 1件 |
 | [Microsoft Patch Tuesday 2026年8月](./microsoft-patch-tuesday-august-2026.md) | 2026-08-13 | 1件 |
