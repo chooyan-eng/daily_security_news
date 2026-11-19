@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [プレイド「KARTE」不正アクセス・利用企業顧客情報流出事案（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-19 | 2件 |
+| [マネックス証券 委託先口座開設システム不正アクセス事案（2026年11月）](./monex-account-opening-system-breach-2026.md) | 2026-11-19 | 1件 |
+| [Kyash 社内向けウェブツール不正アクセス事案（2026年10〜11月）](./kyash-internal-tool-breach-2026.md) | 2026-11-19 | 1件 |
+| [Apache Roller CVE-2026-129448 XML-RPC 未認証RCEの実悪用（2026年11月）](./apache-roller-cve-2026-129448.md) | 2026-11-19 | 1件 |
+| [REDCap CVE-2026-90817 未認証RCEの実悪用（2026年11月）](./redcap-cve-2026-90817.md) | 2026-11-19 | 1件 |
+| [Microsoft agent-framework PyPIパッケージ侵害（2026年11月）](./agent-framework-pypi-compromise-2026.md) | 2026-11-19 | 1件 |
+| [マクドナルド iOSアプリ 不審プッシュ通知大量配信事案（2026年11月）](./mcdonalds-ios-push-notification-incident-2026.md) | 2026-11-19 | 1件 |
+| [レゴランド・ジャパン 年間パスポート購入者情報流出事案（accesso経由、2026年11月）](./legoland-japan-accesso-breach-2026.md) | 2026-11-19 | 1件 |
+| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-11-19 | 4件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
@@ -710,7 +719,6 @@
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [OnlyFans 3億4000万件データクレーム（2026年）](./onlyfans-340m-claim.md) | 2026-06-16 | 1件 |
-| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-10-21 | 3件 |
 | [Langflow RCE脆弱性（CVE-2026-5027）](./langflow-rce-cve-2026-5027.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
 | [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |
