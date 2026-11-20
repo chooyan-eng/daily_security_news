@@ -4,6 +4,13 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [プレイド「KARTE」不正アクセス・連携データ大規模漏えい事案（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-20 | 2件 |
+| [インフキュリオン「Wallet Station」不正アクセス・Payどん情報漏えい事案（2026年11月）](./infcurion-wallet-station-breach-2026.md) | 2026-11-20 | 1件 |
+| [Optimizely「OPTIMJACK」サプライチェーン攻撃（2026年11月）](./optimizely-optimjack-supply-chain-2026.md) | 2026-11-20 | 1件 |
+| [WhatsApp Android版ほか3件の脆弱性修正（CVE-2026-23871ほか、2026年11月）](./whatsapp-flaws-cve-2026-23871-2026-11.md) | 2026-11-20 | 1件 |
+| [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-11-20 | 3件 |
+| [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-11-20 | 5件 |
+| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-11-20 | 4件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
@@ -27,7 +34,6 @@
 | [ニフティ 回線申込・受付管理システム不正アクセス事案（2026年10月）](./nifty-line-application-system-breach-2026.md) | 2026-10-30 | 1件 |
 | [NP後払い 請求書再発行システム不正アクセス事案（2026年10月）](./np-atobarai-invoice-reissue-breach-2026.md) | 2026-10-30 | 1件 |
 | [ガンダムベース会員情報漏えい（メール配信委託先ユミルリンク経由、2026年10月）](./gundam-base-members-leak-2026.md) | 2026-10-29 | 1件 |
-| [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-29 | 4件 |
 | [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 2件 |
 | [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-11-02 | 2件 |
 | [Arista VeloCloud Orchestrator CVE-2026-114625 SQLインジェクション・ゼロデイ（2026年10月）](./arista-velocloud-cve-2026-114625.md) | 2026-10-28 | 1件 |
@@ -59,7 +65,6 @@
 | [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-22 | 2件 |
 | [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-24 | 2件 |
 | [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
-| [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-20 | 2件 |
 | [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-26 | 10件 |
 | [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
@@ -710,7 +715,6 @@
 | [ServiceNow APIインシデント2026](./servicenow-api-incident-2026.md) | 2026-06-16 | 1件 |
 | [OpenClaw AIエージェントのセキュリティ脆弱性](./openclaw-ai-security.md) | 2026-06-16 | 1件 |
 | [OnlyFans 3億4000万件データクレーム（2026年）](./onlyfans-340m-claim.md) | 2026-06-16 | 1件 |
-| [LiteLLM AIゲートウェイ脆弱性チェーン](./litellm-ai-gateway-vulnerabilities.md) | 2026-10-21 | 3件 |
 | [Langflow RCE脆弱性（CVE-2026-5027）](./langflow-rce-cve-2026-5027.md) | 2026-06-16 | 1件 |
 | [GitHub VSCode OAuthトークン脆弱性](./github-oauth-token-vulnerability.md) | 2026-06-16 | 1件 |
 | [Check Point VPN CVE-2026-50751 認証バイパス](./check-point-vpn-cve-2026-50751.md) | 2026-06-16 | 1件 |

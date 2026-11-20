@@ -15,9 +15,11 @@
 - CVE-2026-35029: 管理API（`/config/update`）の権限チェック不備による権限昇格・RCE（要有効APIキー、パッチ版1.83.0〜）
 - CVE-2026-59822: MCP Streamable HTTPエンドポイントの認証バイパス（OAuth2パススルーのフォールバック不備、パッチ版1.84.0〜）
 - CVE-2026-35029／CVE-2026-59822 CISA KEV追加日: 2026-09-02（CVE-2026-59822の連邦機関対応期限は2026-09-16）
+- CVE-2026-40217 CISA KEV追加日: 2026-11-18（連邦機関対応期限 2026-12-02、LLMjacking等での悪用。同時にApache Axis CVE-2026-90436、REDCap CVE-2026-90817、Synology DSMも追加）
 
 ## タイムライン
 
+- [2026-11-20 CISA、LiteLLM（CVE-2026-40217）・Apache Axis・REDCap・Synology DSMの4件をKEVに追加——ランサムウェア/クリプトマイニング/LLMjackingで悪用](../articles/2026-11-20-cisa-kev-litellm-axis-redcap-synology.md)
 - [2026-10-21 LiteLLM 1.107.0が窃取されたGitHubトークン経由で汚染、PyPI・Dockerで約2時間配布（関連）](../articles/2026-10-21-litellm-1-107-0-supply-chain-compromise.md)
 - [2026-09-03 LiteLLMに新たな脆弱性2件、CISAがKEVカタログに追加 管理API権限昇格とMCP認証バイパスが実悪用中](../articles/2026-09-03-litellm-cve-2026-35029-59822-kev.md)
 - [2026-06-16 LiteLLM AIゲートウェイ脆弱性チェーン：低権限ユーザーから管理者権限＆RCEが可能](../articles/2026-06-16-litellm-ai-gateway-vulnerability-chain.md)
