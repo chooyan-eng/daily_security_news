@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [プレイド「KARTE」不正アクセス・利用企業情報漏えい事案（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-21 | 1件 |
+| [Fireworks AI侵害・Notion AIチャット記録流出事案（2026年10〜11月）](./fireworks-ai-notion-ai-breach-2026.md) | 2026-11-21 | 1件 |
+| [Android不正送金フレームワーク「Bazuka」（2026年11月）](./bazuka-android-malware-2026.md) | 2026-11-21 | 1件 |
+| [MoEngage クラウド基盤侵害・顧客企業データ流出事案（2026年10〜11月）](./moengage-breach-2026.md) | 2026-11-21 | 1件 |
+| [Cisco Expressway CVE-2026-76466 未認証root RCEの悪用（2026年10〜11月）](./cisco-expressway-cve-2026-76466.md) | 2026-11-21 | 1件 |
+| [自律型AIエージェント「Cairn」によるMONAI Labelゼロデイ悪用（2026年）](./cairn-ai-monai-label-zero-day-2026.md) | 2026-11-21 | 1件 |
+| [三井ショッピングパークアプリ不正アクセス・ポイント会員情報漏えい事案（2026年11月）](./mitsui-shopping-park-app-breach-2026.md) | 2026-11-21 | 1件 |
+| [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-11-21 | 3件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
@@ -59,7 +67,6 @@
 | [コミックシーモア（NTTソルマーレ）不正アクセス・サービス停止事案（2026年10月）](./comic-cmoa-breach-2026.md) | 2026-10-22 | 2件 |
 | [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-24 | 2件 |
 | [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
-| [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-20 | 2件 |
 | [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-26 | 10件 |
 | [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
