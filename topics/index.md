@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [タワーレコード オンライン 不正アクセス・会員情報約1,100万件流出事案（2026年11月）](./tower-records-online-breach-2026.md) | 2026-11-22 | 1件 |
+| [プレイド「KARTE」不正アクセス・導入企業の顧客情報大規模漏えい事案（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-22 | 1件 |
+| [デジタル庁 GSSファイル共有サービス 情報漏えい可能性事案（2026年11月）](./digital-agency-gss-file-sharing-leak-2026.md) | 2026-11-22 | 1件 |
+| [三井ショッピングパークアプリ 不正アクセス事案（2026年11月）](./mitsui-shopping-park-app-breach-2026.md) | 2026-11-22 | 1件 |
+| [Microsoft Entra Connect Health API テナントメタデータ不正取得（2026年11月）](./entra-connect-health-api-exposure-2026.md) | 2026-11-22 | 1件 |
+| [WhatsApp for Android CVE-2026-23871 広告返信URL検証不備（2026年11月）](./whatsapp-android-cve-2026-23871.md) | 2026-11-22 | 1件 |
+| [Androidマルウェアフレームワーク「Bazuka」（2026年11月）](./bazuka-android-fraud-framework-2026.md) | 2026-11-22 | 1件 |
+| [Apache Roller CVE-2026-129448／CVE-2026-82384 XML-RPC未認証RCEの悪用（2026年11月）](./apache-roller-cve-2026-129448.md) | 2026-11-22 | 1件 |
+| [Microsoft agent-framework PyPIパッケージ侵害（2026年11月）](./agent-framework-pypi-compromise-2026.md) | 2026-11-22 | 1件 |
+| [Telegram for Android ウィジェット経由RCEと保護回避（2026年11月）](./telegram-android-widget-rce-2026.md) | 2026-11-22 | 1件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
