@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [ベストコ（ベスト個別）不正アクセス事案（2026年11月）](./bestco-best-kobetsu-breach-2026.md) | 2026-11-23 | 1件 |
+| [Idunno.AntiCsrf CVE-2026-131914 デシリアライズRCEの悪用（2026年11月）](./idunno-anticsrf-cve-2026-131914.md) | 2026-11-23 | 1件 |
+| [Next plc 委託先サイバー侵害（2026年11月）](./next-plc-supplier-breach-2026.md) | 2026-11-23 | 1件 |
+| [JoyRide アプリ データ侵害（2026年11月）](./joyride-app-breach-2026.md) | 2026-11-23 | 1件 |
+| [Cleverbridge 決済カード情報流出事案（2026年11月）](./cleverbridge-payment-card-breach-2026.md) | 2026-11-23 | 1件 |
+| [AI推論プロバイダー侵害・プロンプト窃取（Dragosカナリア調査、2026年11月）](./ai-inference-providers-prompt-theft-2026.md) | 2026-11-23 | 1件 |
+| [Rackspace Spot 不正アクセス・Kubernetes Secret露出（2026年11月）](./rackspace-spot-breach-2026.md) | 2026-11-23 | 1件 |
+| [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-service-breach-2026.md) | 2026-11-23 | 3件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
@@ -31,7 +39,6 @@
 | [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 2件 |
 | [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-11-02 | 2件 |
 | [Arista VeloCloud Orchestrator CVE-2026-114625 SQLインジェクション・ゼロデイ（2026年10月）](./arista-velocloud-cve-2026-114625.md) | 2026-10-28 | 1件 |
-| [ユミルリンク メール配信サービス不正アクセス事案（2026年10月）](./ymirlink-mail-service-breach-2026.md) | 2026-10-27 | 2件 |
 | [OpenCode Console侵害・AI APIキー流出の恐れ（2026年10月）](./opencode-console-breach-2026.md) | 2026-10-27 | 2件 |
 | [LiteLLM 1.107.0 サプライチェーン侵害（2026年10月）](./litellm-1-107-0-supply-chain-compromise-2026.md) | 2026-10-26 | 1件 |
 | [Fortinet FortiSIEM CVE-2026-106173 未認証ファイル上書き→RCE（2026年10月）](./fortisiem-cve-2026-106173.md) | 2026-10-26 | 1件 |
