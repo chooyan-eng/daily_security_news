@@ -4,6 +4,15 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [プレイド「KARTE」不正アクセス・導入企業連鎖漏えい事案（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-24 | 2件 |
+| [Azure API Management Classic 脆弱性悪用・API認証情報窃取（2026年11月）](./azure-apim-classic-credential-theft-2026.md) | 2026-11-24 | 1件 |
+| [GlobeTopper ギフトカード基盤侵害・API認証情報窃取（2026年10〜11月）](./globetopper-breach-2026.md) | 2026-11-24 | 1件 |
+| [myColorado アプリ データ侵害・サービス停止（2026年11月）](./mycolorado-app-breach-2026.md) | 2026-11-24 | 1件 |
+| [Idunno.AntiCsrf CVE-2026-131914 未認証RCE（2026年11月）](./idunno-anticsrf-cve-2026-131914.md) | 2026-11-24 | 1件 |
+| [Apache Roller CVE-2026-129448 未認証デシリアライズRCE（2026年11月）](./apache-roller-cve-2026-129448.md) | 2026-11-24 | 1件 |
+| [Cisco Expressway CVE-2026-76466 クラスタ構成の未認証RCE（2026年10〜11月）](./cisco-expressway-cve-2026-76466.md) | 2026-11-24 | 1件 |
+| [VMware vCenter CVE-2026-123890 認証バイパス・ゼロデイ（VMSA-2026-0009、2026年11月）](./vmware-vcenter-cve-2026-123890.md) | 2026-11-24 | 1件 |
+| [ベストコ（ベスト個別）不正アクセス事案（2026年11月）](./bestco-best-kobetsu-breach-2026.md) | 2026-11-24 | 1件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
@@ -37,6 +46,17 @@
 | [Fortinet FortiSIEM CVE-2026-106173 未認証ファイル上書き→RCE（2026年10月）](./fortisiem-cve-2026-106173.md) | 2026-10-26 | 1件 |
 | [Node.js 2026年10月定例セキュリティリリース（Brotli CVE-2026-111497）](./nodejs-october-2026-security-release.md) | 2026-10-26 | 1件 |
 | [チャリロト（チャリカ会員）不正アクセス・情報漏えい事案（2026年10月）](./chariloto-breach-2026.md) | 2026-10-26 | 1件 |
+| [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-26 | 10件 |
+| [国内アプリ・Webシステム情報漏えい多発とA2B攻撃（2026年）](./a2b-attack-japan-app-leaks-2026.md) | 2026-10-31 | 2件 |
+| [Android 2026年10月セキュリティ公報](./android-security-bulletin-october-2026.md) | 2026-11-05 | 3件 |
+| [国内Webサービス・アプリを狙う相次ぐ不正アクセスとJPCERT/CC・内閣サイバー注意喚起（2026年9〜10月）](./jpcert-domestic-app-api-attacks-2026.md) | 2026-10-27 | 3件 |
+| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-29 | 4件 |
+| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-11-04 | 12件 |
+
+## クローズ済み（30日以上更新なし）
+
+| トピック | 最終更新 | 記事数 |
+|----------|----------|--------|
 | [PHP の重大脆弱性（AI支援で発見、2026年10月）](./php-critical-flaw-ai-detected-2026.md) | 2026-10-24 | 1件 |
 | [Laravel TokenGuard 認証バイパス（GHSA-f9x3-7vq9-cph6、2026年10月）](./laravel-tokenguard-auth-bypass-2026.md) | 2026-10-24 | 1件 |
 | [ふるさと納税サイト「ふるさとチョイス」不正アクセス・会員情報445万件流出事案（2026年10月）](./furusato-choice-breach-2026.md) | 2026-10-23 | 1件 |
@@ -60,18 +80,14 @@
 | [ノーコードWeb制作「Studio」不正アクセス事案（2026年10月）](./studio-nocode-platform-breach-2026.md) | 2026-10-24 | 2件 |
 | [SAP Cloud SDK for Python CVE-2026-89111 OAuth2 SSRF脆弱性（2026年10月）](./sap-cloud-sdk-python-cve-2026-89111.md) | 2026-10-18 | 1件 |
 | [BeyondTrust Remote Support CVE-2026-102764 ゼロデイ悪用（ARMORY CASTLE、2026年10月）](./beyondtrust-remote-support-cve-2026-102764.md) | 2026-10-20 | 2件 |
-| [焼肉きんぐ公式アプリ会員情報漏えい事案（2026年10月）](./yakiniku-king-app-breach-2026.md) | 2026-10-26 | 10件 |
 | [ローソンID・アプリ予約 不正アクセス事案（2026年10月）](./lawson-id-breach-2026.md) | 2026-10-17 | 4件 |
 | [ミスターマックス MrMaxアプリ・オンラインストア不正アクセス事案（2026年10月）](./mrmax-app-breach-2026.md) | 2026-10-17 | 3件 |
-| [国内アプリ・Webシステム情報漏えい多発とA2B攻撃（2026年）](./a2b-attack-japan-app-leaks-2026.md) | 2026-10-31 | 2件 |
 | [Nextcloud Collabora Online Built-in CODE Server CVE-2026-110447 未認証コマンドインジェクション（2026年）](./nextcloud-collabora-cve-2026-110447.md) | 2026-10-17 | 2件 |
-| [Android 2026年10月セキュリティ公報](./android-security-bulletin-october-2026.md) | 2026-11-05 | 3件 |
 | [Ivanti Connect Secure CVE-2026-104935 認証バイパスゼロデイ（2026年10月）](./ivanti-connect-secure-cve-2026-104935.md) | 2026-10-16 | 1件 |
 | [くふう Zaim 不正アクセス・登録情報書き換え事案（2026年9月）](./zaim-unauthorized-write-2026.md) | 2026-10-16 | 1件 |
 | [サンポー食品 Webサイト不正アクセス・改ざん事案（2026年9月）](./sanpo-foods-website-breach-2026.md) | 2026-10-16 | 1件 |
 | [フクビ化学工業 英語版Webサイト不正アクセス事案（2026年9月）](./fukuvi-english-site-breach-2026.md) | 2026-10-16 | 1件 |
 | [Trump Mobile 顧客情報流出（BYOD主張、2026年10月）](./trump-mobile-data-leak-2026.md) | 2026-10-16 | 1件 |
-| [国内Webサービス・アプリを狙う相次ぐ不正アクセスとJPCERT/CC・内閣サイバー注意喚起（2026年9〜10月）](./jpcert-domestic-app-api-attacks-2026.md) | 2026-10-27 | 3件 |
 | [ASOS モバイルアプリ不正プッシュ通知・顧客データ侵害事案（2026年10月）](./asos-app-push-notification-breach-2026.md) | 2026-10-14 | 2件 |
 | [アエナECアプリ不正アクセス・最大81万人情報漏えいのおそれ（2026年10月）](./aena-ec-app-breach-2026.md) | 2026-10-14 | 1件 |
 | [ASOSアプリ不正プッシュ通知・顧客情報漏えい事案（2026年10月）](./asos-app-breach-2026.md) | 2026-10-14 | 1件 |
@@ -111,7 +127,6 @@
 | [Trump Mobile顧客データ漏えい（BYODランサムウェアグループ、2026年10月）](./trump-mobile-byod-breach-2026.md) | 2026-10-06 | 1件 |
 | [Qilin ランサムウェアグループ（2026年）](./qilin-ransomware-2026.md) | 2026-10-06 | 8件 |
 | [大起水産アプリ不正アクセス事案（2026年10月）](./daiki-suisan-app-breach-2026.md) | 2026-10-05 | 1件 |
-| [Apple CoreGraphics CVE-2026-86950 ゼロデイ（2026年9月〜10月）](./apple-coregraphics-cve-2026-86950.md) | 2026-10-29 | 4件 |
 | [MetaMask インフラ侵害・バリデータ退出（2026年9〜10月）](./metamask-infrastructure-incident-2026.md) | 2026-10-05 | 1件 |
 | [The Japan Times Eclipseランサムウェア被害主張事案（2026年9月〜10月）](./japan-times-eclipse-ransomware-2026.md) | 2026-10-05 | 1件 |
 | [佐川急便「お荷物問い合わせサービス」不正アクセス事案（2026年10月）](./sagawa-parcel-inquiry-unauthorized-access-2026.md) | 2026-10-19 | 2件 |
@@ -394,7 +409,6 @@
 | [Forminator WordPressプラグイン CVE-2026-15748（2026年8月）](./forminator-wordpress-cve-2026-15748.md) | 2026-08-18 | 1件 |
 | [Stripe加盟店APIキー流出事案（2026年8月）](./stripe-vendor-api-key-leak-2026.md) | 2026-08-19 | 2件 |
 | [Apple ImageIOフレームワーク脆弱性 CVE-2026-65346（2026年8月）](./apple-imageio-cve-2026-65346.md) | 2026-08-18 | 1件 |
-
 | [SafePal 注文追跡システム データ侵害（2026年）](./safepal-data-breach-2026.md) | 2026-08-18 | 1件 |
 | [Ray フレームワーク CVE-2025-62593 悪用（2026年）](./ray-cve-2025-62593-browser-rce.md) | 2026-08-18 | 1件 |
 | [Octagon Android バンキング／クリプトボット（2026年）](./octagon-android-banking-trojan-2026.md) | 2026-08-18 | 1件 |
@@ -404,7 +418,6 @@
 | [Storm-2603 SharePoint 脆弱性悪用・ランサムウェアキャンペーン（2026年）](./storm-2603-sharepoint-ransomware-2026.md) | 2026-10-04 | 7件 |
 | [Samsung Galaxy月例セキュリティアップデート（2026年8月）](./samsung-august-2026-security-update.md) | 2026-08-17 | 1件 |
 | [Odysseus AIワークスペース RCE脆弱性（2026年）](./odysseus-ai-workspace-rce-2026.md) | 2026-08-17 | 1件 |
-| [Metabase SQLインジェクションゼロデイ（CVSS 10.0、2026年8月）](./metabase-sqli-zeroday-2026.md) | 2026-11-04 | 12件 |
 | [GeoServer 未認証SQLインジェクション ゼロデイ（2026年8月）](./geoserver-sqli-zero-day-2026.md) | 2026-08-17 | 1件 |
 | [悪意あるChrome拡張機能によるAIチャット窃取キャンペーン（2026年）](./chrome-extension-ai-sidebar-data-theft-2026.md) | 2026-08-17 | 1件 |
 | [Azure Logic Apps CVE-2026-56161 情報漏洩脆弱性（2026年8月）](./azure-logic-apps-cve-2026-56161.md) | 2026-08-17 | 1件 |
@@ -504,11 +517,6 @@
 | [サーバーBMC/IPMI 認証情報漏えい問題（CVE-2013-4786）](./bmc-ipmi-password-hash-leak-2026.md) | 2026-07-28 | 2件 |
 | [Arista VeloCloud Orchestrator コマンドインジェクション（CVE-2026-16812）](./arista-velocloud-cve-2026-16812.md) | 2026-07-28 | 1件 |
 | [Anubisランサムウェアグループ（2026年）](./anubis-ransomware-2026.md) | 2026-07-28 | 2件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
 | [wp2shell WordPress コア RCE 脆弱性チェーン（2026年）](./wp2shell-wordpress-core-rce-2026.md) | 2026-07-27 | 7件 |
 | [Stadler Rail Everest恐喝事案（2026年7月）](./stadler-rail-everest-ransomware-2026.md) | 2026-07-27 | 2件 |
 | [Paidwork（マイクロタスクアプリ）データ侵害（2026年）](./paidwork-mobile-app-data-breach-2026.md) | 2026-07-27 | 1件 |
@@ -526,11 +534,6 @@
 | [Fastjson 1.x CVE-2026-16723 未認証RCE（2026年7月）](./fastjson-cve-2026-16723-rce.md) | 2026-07-26 | 2件 |
 | [Chick-fil-A クレデンシャルスタッフィング被害（2026年）](./chick-fil-a-credential-stuffing-breach-2026.md) | 2026-07-26 | 3件 |
 | [Adobe Acrobat Chrome拡張機能 UXSS脆弱性「HermeticReader」（CVE-2026-48294）](./adobe-acrobat-extension-hermeticreader-cve-2026-48294.md) | 2026-07-26 | 1件 |
-
-## クローズ済み（30日以上更新なし）
-
-| トピック | 最終更新 | 記事数 |
-|----------|----------|--------|
 | [Hermes AIエージェント無人稼働による自動化侵害後活動（2026年）](./thailand-mof-hermes-ai-agent-2026.md) | 2026-07-25 | 1件 |
 | [Paidwork データ侵害（2026年）](./paidwork-data-breach-2026.md) | 2026-07-25 | 2件 |
 | [Certighost — AD CS ドメインコントローラーなりすまし脆弱性（CVE-2026-54121）](./certighost-cve-2026-54121-adcs.md) | 2026-07-25 | 1件 |
