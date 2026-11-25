@@ -4,6 +4,16 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [Drupalコア インストーラRCE CVE-2026-132165（2026年11月）](./drupal-cve-2026-132165-installer-rce.md) | 2026-11-25 | 1件 |
+| [Idunno.AntiCsrf CVE-2026-131914 未修正デシリアライズRCE（2026年11月）](./idunno-anticsrf-cve-2026-131914.md) | 2026-11-25 | 1件 |
+| [Optimizely Web Experimentation CVE-2026-132224 スクリプト注入（2026年11月）](./optimizely-web-experimentation-cve-2026-132224.md) | 2026-11-25 | 1件 |
+| [1Password 従業員GitHubアカウント侵害・顧客メタデータ流出（2026年11月）](./1password-github-incident-2026.md) | 2026-11-25 | 1件 |
+| [約20億件の認証情報を含む公開データベース露出（2026年11月）](./two-billion-credentials-exposed-database-2026.md) | 2026-11-25 | 1件 |
+| [プレイド「KARTE」不正アクセス・導入企業の顧客情報漏えい（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-25 | 1件 |
+| [Todoist セキュリティインシデント（2026年11月）](./todoist-security-incident-2026.md) | 2026-11-25 | 1件 |
+| [myColorado デジタルIDアプリ侵害（2026年11月）](./mycolorado-app-breach-2026.md) | 2026-11-25 | 1件 |
+| [香港グレンイーグルス病院 患者アプリ情報流出（2026年11月）](./gleneagles-hk-app-breach-2026.md) | 2026-11-25 | 1件 |
+| [PHP「PHP2Shell」CVE-2026-109618／CVE-2026-109619 未認証RCE（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-11-25 | 5件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
@@ -27,7 +37,6 @@
 | [ニフティ 回線申込・受付管理システム不正アクセス事案（2026年10月）](./nifty-line-application-system-breach-2026.md) | 2026-10-30 | 1件 |
 | [NP後払い 請求書再発行システム不正アクセス事案（2026年10月）](./np-atobarai-invoice-reissue-breach-2026.md) | 2026-10-30 | 1件 |
 | [ガンダムベース会員情報漏えい（メール配信委託先ユミルリンク経由、2026年10月）](./gundam-base-members-leak-2026.md) | 2026-10-29 | 1件 |
-| [PHP2Shell PHP重大RCE脆弱性 CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618-109619.md) | 2026-10-29 | 4件 |
 | [PHP2Shell PHP本体の未認証RCE CVE-2026-109618／CVE-2026-109619（2026年10月）](./php2shell-cve-2026-109618.md) | 2026-10-28 | 2件 |
 | [Brotli CVE-2026-111497「Node2Shell」境界外書き込みRCE（2026年10月）](./brotli-cve-2026-111497-node2shell.md) | 2026-11-02 | 2件 |
 | [Arista VeloCloud Orchestrator CVE-2026-114625 SQLインジェクション・ゼロデイ（2026年10月）](./arista-velocloud-cve-2026-114625.md) | 2026-10-28 | 1件 |
