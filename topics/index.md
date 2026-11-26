@@ -4,6 +4,14 @@
 
 | トピック | 最終更新 | 記事数 |
 |----------|----------|--------|
+| [プレイド「KARTE」不正アクセス・利用企業への波及（2026年11月）](./plaid-karte-breach-2026.md) | 2026-11-26 | 1件 |
+| [チャットプラス（ChatPlus）不正アクセス・利用企業への波及（2026年11月）](./chatplus-breach-2026.md) | 2026-11-26 | 1件 |
+| [Todoist セキュリティインシデント（2026年11月）](./todoist-breach-2026.md) | 2026-11-26 | 1件 |
+| [1Password GitHubアカウント侵害・顧客データ流出（2026年11月）](./1password-github-breach-2026.md) | 2026-11-26 | 1件 |
+| [Radware Cloud WAF 管理API露出・顧客認証情報流出（2026年11月）](./radware-cloud-waf-api-exposure-2026.md) | 2026-11-26 | 1件 |
+| [Drupalコア「Fail2Install」CVE-2026-132165／CVE-2026-136716 悪用（2026年11月）](./drupal-fail2install-cve-2026-132165.md) | 2026-11-26 | 1件 |
+| [Idunno.AntiCsrf CVE-2026-131914 未認証RCE（修正なし・悪用中、2026年11月）](./idunno-anticsrf-cve-2026-131914.md) | 2026-11-26 | 1件 |
+| [Keenadu プリインストール型Androidバックドア（2026年）](./keenadu-preinstalled-android-backdoor-2026.md) | 2026-11-26 | 1件 |
 | [ギフティ eギフト不正発行事案（2026年10〜11月）](./gifty-egift-fraud-2026.md) | 2026-11-05 | 1件 |
 | [ライフネット生命・KDDI 連携システム不正アクセス事案（2026年10〜11月）](./lifenet-kddi-breach-2026.md) | 2026-11-05 | 1件 |
 | [Node-RED CVE-2026-58115 未認証管理API脆弱性の悪用（2026年11月）](./node-red-cve-2026-58115.md) | 2026-11-05 | 1件 |
